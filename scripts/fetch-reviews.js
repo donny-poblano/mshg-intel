@@ -16,7 +16,8 @@ if (!API_KEY) {
 // Real Dough and MSHG restaurant Place IDs
 // These need to be looked up once via Places API text search
 const RESTAURANTS = [
-  { name: 'Real Dough Pizza Co', slug: 'real-dough', query: 'Real Dough Pizza Co Wisconsin' },
+  // Real Dough is a CPG brand, not a physical location — no Google Places listing
+  // { name: 'Real Dough Pizza Co', slug: 'real-dough', query: 'Real Dough Pizza Co Wisconsin' },
   { name: 'Merriment Social', slug: 'merriment-social', query: 'Merriment Social Milwaukee' },
   { name: 'Third Coast Provisions', slug: 'third-coast', query: 'Third Coast Provisions Milwaukee' },
   { name: 'Flourchild Pizza', slug: 'flourchild', query: 'Flourchild Pizza Milwaukee' },
