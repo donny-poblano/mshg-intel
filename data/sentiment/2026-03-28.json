@@ -1,6 +1,6 @@
 {
   "date": "2026-03-28",
-  "runAt": "2026-03-28T12:45:57Z",
+  "runAt": "2026-03-28T18:00:13Z",
   "sentiment_scores": {
     "merriment-social": {
       "name": "Merriment Social",
@@ -60,5 +60,5 @@
     }
   },
   "alerts": [],
-  "note": "No new reviews detected vs previous run. Two existing low-star reviews (Third Coast: Korinne Mack 2★, Flourchild: Jim Whitaker 2★) were present in prior snapshot — no new Telegram alerts sent."
+  "note": "1PM run. No new reviews detected vs 6:45AM run. Two existing low-star reviews (Third Coast: Korinne Mack 2★, Flourchild: Jim Whitaker 2★) were alerted in prior runs — no new Telegram alerts sent."
 }
