@@ -1,66 +1,64 @@
 {
   "date": "2026-03-28",
-  "generated_at": "2026-03-28T12:32:08.038478Z",
-  "entities": {
+  "runAt": "2026-03-28T12:45:57Z",
+  "sentiment_scores": {
     "merriment-social": {
       "name": "Merriment Social",
-      "overall_rating": 4.4,
-      "total_ratings": 889,
-      "recent_avg": 4.4,
-      "previous_rating": 4.4,
-      "delta": 0.0,
+      "rating": 4.4,
+      "totalRatings": 889,
+      "recentReviews": 5,
+      "recentAvg": 4.4,
+      "breakdown": { "5star": 3, "4star": 1, "3star": 1, "2star": 0, "1star": 0 },
       "trend": "stable",
-      "recent_breakdown": {
-        "positive": 4,
-        "neutral": 1,
-        "negative": 0
-      },
-      "needs_attention": false
+      "needsAttention": false
     },
     "third-coast": {
       "name": "Third Coast Provisions",
-      "overall_rating": 4.5,
-      "total_ratings": 503,
-      "recent_avg": 4.0,
-      "previous_rating": 4.5,
-      "delta": 0.0,
+      "rating": 4.5,
+      "totalRatings": 503,
+      "recentReviews": 5,
+      "recentAvg": 4.0,
+      "breakdown": { "5star": 3, "4star": 0, "3star": 1, "2star": 1, "1star": 0 },
       "trend": "stable",
-      "recent_breakdown": {
-        "positive": 3,
-        "neutral": 1,
-        "negative": 1
-      },
-      "needs_attention": true
+      "needsAttention": true,
+      "flagged": [
+        {
+          "author": "Korinne Mack",
+          "rating": 2,
+          "issue": "Solo diner ignored by bartender for 45min, food too salty/inedible",
+          "alreadyAlerted": true
+        }
+      ]
     },
     "flourchild": {
       "name": "Flourchild Pizza",
-      "overall_rating": 4.5,
-      "total_ratings": 289,
-      "recent_avg": 4.4,
-      "previous_rating": 4.5,
-      "delta": 0.0,
+      "rating": 4.5,
+      "totalRatings": 289,
+      "recentReviews": 5,
+      "recentAvg": 4.4,
+      "breakdown": { "5star": 4, "4star": 0, "3star": 0, "2star": 1, "1star": 0 },
       "trend": "stable",
-      "recent_breakdown": {
-        "positive": 4,
-        "neutral": 0,
-        "negative": 1
-      },
-      "needs_attention": true
+      "needsAttention": true,
+      "flagged": [
+        {
+          "author": "Jim Whitaker",
+          "rating": 2,
+          "issue": "Pizza crust dry/stale, sauce lacking flavor, poor value",
+          "alreadyAlerted": true
+        }
+      ]
     },
     "loon-room": {
       "name": "The Loon Room",
-      "overall_rating": 4.7,
-      "total_ratings": 35,
-      "recent_avg": 4.8,
-      "previous_rating": 4.7,
-      "delta": 0.0,
+      "rating": 4.7,
+      "totalRatings": 35,
+      "recentReviews": 5,
+      "recentAvg": 4.8,
+      "breakdown": { "5star": 4, "4star": 1, "3star": 0, "2star": 0, "1star": 0 },
       "trend": "stable",
-      "recent_breakdown": {
-        "positive": 5,
-        "neutral": 0,
-        "negative": 0
-      },
-      "needs_attention": false
+      "needsAttention": false
     }
-  }
+  },
+  "alerts": [],
+  "note": "No new reviews detected vs previous run. Two existing low-star reviews (Third Coast: Korinne Mack 2★, Flourchild: Jim Whitaker 2★) were present in prior snapshot — no new Telegram alerts sent."
 }
