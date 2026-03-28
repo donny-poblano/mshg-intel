@@ -1,6 +1,6 @@
 {
   "date": "2026-03-28",
-  "generatedAt": "2026-03-28T06:00:00.000Z",
+  "generatedAt": "2026-03-28T12:00:00.000Z",
   "sentiment_scores": {
     "merriment-social": {
       "name": "Merriment Social",
@@ -23,7 +23,7 @@
           "suggestedResponse": "Korinne, we're truly sorry about your experience. Every guest deserves attentive service regardless of party size, and we clearly fell short. We'd love the opportunity to make this right — please reach out to us directly."
         }
       ],
-      "notes": "2-star from Korinne Mack (solo diner, service gap) was present in previous snapshot — not new."
+      "notes": "2-star from Korinne Mack (solo diner, service gap) — present in previous snapshot, not new this run."
     },
     "flourchild": {
       "name": "Flourchild Pizza",
@@ -39,7 +39,7 @@
           "suggestedResponse": "Jim, thank you for the honest feedback — we're glad you enjoyed the spring rolls and the vibe. We're always working on our dough and sauce, and comments like yours push us to improve. We'd love to have you back and change your mind on the pizza."
         }
       ],
-      "notes": "2-star from Jim Whitaker was present in previous snapshot — not new. Recent reviews (last 1-2 months) very positive."
+      "notes": "2-star from Jim Whitaker — present in previous snapshot, not new this run. Recent reviews (last 1-2 months) very positive."
     },
     "loon-room": {
       "name": "The Loon Room",
