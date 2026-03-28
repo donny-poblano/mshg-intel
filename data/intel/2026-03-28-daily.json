@@ -1,0 +1,119 @@
+{
+  "date": "2026-03-28",
+  "type": "daily",
+  "generated_at": "2026-03-28T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Caulipower",
+      "action": "Acquired by Urban Farmer (a Paine Schwartz Partners portfolio company and specialty dough co-manufacturer). Deal announced November 2025, surfacing in coverage March 2026.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.preparedfoods.com/articles/131393-retail-pizza-heats-up-at-home",
+      "first_reported": "2026-03-28",
+      "status": "new",
+      "notes": "Caulipower losing indie brand status. Now backed by large-scale co-manufacturer — could signal wider distribution or private label risk."
+    },
+    {
+      "name": "Dr. Oetker",
+      "action": "Launched Suprema range in UK (October 2025) featuring triple-fermented sourdough crust baked over 400°C on hot stone, no flavor enhancers, no added colors, premium Italian ingredients.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://www.einpresswire.com/article/900598451/frozen-pizza-market-2026-maintaining-strong-demand-in-quick-meal-segments",
+      "first_reported": "2026-03-28",
+      "status": "new",
+      "notes": "Direct competitive signal — largest frozen pizza co. now competing on fermented sourdough crust, Real Dough's core differentiator. UK only for now but U.S. rollout likely."
+    },
+    {
+      "name": "Yough",
+      "action": "Launched Greek yogurt-based high-protein frozen pizza nationwide at ~2,000 Target stores (March 17, 2026). SKUs: Mozzarella Cheese, Uncured Pepperoni, Farmer's Vegetable.",
+      "category": "new_product",
+      "relevance_score": 6,
+      "source_url": "https://source86.com/yough-greek-yogurt-frozen-pizza-target-launch/",
+      "first_reported": "2026-03-28",
+      "status": "new",
+      "notes": "Functional/high-protein angle competing for health-conscious Target shopper. Hitting exact same Target demographic as Real Dough at scale."
+    },
+    {
+      "name": "Cape Cod Cafe",
+      "action": "Expanded frozen pizza line (Cheese, Pepperoni, Buffalo Chicken, Onion Pepper) to ~400 Target stores in Northeast/Mid-Atlantic/Southeast starting March 1, 2026.",
+      "category": "expansion",
+      "relevance_score": 5,
+      "source_url": "https://www.morningstar.com/news/pr-newswire/20260310ne03336/cape-cod-cafe-pizza-hit-400-target-stores-on-march-1-2026",
+      "first_reported": "2026-03-28",
+      "status": "new",
+      "notes": "Regional brand going national via Target. Regional authenticity play — similar positioning to Real Dough. Worth monitoring shelf placement."
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Triple-fermented / sourdough premium frozen pizza",
+      "direction": "up",
+      "magnitude": "Category expanding — major players (Dr. Oetker, Nestlé) now investing in fermented crust tech",
+      "context": "Premium sourdough/artisan frozen pizza identified as high-growth niche for 2026. Neapolitan-style, stone-fired, fermented crusts are the category differentiator. Real Dough's core positioning is becoming mainstream competitive territory.",
+      "source_url": "https://www.einpresswire.com/article/900598451/frozen-pizza-market-2026-maintaining-strong-demand-in-quick-meal-segments"
+    },
+    {
+      "topic": "High-protein / functional frozen pizza",
+      "direction": "up",
+      "magnitude": "New entrant (Yough) launching 2,000-store Target rollout March 2026",
+      "context": "Gen Z and health-conscious consumers driving demand for protein-packed formats. Yough's Greek yogurt crust is newest example. Category increasingly bifurcating: indulgent/premium vs. functional/healthy.",
+      "source_url": "https://source86.com/yough-greek-yogurt-frozen-pizza-target-launch/"
+    },
+    {
+      "topic": "Gen Z frozen food engagement",
+      "direction": "up",
+      "magnitude": "55% of Gen Z cite comfort foods as top in-home meal priority; 12%+ annual growth in organic/clean-label frozen",
+      "context": "Gen Z buying frozen but favoring premium, clean-label, restaurant-quality. 20-25% premiums accepted for sustainable options. Aligns with Real Dough's target demo — validates premium positioning.",
+      "source_url": "https://www.preparedfoods.com/articles/131400-frozen-finds-new-growth-drivers"
+    },
+    {
+      "topic": "Frozen pizza market size (US)",
+      "direction": "up",
+      "magnitude": "$21.76B (2025) → $22.67B (2026), 4.2% CAGR",
+      "context": "Broader frozen pizza market growing steadily. U.S. frozen bakery segment (includes pizza) projected at $17B by 2030. Category is healthy.",
+      "source_url": "https://www.einpresswire.com/article/900598451/frozen-pizza-market-2026-maintaining-strong-demand-in-quick-meal-segments"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "US frozen pizza market value 2026",
+      "value": "$22.67 billion",
+      "change": "+4.2% YoY from $21.76B in 2025",
+      "source_url": "https://www.einpresswire.com/article/900598451/frozen-pizza-market-2026-maintaining-strong-demand-in-quick-meal-segments"
+    },
+    {
+      "metric": "US frozen food market total",
+      "value": "$93.5 billion",
+      "change": null,
+      "source_url": "https://www.preparedfoods.com/articles/131400-frozen-finds-new-growth-drivers"
+    },
+    {
+      "metric": "Producer Price Index — Frozen Specialty Food Mfg",
+      "value": "196.715 (Jan 2026)",
+      "change": "+0.57% MoM from 195.619 (Dec 2025); down from 2025 peak of 204.155 (Jun 2025)",
+      "source_url": "https://fred.stlouisfed.org/series/PCU311412311412"
+    },
+    {
+      "metric": "Supermarket frozen meal shelf space allocation increase",
+      "value": "+15-20% more shelf space",
+      "change": "YoY 2025→2026",
+      "source_url": "https://www.intelmarketresearch.com/quick-frozen-prepared-foods-market-37814"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Caulipower acquired by Urban Farmer / Paine Schwartz Partners",
+      "summary": "Better-for-you frozen pizza brand Caulipower now owned by large specialty dough co-manufacturer. Signals consolidation in the premium-adjacent frozen pizza space.",
+      "urgency": "medium",
+      "source_url": "https://www.preparedfoods.com/articles/131393-retail-pizza-heats-up-at-home",
+      "date": "2026-03-17"
+    },
+    {
+      "headline": "Yough Greek Yogurt Pizza launches in ~2,000 Target stores",
+      "summary": "New functional frozen pizza brand hits Target at scale targeting Gen Z / health-forward shoppers. High-protein, Greek yogurt crust positioning.",
+      "urgency": "high",
+      "source_url": "https://source86.com/yough-greek-yogurt-frozen-pizza-target-launch/",
+      "date": "2026-03-17"
+    }
+  ]
+}
