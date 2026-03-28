@@ -1,0 +1,33 @@
+# Curator Agent — Dashboard Synthesizer
+# Weekly Friday 5pm CST (after Analyst finishes)
+name: "Curator — Real Dough Weekly Summary"
+schedule: "cron 0 23 * * 5 @ UTC"  # Friday 5pm CST
+agent: main
+model: anthropic/claude-opus-4-6
+prompt: |
+  Read ~/.openclaw/workspace/GIT/mshg-intel/agents/curator/AGENT.md for your full instructions.
+  
+  You are the Curator agent for Real Dough Pizza Co. Your job is to synthesize all data 
+  from the other dashboard agents into a weekly executive summary.
+  
+  Today's date: {{date}}
+  
+  TASK:
+  1. Read the latest data from all sources:
+     - data/whatagraph-data.json (Analyst output — marketing analytics)
+     - data/reviews.json (Sentinel output — reviews/sentiment)
+     - data/intel/ directory (Scout output — market intelligence)
+     - data/operations/ directory (Ledger output — restaurant ops)
+     - data/analysis/ directory (Analyst weekly patterns)
+  
+  2. Synthesize into an executive summary following AGENT.md format:
+     - Headline (scannable in 5 seconds)
+     - Wins, Attention items, Action items
+     - Agency brief (forwardable to Real Dough's marketing agency)
+     - Data quality flags
+  
+  3. Write to data/summary/{{date}}.json
+  
+  4. Commit and push to trigger Vercel redeploy
+  
+  The summary must be scannable in 30 seconds. Prioritize: urgent > wins > trends > FYI.

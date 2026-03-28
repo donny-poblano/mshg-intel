@@ -10,14 +10,25 @@ const config: Config = {
     extend: {
       colors: {
         navy: {
-          DEFAULT: '#1a1a2e',
-          light: '#232342',
-          lighter: '#2d2d52',
+          DEFAULT: '#26225d',
+          light: '#312d6b',
+          lighter: '#3d387a',
+        },
+        cream: {
+          DEFAULT: '#ebe5d3',
+          light: '#faf7ee',
         },
         gold: {
           DEFAULT: '#f4a81d',
-          light: '#f7be4f',
+          light: '#f9c77a',
           dark: '#d9920f',
+        },
+        sku: {
+          okie: '#b4bd35',
+          peppin: '#ef473d',
+          wisco: '#40c3d6',
+          sausage: '#c14f9d',
+          curd: '#f4a81d',
         },
       },
     },

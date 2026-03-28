@@ -33,8 +33,8 @@ export default function Sidebar() {
             </svg>
           </div>
           <div>
-            <h1 className="text-white font-bold text-sm">MSHG Intel</h1>
-            <p className="text-gray-500 text-xs">Real Dough Pizza Co.</p>
+            <h1 className="text-white font-bold text-sm font-nav">REAL DOUGH INTEL</h1>
+            <p className="text-gray-500 text-xs">Marketing Dashboard</p>
           </div>
         </div>
       </div>
@@ -79,14 +79,14 @@ export default function Sidebar() {
   return (
     <>
       {/* Mobile header */}
-      <div className="lg:hidden fixed top-0 left-0 right-0 z-40 bg-navy border-b border-white/5 px-4 py-3 flex items-center justify-between">
+      <div className="lg:hidden fixed top-0 left-0 right-0 z-40 bg-[#26225d] border-b border-white/5 px-4 py-3 flex items-center justify-between">
         <div className="flex items-center gap-2">
           <div className="w-7 h-7 rounded-md bg-gold/10 flex items-center justify-center">
             <svg className="w-4 h-4 text-gold" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
             </svg>
           </div>
-          <span className="text-white font-bold text-sm">MSHG Intel</span>
+          <span className="text-white font-bold text-sm font-nav">REAL DOUGH INTEL</span>
         </div>
         <button onClick={() => setMobileOpen(!mobileOpen)} className="text-gray-400 p-1">
           <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -101,12 +101,12 @@ export default function Sidebar() {
       )}
 
       {/* Mobile drawer */}
-      <div className={`lg:hidden fixed top-0 left-0 bottom-0 z-30 w-64 bg-navy transform transition-transform ${mobileOpen ? 'translate-x-0' : '-translate-x-full'}`}>
+      <div className={`lg:hidden fixed top-0 left-0 bottom-0 z-30 w-64 bg-[#26225d] transform transition-transform ${mobileOpen ? 'translate-x-0' : '-translate-x-full'}`}>
         <SidebarContent />
       </div>
 
       {/* Desktop sidebar */}
-      <div className="hidden lg:block fixed top-0 left-0 bottom-0 w-60 bg-navy border-r border-white/5">
+      <div className="hidden lg:block fixed top-0 left-0 bottom-0 w-60 bg-[#26225d] border-r border-white/5">
         <SidebarContent />
       </div>
     </>

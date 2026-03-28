@@ -1,14 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Montserrat:wght@600&family=Barlow+Condensed:wght@600&family=Barlow:wght@400;500&family=Gochi+Hand&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 :root {
-  --navy: #1a1a2e;
+  --navy: #26225d;
+  --cream: #ebe5d3;
+  --cream-light: #faf7ee;
   --gold: #f4a81d;
+  --navy-muted: rgba(38, 34, 93, 0.75);
+  --cream-muted: rgba(235, 229, 211, 0.85);
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif;
+  font-family: 'Barlow', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background-color: var(--cream-light);
+}
+
+h1, h2 {
+  font-family: 'Roboto Condensed', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.font-accent {
+  font-family: 'Gochi Hand', cursive;
+}
+
+.font-label {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.font-nav {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.btn-dough {
+  border-radius: 58% 42% 55% 45% / 45% 55% 42% 58%;
+  transition: all 0.3s ease;
+  padding: 12px 32px;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+.btn-dough:hover {
+  border-radius: 45% 55% 48% 52% / 52% 48% 55% 45%;
+  transform: scale(1.05);
+  box-shadow: 8px 8px 0 rgba(38, 34, 93, 0.4);
+}
+
+.pill-tag {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 8px 20px;
+  border-radius: 40px;
+}
+
+.card-shadow {
+  box-shadow: 0 8px 32px rgba(38, 34, 93, 0.08);
+}
+
+.card-shadow-hover:hover {
+  box-shadow: 8px 8px 0 rgba(38, 34, 93, 0.4);
+  transition: box-shadow 0.3s ease;
 }
 
 ::-webkit-scrollbar {

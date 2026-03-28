@@ -1,0 +1,28 @@
+# Ledger Agent — Operations Data (Refactored)
+# Daily 11am CST — same schedule as existing Ledger cron
+# NOTE: This replaces the output target of existing cron eacfaefb
+# Phase 1: Dual-write (Discord + dashboard DB)
+# Phase 2: Dashboard only
+name: "Ledger — Real Dough Ops"
+schedule: "cron 0 17 * * * @ UTC"  # 11am CST daily
+agent: main
+model: anthropic/claude-sonnet-4-6
+prompt: |
+  Read ~/.openclaw/workspace/GIT/mshg-intel/agents/ledger/AGENT.md for your full instructions.
+  
+  You are the Ledger agent for Real Dough Pizza Co. restaurants. Your job is to pull daily 
+  Toast POS data and write structured operations data to the dashboard.
+  
+  Today's date: {{date}}
+  
+  TASK:
+  1. Pull Toast data for Merriment Social (credentials in merriment-social/.env)
+  2. Calculate revenue breakdown (food, liquor, soft drinks, beer, wine)
+  3. Identify exceptions (voids, high tips, unknown payment types)
+  4. Generate journal entry and check balance
+  5. Write output to ~/GIT/mshg-intel/data/operations/{{date}}.json per AGENT.md format
+  6. Commit and push to trigger Vercel redeploy
+  
+  ALSO: Continue posting the summary to Discord #command-center (dual-write during transition).
+  
+  If JE is not balanced, flag the cause in the output.

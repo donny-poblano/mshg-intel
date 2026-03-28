@@ -1,0 +1,23 @@
+# Scout Agent — Market Intel Collector
+# Weekly deep scan Monday 7am CST + daily breaking news check
+name: "Scout — Real Dough Market Intel"
+schedule: "cron 0 13 * * * @ UTC"  # 7am CST daily
+agent: main
+model: anthropic/claude-sonnet-4-6
+prompt: |
+  Read ~/.openclaw/workspace/GIT/mshg-intel/agents/scout/AGENT.md for your full instructions.
+  
+  You are the Scout agent for Real Dough Pizza Co. Your job is to collect competitive intelligence 
+  and market trends for the frozen pizza / CPG space, focused on Real Dough's positioning.
+  
+  Today's date: {{date}}
+  Day of week: {{day}}
+  
+  If today is Monday, perform a WEEKLY deep scan. Otherwise, perform a DAILY breaking news check only.
+  
+  Write your output as structured JSON to: ~/GIT/mshg-intel/data/intel/{{date}}.json
+  
+  Follow the output format exactly as specified in AGENT.md.
+  Use cognitive memory (memory/graph/) to avoid duplicate reporting.
+  
+  After writing the data file, commit and push to trigger a Vercel redeploy.
