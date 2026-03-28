@@ -1,58 +1,66 @@
 {
   "date": "2026-03-28",
-  "generatedAt": "2026-03-28T12:00:00.000Z",
-  "sentiment_scores": {
+  "generated_at": "2026-03-28T12:32:08.038478Z",
+  "entities": {
     "merriment-social": {
       "name": "Merriment Social",
-      "rating": 4.4,
-      "totalRatings": 889,
-      "sentiment": "positive",
-      "notes": "Strong event/private dining praise (Joe named). One complaint about 3% surcharge — guest accepted removal. Food quality mixed but atmosphere consistently high."
+      "overall_rating": 4.4,
+      "total_ratings": 889,
+      "recent_avg": 4.4,
+      "previous_rating": 4.4,
+      "delta": 0.0,
+      "trend": "stable",
+      "recent_breakdown": {
+        "positive": 4,
+        "neutral": 1,
+        "negative": 0
+      },
+      "needs_attention": false
     },
     "third-coast": {
       "name": "Third Coast Provisions",
-      "rating": 4.5,
-      "totalRatings": 503,
-      "sentiment": "mixed",
-      "lowStarReviews": [
-        {
-          "author": "Korinne Mack",
-          "rating": 2,
-          "summary": "Solo diner felt ignored by bartender for 45 min. Overpriced food (salty potholes, basic shrimp cocktail). Will not return.",
-          "actionNeeded": true,
-          "suggestedResponse": "Korinne, we're truly sorry about your experience. Every guest deserves attentive service regardless of party size, and we clearly fell short. We'd love the opportunity to make this right — please reach out to us directly."
-        }
-      ],
-      "notes": "2-star from Korinne Mack (solo diner, service gap) — present in previous snapshot, not new this run."
+      "overall_rating": 4.5,
+      "total_ratings": 503,
+      "recent_avg": 4.0,
+      "previous_rating": 4.5,
+      "delta": 0.0,
+      "trend": "stable",
+      "recent_breakdown": {
+        "positive": 3,
+        "neutral": 1,
+        "negative": 1
+      },
+      "needs_attention": true
     },
     "flourchild": {
       "name": "Flourchild Pizza",
-      "rating": 4.5,
-      "totalRatings": 289,
-      "sentiment": "mostly positive",
-      "lowStarReviews": [
-        {
-          "author": "Jim Whitaker",
-          "rating": 2,
-          "summary": "Crust described as dry/stale, sauce lacking flavor. Apps (crab spring rolls) praised. Atmosphere strong.",
-          "actionNeeded": true,
-          "suggestedResponse": "Jim, thank you for the honest feedback — we're glad you enjoyed the spring rolls and the vibe. We're always working on our dough and sauce, and comments like yours push us to improve. We'd love to have you back and change your mind on the pizza."
-        }
-      ],
-      "notes": "2-star from Jim Whitaker — present in previous snapshot, not new this run. Recent reviews (last 1-2 months) very positive."
+      "overall_rating": 4.5,
+      "total_ratings": 289,
+      "recent_avg": 4.4,
+      "previous_rating": 4.5,
+      "delta": 0.0,
+      "trend": "stable",
+      "recent_breakdown": {
+        "positive": 4,
+        "neutral": 0,
+        "negative": 1
+      },
+      "needs_attention": true
     },
     "loon-room": {
       "name": "The Loon Room",
-      "rating": 4.7,
-      "totalRatings": 35,
-      "sentiment": "positive",
-      "notes": "All recent reviews 4-5 stars. Staff (Ethan, Mitchell, Majir) named positively. Valentine's event feedback constructive (4★): improve charcuterie and allow individual entree choice."
+      "overall_rating": 4.7,
+      "total_ratings": 35,
+      "recent_avg": 4.8,
+      "previous_rating": 4.7,
+      "delta": 0.0,
+      "trend": "stable",
+      "recent_breakdown": {
+        "positive": 5,
+        "neutral": 0,
+        "negative": 0
+      },
+      "needs_attention": false
     }
-  },
-  "newLowStarAlerts": [],
-  "changesSinceLastRun": {
-    "ratingsChanged": false,
-    "newReviewsDetected": false,
-    "totalRatingChanges": {}
   }
 }
