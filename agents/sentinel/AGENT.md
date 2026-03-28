@@ -69,9 +69,9 @@ anthropic/claude-sonnet-4-6
 - Sentiment score drop > 0.2 in a week → weekly summary flag
 
 ## APIs Needed
-- Google Places API key (need from Andrew or create Google Cloud project)
-- Yelp Fusion API key (free tier: 5000 calls/day)
-- Instagram Graph API access (need agency to grant)
+- Google Places API key: ✅ CONFIGURED (workspace .env as GOOGLE_PLACES_API_KEY)
+- Yelp: SKIPPED — paid only ($9.99/1K calls), Google coverage sufficient for now. Revisit if needed.
+- Instagram Graph API access (need agency to grant — not blocking Phase 1)
 
 ## Dashboard Integration
 Data feeds into: **Reputation Monitor** section (future Phase 2+)
