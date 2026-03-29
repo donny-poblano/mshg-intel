@@ -1,111 +1,65 @@
 {
   "date": "2026-03-29",
-  "generatedAt": "2026-03-29T00:00:00.000Z",
-  "sentiment_scores": {
+  "generatedAt": "2026-03-29T06:00:12.000Z",
+  "entities": {
     "merriment-social": {
       "name": "Merriment Social",
-      "overallRating": 4.4,
+      "rating": 4.4,
       "totalRatings": 889,
-      "recentReviewSentiment": "positive",
-      "reviewBreakdown": {
-        "5star": 3,
-        "4star": 1,
-        "3star": 1,
-        "2star": 0,
-        "1star": 0
-      },
-      "avgRecentRating": 4.4,
-      "trend": "stable",
-      "flags": [],
-      "highlights": [
-        "Strong event/private dining reputation (wedding rehearsal dinner praise)",
-        "Bartenders and service consistently praised",
-        "3% surcharge complaint — customer pushback noted"
-      ]
+      "sentiment": "positive",
+      "reviewSentiments": [
+        { "author": "Michelle", "rating": 4, "sentiment": "positive" },
+        { "author": "Tiffany David", "rating": 5, "sentiment": "positive" },
+        { "author": "S. Krug", "rating": 3, "sentiment": "mixed", "flags": ["surcharge complaint", "food quality mixed"] },
+        { "author": "BryDeV", "rating": 5, "sentiment": "positive" },
+        { "author": "Kate Quinn", "rating": 5, "sentiment": "positive" }
+      ],
+      "summary": "Strong positive sentiment. Wedding/event group praised service highly. Minor complaint about 3% surcharge — should ensure staff proactively waives or communicates this."
     },
     "third-coast": {
       "name": "Third Coast Provisions",
-      "overallRating": 4.5,
+      "rating": 4.5,
       "totalRatings": 503,
-      "recentReviewSentiment": "mixed",
-      "reviewBreakdown": {
-        "5star": 3,
-        "4star": 0,
-        "3star": 1,
-        "2star": 1,
-        "1star": 0
-      },
-      "avgRecentRating": 4.0,
-      "trend": "stable",
-      "flags": [
-        {
-          "severity": "alert",
-          "type": "low_rating",
-          "reviewer": "Korinne Mack",
-          "rating": 2,
-          "issue": "Solo diner ignored by bartender for 45 min; food too salty (potholes dish). Service bias against solo diners.",
-          "previouslyFlagged": true
-        }
+      "sentiment": "mixed",
+      "reviewSentiments": [
+        { "author": "Korinne Mack", "rating": 2, "sentiment": "negative", "flags": ["solo diner ignored by bartender", "oversalted food", "poor service"], "needsResponse": true },
+        { "author": "Maxi Harmon", "rating": 5, "sentiment": "positive" },
+        { "author": "Samantha Baldyga", "rating": 5, "sentiment": "positive", "flags": ["scallops slightly salty"] },
+        { "author": "stuartwogs", "rating": 3, "sentiment": "neutral", "flags": ["overcooked scallops", "under-seasoned"] },
+        { "author": "A small elf", "rating": 5, "sentiment": "positive" }
       ],
-      "highlights": [
-        "Seafood and small plates generally well received",
-        "Service inconsistency flagged for solo diners",
-        "Saltiness mentioned in multiple reviews (steak tartar, scallops, potholes)"
-      ]
+      "summary": "Generally positive but Korinne Mack 2★ (solo diner ignored at bar, food oversalted) is a notable service failure. Consistent note: salty seasoning on scallop/pothole dishes. Worth flagging to kitchen and bar staff."
     },
     "flourchild": {
       "name": "Flourchild Pizza",
-      "overallRating": 4.5,
+      "rating": 4.5,
       "totalRatings": 289,
-      "recentReviewSentiment": "positive",
-      "reviewBreakdown": {
-        "5star": 4,
-        "4star": 0,
-        "3star": 0,
-        "2star": 1,
-        "1star": 0
-      },
-      "avgRecentRating": 4.4,
-      "trend": "stable",
-      "flags": [
-        {
-          "severity": "alert",
-          "type": "low_rating",
-          "reviewer": "Jim Whitaker",
-          "rating": 2,
-          "issue": "Crust described as dry/stale, sauce lacking flavor. Price-to-quality concern.",
-          "previouslyFlagged": true
-        }
+      "sentiment": "mostly_positive",
+      "reviewSentiments": [
+        { "author": "Jim Whitaker", "rating": 2, "sentiment": "negative", "flags": ["dry stale crust", "bland sauce", "Pizza Hut comparison"], "needsResponse": true },
+        { "author": "Alandra Nyree", "rating": 5, "sentiment": "positive", "flags": ["spinach dip could be creamier"] },
+        { "author": "Alicia Richter", "rating": 5, "sentiment": "positive" },
+        { "author": "Lisa Ridenour", "rating": 5, "sentiment": "positive" },
+        { "author": "Gabriel Huff", "rating": 5, "sentiment": "positive" }
       ],
-      "highlights": [
-        "Atmosphere, vibe, and music consistently praised",
-        "Crab Rangoon Spring Rolls frequently mentioned as a standout",
-        "King Cheese pizza getting multiple strong mentions",
-        "One negative review specifically about crust quality — worth monitoring"
-      ]
+      "summary": "4 of 5 reviews are 5★. Jim Whitaker 2★ is a recurring theme (crust quality). Praised items: King Cheese, Curd Your Enthusiasm, garlic sticks, Crab Rangoon spring rolls."
     },
     "loon-room": {
       "name": "The Loon Room",
-      "overallRating": 4.7,
+      "rating": 4.7,
       "totalRatings": 35,
-      "recentReviewSentiment": "positive",
-      "reviewBreakdown": {
-        "5star": 4,
-        "4star": 1,
-        "3star": 0,
-        "2star": 0,
-        "1star": 0
-      },
-      "avgRecentRating": 4.8,
-      "trend": "stable",
-      "flags": [],
-      "highlights": [
-        "Custom cocktail experience (Ethan) highly praised",
-        "Valentine's Day special 4-star — charcuterie and entree flexibility could improve",
-        "Bartender names mentioned positively: Ethan, Mitchell, Majir"
-      ]
+      "sentiment": "positive",
+      "reviewSentiments": [
+        { "author": "Nick Wolf", "rating": 4, "sentiment": "mixed", "flags": ["charcuterie underwhelming", "entree choice restriction not disclosed"] },
+        { "author": "Henry Schellhorn", "rating": 5, "sentiment": "positive" },
+        { "author": "Lesli Jennings", "rating": 5, "sentiment": "positive" },
+        { "author": "Sam Miller", "rating": 5, "sentiment": "positive" },
+        { "author": "Jordan Llanas", "rating": 5, "sentiment": "positive" }
+      ],
+      "summary": "Excellent sentiment. Bartenders (Ethan, Mitchell, Majir) consistently praised by name. Nick Wolf Valentine's special note: disclose entree restrictions upfront for ticketed events."
     }
   },
-  "newLowRatingAlerts": [],
-  "summary": "No new low-rating reviews detected since last run. Two previously-flagged ≤2-star reviews persist (Third Coast: Korinne Mack / solo service bias; Flourchild: Jim Whitaker / crust quality). All venues holding stable ratings. Loon Room leading at 4.7 overall."
+  "alertsTriggered": [],
+  "newReviews": [],
+  "notes": "No new reviews detected vs previous run (6 hours ago). All review content identical. Persistent ≤2★ reviews (Third Coast: Korinne Mack, Flourchild: Jim Whitaker) remain unaddressed — consider response queue."
 }
