@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-29",
+  "time": "12:00 UTC",
+  "run": "07:00 CST",
+  "sentiment_scores": {
+    "merriment-social": {
+      "name": "Merriment Social",
+      "overall_rating": 4.4,
+      "total_ratings": 889,
+      "sample_avg": 4.4,
+      "sentiment": "positive",
+      "trend": "stable",
+      "notes": "Consistent positive reception. Wedding/event guests very enthusiastic. Minor note: 3% surcharge caused friction with one guest — staff handled it well."
+    },
+    "third-coast": {
+      "name": "Third Coast Provisions",
+      "overall_rating": 4.5,
+      "total_ratings": 503,
+      "sample_avg": 4.0,
+      "sentiment": "mixed",
+      "trend": "stable",
+      "flags": [
+        {
+          "author": "Korinne Mack",
+          "rating": 2,
+          "issues": ["solo diner ignored by bartender for 45 min", "potholes dish too salty", "shrimp cocktail underwhelming"],
+          "needs_response": true,
+          "suggested_response": "Thank you for your honest feedback, Korinne. We're sorry your experience didn't match our standards — every guest deserves attentive service, regardless of party size. We'll address the bar service directly with our team. We'd love to make it right if you're willing to give us another chance."
+        }
+      ]
+    },
+    "flourchild": {
+      "name": "Flourchild Pizza",
+      "overall_rating": 4.5,
+      "total_ratings": 289,
+      "sample_avg": 4.4,
+      "sentiment": "positive",
+      "trend": "stable",
+      "flags": [
+        {
+          "author": "Jim Whitaker",
+          "rating": 2,
+          "issues": ["crust described as dry and stale", "sauce lacking flavor", "price-to-quality concern"],
+          "needs_response": true,
+          "suggested_response": "Hi Jim — thank you for the detailed feedback. We're glad the atmosphere, staff, and spring rolls landed well! The crust and sauce are something we take seriously and we'd love to hear more about your visit. Please reach out to us directly so we can make it right."
+        }
+      ]
+    },
+    "loon-room": {
+      "name": "The Loon Room",
+      "overall_rating": 4.7,
+      "total_ratings": 35,
+      "sample_avg": 4.8,
+      "sentiment": "positive",
+      "trend": "stable",
+      "notes": "Strong cocktail program reception. Valentine's Day special got 4 stars — charcuterie and single-entree-per-couple policy noted as friction points to address."
+    }
+  },
+  "new_low_star_alerts": [],
+  "data_changed": false
+}
