@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-29",
+  "generatedAt": "2026-03-29T00:00:00.000Z",
+  "sentiment_scores": {
+    "merriment-social": {
+      "name": "Merriment Social",
+      "overallRating": 4.4,
+      "totalRatings": 889,
+      "recentReviewSentiment": "positive",
+      "reviewBreakdown": {
+        "5star": 3,
+        "4star": 1,
+        "3star": 1,
+        "2star": 0,
+        "1star": 0
+      },
+      "avgRecentRating": 4.4,
+      "trend": "stable",
+      "flags": [],
+      "highlights": [
+        "Strong event/private dining reputation (wedding rehearsal dinner praise)",
+        "Bartenders and service consistently praised",
+        "3% surcharge complaint — customer pushback noted"
+      ]
+    },
+    "third-coast": {
+      "name": "Third Coast Provisions",
+      "overallRating": 4.5,
+      "totalRatings": 503,
+      "recentReviewSentiment": "mixed",
+      "reviewBreakdown": {
+        "5star": 3,
+        "4star": 0,
+        "3star": 1,
+        "2star": 1,
+        "1star": 0
+      },
+      "avgRecentRating": 4.0,
+      "trend": "stable",
+      "flags": [
+        {
+          "severity": "alert",
+          "type": "low_rating",
+          "reviewer": "Korinne Mack",
+          "rating": 2,
+          "issue": "Solo diner ignored by bartender for 45 min; food too salty (potholes dish). Service bias against solo diners.",
+          "previouslyFlagged": true
+        }
+      ],
+      "highlights": [
+        "Seafood and small plates generally well received",
+        "Service inconsistency flagged for solo diners",
+        "Saltiness mentioned in multiple reviews (steak tartar, scallops, potholes)"
+      ]
+    },
+    "flourchild": {
+      "name": "Flourchild Pizza",
+      "overallRating": 4.5,
+      "totalRatings": 289,
+      "recentReviewSentiment": "positive",
+      "reviewBreakdown": {
+        "5star": 4,
+        "4star": 0,
+        "3star": 0,
+        "2star": 1,
+        "1star": 0
+      },
+      "avgRecentRating": 4.4,
+      "trend": "stable",
+      "flags": [
+        {
+          "severity": "alert",
+          "type": "low_rating",
+          "reviewer": "Jim Whitaker",
+          "rating": 2,
+          "issue": "Crust described as dry/stale, sauce lacking flavor. Price-to-quality concern.",
+          "previouslyFlagged": true
+        }
+      ],
+      "highlights": [
+        "Atmosphere, vibe, and music consistently praised",
+        "Crab Rangoon Spring Rolls frequently mentioned as a standout",
+        "King Cheese pizza getting multiple strong mentions",
+        "One negative review specifically about crust quality — worth monitoring"
+      ]
+    },
+    "loon-room": {
+      "name": "The Loon Room",
+      "overallRating": 4.7,
+      "totalRatings": 35,
+      "recentReviewSentiment": "positive",
+      "reviewBreakdown": {
+        "5star": 4,
+        "4star": 1,
+        "3star": 0,
+        "2star": 0,
+        "1star": 0
+      },
+      "avgRecentRating": 4.8,
+      "trend": "stable",
+      "flags": [],
+      "highlights": [
+        "Custom cocktail experience (Ethan) highly praised",
+        "Valentine's Day special 4-star — charcuterie and entree flexibility could improve",
+        "Bartender names mentioned positively: Ethan, Mitchell, Majir"
+      ]
+    }
+  },
+  "newLowRatingAlerts": [],
+  "summary": "No new low-rating reviews detected since last run. Two previously-flagged ≤2-star reviews persist (Third Coast: Korinne Mack / solo service bias; Flourchild: Jim Whitaker / crust quality). All venues holding stable ratings. Loon Room leading at 4.7 overall."
+}
