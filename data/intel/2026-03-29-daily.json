@@ -1,0 +1,48 @@
+{
+  "date": "2026-03-29",
+  "type": "daily",
+  "generated_at": "2026-03-29T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Conagra Brands (Birds Eye, Marie Callender's)",
+      "action": "Committed to eliminating all petroleum-based synthetic color additives (Red 40, Yellow 5/6, Blue 1/2, Green 3) from entire U.S. frozen product portfolio by end of 2027. No school sales of affected products starting 2026-2027 school year. Status: in progress as of Dec 2025.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.fda.gov/food/color-additives-information-consumers/tracking-food-industry-pledges-remove-petroleum-based-food-dyes",
+      "first_reported": "2026-03-29",
+      "status": "new",
+      "notes": "MAHA-driven reformulation. Large incumbents forced to catch up to clean-label standard Real Dough already meets. Levels the ingredient story for mass brands — Real Dough should proactively highlight its current clean-label status before this becomes table stakes."
+    },
+    {
+      "name": "Amy's Kitchen",
+      "action": "37 products (including frozen pizzas, entrees, burritos) now carry Non-UPF Verified certification — capitalizing on MAHA/anti-ultra-processed-food movement ahead of the 2026-2027 Dietary Guidelines cycle.",
+      "category": "campaign",
+      "relevance_score": 6,
+      "source_url": "https://www.foodbusinessnews.net/articles/30052-can-a-shift-toward-scratch-cooking-reduce-upfs",
+      "first_reported": "2026-03-29",
+      "status": "new",
+      "notes": "Amy's is owning the 'not ultra-processed' narrative in frozen. Real Dough's sourdough fermentation + clean ingredients qualifies — worth exploring Non-UPF Verified or equivalent certification as a shelf differentiator."
+    },
+    {
+      "name": "Screamin' Sicilian",
+      "action": "BOGO promotion at multiple grocery retailers (WRAL grocery sales listing) for week of March 25-31, 2026. Also ranked #3 in recent frozen pizza taste test (Daily Voice NJ) for Bessie's Revenge cheese.",
+      "category": "campaign",
+      "relevance_score": 4,
+      "source_url": "https://www.wral.com/consumer/grocery-sales-march-2026/",
+      "first_reported": "2026-03-29",
+      "status": "new",
+      "notes": "BOGO promotions signal push to move volume. Taste test visibility keeps brand top-of-mind. Monitor frequency — heavy discounting could indicate distribution pressure."
+    }
+  ],
+  "trends": [
+    {
+      "topic": "MAHA / anti-synthetic-dye regulatory pressure on frozen CPG",
+      "direction": "up",
+      "magnitude": "FDA tracking industry pledges; Conagra, Kellanova, IDFA committing to reformulation by 2027. California AB 2244 creating 'California Certified' non-UPF seal.",
+      "context": "Federal MAHA initiative + Trump-era FDA pushing phase-out of 6 petroleum-based food dyes by 2027. Frozen pizza incumbents (Conagra, Nestlé) now forced to reformulate. Real Dough's clean-label, fermented-crust positioning is a first-mover advantage — but window to claim it closes as big brands catch up by 2027.",
+      "source_url": "https://www.fda.gov/food/color-additives-information-consumers/tracking-food-industry-pledges-remove-petroleum-based-food-dyes"
+    }
+  ],
+  "market_data": [],
+  "breaking": []
+}
