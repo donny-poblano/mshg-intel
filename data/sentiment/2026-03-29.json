@@ -1,61 +1,49 @@
 {
   "date": "2026-03-29",
-  "sentiment_scores": {
+  "entities": {
     "merriment-social": {
       "name": "Merriment Social",
-      "current": 4.4,
-      "previous": 4.4,
-      "change": 0.0,
+      "overall_rating": 4.4,
+      "prev_rating": 4.4,
       "trend": "stable",
-      "totalRatings": 889,
-      "sample_breakdown": {
-        "positive": 4,
-        "neutral": 1,
-        "negative": 0,
-        "total_sampled": 5
-      }
+      "sample_reviews_analyzed": 5,
+      "positive_count": 4,
+      "neutral_count": 1,
+      "negative_count": 0,
+      "low_star_alerts": 0
     },
     "third-coast": {
       "name": "Third Coast Provisions",
-      "current": 4.5,
-      "previous": 4.5,
-      "change": 0.0,
+      "overall_rating": 4.5,
+      "prev_rating": 4.5,
       "trend": "stable",
-      "totalRatings": 503,
-      "sample_breakdown": {
-        "positive": 3,
-        "neutral": 1,
-        "negative": 1,
-        "total_sampled": 5
-      }
+      "sample_reviews_analyzed": 5,
+      "positive_count": 3,
+      "neutral_count": 1,
+      "negative_count": 1,
+      "low_star_alerts": 1
     },
     "flourchild": {
       "name": "Flourchild Pizza",
-      "current": 4.5,
-      "previous": 4.5,
-      "change": 0.0,
+      "overall_rating": 4.5,
+      "prev_rating": 4.5,
       "trend": "stable",
-      "totalRatings": 289,
-      "sample_breakdown": {
-        "positive": 4,
-        "neutral": 0,
-        "negative": 1,
-        "total_sampled": 5
-      }
+      "sample_reviews_analyzed": 5,
+      "positive_count": 4,
+      "neutral_count": 0,
+      "negative_count": 1,
+      "low_star_alerts": 1
     },
     "loon-room": {
       "name": "The Loon Room",
-      "current": 4.7,
-      "previous": 4.7,
-      "change": 0.0,
+      "overall_rating": 4.7,
+      "prev_rating": 4.7,
       "trend": "stable",
-      "totalRatings": 35,
-      "sample_breakdown": {
-        "positive": 5,
-        "neutral": 0,
-        "negative": 0,
-        "total_sampled": 5
-      }
+      "sample_reviews_analyzed": 5,
+      "positive_count": 5,
+      "neutral_count": 0,
+      "negative_count": 0,
+      "low_star_alerts": 0
     }
   }
 }
