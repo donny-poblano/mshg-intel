@@ -1,0 +1,203 @@
+{
+  "date": "2026-03-30",
+  "period": "2026-03-01 to 2026-03-27",
+  "note": "Based on Mar 27 XLSX. Browser showed updated Mar 30 values: Meta Impressions 663,727, Clicks 22,967, Reach 343,515 (3 additional days vs XLSX).",
+  "ad_performance": {
+    "meta": {
+      "spend": 2780.91,
+      "clicks": 21908,
+      "cpc": 0.13,
+      "ctr": 3.45,
+      "reach": 335315,
+      "impressions": 634918,
+      "cpm": 4.38,
+      "link_clicks": 15060,
+      "cost_per_link_click": 0.18,
+      "link_ctr": 2.37,
+      "frequency": 1.89
+    },
+    "google": {
+      "spend": 810.19,
+      "clicks": 2512,
+      "cpc": 0.32,
+      "ctr": 2.3,
+      "impressions": 109095,
+      "cpm": 7.43,
+      "campaigns": [
+        {
+          "name": "MM - Search - Real Dough - NB",
+          "clicks": 1219,
+          "cpc": 0.36,
+          "ctr": 1.65,
+          "impressions": 73813,
+          "cpm": 5.88,
+          "spend": 434.25
+        },
+        {
+          "name": "MM - Search - Real Dough - Branded",
+          "clicks": 828,
+          "cpc": 0.16,
+          "ctr": 15.35,
+          "impressions": 5394,
+          "cpm": 24.9,
+          "spend": 134.29
+        },
+        {
+          "name": "MM - Search - Real Dough - Competitors",
+          "clicks": 465,
+          "cpc": 0.52,
+          "ctr": 1.56,
+          "impressions": 29888,
+          "cpm": 8.09,
+          "spend": 241.65
+        }
+      ]
+    }
+  },
+  "audience": {
+    "instagram": {
+      "followers": 406,
+      "new_followers": 153,
+      "engagement_rate_daily_avg": 1.93,
+      "gender_split": {
+        "female": 225,
+        "male": 125,
+        "unknown": 52
+      },
+      "top_age_group": "35-44 (169)",
+      "age_breakdown": [
+        {
+          "age": "35-44",
+          "followers": 169
+        },
+        {
+          "age": "25-34",
+          "followers": 106
+        },
+        {
+          "age": "45-54",
+          "followers": 61
+        },
+        {
+          "age": "55-64",
+          "followers": 26
+        }
+      ]
+    },
+    "facebook": {
+      "post_impressions": 428096
+    },
+    "youtube": {
+      "views": 4609,
+      "subscribers_gained": 9,
+      "avg_view_duration_seconds": 26.88
+    },
+    "tiktok": {
+      "followers": 25,
+      "video_views": 2266
+    }
+  },
+  "top_posts": [
+    {
+      "platform": "tiktok",
+      "caption": "You see a cheese pizza called The Wisco Kid and don't even think twice.",
+      "views": 19505,
+      "avg_watch_time_sec": 2.07,
+      "likes": 556
+    },
+    {
+      "platform": "tiktok",
+      "caption": "POV: you go to the grocery store for groceries and leave with a new pizza obsession.",
+      "views": 7792,
+      "avg_watch_time_sec": 1.48,
+      "likes": 312
+    },
+    {
+      "platform": "youtube",
+      "title": "Sourdough Frozen Pizza ASMR 🍕",
+      "views": 2084,
+      "avg_view_duration_sec": 12,
+      "avg_view_pct": 120.23,
+      "likes": 13
+    },
+    {
+      "platform": "youtube",
+      "title": "Frozen Pizza Grocery Haul",
+      "views": 1586,
+      "avg_view_duration_sec": 11,
+      "avg_view_pct": 126.92,
+      "likes": 10
+    },
+    {
+      "platform": "facebook",
+      "message": "You're either the one paying for all the pizzas…or the one stocking up.",
+      "reach": 159,
+      "engagement": 59,
+      "engagement_rate": 37.11
+    },
+    {
+      "platform": "instagram",
+      "message": "Three best friends. One seriously good crust. (photoshoot BTS reel)",
+      "url": "https://www.instagram.com/reel/DVYuXmmgMBG/",
+      "reach": 407,
+      "engagement": 37,
+      "engagement_rate": 14.4
+    },
+    {
+      "platform": "facebook_reel",
+      "message": "Errands done. Dinner covered. (Sendik's errand reel)",
+      "url": "https://www.facebook.com/reel/939448078453187/",
+      "reach": 198,
+      "avg_view_time_ms": 7867
+    }
+  ],
+  "google_campaigns": [
+    {
+      "name": "MM - Search - Real Dough - NB",
+      "clicks": 1219,
+      "cpc": 0.36,
+      "ctr": 1.65,
+      "impressions": 73813,
+      "cpm": 5.88,
+      "spend": 434.25
+    },
+    {
+      "name": "MM - Search - Real Dough - Branded",
+      "clicks": 828,
+      "cpc": 0.16,
+      "ctr": 15.35,
+      "impressions": 5394,
+      "cpm": 24.9,
+      "spend": 134.29
+    },
+    {
+      "name": "MM - Search - Real Dough - Competitors",
+      "clicks": 465,
+      "cpc": 0.52,
+      "ctr": 1.56,
+      "impressions": 29888,
+      "cpm": 8.09,
+      "spend": 241.65
+    }
+  ],
+  "patterns": [
+    "TikTok Wisco Kid video is the breakout content this month at 19,505 views — 2.5x the next closest. Short identity-hook format is clearly working.",
+    "YouTube ASMR content continues to overperform: Sourdough Frozen Pizza ASMR at 120% avg view percentage (viewers replaying), Grocery Haul at 127% — both indicate looping behavior.",
+    "Facebook humorous/relatable posts massively outperform brand posts: payoff post (37.11% ER) vs avg FB ER ~11%. Inject more of this voice.",
+    "Meta Ads efficiency remains exceptional: CPC $0.13 vs industry avg $0.50-0.75 (74% below avg), CTR 3.45% vs 1-2% industry avg (2x+).",
+    "Instagram audience is strongly Female 35-44 (42% of followers). Content featuring practical dinner solutions and ingredient transparency performs best with this demo.",
+    "Google Branded search shows 15.35% CTR — strong brand awareness. Non-branded at 1.65% has room to grow via more awareness content.",
+    "Facebook Reels with errand/lifestyle context (Sendik's run) generating strong avg view times (7,867ms). Real-life usage scenarios resonate."
+  ],
+  "meta_ads_live_mar30": {
+    "note": "Values visible in Whatagraph browser as of 2026-03-30 (3 days ahead of XLSX)",
+    "impressions": 663727,
+    "clicks": 22967,
+    "cpc": 0.13,
+    "ctr": 3.46,
+    "reach": 343515,
+    "link_clicks": 15799,
+    "cost_per_link_click": 0.19,
+    "frequency": 1.93
+  }
+}
