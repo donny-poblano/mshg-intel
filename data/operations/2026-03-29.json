@@ -1,0 +1,60 @@
+{
+  "date": "2026-03-29",
+  "restaurant": "merriment-social",
+  "revenue": {
+    "food": 2528.24,
+    "liquor": 682.5,
+    "soft_drinks": 159.0,
+    "beer": 57.0,
+    "wine": 325.3,
+    "gross_sales": 3752.04,
+    "net_sales": 3719.64,
+    "sales_tax": 315.45
+  },
+  "labor": {
+    "credit_tips": 719.77,
+    "discounts": 32.4
+  },
+  "exceptions": [
+    {
+      "type": "discount",
+      "severity": "info",
+      "detail": "3 'Open % Check' discounts applied (15-25%), total $32.40",
+      "action_needed": "none"
+    },
+    {
+      "type": "item_variance",
+      "severity": "info",
+      "detail": "Item-level total ($3,752.04) vs check-level subtotal ($3,760.56) \u2014 $8.52 variance from modifier pricing",
+      "action_needed": "none"
+    }
+  ],
+  "journal_entry": {
+    "balanced": true,
+    "debits": 4076.01,
+    "credits": 4076.01,
+    "difference": 0.0,
+    "likely_cause": null
+  },
+  "comparisons": {
+    "vs_yesterday": {
+      "gross_sales_change": "-45.2%"
+    },
+    "vs_same_day_last_week": null,
+    "mtd": {
+      "gross_sales": 4835.11,
+      "days_reported": 2
+    }
+  },
+  "meta": {
+    "order_count": 39,
+    "check_count": 50,
+    "payments": {
+      "CREDIT": 3526.76,
+      "CASH": 549.25
+    },
+    "pulled_at": "2026-03-30T17:00:00Z",
+    "business_date": "2026-03-29",
+    "note": "Monday noon pull \u2014 Sunday data (today Mar 30 has 0 orders, likely closed)"
+  }
+}
