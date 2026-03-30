@@ -1,0 +1,70 @@
+{
+  "date": "2026-03-30",
+  "runTime": "2026-03-30T06:00:00.000Z",
+  "agent": "sentinel",
+  "scope": "real-dough-mshg",
+  "sentiment_scores": {
+    "merriment-social": {
+      "rating": 4.4,
+      "totalRatings": 889,
+      "trend": "stable",
+      "recentReviewSentiment": "positive",
+      "notes": "Strong rehearsal dinner / event reviews. Minor complaints: 3% surcharge, price-to-value on food."
+    },
+    "third-coast": {
+      "rating": 4.5,
+      "totalRatings": 503,
+      "trend": "stable",
+      "recentReviewSentiment": "mixed",
+      "alerts": [
+        {
+          "author": "Korinne Mack",
+          "rating": 2,
+          "issue": "Solo diner ignored at bar for 45 min; food too salty (potholes dish). Won't return.",
+          "needsResponse": true,
+          "suggestedResponse": "Hi Korinne, we're sorry to hear your experience didn't meet the standard we hold ourselves to—especially regarding attentiveness to solo guests. That's not the experience we want anyone to have. We'd love the opportunity to make it right. Please reach out to us directly at [contact]."
+        }
+      ]
+    },
+    "flourchild": {
+      "rating": 4.5,
+      "totalRatings": 290,
+      "trend": "stable",
+      "recentReviewSentiment": "mostly_positive",
+      "alerts": [
+        {
+          "author": "Jim Whitaker",
+          "rating": 2,
+          "issue": "Crust described as 'extremely dry and stale tasting,' sauce lacking flavor. Would not recommend for pizza quality despite liking atmosphere.",
+          "needsResponse": true,
+          "suggestedResponse": "Hi Jim, thank you for the honest feedback. We're really glad you enjoyed the atmosphere and the crab spring rolls! Hearing that the pizza crust missed the mark is something we take seriously — we'd love to have you back and show you what we're made of. Reach out directly and we'll make it right."
+        }
+      ]
+    },
+    "loon-room": {
+      "rating": 4.7,
+      "totalRatings": 35,
+      "trend": "stable",
+      "recentReviewSentiment": "positive",
+      "notes": "Consistently strong cocktail reviews. One 4-star Valentine's event review flagged charcuterie quality and fixed entree issue — worth noting for future events."
+    }
+  },
+  "lowStarAlerts": [
+    {
+      "entity": "third-coast",
+      "author": "Korinne Mack",
+      "rating": 2,
+      "platform": "google",
+      "status": "existing_known"
+    },
+    {
+      "entity": "flourchild",
+      "author": "Jim Whitaker",
+      "rating": 2,
+      "platform": "google",
+      "status": "existing_known"
+    }
+  ],
+  "newReviewsDetected": false,
+  "dataChangedFromPrevious": false
+}
