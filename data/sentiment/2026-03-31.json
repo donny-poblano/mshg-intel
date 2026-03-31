@@ -1,13 +1,43 @@
 {
   "date": "2026-03-31",
-  "fetchedAt": "2026-03-31T06:00:17.253Z",
+  "fetchedAt": "2026-03-31T12:00:14.581Z",
   "ratings": {
     "merriment-social": { "rating": 4.4, "totalRatings": 889, "trend": "stable" },
     "third-coast": { "rating": 4.5, "totalRatings": 503, "trend": "stable" },
     "flourchild": { "rating": 4.5, "totalRatings": 291, "trend": "stable" },
     "loon-room": { "rating": 4.7, "totalRatings": 35, "trend": "stable" }
   },
-  "newReviews": 0,
+  "reviewSentiment": {
+    "merriment-social": {
+      "positive": 3,
+      "neutral": 1,
+      "negative": 0,
+      "mixed": 1,
+      "avgSampled": 4.4
+    },
+    "third-coast": {
+      "positive": 3,
+      "neutral": 0,
+      "negative": 1,
+      "mixed": 1,
+      "avgSampled": 4.0
+    },
+    "flourchild": {
+      "positive": 4,
+      "neutral": 0,
+      "negative": 1,
+      "mixed": 0,
+      "avgSampled": 4.4
+    },
+    "loon-room": {
+      "positive": 4,
+      "neutral": 0,
+      "negative": 0,
+      "mixed": 1,
+      "avgSampled": 4.8
+    }
+  },
   "alerts": [],
-  "notes": "No new reviews since previous fetch. All ratings unchanged."
+  "newReviewsSinceLastFetch": 0,
+  "notes": "No new reviews detected since previous fetch (6h ago). All ratings stable."
 }
