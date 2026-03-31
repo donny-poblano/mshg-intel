@@ -1,0 +1,13 @@
+{
+  "date": "2026-03-31",
+  "fetchedAt": "2026-03-31T06:00:17.253Z",
+  "ratings": {
+    "merriment-social": { "rating": 4.4, "totalRatings": 889, "trend": "stable" },
+    "third-coast": { "rating": 4.5, "totalRatings": 503, "trend": "stable" },
+    "flourchild": { "rating": 4.5, "totalRatings": 291, "trend": "stable" },
+    "loon-room": { "rating": 4.7, "totalRatings": 35, "trend": "stable" }
+  },
+  "newReviews": 0,
+  "alerts": [],
+  "notes": "No new reviews since previous fetch. All ratings unchanged."
+}
