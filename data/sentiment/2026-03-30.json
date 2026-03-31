@@ -1,66 +1,39 @@
 {
   "date": "2026-03-30",
-  "generatedAt": "2026-03-30T12:00:00.000Z",
-  "sentiment_scores": {
-    "merriment-social": {
-      "name": "Merriment Social",
-      "overall_rating": 4.4,
-      "total_ratings": 889,
-      "sample_avg": 4.4,
-      "sentiment": "positive",
-      "trend": "stable",
-      "low_star_count": 0,
-      "notes": "Strong event/group dining reviews. One 3★ mentioning value concerns and surcharge. Majority 4-5★."
-    },
-    "third-coast": {
-      "name": "Third Coast Provisions",
-      "overall_rating": 4.5,
-      "total_ratings": 503,
-      "sample_avg": 4.0,
-      "sentiment": "mixed",
-      "trend": "stable",
-      "low_star_count": 1,
-      "low_star_reviews": [
-        {
-          "author": "Korinne Mack",
-          "rating": 2,
-          "issue": "Solo diner ignored by bartender for 45 min; food too salty",
-          "alert_sent": false,
-          "note": "Previously seen in last run — no new alert needed"
-        }
-      ],
-      "notes": "One 2★ solo diner service complaint (known). Mixed on saltiness of food. Overall strong atmosphere and cocktail praise."
-    },
-    "flourchild": {
-      "name": "Flourchild Pizza",
-      "overall_rating": 4.5,
-      "total_ratings": 290,
-      "sample_avg": 4.4,
-      "sentiment": "positive",
-      "trend": "stable",
-      "low_star_count": 1,
-      "low_star_reviews": [
-        {
-          "author": "Jim Whitaker",
-          "rating": 2,
-          "issue": "Pizza crust described as dry/stale, sauce bland",
-          "alert_sent": false,
-          "note": "Previously seen in last run — no new alert needed"
-        }
-      ],
-      "notes": "One 2★ pizza quality complaint (known). Strong praise for atmosphere, drinks, apps, and specific pizzas like King Cheese."
-    },
-    "loon-room": {
-      "name": "The Loon Room",
-      "overall_rating": 4.7,
-      "total_ratings": 35,
-      "sample_avg": 4.8,
-      "sentiment": "positive",
-      "trend": "stable",
-      "low_star_count": 0,
-      "notes": "Excellent cocktail program reviews. One 4★ with minor charcuterie feedback on Valentine's Day special. Overall very strong."
-    }
+  "fetchedAt": "2026-03-31T00:00:20.499Z",
+  "ratings": {
+    "merriment-social": { "rating": 4.4, "totalRatings": 889, "trend": "stable" },
+    "third-coast": { "rating": 4.5, "totalRatings": 503, "trend": "stable" },
+    "flourchild": { "rating": 4.5, "totalRatings": 291, "trend": "stable" },
+    "loon-room": { "rating": 4.7, "totalRatings": 35, "trend": "stable" }
   },
-  "new_reviews_detected": false,
-  "alerts_sent": 0
+  "alerts": [
+    {
+      "entity": "third-coast",
+      "platform": "google",
+      "author": "Korinne Mack",
+      "rating": 2,
+      "sentiment": "negative",
+      "issues": ["food quality (too salty)", "service (ignored as solo diner for 45 min)"],
+      "needs_response": true
+    },
+    {
+      "entity": "flourchild",
+      "platform": "google",
+      "author": "Jim Whitaker",
+      "rating": 2,
+      "sentiment": "negative",
+      "issues": ["pizza quality (dry crust, bland sauce)", "value for price"],
+      "needs_response": true
+    }
+  ],
+  "changes_from_previous": {
+    "flourchild_total_ratings": "290 → 291 (+1 new review)"
+  },
+  "review_sentiment_breakdown": {
+    "merriment-social": { "positive": 4, "neutral": 0, "mixed": 1, "negative": 0 },
+    "third-coast": { "positive": 3, "neutral": 0, "mixed": 1, "negative": 1 },
+    "flourchild": { "positive": 4, "neutral": 0, "mixed": 0, "negative": 1 },
+    "loon-room": { "positive": 4, "neutral": 0, "mixed": 1, "negative": 0 }
+  }
 }
