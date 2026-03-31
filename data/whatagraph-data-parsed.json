@@ -1,203 +1,177 @@
 {
-  "date": "2026-03-30",
-  "period": "2026-03-01 to 2026-03-27",
-  "note": "Based on Mar 27 XLSX. Browser showed updated Mar 30 values: Meta Impressions 663,727, Clicks 22,967, Reach 343,515 (3 additional days vs XLSX).",
+  "date": "2026-03-31",
+  "period": "2026-03-01 to 2026-03-31",
+  "source": "Browser scrape from live Whatagraph report (03/31/2026 7am CST). XLSX from 03/27 parsed for supplemental detail.",
   "ad_performance": {
     "meta": {
       "spend": 2780.91,
-      "clicks": 21908,
+      "clicks": 23453,
       "cpc": 0.13,
-      "ctr": 3.45,
-      "reach": 335315,
-      "impressions": 634918,
+      "ctr": 3.46,
+      "reach": 346252,
+      "impressions": 677119,
       "cpm": 4.38,
-      "link_clicks": 15060,
-      "cost_per_link_click": 0.18,
-      "link_ctr": 2.37,
-      "frequency": 1.89
+      "link_clicks": 16146,
+      "cost_per_link_click": 0.19,
+      "link_ctr": 2.38,
+      "frequency": 1.96,
+      "top_creatives": [
+        { "headline": "No More Cardboard Crust.", "link_clicks": 4472, "cpc": 0.16, "ctr": 2.46, "impressions": 220943 },
+        { "headline": "Straight From Wisconsin", "link_clicks": 4316, "cpc": 0.09, "ctr": 5.37, "impressions": 124245 },
+        { "headline": "Meet Real Dough Pizza Co.", "link_clicks": 1722, "cpc": 0.11, "ctr": 4.35, "impressions": 75912 },
+        { "headline": "Your Go-To Pizzas, Upgraded", "link_clicks": 1465, "cpc": 0.15, "ctr": 3.33, "impressions": 59693 },
+        { "headline": "A Better Frozen Pizza", "link_clicks": 1206, "cpc": 0.16, "ctr": 2.52, "impressions": 64567 },
+        { "headline": "Pepperoni + Sausage, Done Right", "link_clicks": 1121, "cpc": 0.19, "ctr": 2.89, "impressions": 46572 },
+        { "headline": "Meet Real Dough Pizza Co. (Hy-Vee)", "link_clicks": 727, "cpc": 0.09, "ctr": 5.29, "impressions": 29026 },
+        { "headline": "Your Go-To Pizzas, Upgraded (Hy-Vee)", "link_clicks": 523, "cpc": 0.14, "ctr": 2.63, "impressions": 27759 },
+        { "headline": "Built on Real Sourdough", "link_clicks": 328, "cpc": 0.11, "ctr": 2.80, "impressions": 18152 },
+        { "headline": "Your Frozen Pizza Upgrade", "link_clicks": 221, "cpc": 0.16, "ctr": 2.77, "impressions": 8701 },
+        { "headline": "Straight From Wisconsin (Hy-Vee)", "link_clicks": 43, "cpc": 0.11, "ctr": 4.07, "impressions": 1549 }
+      ]
     },
     "google": {
-      "spend": 810.19,
-      "clicks": 2512,
+      "spend": 903.06,
+      "clicks": 2788,
       "cpc": 0.32,
-      "ctr": 2.3,
-      "impressions": 109095,
-      "cpm": 7.43,
+      "ctr": 2.19,
+      "impressions": 127046,
+      "cpm": 7.11,
       "campaigns": [
-        {
-          "name": "MM - Search - Real Dough - NB",
-          "clicks": 1219,
-          "cpc": 0.36,
-          "ctr": 1.65,
-          "impressions": 73813,
-          "cpm": 5.88,
-          "spend": 434.25
-        },
-        {
-          "name": "MM - Search - Real Dough - Branded",
-          "clicks": 828,
-          "cpc": 0.16,
-          "ctr": 15.35,
-          "impressions": 5394,
-          "cpm": 24.9,
-          "spend": 134.29
-        },
-        {
-          "name": "MM - Search - Real Dough - Competitors",
-          "clicks": 465,
-          "cpc": 0.52,
-          "ctr": 1.56,
-          "impressions": 29888,
-          "cpm": 8.09,
-          "spend": 241.65
-        }
+        { "name": "MM - Search - Real Dough - NB", "clicks": 1370, "cpc": 0.34, "ctr": 1.59, "impressions": 86115, "cpm": 5.40, "spend": 464.81 },
+        { "name": "MM - Search - Real Dough - Branded", "clicks": 887, "cpc": 0.17, "ctr": 12.39, "impressions": 7159, "cpm": 20.85, "spend": 149.24 },
+        { "name": "MM - Search - Real Dough - Competitors", "clicks": 531, "cpc": 0.54, "ctr": 1.57, "impressions": 33772, "cpm": 8.56, "spend": 289.01 }
+      ],
+      "top_search_terms": [
+        { "term": "real dough pizza", "clicks": 313, "cpc": 0.13, "ctr": 32.04, "impressions": 977 },
+        { "term": "real dough pizza co", "clicks": 264, "cpc": 0.13, "ctr": 27.36, "impressions": 965 },
+        { "term": "hot slice", "clicks": 96, "cpc": 0.57, "ctr": 24.55, "impressions": 391 },
+        { "term": "sourdough frozen pizza", "clicks": 59, "cpc": 0.42, "ctr": 24.08, "impressions": 245 },
+        { "term": "real dough frozen pizza", "clicks": 44, "cpc": 0.26, "ctr": 22.34, "impressions": 197 },
+        { "term": "screamin sicilian pizza", "clicks": 39, "cpc": 1.36, "ctr": 3.32, "impressions": 1173 },
+        { "term": "real dough pizza company", "clicks": 34, "cpc": 0.21, "ctr": 39.53, "impressions": 86 },
+        { "term": "real dough", "clicks": 31, "cpc": 0.20, "ctr": 29.81, "impressions": 104 },
+        { "term": "screamin sicilian", "clicks": 29, "cpc": 0.50, "ctr": 10.47, "impressions": 277 },
+        { "term": "papa frozen sourdough pizza", "clicks": 20, "cpc": 1.39, "ctr": 3.51, "impressions": 570 },
+        { "term": "sourdough pizza frozen", "clicks": 17, "cpc": 0.17, "ctr": 1.44, "impressions": 1178 }
       ]
-    }
+    },
+    "total_ad_spend": 3683.97
   },
   "audience": {
     "instagram": {
-      "followers": 406,
-      "new_followers": 153,
-      "engagement_rate_daily_avg": 1.93,
-      "gender_split": {
-        "female": 225,
-        "male": 125,
-        "unknown": 52
-      },
-      "top_age_group": "35-44 (169)",
-      "age_breakdown": [
-        {
-          "age": "35-44",
-          "followers": 169
-        },
-        {
-          "age": "25-34",
-          "followers": 106
-        },
-        {
-          "age": "45-54",
-          "followers": 61
-        },
-        {
-          "age": "55-64",
-          "followers": 26
+      "followers": 415,
+      "new_followers": 162,
+      "unfollows": 10,
+      "demographics": {
+        "gender": { "female": 56.34, "male": 30.73, "unknown": 12.93 },
+        "age": {
+          "35-44": 41.22,
+          "25-34": 27.07,
+          "45-54": 15.12,
+          "55-64": 6.34,
+          "65+": 5.12,
+          "18-24": 4.63,
+          "13-17": 0.49
         }
-      ]
+      }
     },
     "facebook": {
-      "post_impressions": 428096
+      "followers": 214,
+      "new_follows": 122,
+      "unfollows": 7,
+      "reactions": 629,
+      "comments": 10,
+      "shares": 10,
+      "post_engagements": 16479,
+      "engagement_rate": 0.14,
+      "reaction_breakdown": { "like": 584, "love": 28, "wow": 8, "haha": 8, "sorry": 0, "anger": 1 }
     },
     "youtube": {
-      "views": 4609,
-      "subscribers_gained": 9,
-      "avg_view_duration_seconds": 26.88
+      "views": 4718,
+      "avg_view_duration": "00:00:25",
+      "subscribers_gained": 9
     },
     "tiktok": {
-      "followers": 25,
-      "video_views": 2266
+      "followers": 26,
+      "video_views": 2508,
+      "likes": 76
     }
   },
   "top_posts": [
     {
       "platform": "tiktok",
-      "caption": "You see a cheese pizza called The Wisco Kid and don't even think twice.",
-      "views": 19505,
-      "avg_watch_time_sec": 2.07,
-      "likes": 556
+      "caption": "The Wisco Kid cheese pizza",
+      "views": 22836,
+      "likes": 644
     },
     {
       "platform": "tiktok",
-      "caption": "POV: you go to the grocery store for groceries and leave with a new pizza obsession.",
-      "views": 7792,
-      "avg_watch_time_sec": 1.48,
-      "likes": 312
+      "caption": "POV: grocery store new pizza obsession",
+      "views": 9329,
+      "likes": 360
+    },
+    {
+      "platform": "tiktok",
+      "caption": "Pro Tips (keep frozen, center rack, cooling rack)",
+      "views": 8970,
+      "likes": 288
     },
     {
       "platform": "youtube",
-      "title": "Sourdough Frozen Pizza ASMR 🍕",
-      "views": 2084,
-      "avg_view_duration_sec": 12,
-      "avg_view_pct": 120.23,
-      "likes": 13
+      "title": "Sourdough Frozen Pizza ASMR",
+      "views": 2157,
+      "avg_view_pct": 119.19,
+      "url": "https://www.youtube.com/watch?v=k12wmEj934w"
     },
     {
       "platform": "youtube",
       "title": "Frozen Pizza Grocery Haul",
       "views": 1586,
-      "avg_view_duration_sec": 11,
       "avg_view_pct": 126.92,
-      "likes": 10
-    },
-    {
-      "platform": "facebook",
-      "message": "You're either the one paying for all the pizzas…or the one stocking up.",
-      "reach": 159,
-      "engagement": 59,
-      "engagement_rate": 37.11
+      "url": "https://www.youtube.com/watch?v=2irJ-B_V2rs"
     },
     {
       "platform": "instagram",
-      "message": "Three best friends. One seriously good crust. (photoshoot BTS reel)",
-      "url": "https://www.instagram.com/reel/DVYuXmmgMBG/",
-      "reach": 407,
+      "caption": "BTS first Real Dough shoot",
+      "reach": 438,
       "engagement": 37,
-      "engagement_rate": 14.4
+      "engagement_rate": 14.40,
+      "url": "https://www.instagram.com/reel/DVYuXmmgMBG/"
     },
     {
-      "platform": "facebook_reel",
-      "message": "Errands done. Dinner covered. (Sendik's errand reel)",
-      "url": "https://www.facebook.com/reel/939448078453187/",
-      "reach": 198,
-      "avg_view_time_ms": 7867
+      "platform": "instagram",
+      "caption": "You're either paying or stocking up",
+      "reach": 478,
+      "engagement": 27,
+      "engagement_rate": 7.36,
+      "url": "https://www.instagram.com/reel/DWB0HtolIXZ/"
+    },
+    {
+      "platform": "facebook",
+      "message": "You're either the one paying for all the pizzas… or the one stocking up.",
+      "reach": 178,
+      "engagement": 59,
+      "engagement_rate": 33.15,
+      "url": "https://www.facebook.com/reel/1309745711211236/"
+    },
+    {
+      "platform": "facebook",
+      "message": "For nights when you need practical — Okie Dokie Artichokie",
+      "reach": 201,
+      "engagement": 21,
+      "engagement_rate": 10.45,
+      "url": "https://www.facebook.com/reel/819073693813486/"
     }
   ],
-  "google_campaigns": [
-    {
-      "name": "MM - Search - Real Dough - NB",
-      "clicks": 1219,
-      "cpc": 0.36,
-      "ctr": 1.65,
-      "impressions": 73813,
-      "cpm": 5.88,
-      "spend": 434.25
-    },
-    {
-      "name": "MM - Search - Real Dough - Branded",
-      "clicks": 828,
-      "cpc": 0.16,
-      "ctr": 15.35,
-      "impressions": 5394,
-      "cpm": 24.9,
-      "spend": 134.29
-    },
-    {
-      "name": "MM - Search - Real Dough - Competitors",
-      "clicks": 465,
-      "cpc": 0.52,
-      "ctr": 1.56,
-      "impressions": 29888,
-      "cpm": 8.09,
-      "spend": 241.65
-    }
-  ],
-  "patterns": [
-    "TikTok Wisco Kid video is the breakout content this month at 19,505 views — 2.5x the next closest. Short identity-hook format is clearly working.",
-    "YouTube ASMR content continues to overperform: Sourdough Frozen Pizza ASMR at 120% avg view percentage (viewers replaying), Grocery Haul at 127% — both indicate looping behavior.",
-    "Facebook humorous/relatable posts massively outperform brand posts: payoff post (37.11% ER) vs avg FB ER ~11%. Inject more of this voice.",
-    "Meta Ads efficiency remains exceptional: CPC $0.13 vs industry avg $0.50-0.75 (74% below avg), CTR 3.45% vs 1-2% industry avg (2x+).",
-    "Instagram audience is strongly Female 35-44 (42% of followers). Content featuring practical dinner solutions and ingredient transparency performs best with this demo.",
-    "Google Branded search shows 15.35% CTR — strong brand awareness. Non-branded at 1.65% has room to grow via more awareness content.",
-    "Facebook Reels with errand/lifestyle context (Sendik's run) generating strong avg view times (7,867ms). Real-life usage scenarios resonate."
-  ],
-  "meta_ads_live_mar30": {
-    "note": "Values visible in Whatagraph browser as of 2026-03-30 (3 days ahead of XLSX)",
-    "impressions": 663727,
-    "clicks": 22967,
-    "cpc": 0.13,
-    "ctr": 3.46,
-    "reach": 343515,
-    "link_clicks": 15799,
-    "cost_per_link_click": 0.19,
-    "frequency": 1.93
+  "changes_vs_previous": {
+    "note": "Compared to 03/27 XLSX data (last 4 days of month added)",
+    "meta_impressions": { "was": 634918, "now": 677119, "delta_pct": 6.6 },
+    "meta_clicks": { "was": 21908, "now": 23453, "delta_pct": 7.0 },
+    "meta_reach": { "was": 335315, "now": 346252, "delta_pct": 3.3 },
+    "google_spend": { "was": 810.19, "now": 903.06, "delta_pct": 11.5 },
+    "google_clicks": { "was": 2512, "now": 2788, "delta_pct": 11.0 },
+    "instagram_followers": { "was": 406, "now": 415, "delta_pct": 2.2 },
+    "instagram_new_followers": { "was": 153, "now": 162, "delta_pct": 5.9 },
+    "facebook_followers": { "was": 206, "now": 214, "delta_pct": 3.9 }
   }
 }
