@@ -1,0 +1,38 @@
+{
+  "date": "2026-04-01",
+  "time": "18:00Z",
+  "sentiment_scores": {
+    "merriment-social": {
+      "rating": 4.4,
+      "totalRatings": 889,
+      "sampleAvg": 4.4,
+      "sentiment": "positive",
+      "trend": "stable"
+    },
+    "third-coast": {
+      "rating": 4.5,
+      "totalRatings": 504,
+      "sampleAvg": 4.0,
+      "sentiment": "mixed",
+      "trend": "stable",
+      "flags": ["2-star review from Korinne Mack — service complaint (solo diner ignored), food too salty"]
+    },
+    "flourchild": {
+      "rating": 4.5,
+      "totalRatings": 291,
+      "sampleAvg": 4.4,
+      "sentiment": "positive",
+      "trend": "stable",
+      "flags": ["2-star review from Jim Whitaker — pizza crust dry/stale, sauce lacked flavor"]
+    },
+    "loon-room": {
+      "rating": 4.7,
+      "totalRatings": 35,
+      "sampleAvg": 4.8,
+      "sentiment": "very positive",
+      "trend": "stable"
+    }
+  },
+  "alerts": [],
+  "notes": "No new reviews since previous fetch (12:00Z). Same review set across all locations."
+}
