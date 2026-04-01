@@ -46,13 +46,13 @@
         "language": "en"
       }
     ],
-    "fetchedAt": "2026-03-31T12:00:14.581Z"
+    "fetchedAt": "2026-04-01T00:00:25.613Z"
   },
   "third-coast": {
     "name": "Third Coast Provisions",
     "placeId": "ChIJy7ywKwgZBYgRZYReh5Sd9hA",
     "rating": 4.5,
-    "totalRatings": 503,
+    "totalRatings": 504,
     "reviews": [
       {
         "author": "Korinne Mack",
@@ -95,7 +95,7 @@
         "language": "en"
       }
     ],
-    "fetchedAt": "2026-03-31T12:00:14.581Z"
+    "fetchedAt": "2026-04-01T00:00:25.613Z"
   },
   "flourchild": {
     "name": "Flourchild Pizza",
@@ -144,7 +144,7 @@
         "language": "en"
       }
     ],
-    "fetchedAt": "2026-03-31T12:00:14.581Z"
+    "fetchedAt": "2026-04-01T00:00:25.613Z"
   },
   "loon-room": {
     "name": "The Loon Room",
@@ -193,6 +193,6 @@
         "language": "en"
       }
     ],
-    "fetchedAt": "2026-03-31T12:00:14.581Z"
+    "fetchedAt": "2026-04-01T00:00:25.613Z"
   }
 }
