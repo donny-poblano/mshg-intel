@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-01",
+  "type": "daily",
+  "generated_at": "2026-04-01T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Buddy's Pizza (Detroit)",
+      "action": "Acquired by Detroit-area investors (Saber Ammori, Andrew Dickow, Kevin Denha) on March 31 with explicit plans to expand frozen pizza offerings nationwide in grocery stores. 80-year Detroit legacy brand entering the frozen aisle as a new premium competitor.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://wcsx.com/2026/03/31/buddys-pizza-acquired-by-detroit-investors-focused-on-quality-and-frozen-products/",
+      "first_reported": "2026-04-01",
+      "status": "new",
+      "notes": "Another restaurant-to-frozen play — same general playbook as Rao's. Buddy's has deep Detroit-style equity. If they execute on national grocery, they'll compete in the premium 'restaurant pedigree' lane. Real Dough's differentiation: sourdough fermentation story + Wisconsin craft vs. Detroit deep-dish legacy. Watch for their retail launch timeline and which chains they target."
+    },
+    {
+      "name": "Palermo's Villa (Screamin' Sicilian parent)",
+      "action": "Announced new frozen pizza manufacturing plant in Wisconsin to meet surging demand, addressing 2025 supply shortages. Also riding momentum from Chicago Bears 'Holy Cow!' limited-edition partnership that boosted Q1 sales ~15%.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.screamin-sicilian.com",
+      "first_reported": "2026-04-01",
+      "status": "new",
+      "notes": "Palermo's expanding Wisconsin production capacity is directly relevant — they're a Wisconsin neighbor and compete for shelf space in Real Dough's home market. The Bears partnership shows smart sports/cultural marketing. Real Dough should monitor which retailers Palermo's targets with increased supply and whether new capacity means more aggressive shelf placement bids."
+    },
+    {
+      "name": "Conagra Brands",
+      "action": "Q3 FY2026 earnings (reported April 1): Refrigerated & Frozen segment posted 3.6% organic net sales growth to $1.1B. Gained volume share in frozen single-serve meals, vegetables, handhelds. Overall organic net sales +2.4%. Adjusted EPS $0.39 (down 23.5% YoY). Gross margin declined 141bps on COGS inflation.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.prnewswire.com/news-releases/conagra-brands-reports-third-quarter-results-302730636.html",
+      "first_reported": "2026-04-01",
+      "status": "updated",
+      "notes": "Previously reported Conagra's $450M capex commitment (March 30). Today's earnings confirm their frozen bet is working on the top line (+3.6%) but margin pressure is real (141bps gross margin decline). This validates the category-wide ingredient inflation pressure — even a $12B company is feeling it. For Real Dough: Conagra's price/mix increase of 3.7% signals the entire category is pushing prices up, which gives premium brands more room to hold premium pricing without sticker shock."
+    },
+    {
+      "name": "Katie's Pizza (St. Louis)",
+      "action": "Gained significant attention at Natural Products Expo West 2026 (late March) for premium frozen pizza and pasta sauce line. Positioned as high-end restaurant-quality frozen, signaling continued growth of the premium frozen pizza sub-category.",
+      "category": "new_product",
+      "relevance_score": 5,
+      "source_url": "https://www.naturalfoodretailers.com/blogs/madeleine-ware/2026/03/31/inside-expo-west-2026-innovation-insight-connectio",
+      "first_reported": "2026-04-01",
+      "status": "new",
+      "notes": "Another restaurant-to-frozen brand, this time from St. Louis. Expo West buzz is a leading indicator of natural/specialty retail distribution deals. Real Dough should be at Expo West 2027 — it's the #1 venue for getting in front of Whole Foods, Sprouts, and natural grocers' buyers."
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Protein-forward positioning becoming dominant CPG macro trend",
+      "direction": "up",
+      "magnitude": "Google Trends 'protein' at record highs in 2026. 62% of consumers likely to order from protein-rich menu sections.",
+      "context": "Protein density has overtaken calorie count as the primary metric consumers use to evaluate food healthiness. Chipotle launched High Protein Menu across 4,000+ locations. Smoothie King pivoting to 32g protein bowls. This macro trend creates both opportunity and risk for frozen pizza: opportunity if Real Dough can credibly claim protein content (whole-milk mozzarella, real meat toppings), risk if protein-obsessed consumers deprioritize pizza as a category. The Yough Greek yogurt dough play (previously reported) is the most direct expression of this trend in frozen pizza.",
+      "source_url": "https://source86.com/source86-com-protein-trend-2026-food-brands-qsr-supply-chain/"
+    },
+    {
+      "topic": "Expo West 2026: No sourdough frozen pizza trend visible",
+      "direction": "stable",
+      "magnitude": "Zero sourdough frozen pizza entries at the industry's largest natural products trade show",
+      "context": "Despite sourdough's consumer appeal, no brand other than Dr. Oetker (UK only) is pushing sourdough frozen pizza in natural/specialty channels. Expo West 2026 focused on protein, seed oil-free, fiber, and indulgent-functional. This is actually bullish for Real Dough — the sourdough fermentation story is genuinely differentiated, not yet commoditized. Window of opportunity remains open but won't last forever.",
+      "source_url": "https://blog.melissau.com/p/best-of-expo-west-2026"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Conagra Refrigerated & Frozen Q3 FY2026 net sales",
+      "value": "$1.1B (+3.6% organic)",
+      "change": "+3.6% YoY organic",
+      "source_url": "https://www.prnewswire.com/news-releases/conagra-brands-reports-third-quarter-results-302730636.html"
+    },
+    {
+      "metric": "Conagra overall gross margin pressure",
+      "value": "-141bps YoY on COGS inflation",
+      "change": "-141bps",
+      "source_url": "https://www.prnewswire.com/news-releases/conagra-brands-reports-third-quarter-results-302730636.html"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Buddy's Pizza acquired — new frozen pizza national expansion play",
+      "urgency": "medium",
+      "context": "Detroit's 80-year-old Buddy's Pizza acquired by local investors with stated goal of national frozen grocery expansion. Another restaurant brand entering Real Dough's lane.",
+      "source_url": "https://wcsx.com/2026/03/31/buddys-pizza-acquired-by-detroit-investors-focused-on-quality-and-frozen-products/"
+    }
+  ]
+}
