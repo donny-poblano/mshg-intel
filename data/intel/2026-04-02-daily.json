@@ -1,0 +1,88 @@
+{
+  "date": "2026-04-02",
+  "type": "daily",
+  "generated_at": "2026-04-02T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Screamin' Sicilian (Palermo's)",
+      "action": "Launched two new flavors — 'Holy Pepperoni' (extra-loaded pepperoni with spicy honey drizzle) and 'Buffalo Chicken Ranch' — exclusively at Walmart and Target in Q1 2026. Reported 15% sales increase in 2025 (IRI data). Viral TikTok challenge #ScreamForSicilian in March 2026 boosted social mentions ~40%. Sustainable packaging with recyclable trays announced for summer 2026.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.screaminsicilian.com",
+      "first_reported": "2026-04-02",
+      "status": "new",
+      "notes": "The spicy honey drizzle on 'Holy Pepperoni' directly mirrors the hot honey trend Real Dough already owns with Peppin' Ain't Easy. Screamin' Sicilian is copying the flavor profile — validates the trend but creates direct shelf competition. Their TikTok virality strategy is worth studying. The Walmart/Target exclusive launch shows they're going mass-market while Real Dough targets premium/specialty."
+    },
+    {
+      "name": "Lucia's (Costco)",
+      "action": "New Lucia's St. Louis Style Mega Meat Pizza 3-pack launched at Costco in April 2026 at $16.49. Premium positioning in warehouse channel.",
+      "category": "new_product",
+      "relevance_score": 5,
+      "source_url": "https://www.tastingtable.com/2137762/best-new-costco-products-april-2026/",
+      "first_reported": "2026-04-02",
+      "status": "new",
+      "notes": "Another regional pizza brand entering Costco's frozen section. St. Louis style is niche but the $5.50/pizza price point at warehouse clubs shows where premium frozen is landing for club stores. Worth monitoring if Real Dough pursues Costco distribution."
+    },
+    {
+      "name": "Papa Johns",
+      "action": "Closing ~300 underperforming North American stores. Launched $7.99 oven-toasted sandwiches on March 30 to pivot toward value seekers. 2025 North America comp sales down 2%; net income fell to $32M from $84M. Domino's franchisee North County Pizza filed Chapter 11 in March 2026.",
+      "category": "expansion",
+      "relevance_score": 6,
+      "source_url": "https://www.thestreet.com/restaurants/papa-johns-debuts-7-99-oven-toasted-sandwiches-to-win-back-customers",
+      "first_reported": "2026-04-02",
+      "status": "new",
+      "notes": "Restaurant pizza chains are hurting. Consumers trading down from delivery to frozen pizza is a macro tailwind for the entire frozen pizza category including Real Dough. Average consumer spending on food-away-from-home dropped from $115/week (June 2025) to $90/week (Feb 2026). 68% of consumers cutting back on restaurant dining. This is the rising tide that lifts frozen pizza boats."
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Consumer trade-down from restaurant to frozen pizza accelerating",
+      "direction": "up",
+      "magnitude": "Food-away-from-home spending down 22% ($115→$90/week) since mid-2025; 68% of consumers cutting restaurant dining",
+      "context": "Economic pressure driving families from restaurant delivery to frozen pizza. Papa Johns closing 300 stores, Domino's franchisees filing bankruptcy. Frozen pizza is the direct beneficiary of the restaurant pizza pullback. This macro shift is structural, not seasonal — tariff-driven inflation and $1,500/year higher food costs are pushing consumers to seek value in the frozen aisle. Real Dough's premium positioning actually benefits: consumers are 'trading down' from $25 delivery but 'trading up' within frozen to feel like they're not sacrificing quality.",
+      "source_url": "https://www.thestreet.com/restaurants/papa-johns-debuts-7-99-oven-toasted-sandwiches-to-win-back-customers"
+    },
+    {
+      "topic": "Tariff-driven food inflation peaking April–October 2026",
+      "direction": "up",
+      "magnitude": "Food prices +2.9% YoY (Jan 2026); cheese +12% in 2026 (USDA); extra $1,500/year household food cost",
+      "context": "Yale Budget Lab projects 76-100% tariff pass-through to consumers hitting peak impact April-October 2026. Sugar/sweets up 5.7% YoY, projected +6.7% more in 2026. Cheese inflation at 12% directly impacts frozen pizza COGS. For Real Dough: ingredient costs are rising across the board but the entire category is raising prices (~$1/box across brands), which provides cover for premium pricing. The key risk is if inflation pushes consumers from premium frozen back to value/store-brand frozen.",
+      "source_url": "https://www.cfr.org/articles/a-year-after-liberation-day-experts-review-the-costs-of-trumps-tariffs"
+    },
+    {
+      "topic": "MAHA initiative pushing clean-label regulatory pressure on CPG",
+      "direction": "up",
+      "magnitude": "Active state-level legislation targeting ultra-processed foods, artificial dyes, front-of-pack labeling",
+      "context": "SNX 2026 conference (March 29-31) highlighted five challenges from Make America Healthy Again initiative: UPF definitions, natural dye mandates, front-of-pack labeling requirements. No FDA/USDA official UPF definition yet but state-level interpretations are accelerating. This is bullish for Real Dough — clean ingredients, real sourdough fermentation, no artificial anything positions them ahead of regulatory trends. Competitors relying on artificial ingredients face reformulation costs and timeline pressure.",
+      "source_url": "https://commercialbaking.com/5-ways-maha-is-impacting-snack-makers/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "US consumer food-away-from-home weekly spending",
+      "value": "$90/week (Feb 2026), down from $115 (June 2025)",
+      "change": "-21.7% in 8 months",
+      "source_url": "https://www.thestreet.com/restaurants/papa-johns-debuts-7-99-oven-toasted-sandwiches-to-win-back-customers"
+    },
+    {
+      "metric": "Tariff-driven annual household food cost increase",
+      "value": "+$1,500/year under full 2025 tariffs (Yale Budget Lab estimate)",
+      "change": "Peak pass-through April–October 2026",
+      "source_url": "https://budgetlab.yale.edu/research/tracking-economic-effects-tariffs"
+    },
+    {
+      "metric": "US cheese prices 2026",
+      "value": "+12% YoY (USDA)",
+      "change": "+12%",
+      "source_url": "https://www.cfr.org/articles/a-year-after-liberation-day-experts-review-the-costs-of-trumps-tariffs"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Bakkavor recalls 25,000+ cases of frozen pizza/focaccia across 10 states — metal fragments",
+      "urgency": "medium",
+      "context": "Affects Trader Joe's Roasted Tomato & Parm Focaccia, HelloFresh Basil Pesto & Mozzarella Pizza, Frederik's by Meijer, Harris Teeter, Fresh & Simple brands. FDA Class II. Products in AZ, CA, CT, FL, IL, MI, NC, NJ, TX, VA with use-by dates through Sept 2026. No injuries reported. Creates temporary shelf disruption and consumer trust gap in affected retailers — potential opportunity for brands with strong quality/safety narratives.",
+      "source_url": "https://www.foxbusiness.com/lifestyle/pizza-bread-recall-10-states-metal-contamination-fda"
+    }
+  ]
+}
