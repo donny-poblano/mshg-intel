@@ -3,7 +3,7 @@
     "name": "Merriment Social",
     "placeId": "ChIJTcyxrKQZBYgR39Ydj-fWyG8",
     "rating": 4.4,
-    "totalRatings": 889,
+    "totalRatings": 890,
     "reviews": [
       {
         "author": "Michelle",
@@ -46,7 +46,7 @@
         "language": "en"
       }
     ],
-    "fetchedAt": "2026-04-02T06:01:22.956Z"
+    "fetchedAt": "2026-04-02T12:01:12.988Z"
   },
   "third-coast": {
     "name": "Third Coast Provisions",
@@ -95,7 +95,7 @@
         "language": "en"
       }
     ],
-    "fetchedAt": "2026-04-02T06:01:22.956Z"
+    "fetchedAt": "2026-04-02T12:01:12.988Z"
   },
   "flourchild": {
     "name": "Flourchild Pizza",
@@ -144,7 +144,7 @@
         "language": "en"
       }
     ],
-    "fetchedAt": "2026-04-02T06:01:22.956Z"
+    "fetchedAt": "2026-04-02T12:01:12.988Z"
   },
   "loon-room": {
     "name": "The Loon Room",
@@ -193,6 +193,6 @@
         "language": "en"
       }
     ],
-    "fetchedAt": "2026-04-02T06:01:22.956Z"
+    "fetchedAt": "2026-04-02T12:01:12.988Z"
   }
 }

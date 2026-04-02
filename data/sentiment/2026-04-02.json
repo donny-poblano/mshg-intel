@@ -1,47 +1,42 @@
 {
   "date": "2026-04-02",
-  "fetchedAt": "2026-04-02T06:01:22.956Z",
-  "sentiment_scores": {
-    "merriment-social": {
-      "name": "Merriment Social",
-      "rating": 4.4,
-      "totalRatings": 889,
-      "recentAvg": 4.4,
-      "recentBreakdown": { "5star": 3, "4star": 1, "3star": 1, "2star": 0, "1star": 0 },
-      "sentiment": "positive",
-      "trend": "stable"
-    },
-    "third-coast": {
-      "name": "Third Coast Provisions",
-      "rating": 4.5,
-      "totalRatings": 504,
-      "recentAvg": 4.0,
-      "recentBreakdown": { "5star": 3, "4star": 0, "3star": 1, "2star": 1, "1star": 0 },
-      "sentiment": "mostly_positive",
-      "trend": "stable",
-      "flags": ["2-star review from Korinne Mack (1 month ago) — poor service as solo diner, salty food"]
-    },
-    "flourchild": {
-      "name": "Flourchild Pizza",
-      "rating": 4.5,
-      "totalRatings": 291,
-      "recentAvg": 4.4,
-      "recentBreakdown": { "5star": 4, "4star": 0, "3star": 0, "2star": 1, "1star": 0 },
-      "sentiment": "mostly_positive",
-      "trend": "stable",
-      "flags": ["2-star review from Jim Whitaker (7 months ago) — dry crust, bland sauce"]
-    },
-    "loon-room": {
-      "name": "The Loon Room",
-      "rating": 4.7,
-      "totalRatings": 35,
-      "recentAvg": 4.8,
-      "recentBreakdown": { "5star": 4, "4star": 1, "3star": 0, "2star": 0, "1star": 0 },
-      "sentiment": "very_positive",
-      "trend": "stable"
-    }
+  "fetchedAt": "2026-04-02T12:01:12.988Z",
+  "ratings": {
+    "merriment-social": { "rating": 4.4, "totalRatings": 890, "previousTotal": 889, "trend": "stable" },
+    "third-coast": { "rating": 4.5, "totalRatings": 504, "previousTotal": 504, "trend": "stable" },
+    "flourchild": { "rating": 4.5, "totalRatings": 291, "previousTotal": 291, "trend": "stable" },
+    "loon-room": { "rating": 4.7, "totalRatings": 35, "previousTotal": 35, "trend": "stable" }
   },
-  "newReviews": false,
-  "alertsSent": false,
-  "notes": "No changes from previous fetch. All ratings stable."
+  "reviewSentiment": {
+    "merriment-social": [
+      { "author": "Michelle", "rating": 4, "sentiment": "positive" },
+      { "author": "Tiffany David", "rating": 5, "sentiment": "positive" },
+      { "author": "S. Krug", "rating": 3, "sentiment": "mixed", "issues": ["pricing surcharge", "oversweet brussels sprouts"] },
+      { "author": "BryDeV", "rating": 5, "sentiment": "positive" },
+      { "author": "Kate Quinn", "rating": 5, "sentiment": "positive" }
+    ],
+    "third-coast": [
+      { "author": "Korinne Mack", "rating": 2, "sentiment": "negative", "issues": ["ignored by bartender as solo diner", "salty food", "underwhelming shrimp cocktail"] },
+      { "author": "Maxi Harmon", "rating": 5, "sentiment": "positive" },
+      { "author": "Samantha Baldyga", "rating": 5, "sentiment": "positive" },
+      { "author": "stuartwogs", "rating": 3, "sentiment": "mixed", "issues": ["overcooked scallops", "underseasoned"] },
+      { "author": "A small elf", "rating": 5, "sentiment": "positive" }
+    ],
+    "flourchild": [
+      { "author": "Jim Whitaker", "rating": 2, "sentiment": "negative", "issues": ["dry/stale crust", "flavorless sauce", "poor value"] },
+      { "author": "Alandra Nyree", "rating": 5, "sentiment": "positive" },
+      { "author": "Alicia Richter", "rating": 5, "sentiment": "positive" },
+      { "author": "Lisa Ridenour", "rating": 5, "sentiment": "positive" },
+      { "author": "Gabriel Huff", "rating": 5, "sentiment": "positive" }
+    ],
+    "loon-room": [
+      { "author": "Nick Wolf", "rating": 4, "sentiment": "mixed", "issues": ["pedestrian charcuterie", "same entree forced for table", "cafeteria plates"] },
+      { "author": "Henry Schellhorn", "rating": 5, "sentiment": "positive" },
+      { "author": "Lesli Jennings", "rating": 5, "sentiment": "positive" },
+      { "author": "Sam Miller", "rating": 5, "sentiment": "positive" },
+      { "author": "Jordan Llanas", "rating": 5, "sentiment": "positive" }
+    ]
+  },
+  "alerts": [],
+  "notes": "Merriment Social gained 1 new review (889→890), rating held at 4.4. No new ≤2 star reviews since last fetch. Existing 2-star reviews (Korinne Mack @ Third Coast, Jim Whitaker @ Flourchild) were already present in previous run."
 }
