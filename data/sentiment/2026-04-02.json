@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-02",
+  "fetchedAt": "2026-04-02T06:01:22.956Z",
+  "sentiment_scores": {
+    "merriment-social": {
+      "name": "Merriment Social",
+      "rating": 4.4,
+      "totalRatings": 889,
+      "recentAvg": 4.4,
+      "recentBreakdown": { "5star": 3, "4star": 1, "3star": 1, "2star": 0, "1star": 0 },
+      "sentiment": "positive",
+      "trend": "stable"
+    },
+    "third-coast": {
+      "name": "Third Coast Provisions",
+      "rating": 4.5,
+      "totalRatings": 504,
+      "recentAvg": 4.0,
+      "recentBreakdown": { "5star": 3, "4star": 0, "3star": 1, "2star": 1, "1star": 0 },
+      "sentiment": "mostly_positive",
+      "trend": "stable",
+      "flags": ["2-star review from Korinne Mack (1 month ago) — poor service as solo diner, salty food"]
+    },
+    "flourchild": {
+      "name": "Flourchild Pizza",
+      "rating": 4.5,
+      "totalRatings": 291,
+      "recentAvg": 4.4,
+      "recentBreakdown": { "5star": 4, "4star": 0, "3star": 0, "2star": 1, "1star": 0 },
+      "sentiment": "mostly_positive",
+      "trend": "stable",
+      "flags": ["2-star review from Jim Whitaker (7 months ago) — dry crust, bland sauce"]
+    },
+    "loon-room": {
+      "name": "The Loon Room",
+      "rating": 4.7,
+      "totalRatings": 35,
+      "recentAvg": 4.8,
+      "recentBreakdown": { "5star": 4, "4star": 1, "3star": 0, "2star": 0, "1star": 0 },
+      "sentiment": "very_positive",
+      "trend": "stable"
+    }
+  },
+  "newReviews": false,
+  "alertsSent": false,
+  "notes": "No changes from previous fetch. All ratings stable."
+}
