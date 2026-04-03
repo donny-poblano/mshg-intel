@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-03",
+  "week": "2026-W14",
+  "headline": "Ad efficiency best-in-class, sourdough trend accelerating, GIFTCARD QBO mapping still open, Flourchild 2-star review warrants monitoring",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Meta CPC at $0.13 YTD — industry avg is $0.50–$0.75, meaning paid ads are running 4–6x more efficiently than benchmark",
+        "'Straight From Wisconsin' creative is the efficiency leader: $0.09 CPC and 5.73% CTR — best-performing asset in the account",
+        "YouTube ASMR video at 118% avg view completion (rewatches confirmed) — 2,206 views and Grocery Haul at 126% completion; format is working",
+        "Instagram grew 297 new followers YTD (from near-zero), 35-44 female core audience solidifying",
+        "Sourdough/fermented pizza trend is accelerating in foodservice nationally — Real Dough's fermentation story is gaining cultural tailwinds",
+        "Frozen food shelf space up 15-20% YoY at major retailers — favorable timing for distribution expansion conversations"
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Flourchild Pizza has a recent 2-star Google review (Jul 2026 timestamp in dataset) citing 'extremely dry and stale crust' and 'sauce lacked flavor' — worth flagging to ops/FOH team",
+        "Meta is allocating 25.8% of ad budget to the 65+ age group, which does not match the 35-44 female core buyer demo on Instagram — misaligned spend",
+        "Sendiks geo-targeted ads are running at $1.51 CPC vs $0.16 for broad audience — 10x cost penalty from over-narrowing geography",
+        "Real Dough is not appearing in any editorial frozen pizza taste tests (Food & Wine, Sporked, YouTube taste channels) — Tombstone just won Food & Wine, Dr. Oetker/Rao's winning press coverage; missed earned media",
+        "Dr. Oetker Suprema sourdough line (UK) tracking toward potential US rollout — direct competitor on fermentation positioning; timeline unknown but worth monitoring quarterly",
+        "Merriment Social GIFTCARD payment type ($34.62) still not mapped in QBO — journal entry imbalance of $27.91 on Mar 27 persists",
+        "GLP-1 drugs at 12.4% US adult adoption — pizza/pasta cited as reduced-craving category; macro headwind for overall frozen pizza volume"
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "AGENCY: Shift Meta budget allocation away from 65+ demo toward 25-44 — current 65+ weighting ($1,368 YTD, 25.8%) is misaligned with actual buyer",
+        "AGENCY: Scale up 'Straight From Wisconsin' creative — it's the most efficient asset ($0.09 CPC, 5.73% CTR) and is underinvested vs 'No More Cardboard Crust'",
+        "AGENCY: Fix Sendiks geo targeting — expand from retailer-specific to broader Milwaukee metro to reduce $1.51 CPC to normal range",
+        "AGENCY: Increase Google Branded campaign budget — $0.19 CPC with 10.41% CTR is the most efficient search buy; only $277 spent YTD vs $1,060 on NB",
+        "MARKETING: Submit product samples to Food & Wine, Sporked, and Taste Panel YouTube for editorial taste test consideration",
+        "MARKETING: Develop ASMR video series for YouTube (4–6 episodes: slice, pour, bake, crust crunch) — format proven at 118% completion rate",
+        "OPS: Map GIFTCARD payment type in QBO for Merriment Social to clear Mar 27 journal entry imbalance",
+        "CONTENT: Produce monthly Pro Tips / Tutorial videos for all platforms — format is #1 or #2 on every channel (IG, FB, TikTok)"
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "Origin/authenticity angle: 'Straight From Wisconsin' is the most efficient Meta creative ($0.09 CPC, 5.73% CTR — significantly outpacing all others). Tutorial and 'Pro Tips' content consistently tops engagement on every platform. ASMR/texture video format on YouTube earning rewatches (118%+ completion). Relatable humor on TikTok (2.4x views vs next post).",
+    "what_didnt": "Retailer-specific geo targeting on Meta is costing 10x more per click — Sendiks campaigns running $1.51 CPC vs $0.16 for broad audience. Age targeting skewed too old: 65+ receiving 26% of budget despite 35-44 female being the core Instagram audience. Generic brand intro posts without story or specificity consistently underperform.",
+    "recommendation": "Three creative priorities for next period: (1) Build out a 'Straight From Wisconsin' story series — the origin/authenticity hook is the strongest signal in the data; (2) Develop 4–6 YouTube ASMR episodes (slice, pour, bake, crack) — this format is generating rewatches, which is rare; (3) Test founder narrative posts with paid boost of $500–$1,000 — these posts have the highest engagement rates (35–37% ER) but limited organic reach. Shift Meta age targeting to 25–44 and expand Sendiks geo from store-level to Milwaukee metro area.",
+    "competitive_context": "Rao's (now Campbell's-backed) is competing in the same premium-clean-label niche with full CPG distribution muscle. Tombstone just won Food & Wine's best frozen pizza despite being a value brand — editorial taste tests are high-leverage earned media and Real Dough is not in them yet. Dr. Oetker's Suprema sourdough range (UK) remains the most direct positioning threat if it reaches US. The sourdough pizza movement is accelerating in US foodservice (NJ Pizza Bowl champion used naturally leavened dough) — Real Dough is uniquely positioned as the artisan-to-freezer bridge."
+  },
+  "data_quality": {
+    "missing": [
+      "Operations data only covers Merriment Social (Mar 27, Mar 29) — no data for Third Coast Provisions, Flourchild, or Loon Room this period",
+      "Intel daily files for Mar 28, Apr 1, Apr 2 not incorporated in this summary (Mar 30 weekly and Apr 3 daily were primary sources)",
+      "TikTok follower count (28) and analytics suggest very early-stage data; trends not statistically significant yet",
+      "Week-over-week ad performance comparison limited — YTD figures include Jan-Feb data making direct WoW delta unreliable"
+    ],
+    "stale": [
+      "Keyword performance data (Google Search Terms) covers full YTD Jan 1–Apr 2 — no isolated weekly view available"
+    ],
+    "anomalies": [
+      "YouTube avg view percentage >100% on ASMR (118%) and Grocery Haul (126.78%) indicates rewatches — expected behavior, not a data error",
+      "Merriment Social reviews in dataset show 'relativeTime' values ranging from months to over a year — freshness of review data uncertain; most concerning review (dry crust at Flourchild) is attributed to 'Jim Whitaker' with a 7-month-ago timestamp"
+    ]
+  }
+}
