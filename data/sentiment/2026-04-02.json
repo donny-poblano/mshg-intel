@@ -1,13 +1,38 @@
 {
   "date": "2026-04-02",
-  "fetchedAt": "2026-04-02T18:01:18.845Z",
-  "ratings": {
-    "merriment-social": { "rating": 4.4, "totalRatings": 890, "trend": "stable" },
-    "third-coast": { "rating": 4.5, "totalRatings": 504, "trend": "stable" },
-    "flourchild": { "rating": 4.5, "totalRatings": 291, "trend": "stable" },
-    "loon-room": { "rating": 4.7, "totalRatings": 35, "trend": "stable" }
+  "fetchedAt": "2026-04-03T00:01:12.581Z",
+  "scores": {
+    "merriment-social": {
+      "rating": 4.4,
+      "totalRatings": 890,
+      "recentSentiment": "positive",
+      "recentAvg": 4.4,
+      "trend": "stable"
+    },
+    "third-coast": {
+      "rating": 4.5,
+      "totalRatings": 504,
+      "recentSentiment": "mixed",
+      "recentAvg": 4.0,
+      "trend": "stable",
+      "flags": ["2-star review from Korinne Mack (service complaint, solo diner ignored) — ~1 month old, previously reported"]
+    },
+    "flourchild": {
+      "rating": 4.5,
+      "totalRatings": 291,
+      "recentSentiment": "positive",
+      "recentAvg": 4.4,
+      "trend": "stable",
+      "flags": ["2-star review from Jim Whitaker (dry crust, bland sauce) — ~7 months old, previously reported"]
+    },
+    "loon-room": {
+      "rating": 4.7,
+      "totalRatings": 35,
+      "recentSentiment": "positive",
+      "recentAvg": 4.8,
+      "trend": "stable"
+    }
   },
   "alerts": [],
-  "newReviews": 0,
-  "notes": "No new reviews since previous fetch (6h ago). All ratings unchanged."
+  "summary": "No new reviews detected. All ratings unchanged from previous fetch. No new ≤2 star reviews to escalate."
 }
