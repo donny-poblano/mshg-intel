@@ -1,50 +1,35 @@
 {
   "date": "2026-04-03",
-  "fetchedAt": "2026-04-03T12:02:15.070385Z",
-  "scores": {
+  "fetchedAt": "2026-04-03T18:01:25Z",
+  "ratings": {
+    "merriment-social": { "rating": 4.4, "totalRatings": 890, "trend": "stable" },
+    "third-coast": { "rating": 4.5, "totalRatings": 504, "trend": "stable" },
+    "flourchild": { "rating": 4.5, "totalRatings": 291, "trend": "stable" },
+    "loon-room": { "rating": 4.7, "totalRatings": 35, "trend": "stable" }
+  },
+  "reviewSentiment": {
     "merriment-social": {
-      "name": "Merriment Social",
-      "googleRating": 4.4,
-      "totalRatings": 890,
-      "sampleAvg": 4.4,
-      "sampleSize": 5,
-      "positive": 4,
-      "neutral": 1,
-      "negative": 0,
-      "sentiment": "positive"
+      "positive": 4, "neutral": 0, "negative": 0, "mixed": 1,
+      "avgRating": 4.4,
+      "themes": ["great food", "strong cocktails", "excellent service", "events/private dining", "3% surcharge concern"]
     },
     "third-coast": {
-      "name": "Third Coast Provisions",
-      "googleRating": 4.5,
-      "totalRatings": 504,
-      "sampleAvg": 4.0,
-      "sampleSize": 5,
-      "positive": 3,
-      "neutral": 1,
-      "negative": 1,
-      "sentiment": "positive"
+      "positive": 3, "neutral": 0, "negative": 1, "mixed": 1,
+      "avgRating": 4.0,
+      "themes": ["fresh oysters", "elegant atmosphere", "saltiness complaints", "solo diner neglected", "family friendly"]
     },
     "flourchild": {
-      "name": "Flourchild Pizza",
-      "googleRating": 4.5,
-      "totalRatings": 291,
-      "sampleAvg": 4.4,
-      "sampleSize": 5,
-      "positive": 4,
-      "neutral": 0,
-      "negative": 1,
-      "sentiment": "positive"
+      "positive": 4, "neutral": 0, "negative": 1, "mixed": 0,
+      "avgRating": 4.4,
+      "themes": ["creative menu", "great vibes/music", "crust quality complaint", "crab spring rolls popular", "King Cheese pizza"]
     },
     "loon-room": {
-      "name": "The Loon Room",
-      "googleRating": 4.7,
-      "totalRatings": 35,
-      "sampleAvg": 4.8,
-      "sampleSize": 5,
-      "positive": 5,
-      "neutral": 0,
-      "negative": 0,
-      "sentiment": "positive"
+      "positive": 4, "neutral": 0, "negative": 0, "mixed": 1,
+      "avgRating": 4.8,
+      "themes": ["custom cocktails", "speakeasy ambiance", "talented bartenders", "Valentine's event feedback", "cozy intimate setting"]
     }
-  }
+  },
+  "alerts": [],
+  "newReviewsSinceLast": 0,
+  "notes": "No changes from previous fetch. All ratings stable."
 }
