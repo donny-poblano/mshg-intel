@@ -1,64 +1,50 @@
 {
   "date": "2026-04-03",
-  "fetchedAt": "2026-04-03T06:01:15.354Z",
-  "ratings": {
+  "fetchedAt": "2026-04-03T12:02:15.070385Z",
+  "scores": {
     "merriment-social": {
       "name": "Merriment Social",
-      "rating": 4.4,
+      "googleRating": 4.4,
       "totalRatings": 890,
-      "reviewSentiment": [
-        { "author": "Michelle", "rating": 4, "sentiment": "positive" },
-        { "author": "Tiffany David", "rating": 5, "sentiment": "positive" },
-        { "author": "S. Krug", "rating": 3, "sentiment": "mixed", "flags": ["pricing concern", "surcharge complaint"] },
-        { "author": "BryDeV", "rating": 5, "sentiment": "positive" },
-        { "author": "Kate Quinn", "rating": 5, "sentiment": "positive" }
-      ],
-      "avgSampleRating": 4.4,
-      "trend": "stable"
+      "sampleAvg": 4.4,
+      "sampleSize": 5,
+      "positive": 4,
+      "neutral": 1,
+      "negative": 0,
+      "sentiment": "positive"
     },
     "third-coast": {
       "name": "Third Coast Provisions",
-      "rating": 4.5,
+      "googleRating": 4.5,
       "totalRatings": 504,
-      "reviewSentiment": [
-        { "author": "Korinne Mack", "rating": 2, "sentiment": "negative", "flags": ["service complaint", "solo diner ignored", "food too salty", "won't return"] },
-        { "author": "Maxi Harmon", "rating": 5, "sentiment": "positive" },
-        { "author": "Samantha Baldyga", "rating": 5, "sentiment": "positive" },
-        { "author": "stuartwogs", "rating": 3, "sentiment": "mixed", "flags": ["overcooked scallops", "under-seasoned"] },
-        { "author": "A small elf", "rating": 5, "sentiment": "positive" }
-      ],
-      "avgSampleRating": 4.0,
-      "trend": "stable"
+      "sampleAvg": 4.0,
+      "sampleSize": 5,
+      "positive": 3,
+      "neutral": 1,
+      "negative": 1,
+      "sentiment": "positive"
     },
     "flourchild": {
       "name": "Flourchild Pizza",
-      "rating": 4.5,
+      "googleRating": 4.5,
       "totalRatings": 291,
-      "reviewSentiment": [
-        { "author": "Jim Whitaker", "rating": 2, "sentiment": "negative", "flags": ["dry crust", "bland sauce", "poor value", "would not recommend"] },
-        { "author": "Alandra Nyree", "rating": 5, "sentiment": "positive" },
-        { "author": "Alicia Richter", "rating": 5, "sentiment": "positive" },
-        { "author": "Lisa Ridenour", "rating": 5, "sentiment": "positive" },
-        { "author": "Gabriel Huff", "rating": 5, "sentiment": "positive" }
-      ],
-      "avgSampleRating": 4.4,
-      "trend": "stable"
+      "sampleAvg": 4.4,
+      "sampleSize": 5,
+      "positive": 4,
+      "neutral": 0,
+      "negative": 1,
+      "sentiment": "positive"
     },
     "loon-room": {
       "name": "The Loon Room",
-      "rating": 4.7,
+      "googleRating": 4.7,
       "totalRatings": 35,
-      "reviewSentiment": [
-        { "author": "Nick Wolf", "rating": 4, "sentiment": "mixed", "flags": ["weak charcuterie", "limited entree choice"] },
-        { "author": "Henry Schellhorn", "rating": 5, "sentiment": "positive" },
-        { "author": "Lesli Jennings", "rating": 5, "sentiment": "positive" },
-        { "author": "Sam Miller", "rating": 5, "sentiment": "positive" },
-        { "author": "Jordan Llanas", "rating": 5, "sentiment": "positive" }
-      ],
-      "avgSampleRating": 4.8,
-      "trend": "stable"
+      "sampleAvg": 4.8,
+      "sampleSize": 5,
+      "positive": 5,
+      "neutral": 0,
+      "negative": 0,
+      "sentiment": "positive"
     }
-  },
-  "alerts": [],
-  "summary": "No new reviews detected since previous fetch. Two existing ≤2-star reviews (Third Coast: Korinne Mack, Flourchild: Jim Whitaker) remain in sample — already alerted previously. All ratings stable."
+  }
 }
