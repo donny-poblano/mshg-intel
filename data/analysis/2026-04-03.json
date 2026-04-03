@@ -1,0 +1,136 @@
+{
+  "date": "2026-04-03",
+  "period": "2026-01-01 to 2026-04-02",
+  "analysis_type": "friday_weekly_review",
+  "generated_by": "analyst-agent",
+  "data_freshness": {
+    "xlsx_date": "2026-04-02",
+    "report_period": "2026-01-01 to 2026-04-02",
+    "ytd_data": true
+  },
+  "ad_performance": {
+    "meta": {
+      "spend": 5301.54,
+      "clicks": 39524,
+      "cpc": 0.13,
+      "ctr": 3.29,
+      "reach": 510983,
+      "impressions": 1201432,
+      "cpm": 4.41,
+      "link_clicks": 27640,
+      "frequency": 2.35,
+      "cplc": 0.19,
+      "link_ctr": 2.30,
+      "vs_march_27": {
+        "clicks_delta": "+17621 (from 21908 through Mar 27 to 39524 YTD)",
+        "spend_delta": "+2520.63 (from $2780.91 through Mar 27)",
+        "note": "YTD figures now include Jan-Feb data not in previous report period"
+      }
+    },
+    "google": {
+      "spend": 2025.52,
+      "clicks": 5117,
+      "cpc": 0.40,
+      "ctr": 2.10,
+      "impressions": 244112,
+      "cpm": 8.30,
+      "campaigns": [
+        { "name": "MM - Search - Real Dough - NB", "clicks": 2641, "cpc": 0.40, "ctr": 1.57, "impressions": 167693, "spend": 1060.14, "note": "Brand Awareness - largest volume campaign" },
+        { "name": "MM - Search - Real Dough - Branded", "clicks": 1459, "cpc": 0.19, "ctr": 10.41, "impressions": 14022, "spend": 276.58, "note": "Highest CTR 10.41% - branded search performing well" },
+        { "name": "MM - Search - Real Dough - Competitors", "clicks": 1017, "cpc": 0.68, "ctr": 1.63, "impressions": 62397, "spend": 688.80, "note": "Highest CPC $0.68 - competitive keyword landscape" }
+      ]
+    },
+    "total_spend_ytd": 7327.06
+  },
+  "audience": {
+    "instagram": {
+      "followers_total": 429,
+      "new_followers_ytd": 297,
+      "top_gender": "Female 56.4%",
+      "top_age": "35-44 (40.7%)",
+      "reach_ytd": 368045,
+      "website_clicks_ytd": 956,
+      "engagement_rate_avg": 3.0,
+      "gender_breakdown": { "female": 237, "male": 130, "unknown": 53 },
+      "age_breakdown": { "35-44": 171, "25-34": 117, "45-54": 63, "55-64": 27, "65+": 21, "18-24": 19, "13-17": 2 }
+    },
+    "facebook": {
+      "followers_total": 221,
+      "new_follows_ytd": 223,
+      "unfollows_ytd": 11,
+      "page_impressions_ytd": 814846,
+      "post_engagements_ytd": 28158,
+      "reactions_ytd": 1249
+    },
+    "youtube": {
+      "views_ytd": 10031,
+      "subscribers_gained_ytd": 17,
+      "avg_view_duration_sec": 25.12
+    },
+    "tiktok": {
+      "followers": 28,
+      "video_views_ytd": 4579,
+      "engagements_ytd": 149
+    }
+  },
+  "top_posts": {
+    "instagram_top5": [
+      { "message": "This isn't throw it in the oven - Peppin' Ain't Easy at Sendiks", "reach": 1749, "engagement": 53, "er_daily": 0.0, "note": "Highest reach post - product-specific with retailer tag" },
+      { "message": "Founder Pro Tips - baking instructions reel", "reach": 1258, "engagement": 68, "er_daily": 35.79, "note": "Best engagement rate 35.79% - educational/utility content" },
+      { "message": "Sausage pepperoni cheese curd - Curd Your Enthusiasm", "reach": 1078, "engagement": 49, "er_daily": 0.0 },
+      { "message": "You didn't expect to be impressed by frozen pizza - sourdough vibes", "reach": 822, "engagement": 51, "er_daily": 37.23, "note": "Strong ER 37.23% - relatable/surprise angle" },
+      { "message": "Three childhood best friends left cubicles - founder story", "reach": 493, "engagement": 63, "er_daily": 36.21, "note": "Lowest reach but high engagement - founder story resonates" }
+    ],
+    "facebook_top3": [
+      { "message": "Sourdough is naturally fermented - educational long-form", "reach": 613, "engagement": 47 },
+      { "message": "Pro tips from creators - baking instructions reel", "reach": 595, "engagement": 56, "note": "Highest FB engagement - tutorial content works" },
+      { "message": "Three childhood best friends - founder story", "reach": 503, "engagement": 46 }
+    ],
+    "youtube_top3": [
+      { "title": "Sourdough Frozen Pizza ASMR 🍕", "views": 2206, "avg_view_pct": 118.4, "note": "ASMR format outperforms - 118% avg completion means rewatches" },
+      { "title": "Dinner = Done.", "views": 2195, "avg_view_pct": 72.2 },
+      { "title": "Frozen Pizza Grocery Haul", "views": 1591, "avg_view_pct": 126.78, "note": "Highest completion rate 126.78% - grocery haul format drives rewatches" }
+    ],
+    "tiktok_top3": [
+      { "message": "Oh, you're buying? Guess we're stocking up - relatable humor", "views": 819, "avg_watch_sec": 6.14, "likes": 49, "note": "Top TikTok - relatable humor format" },
+      { "message": "Pro Tips baking instructions", "views": 339, "avg_watch_sec": 3.13, "likes": 9 },
+      { "message": "Sound on - ASMR crust crunch", "views": 305, "avg_watch_sec": 3.69, "likes": 4 }
+    ]
+  },
+  "meta_top_creatives": [
+    { "headline": "No More Cardboard Crust.", "link_clicks": 8960, "cpc": 0.16, "ctr": 2.41, "impressions": 440127, "note": "Volume leader - broadest reach" },
+    { "headline": "Straight From Wisconsin", "link_clicks": 6383, "cpc": 0.09, "ctr": 5.73, "impressions": 172916, "note": "Best efficiency: lowest CPC $0.09, highest CTR 5.73% - origin story angle wins" },
+    { "headline": "Meet Real Dough Pizza Co.", "link_clicks": 3477, "cpc": 0.10, "ctr": 5.17, "impressions": 124969, "note": "Strong CTR 5.17%, low CPC $0.10 - brand intro format works" },
+    { "headline": "A Better Frozen Pizza", "link_clicks": 3016, "cpc": 0.16, "ctr": 2.83, "impressions": 152898 },
+    { "headline": "Your Go-To Pizzas, Upgraded", "link_clicks": 1951, "cpc": 0.15, "ctr": 3.47, "impressions": 76226 }
+  ],
+  "meta_sendiks_geo_performance": {
+    "note": "Sendiks-targeted creatives performing significantly worse vs broad audience",
+    "sendiks_no_more_cardboard": { "link_clicks": 29, "cpc": 1.51, "ctr": 0.14, "impressions": 28863, "note": "CPC 10x higher vs non-geo version" },
+    "sendiks_straight_from_wisconsin": { "link_clicks": 57, "cpc": 0.14, "ctr": 3.49, "impressions": 2264, "note": "Geo targeting showing micro reach" }
+  },
+  "patterns": [
+    "ORIGIN STORY + WISCONSIN ANGLE drives highest ad efficiency: 'Straight From Wisconsin' headline delivers $0.09 CPC and 5.73% CTR vs $0.16 CPC average. Local authenticity is the strongest hook.",
+    "TUTORIAL/PRO TIPS content consistently tops engagement across ALL platforms: Founder Pro Tips reel (IG: 35.79% ER), Pro Tips video (FB: #2 post 56 engagements), Pro Tips TikTok (339 views). Agency should prioritize utility-first content.",
+    "ASMR/TEXTURE FORMAT outperforms on YouTube: ASMR pizza video leads with 2,206 views and 118% completion (rewatches). Grocery Haul leads completion at 126.78%. Sound-centric content earns deeper viewing - lean into this.",
+    "RELATABLE HUMOR beats product shots on TikTok: 'Oh, you're buying? Stocking up' is 2.4x the views of next closest TikTok. Humor/meme format must be the TikTok strategy.",
+    "FOUNDER NARRATIVE has high engagement but limited reach: Founder story posts rank #1-2 engagement on IG/FB but not in top reach. This content is loved by existing audience - needs paid amplification to break out to new audiences.",
+    "META AGE DEMO ANOMALY: 65+ receiving highest spend ($1,368 = 25.8% of budget) and highest clicks (10,621) but not the core buyer demo (IG audience is 35-44 female). Recommend reviewing Meta age targeting to shift budget toward 25-44.",
+    "BRANDED SEARCH is hyper-efficient: Google Branded campaign = $0.19 CPC with 10.41% CTR vs $0.40 NB and $0.68 competitor. Branded search is being underinvested - only $277 spend vs $1,060 on NB.",
+    "RETAILER-SPECIFIC GEO TARGETING underperforming: Sendiks-targeted ads show CPC 10x higher ($1.51 vs $0.16) suggesting hyper-geo audiences are too narrow. Broaden to metro area rather than retailer-specific.",
+    "INSTAGRAM AUDIENCE skews heavily female 35-44 (41%) - content and messaging should speak directly to this demo: practical, quality-conscious, family-minded parents who care about ingredients.",
+    "FACEBOOK engagement concentrating on educational posts: Top 3 FB posts are all information-dense content (sourdough science, baking tips, founder story). Less lifestyle, more education for FB audience.",
+    "YOUTUBE subscriber growth is slow (17 YTD): Despite solid view counts (10K), subscription conversion is minimal. Add clearer subscribe CTAs in videos and description.",
+    "TIKTOK overall low volume: 28 followers, 4,579 views YTD suggests very early stage. Strategy should focus on 2-3 viral formats (humor, ASMR, tutorials) rather than posting breadth."
+  ],
+  "recommendations": [
+    "Increase 'Straight From Wisconsin' creative spend - it's the most efficient creative ($0.09 CPC, 5.73% CTR) and significantly underinvested vs 'No More Cardboard Crust'",
+    "Shift Meta budget allocation away from 65+ demo toward 25-44 - 65+ receiving 25.8% of spend but is unlikely to be the primary buyer",
+    "Increase Google Branded campaign budget - $0.19 CPC with 10.41% CTR is leaving money on the table vs NB and Competitor campaigns",
+    "Produce monthly Pro Tips / Tutorial content for all platforms - this format is the consistent top performer across Instagram, Facebook, and TikTok",
+    "Test paid amplification of founder story content on Meta - high engagement when reached but organic reach limited; $500-1000 boost test recommended",
+    "Expand Sendiks geo targeting from retailer-specific to broader Milwaukee metro - narrow targeting is causing CPC to spike 10x",
+    "Explore ASMR video series for YouTube - top video at 118% completion rate; develop 4-6 part ASMR series (slice, pour, bake, crunch)",
+    "Add explicit subscribe CTAs in all YouTube videos - 10K views but only 17 subscribers YTD suggests CTA gap"
+  ]
+}
