@@ -1,0 +1,75 @@
+{
+  "date": "2026-04-03",
+  "type": "daily",
+  "generated_at": "2026-04-03T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Yough (startup)",
+      "action": "Launched frozen pizza line at Target stores in early 2026, using Greek yogurt-enriched dough to capitalize on high-protein trend. Positioned as everyday grocery option, betting protein content can disrupt traditional frozen pizza buying behavior.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://source86.com/source86-com-protein-trend-2026-food-brands-qsr-supply-chain/",
+      "first_reported": "2026-04-03",
+      "status": "new",
+      "notes": "Protein-forward positioning is a different lane than Real Dough's sourdough fermentation story, but both target the 'frozen pizza upgrade' consumer. Yogurt dough is a gimmick vs genuine sourdough fermentation — Real Dough's authenticity is a moat here. Worth monitoring shelf placement at Target since Real Dough may pursue Target distribution."
+    },
+    {
+      "name": "McCormick / Unilever Foods",
+      "action": "McCormick announced $29.1B acquisition of Unilever's Foods business (Hellmann's, Knorr) on March 31. Combined entity retains McCormick name. Unilever shareholders get 65% equity. Closure expected mid-2027 pending approvals.",
+      "category": "expansion",
+      "relevance_score": 5,
+      "source_url": "https://www.goodmorningamerica.com/food/story/mccormick-buy-unilever-foods-adding-hellmanns-knorr-cpg-131584321",
+      "first_reported": "2026-04-03",
+      "status": "new",
+      "notes": "Not a direct frozen pizza competitor but signals massive CPG consolidation. A 'global flavor leader' combining McCormick spices with Knorr/Hellmann's could eventually enter frozen meal/pizza adjacencies. More immediately, consolidation often disrupts supplier relationships and shelf allocation — smaller brands can gain openings when big players are distracted by integration."
+    },
+    {
+      "name": "New York Bakery Co.",
+      "action": "Launched sourdough bagels in UK Favourites range, capitalizing on fermented food demand surge.",
+      "category": "new_product",
+      "relevance_score": 4,
+      "source_url": "https://in-bakery.com/new-york-bakery-taps-into-sourdough-boom/",
+      "first_reported": "2026-04-03",
+      "status": "new",
+      "notes": "UK-focused but validates that sourdough is expanding beyond bread/pizza into adjacent frozen categories. The 'sourdough boom' is real and broadening — good for Real Dough's brand story as mainstream consumers increasingly understand and seek fermented dough products."
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Private-label frozen/CPG sales surge pressuring branded products",
+      "direction": "up",
+      "magnitude": "$330B US private-label sales, 24% unit share, 23% dollar share in food/bev",
+      "context": "Private-label is gaining share driven by club stores, wellness innovation, and indulgent snacks. Growth projected to slow post-2026 but current share gains are structural. For Real Dough: premium/artisan positioning insulates somewhat since store-brand frozen pizza competes on price, not quality narrative. However, retailers like Costco (Kirkland) and Trader Joe's are increasingly making premium store-brand frozen pizza that blurs the line. Real Dough's sourdough authenticity and brand personality remain key differentiators.",
+      "source_url": "https://www.supermarketnews.com/private-label/private-label-sales-reach-330b-but-growth-expected-to-slow"
+    },
+    {
+      "topic": "Sourdough pizza movement accelerating in foodservice, validating frozen",
+      "direction": "up",
+      "magnitude": "NJ sourdough pizza scene expanding rapidly; National Sourdough Bread Day (April 1) coverage at multi-year high",
+      "context": "Bucky's Pizza won 2026 Pizza Hulk and NJ Pizza Bowl championship using naturally leavened dough. Sourdough pizzerias emphasizing gut-health benefits, superior flavor/texture over commercial yeast. Consumer education about sourdough benefits is being driven by the restaurant/pizzeria side — which directly builds demand for sourdough frozen pizza at retail. Real Dough is uniquely positioned as the bridge between artisan pizzeria sourdough and frozen convenience.",
+      "source_url": "https://jerseybites.com/2026/03/a-rising-crust-new-jerseys-sourdough-pizza-movement/"
+    },
+    {
+      "topic": "Milwaukee food desert expansion — local retail disruption",
+      "direction": "up",
+      "magnitude": "Multiple Pick 'n Save (Kroger) closures on north side; pantry traffic up 50%+ in 2 years",
+      "context": "Milwaukee Journal Sentinel analysis (April 2) found theft reports actually declined at closed stores, contradicting Kroger's stated reason for closures. Food access challenges increasing in metro Milwaukee. For Real Dough (Wisconsin-based): local brand story could resonate if they engage community food access initiatives. Also signals that traditional grocery channel is consolidating in their home market — independent/specialty retail and DTC may be more stable distribution paths locally.",
+      "source_url": "https://nationaltoday.com/us/wi/milwaukee/news/2026/04/02/data-complicates-theft-claims-in-milwaukee-grocery-store-closures/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "US private-label food/bev market share",
+      "value": "$330B total sales, 24% unit share, 23% dollar share",
+      "change": "Growth projected to slow post-2026 but current share at record highs",
+      "source_url": "https://www.supermarketnews.com/private-label/private-label-sales-reach-330b-but-growth-expected-to-slow"
+    },
+    {
+      "metric": "Global frozen bakery products market (includes pizza)",
+      "value": "$29.5B projected by end of 2026",
+      "change": "5.8% CAGR",
+      "source_url": "https://magazinebbm.com/blog/frozen-products-market-in-bakery-industry-1857"
+    }
+  ],
+  "breaking": []
+}
