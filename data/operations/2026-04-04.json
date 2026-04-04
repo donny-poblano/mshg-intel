@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-04",
+  "restaurant": "merriment-social",
+  "snapshot_time": "12:00 CST",
+  "service_status": "12 orders (1 closed, 11 open)",
+  "revenue": {
+    "food": 753.46,
+    "liquor": 192.0,
+    "soft_drinks": 31.0,
+    "beer": 26.0,
+    "wine": 292.0,
+    "gross_sales": 1418.09,
+    "net_sales": 1308.35,
+    "sales_tax": 109.74,
+    "discounts": 0
+  },
+  "labor": {
+    "credit_tips": 0
+  },
+  "exceptions": [
+    {
+      "type": "unknown_payment",
+      "severity": "warning",
+      "detail": "OTHER payment ($46.11) not mapped in GL",
+      "action_needed": "map_payment_type"
+    }
+  ],
+  "journal_entry": {
+    "balanced": true,
+    "debits": 1418.09,
+    "credits": 1418.09,
+    "difference": 0.0,
+    "likely_cause": "N/A"
+  },
+  "comparisons": {
+    "mtd": {
+      "gross_sales": 1418.09
+    }
+  }
+}
