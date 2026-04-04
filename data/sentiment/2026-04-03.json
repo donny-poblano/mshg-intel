@@ -1,35 +1,49 @@
 {
   "date": "2026-04-03",
-  "fetchedAt": "2026-04-03T18:01:25Z",
-  "ratings": {
-    "merriment-social": { "rating": 4.4, "totalRatings": 890, "trend": "stable" },
-    "third-coast": { "rating": 4.5, "totalRatings": 504, "trend": "stable" },
-    "flourchild": { "rating": 4.5, "totalRatings": 291, "trend": "stable" },
-    "loon-room": { "rating": 4.7, "totalRatings": 35, "trend": "stable" }
-  },
-  "reviewSentiment": {
+  "fetchedAt": "2026-04-04T00:01:16.926Z",
+  "sentiment_scores": {
     "merriment-social": {
-      "positive": 4, "neutral": 0, "negative": 0, "mixed": 1,
-      "avgRating": 4.4,
-      "themes": ["great food", "strong cocktails", "excellent service", "events/private dining", "3% surcharge concern"]
+      "rating": 4.4,
+      "totalRatings": 890,
+      "trend": "stable",
+      "topReviewSentiment": "mostly positive — strong event/private dining praise, minor pricing concern (3% surcharge mention)"
     },
     "third-coast": {
-      "positive": 3, "neutral": 0, "negative": 1, "mixed": 1,
-      "avgRating": 4.0,
-      "themes": ["fresh oysters", "elegant atmosphere", "saltiness complaints", "solo diner neglected", "family friendly"]
+      "rating": 4.5,
+      "totalRatings": 504,
+      "trend": "stable",
+      "topReviewSentiment": "mixed — strong food praise but one 2-star review citing inattentive bar service to solo diner and overly salty dishes"
     },
     "flourchild": {
-      "positive": 4, "neutral": 0, "negative": 1, "mixed": 0,
-      "avgRating": 4.4,
-      "themes": ["creative menu", "great vibes/music", "crust quality complaint", "crab spring rolls popular", "King Cheese pizza"]
+      "rating": 4.5,
+      "totalRatings": 292,
+      "trend": "stable",
+      "topReviewSentiment": "mostly positive — King Cheese pizza, crab rangoon spring rolls, and Pink Pony drink praised; one 2-star calling crust dry/stale"
     },
     "loon-room": {
-      "positive": 4, "neutral": 0, "negative": 0, "mixed": 1,
-      "avgRating": 4.8,
-      "themes": ["custom cocktails", "speakeasy ambiance", "talented bartenders", "Valentine's event feedback", "cozy intimate setting"]
+      "rating": 4.7,
+      "totalRatings": 35,
+      "trend": "stable",
+      "topReviewSentiment": "very positive — cocktail creativity and bartender skill consistently praised; minor V-Day event feedback on charcuterie quality"
     }
   },
-  "alerts": [],
-  "newReviewsSinceLast": 0,
-  "notes": "No changes from previous fetch. All ratings stable."
+  "alerts": {
+    "new_negative_reviews": 0,
+    "existing_negative_reviews": [
+      {
+        "entity": "third-coast",
+        "author": "Korinne Mack",
+        "rating": 2,
+        "summary": "Ignored as solo diner at bar for 45 min, potholes dish too salty, shrimp cocktail unremarkable",
+        "needs_response": true
+      },
+      {
+        "entity": "flourchild",
+        "author": "Jim Whitaker",
+        "rating": 2,
+        "summary": "Pizza crust dry/stale, sauce lacked flavor, compared to old Pizza Hut. Praised atmosphere, cleanliness, service, crab spring rolls",
+        "needs_response": true
+      }
+    ]
+  }
 }
