@@ -1,6 +1,6 @@
 {
   "date": "2026-04-04",
-  "fetchedAt": "2026-04-04T06:02:00Z",
+  "fetchedAt": "2026-04-04T12:01:24.096Z",
   "ratings": {
     "merriment-social": { "rating": 4.4, "totalRatings": 890, "trend": "stable" },
     "third-coast": { "rating": 4.5, "totalRatings": 504, "trend": "stable" },
@@ -11,32 +11,32 @@
     "merriment-social": [
       { "author": "Michelle", "rating": 4, "sentiment": "positive" },
       { "author": "Tiffany David", "rating": 5, "sentiment": "positive" },
-      { "author": "S. Krug", "rating": 3, "sentiment": "mixed", "flags": ["pricing-surcharge", "food-quality"] },
+      { "author": "S. Krug", "rating": 3, "sentiment": "mixed", "issues": ["pricing", "surcharge", "brussels sprouts too sweet"] },
       { "author": "BryDeV", "rating": 5, "sentiment": "positive" },
       { "author": "Kate Quinn", "rating": 5, "sentiment": "positive" }
     ],
     "third-coast": [
-      { "author": "Korinne Mack", "rating": 2, "sentiment": "negative", "flags": ["service-neglect", "food-salty", "solo-diner-experience"] },
+      { "author": "Korinne Mack", "rating": 2, "sentiment": "negative", "issues": ["ignored by bartender", "food too salty", "overrated"] },
       { "author": "Maxi Harmon", "rating": 5, "sentiment": "positive" },
       { "author": "Samantha Baldyga", "rating": 5, "sentiment": "positive" },
-      { "author": "stuartwogs", "rating": 3, "sentiment": "mixed", "flags": ["overcooked-scallops", "underseasoned"] },
+      { "author": "stuartwogs", "rating": 3, "sentiment": "mixed", "issues": ["overcooked scallops", "underseasoned"] },
       { "author": "A small elf", "rating": 5, "sentiment": "positive" }
     ],
     "flourchild": [
-      { "author": "Jim Whitaker", "rating": 2, "sentiment": "negative", "flags": ["dry-crust", "bland-sauce", "price-value"] },
+      { "author": "Jim Whitaker", "rating": 2, "sentiment": "negative", "issues": ["dry stale crust", "bland sauce", "overpriced"] },
       { "author": "Alandra Nyree", "rating": 5, "sentiment": "positive" },
       { "author": "Alicia Richter", "rating": 5, "sentiment": "positive" },
       { "author": "Lisa Ridenour", "rating": 5, "sentiment": "positive" },
       { "author": "Gabriel Huff", "rating": 5, "sentiment": "positive" }
     ],
     "loon-room": [
-      { "author": "Nick Wolf", "rating": 4, "sentiment": "mixed", "flags": ["charcuterie-quality", "entree-choice-restriction"] },
+      { "author": "Nick Wolf", "rating": 4, "sentiment": "mixed", "issues": ["pedestrian charcuterie", "forced same entree", "sharing plates"] },
       { "author": "Henry Schellhorn", "rating": 5, "sentiment": "positive" },
       { "author": "Lesli Jennings", "rating": 5, "sentiment": "positive" },
       { "author": "Sam Miller", "rating": 5, "sentiment": "positive" },
       { "author": "Jordan Llanas", "rating": 5, "sentiment": "positive" }
     ]
   },
-  "newReviews": 0,
-  "alerts": 0
+  "alerts": [],
+  "notes": "No new reviews since previous fetch. Existing ≤2 star reviews (Third Coast: Korinne Mack, Flourchild: Jim Whitaker) unchanged — already tracked."
 }
