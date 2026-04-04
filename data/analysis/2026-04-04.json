@@ -1,0 +1,299 @@
+{
+  "date": "2026-04-04",
+  "period": "2026-01-01 to 2026-04-03",
+  "analysis_type": "weekly_review",
+  "generated_by": "analyst-agent",
+  "data_freshness": {
+    "xlsx_date": "2026-04-03",
+    "report_period": "2026-01-01 to 2026-04-02",
+    "ytd_data": true,
+    "note": "Saturday April 4 run — covers full week through April 3"
+  },
+
+  "ad_performance": {
+    "meta": {
+      "spend": 5301.54,
+      "clicks": 39524,
+      "cpc": 0.13,
+      "ctr": 3.29,
+      "reach": 522326,
+      "impressions": 1234793,
+      "cpm": 4.41,
+      "link_clicks": 28338,
+      "frequency": 2.36,
+      "cplc": 0.19,
+      "link_ctr": 2.29,
+      "gender_split": {
+        "female": { "spend": 2772.97, "clicks": 21130, "ctr": "3.61%", "cpc": 0.13 },
+        "male": { "spend": 2480.90, "clicks": 18057, "ctr": "2.98%", "cpc": 0.14 }
+      },
+      "vs_mar28": {
+        "spend_delta": "+$2,520.63 (week over week approx)",
+        "clicks_delta": "+17,616",
+        "reach_delta": "+187,011",
+        "impressions_delta": "+599,875",
+        "frequency_delta": "+0.47 (1.89 → 2.36) — WATCH: approaching creative fatigue territory",
+        "cpc_delta": "flat at $0.13"
+      }
+    },
+    "google": {
+      "spend": 2025.52,
+      "clicks": 5117,
+      "cpc": 0.40,
+      "ctr": 2.10,
+      "impressions": 244112,
+      "cpm": 8.30,
+      "vs_mar28": {
+        "spend_delta": "+$1,215.33 (2.5x growth)",
+        "clicks_delta": "+2,605",
+        "cpc_delta": "+$0.08 ($0.32 → $0.40) — WATCH: 25% CPC increase"
+      },
+      "campaigns": [
+        { "name": "NB (Non-Branded)", "clicks": 2641, "cpc": 0.40, "ctr": 1.57, "impressions": 167693, "spend": 1060.14 },
+        { "name": "Branded", "clicks": 1459, "cpc": 0.19, "ctr": 10.41, "impressions": 14022, "spend": 276.58, "note": "BEST EFFICIENCY — $0.19 CPC, 10.41% CTR" },
+        { "name": "Competitors", "clicks": 1017, "cpc": 0.68, "ctr": 1.63, "impressions": 62397, "spend": 688.80, "note": "Highest CPC — evaluate ROI vs NB" }
+      ],
+      "age_breakdown": {
+        "undetermined": { "clicks": 1479, "cpc": 0.34, "spend": 501.19, "note": "29% of budget on undetermined age — review targeting" },
+        "65+": { "clicks": 838, "cpc": 0.55, "spend": 460.23, "note": "ANOMALY: $0.55 CPC highest of all age groups" },
+        "35-44": { "clicks": 768, "cpc": 0.34, "spend": 262.25, "note": "Most cost-efficient targeted age group" },
+        "25-34": { "clicks": 601, "cpc": 0.36, "spend": 217.55 },
+        "55-64": { "clicks": 642, "cpc": 0.43, "spend": 276.37 },
+        "45-54": { "clicks": 539, "cpc": 0.38, "spend": 204.24 },
+        "18-24": { "clicks": 250, "cpc": 0.41, "spend": 103.69 }
+      },
+      "top_keywords": [
+        { "keyword": "real dough pizza", "clicks": 534, "cpc": 0.17, "ctr": "34.41%" },
+        { "keyword": "real dough pizza co", "clicks": 360, "cpc": 0.16, "ctr": "9.17%" },
+        { "keyword": "frozen pizza", "clicks": 235, "cpc": 0.63, "ctr": "2.29%", "note": "Generic high-CPC — evaluate conversion rate" },
+        { "keyword": "sourdough pizza crust", "clicks": 226, "cpc": 0.72, "ctr": "2.46%", "note": "Highest CPC keyword — high intent but costly" },
+        { "keyword": "sourdough frozen pizza", "clicks": 133, "cpc": 0.66, "ctr": "2.40%" },
+        { "keyword": "best frozen pizza", "clicks": 113, "cpc": 0.48, "ctr": "1.32%" }
+      ]
+    },
+    "total_spend_ytd": 7327.06
+  },
+
+  "audience": {
+    "instagram": {
+      "followers_total": 429,
+      "new_followers_ytd": 297,
+      "top_gender": "Female 56.4%",
+      "top_age": "35-44 (40.7%)",
+      "reach_ytd": 368045,
+      "website_clicks_ytd": 956,
+      "website_clicks_note": "ANOMALY: 956 vs 168 at Mar 28 = 5.7x surge in link-in-bio clicks. Likely driven by Sendiks availability announcements or strong recent reels.",
+      "engagement_rate_avg": 3.0,
+      "vs_mar28": {
+        "followers_delta": "+23 (406 → 429)",
+        "reach_delta": "+171,795",
+        "website_clicks_delta": "+788 — MAJOR SPIKE, investigate trigger post"
+      }
+    },
+    "facebook": {
+      "followers_total": 221,
+      "new_follows_ytd": 223,
+      "unfollows_ytd": 11,
+      "page_impressions_ytd": 814846,
+      "post_engagements_ytd": 28158,
+      "reactions_ytd": 1249,
+      "vs_mar28": {
+        "impressions_delta": "+386,750",
+        "engagements_delta": "+12,625"
+      }
+    },
+    "youtube": {
+      "views_ytd": 10031,
+      "subscribers_gained_ytd": 17,
+      "avg_view_duration_sec": 25.12,
+      "vs_mar28": {
+        "views_delta": "+5,422",
+        "subscribers_delta": "+8",
+        "duration_delta": "-1.76s (26.88 → 25.12) — newer shorter content pulling average down"
+      }
+    },
+    "tiktok": {
+      "followers": 28,
+      "video_views_ytd": 4579,
+      "engagements_ytd": 149,
+      "vs_mar28": {
+        "followers_delta": "+3",
+        "views_delta": "+2,313",
+        "likes_delta": "+78"
+      }
+    }
+  },
+
+  "top_posts": {
+    "instagram_top5_by_engagement": [
+      { "message": "Founder Pro Tips — baking instructions reel", "reach": 1258, "engagement": 68, "er_daily": 35.79, "url": "https://www.instagram.com/reel/DU8nXVhgI0w/", "note": "Best ER — educational utility format" },
+      { "message": "Three childhood best friends left cubicles — founder story", "reach": 493, "engagement": 63, "er_daily": 36.21, "url": "https://www.instagram.com/p/DU3duxJluqr/", "note": "High ER despite low reach — needs paid amplification" },
+      { "message": "You didn't expect to be impressed — sourdough surprise angle", "reach": 822, "engagement": 51, "er_daily": 37.23, "url": "https://www.instagram.com/reel/DUoA-6gAP_g/", "note": "Best daily ER 37.23% — relatability hook works" },
+      { "message": "Peppin' Ain't Easy at Sendiks — product reveal reel", "reach": 1749, "engagement": 53, "er_daily": 0, "url": "https://www.instagram.com/reel/DUTamCcj7w7/", "note": "HIGHEST REACH post — Sendiks tag + product focus" },
+      { "message": "Sausage pepperoni cheese curd — Curd Your Enthusiasm at Sendiks", "reach": 1078, "engagement": 49, "er_daily": 0, "url": "https://www.instagram.com/reel/DUYIusFD26S/" }
+    ],
+    "instagram_new_this_week": [
+      { "message": "POV: Woodman's grocery run + all Real Dough flavors", "reach": 639, "engagement": 45, "er_daily": 18.44, "url": "https://www.instagram.com/reel/DVRbcuSlBn8/" },
+      { "message": "The world deserved a better frozen pizza — brand manifesto reel", "reach": 480, "engagement": 43, "er_daily": 10.29, "url": "https://www.instagram.com/reel/DWjgNmzBV38/" },
+      { "message": "Behind the scenes — first Real Dough photoshoot", "reach": 460, "engagement": 37, "er_daily": 14.40, "url": "https://www.instagram.com/reel/DVYuXmmgMBG/" }
+    ],
+    "youtube_top_all_time": [
+      { "title": "Sourdough Frozen Pizza ASMR 🍕", "views": 2206, "avg_view_pct": 118.4, "likes": 14, "subs_gained": 2, "url": "https://www.youtube.com/watch?v=k12wmEj934w" },
+      { "title": "Dinner = Done.", "views": 2195, "avg_view_pct": 72.2, "likes": 25, "url": "https://www.youtube.com/watch?v=TzhDsnXg3ww" },
+      { "title": "Frozen Pizza Grocery Haul", "views": 1591, "avg_view_pct": 126.78, "likes": 10, "url": "https://www.youtube.com/watch?v=2irJ-B_V2rs" },
+      { "title": "Pepperoni Pizza That Hits Different", "views": 265, "avg_view_pct": 503.38, "likes": 5, "shares": 13, "duration_sec": 60, "note": "HIDDEN GEM: 503% completion = averaging 5 full replays. Shares = 13 (highest). Criminally underviewed.", "url": "https://www.youtube.com/watch?v=74YV9ngbjuk" },
+      { "title": "Pretty, Pretty, Pretty Good Pizza", "views": 317, "avg_view_pct": 246.53, "likes": 7, "shares": 11, "note": "Curb Your Enthusiasm reference resonating — 246% completion + 11 shares", "url": "https://www.youtube.com/watch?v=l2IsAXNeMXE" }
+    ],
+    "tiktok_top_with_new": [
+      { "caption": "Oh, you're buying? Guess we're stocking up.", "views": 819, "avg_watch_sec": 6.14, "likes": 49, "note": "Top performer — relatable humor" },
+      { "caption": "Pro Tips baking instructions", "views": 339, "avg_watch_sec": 3.13, "likes": 9 },
+      { "caption": "Sound on — ASMR crust crunch (Peppin' Ain't Easy)", "views": 305, "avg_watch_sec": 3.69, "likes": 4 },
+      { "caption": "Run errands with me (Sendiks stop)", "views": 256, "avg_watch_sec": 6.80, "likes": 9, "comments": 5, "note": "NEW: Best avg watch time (6.8s) — lifestyle/UGC format driving high engagement density" },
+      { "caption": "Okie Dokie Artichokie — product focus", "views": 264, "avg_watch_sec": 4.23, "likes": 9, "comments": 7, "note": "NEW: Highest comment count (7) — unique flavor name driving curiosity" }
+    ],
+    "meta_top_creatives": [
+      { "headline": "No More Cardboard Crust.", "link_clicks": 8782, "cpc": 0.16, "ctr": "2.41%", "impressions": 430846, "note": "Volume leader — broad reach" },
+      { "headline": "Straight From Wisconsin", "link_clicks": 6185, "cpc": 0.09, "ctr": "5.78%", "impressions": 165266, "note": "BEST EFFICIENCY — $0.09 CPC, 5.78% CTR. Origin story = highest converting" },
+      { "headline": "Meet Real Dough Pizza Co.", "link_clicks": 3448, "cpc": 0.10, "ctr": "5.17%", "impressions": 123884 },
+      { "headline": "Meet Real Dough Pizza Co. (Hy-Vee)", "link_clicks": 754, "cpc": 0.09, "ctr": "5.33%", "impressions": 29942, "note": "Hy-Vee retailer version matching general Wisconsin efficiency — local brand combo works at scale" },
+      { "headline": "Pepperoni + Sausage, Done Right", "link_clicks": 1710, "cpc": 0.18, "ctr": "3.06%", "impressions": 68157, "note": "NEW creative — decent entry but CTR 2x lower than origin story headlines" }
+    ]
+  },
+
+  "anomalies": [
+    {
+      "type": "SPIKE",
+      "platform": "Instagram",
+      "metric": "Website Clicks",
+      "value": 956,
+      "previous": 168,
+      "change": "+469%",
+      "severity": "high",
+      "note": "5.7x surge in link-in-bio clicks. Likely driven by Sendiks availability posts or specific reel pushing 'link in bio' CTA. Identify the trigger post — this is a template to repeat."
+    },
+    {
+      "type": "WATCH",
+      "platform": "Meta Ads",
+      "metric": "Frequency",
+      "value": 2.36,
+      "previous": 1.89,
+      "change": "+0.47",
+      "severity": "medium",
+      "note": "Rising frequency. At 3.0+ performance drops begin. Currently 2 weeks away from fatigue zone at current trajectory. Prepare new creative variations now."
+    },
+    {
+      "type": "WATCH",
+      "platform": "Google Ads",
+      "metric": "CPC",
+      "value": 0.40,
+      "previous": 0.32,
+      "change": "+25%",
+      "severity": "medium",
+      "note": "CPCs rising as budget scales. Competitor campaign at $0.68 — evaluate if competitor keyword ROAS justifies cost vs NB expansion."
+    },
+    {
+      "type": "HIDDEN_GEM",
+      "platform": "YouTube",
+      "metric": "Avg View Percentage",
+      "video": "Pepperoni Pizza That Hits Different",
+      "value": "503%",
+      "views": 265,
+      "shares": 13,
+      "severity": "opportunity",
+      "note": "People are watching this 5x on average. With 13 shares but only 265 views, it was likely never promoted. This format/content has viral signal — test with paid promotion."
+    },
+    {
+      "type": "HIDDEN_GEM",
+      "platform": "YouTube",
+      "metric": "Avg View Percentage",
+      "video": "Pretty, Pretty, Pretty Good Pizza",
+      "value": "246%",
+      "shares": 11,
+      "severity": "opportunity",
+      "note": "Curb Your Enthusiasm reference + 246% completion. Comedy/pop culture format is rewatched and shared — worth developing a series."
+    }
+  ],
+
+  "patterns": [
+    "ORIGIN + AUTHENTICITY is the dominant win signal across all channels: 'Straight From Wisconsin' ($0.09 CPC, 5.78% CTR), 'Founder story' posts (35-37% ER), founder narrative content — the brand's real story is consistently the highest-performing creative lever available.",
+    "TUTORIAL/PRO TIPS content converts across EVERY platform: #1 IG post (35.79% ER), #2 TikTok (Pro Tips), referenced in top FB posts — this format earns attention because it's genuinely useful. The agency should be producing one tutorial-style piece per platform per week.",
+    "ASMR + HIGH-COMPLETION VIDEO is YouTube's superpower: ASMR at 118%, Grocery Haul at 127%, Pepperoni at 503%, Pretty Good Pizza at 246% — Viewers are rewatching/looping Real Dough videos at extraordinary rates. This is the brand's most under-leveraged asset.",
+    "RELATABLE HUMOR beats product shots on TikTok by 3x: 'Oh you're buying?' (819 views) triples the nearest competitor. New 'Run errands with me' format showing strong engagement density (6.8s avg watch). UGC/lifestyle humor is the TikTok formula.",
+    "LIFESTYLE CONTEXT (retailer + day-in-life) is emerging as a new high-performer: Sendiks retailer reels dominating IG reach (1,749, 1,078, 961 reach in top 5). 'Run errands with me' on TikTok. Placing the product in real purchase contexts is working.",
+    "META FREQUENCY WARNING — creative refresh window is closing: 2.36 and rising (was 1.89 last analysis). At the current rate of +0.47/period, creative fatigue hits by late April. The 'Straight From Wisconsin' and 'No More Cardboard Crust' creatives are carrying the account — need 2-3 new high-quality variants ready to deploy.",
+    "GOOGLE CPC INFLATION on non-branded keywords: 'sourdough pizza crust' ($0.72), 'frozen pizza' ($0.63), 'sourdough frozen pizza' ($0.66) are expensive with modest CTR. Branded terms still hyper-efficient (34.41% CTR for 'real dough pizza'). Shift spend toward branded + long-tail sourdough-specific terms.",
+    "INSTAGRAM WEBSITE CLICKS SURGE (5.7x) suggests a direct-to-retail content hook is working — one or more posts drove 788 additional link-in-bio clicks. This is the most important conversion signal in the organic data. Identify the post and systematize it.",
+    "HY-VEE EXPANSION showing in data: New Hy-Vee tagged creative is matching Wisconsin efficiency ($0.09 CPC, 5.33% CTR). The Hy-Vee launch is working at the ad level — monitor sell-through data.",
+    "COMMENTS ON TIKTOK are rising: 'Okie Dokie Artichokie' (7 comments), 'Run errands with me' (5), suggesting the audience is becoming more engaged. Comment-driving content (unusual flavor names, lifestyle situations) should be prioritized.",
+    "YOUTUBE SUBSCRIBER GAP PERSISTS: 10,031 views but only 17 subscribers YTD. Despite extraordinary completion rates, there are zero explicit subscribe CTAs in the analyzed content. This is a gap that could be fixed with a single end-card update across all videos.",
+    "TIKTOK STILL EARLY STAGE but data is pointing to the formula: humor > utility > ASMR. Volume is low (28 followers) but engagement quality is solid. Consistent 2x/week posting with the winning formats should compound."
+  ],
+
+  "recommendations": [
+    {
+      "priority": 1,
+      "action": "IDENTIFY THE INSTAGRAM WEBSITE CLICK TRIGGER",
+      "detail": "956 website clicks vs 168 previously = 5.7x surge. Check IG insights to find which specific post(s) drove this. That post is a template. Replicate the format, the CTA style, and the context immediately.",
+      "effort": "low",
+      "impact": "high"
+    },
+    {
+      "priority": 2,
+      "action": "URGENT: Prepare new Meta creatives before April 20",
+      "detail": "Frequency at 2.36 and rising. At current trajectory, creative fatigue hits late April. Need 2-3 new high-performing variants ready. Test: Wisconsin origin story in video format, founder team behind-the-scenes, ASMR crust texture close-up (mirror YouTube's top performer). Do NOT pause existing — introduce alongside.",
+      "effort": "medium",
+      "impact": "high"
+    },
+    {
+      "priority": 3,
+      "action": "PROMOTE 'Pepperoni Pizza That Hits Different' on YouTube",
+      "detail": "503% average view completion + 13 shares but only 265 views = this video never got distribution. Put $200-500 behind it as a YouTube ad test. This is the brand's strongest video signal.",
+      "effort": "low",
+      "impact": "high"
+    },
+    {
+      "priority": 4,
+      "action": "Add subscribe CTAs to all YouTube videos",
+      "detail": "10,031 views but only 17 subscribers. Update end cards on all 9 videos to include explicit subscribe prompt. This costs nothing and could 5-10x subscriber conversion rate.",
+      "effort": "low",
+      "impact": "medium"
+    },
+    {
+      "priority": 5,
+      "action": "Shift Google budget: Branded up, Competitor down, NB optimized",
+      "detail": "Branded at $0.19 CPC / 10.41% CTR is the most efficient Google spend but only $277 allocated. Competitor at $0.68 CPC — cut 30% and reallocate to Branded and long-tail sourdough keywords ('sourdough frozen pizza', 'sourdough crust pizza'). Also review 65+ Google targeting — $0.55 CPC doesn't match buyer demo.",
+      "effort": "low",
+      "impact": "medium"
+    },
+    {
+      "priority": 6,
+      "action": "Increase 'Straight From Wisconsin' Meta spend",
+      "detail": "$0.09 CPC and 5.78% CTR is running at 43% less cost than the account average. Duplicate this campaign with higher budget cap and monitor if efficiency holds as scale increases.",
+      "effort": "low",
+      "impact": "medium"
+    },
+    {
+      "priority": 7,
+      "action": "Weekly 'Pro Tips' content series across all platforms",
+      "detail": "Pro Tips is the #1 IG post, #2 TikTok, top FB content, and referenced across YouTube. Establish a recurring weekly 'Real Dough Pro Tips' format — each post shares one actionable baking tip. Build 8-12 piece backlog. This is the most scalable content template in the data.",
+      "effort": "medium",
+      "impact": "high"
+    },
+    {
+      "priority": 8,
+      "action": "Develop Pop Culture Comedy series for YouTube + TikTok",
+      "detail": "'Pretty, Pretty, Pretty Good Pizza' (246% completion, 11 shares) and 'Oh you're buying?' (TikTok #1) confirm the audience responds to recognizable comedy references. Test 3-4 pop culture titled videos (Seinfeld/Office/other) with the same tone. Comedy with pizza = shareable format.",
+      "effort": "medium",
+      "impact": "medium"
+    },
+    {
+      "priority": 9,
+      "action": "Build paid amplification test for Founder Story content",
+      "detail": "Founder posts have 35-37% engagement rates but small organic reach (493-503). These posts are loved but not seen. A $500-1,000 Meta boost test targeting 25-54 women in Midwest markets would test whether this content scales to new audience acquisition.",
+      "effort": "low",
+      "impact": "medium"
+    }
+  ],
+
+  "week_summary": "Week of March 28 – April 3, 2026 saw strong continued momentum across all paid and organic channels. Total YTD spend hit $7,327 ($5,302 Meta + $2,026 Google). Most significant development: Instagram website clicks surged 5.7x (168 → 956), pointing to a high-converting organic post driving retail discovery. YouTube is generating extraordinary completion rates (ASMR 118%, Grocery Haul 127%, Pepperoni 503%) but subscriber conversion remains near zero — a fixable gap. TikTok is showing early signs of format discovery (humor + lifestyle). Key watch items: Meta frequency rising toward creative fatigue zone and Google CPC inflation on non-branded terms. Priority actions this week: identify the IG website click trigger, prep fresh Meta creatives, promote the YouTube hidden gem, and add YouTube subscribe CTAs."
+}

@@ -1,20 +1,20 @@
 {
-  "date": "2026-04-03",
-  "period": "2026-01-01 to 2026-04-02",
-  "generated": "2026-04-03T12:12:46.803Z",
+  "date": "2026-04-04",
+  "period": "2026-01-01 to 2026-04-03",
+  "generated": "2026-04-04T12:09:16.654Z",
   "ad_performance": {
     "meta": {
       "spend": 5301.54,
       "clicks": 39524,
       "cpc": 0.13,
       "ctr": 3.29,
-      "reach": 510983,
-      "impressions": 1201432,
+      "reach": 522326,
+      "impressions": 1234793,
       "cpm": 4.41,
-      "link_clicks": 27640,
-      "frequency": 2.35,
+      "link_clicks": 28338,
+      "frequency": 2.36,
       "cplc": 0.19,
-      "link_ctr": 2.3
+      "link_ctr": 2.29
     },
     "google": {
       "spend": 2025.52,
@@ -56,8 +56,6 @@
     "instagram": {
       "followers_total": 429,
       "new_followers": 297,
-      "unfollows": null,
-      "net_gain": null,
       "top_demo_gender": "F 56.4%",
       "top_demo_age": "F 35-44 (40.7%)",
       "reach": 368045,
@@ -100,7 +98,7 @@
   "top_posts": [
     {
       "platform": "instagram",
-      "message": "Founder Pro Tips 🍕 - baking tips for sourdough crust",
+      "message": "Founder Pro Tips — baking instructions reel",
       "reach": 1258,
       "engagement": 68,
       "engagement_rate_daily": 35.79,
@@ -108,7 +106,7 @@
     },
     {
       "platform": "instagram",
-      "message": "This isn't throw it in the oven - Peppin Ain't Easy at Sendiks",
+      "message": "Peppin Ain Easy at Sendiks",
       "reach": 1749,
       "engagement": 53,
       "engagement_rate_daily": 0,
@@ -116,103 +114,84 @@
     },
     {
       "platform": "instagram",
-      "message": "Sausage pepperoni cheese curd - Curd Your Enthusiasm at Sendiks",
-      "reach": 1078,
-      "engagement": 49,
-      "engagement_rate_daily": 0,
-      "url": "https://www.instagram.com/reel/DUYIusFD26S/"
-    },
-    {
-      "platform": "instagram",
-      "message": "Three childhood best friends left cubicles - founder story",
-      "reach": 493,
-      "engagement": 63,
-      "engagement_rate_daily": 36.21,
-      "url": "https://www.instagram.com/p/DU3duxJluqr/"
-    },
-    {
-      "platform": "instagram",
-      "message": "You didn't expect to be impressed by frozen pizza - sourdough crust",
+      "message": "You did not expect to be impressed by frozen pizza",
       "reach": 822,
       "engagement": 51,
       "engagement_rate_daily": 37.23,
       "url": "https://www.instagram.com/reel/DUoA-6gAP_g/"
     },
     {
-      "platform": "facebook",
-      "message": "Sourdough is naturally fermented - educational post",
-      "reach": 613,
-      "engagement": 47,
-      "engagement_rate": null
-    },
-    {
-      "platform": "facebook",
-      "message": "Pro tips from Real Dough creators - baking tips video",
-      "reach": 595,
-      "engagement": 56,
-      "engagement_rate": null
+      "platform": "instagram",
+      "message": "Three childhood best friends - founder story",
+      "reach": 493,
+      "engagement": 63,
+      "engagement_rate_daily": 36.21,
+      "url": "https://www.instagram.com/p/DU3duxJluqr/"
     },
     {
       "platform": "youtube",
-      "title": "Sourdough Frozen Pizza ASMR 🍕",
+      "title": "Sourdough Frozen Pizza ASMR",
       "views": 2206,
       "avg_view_pct": 118.4,
-      "url": "https://www.youtube.com/watch?v=sourdough-asmr"
+      "url": "https://www.youtube.com/watch?v=k12wmEj934w"
     },
     {
       "platform": "youtube",
-      "title": "Dinner = Done.",
-      "views": 2195,
-      "avg_view_pct": 72.2
-    },
-    {
-      "platform": "youtube",
-      "title": "Frozen Pizza Grocery Haul",
-      "views": 1591,
-      "avg_view_pct": 126.78
+      "title": "Pepperoni Pizza That Hits Different",
+      "views": 265,
+      "avg_view_pct": 503.38,
+      "shares": 13,
+      "url": "https://www.youtube.com/watch?v=74YV9ngbjuk"
     },
     {
       "platform": "tiktok",
-      "message": "Oh, you're buying? Guess we're stocking up.",
+      "message": "Oh you are buying? Guess we are stocking up",
       "views": 819,
       "likes": 49
+    },
+    {
+      "platform": "tiktok",
+      "message": "Run errands with me (Sendiks)",
+      "views": 256,
+      "avg_watch_sec": 6.8,
+      "likes": 9
     }
   ],
   "meta_top_creatives": [
     {
       "headline": "No More Cardboard Crust.",
-      "link_clicks": 8960,
+      "link_clicks": 8782,
       "cpc": 0.16,
       "ctr": 2.41,
-      "impressions": 440127
+      "impressions": 430846
     },
     {
       "headline": "Straight From Wisconsin",
-      "link_clicks": 6383,
+      "link_clicks": 6185,
       "cpc": 0.09,
-      "ctr": 5.73,
-      "impressions": 172916
+      "ctr": 5.78,
+      "impressions": 165266
     },
     {
       "headline": "Meet Real Dough Pizza Co.",
-      "link_clicks": 3477,
+      "link_clicks": 3448,
       "cpc": 0.1,
       "ctr": 5.17,
-      "impressions": 124969
+      "impressions": 123884
     },
     {
       "headline": "A Better Frozen Pizza",
-      "link_clicks": 3016,
+      "link_clicks": 2957,
       "cpc": 0.16,
-      "ctr": 2.83,
-      "impressions": 152898
+      "ctr": 2.84,
+      "impressions": 150191
     },
     {
       "headline": "Your Go-To Pizzas, Upgraded",
-      "link_clicks": 1951,
+      "link_clicks": 1950,
       "cpc": 0.15,
       "ctr": 3.47,
-      "impressions": 76226
+      "impressions": 76170
     }
   ],
   "meta_age_demographics": {
