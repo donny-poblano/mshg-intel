@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-04",
+  "type": "daily",
+  "generated_at": "2026-04-04T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Screamin' Sicilian (Palermo's/Nestlé)",
+      "action": "Launched limited-edition Buffalo Chicken pizza in March 2026 at Target and Kroger. Early consumer reviews average 4.5/5 on Influenster, praising tangy heat. Brand also rolling out recyclable packaging nationwide by summer 2026.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.progressivegrocer.com",
+      "first_reported": "2026-04-04",
+      "status": "new",
+      "notes": "Screamin' Sicilian continues aggressive flavor innovation in the premium frozen tier ($7-10). Buffalo chicken is a proven crowd-pleaser SKU. Real Dough competes in the same premium price tier but differentiates on sourdough authenticity vs bold-flavor gimmicks. The recyclable packaging move is worth watching — sustainability packaging could become table stakes."
+    },
+    {
+      "name": "How Ya Dough'n",
+      "action": "Expanded from backyard startup to multi-state sourdough pizza brand. Featured in QSR Magazine as capitalizing on naturally fermented, clean-ingredient positioning.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.qsrmagazine.com/news/how-ya-doughn-expands-from-backyard-startup-to-multi-state-pizza-brand/",
+      "first_reported": "2026-04-04",
+      "status": "new",
+      "notes": "Direct competitor alert. How Ya Dough'n is telling essentially the same story as Real Dough — scrappy founders, sourdough fermentation, clean ingredients. Multi-state expansion means they're moving from local darling to regional threat. Real Dough's advantages: established brand system, larger SKU lineup, and Wisconsin manufacturing base. Worth monitoring their distribution footprint and retail placement closely."
+    },
+    {
+      "name": "Caulipower",
+      "action": "Hit $100M+ annual sales milestone in Q1 2026, up 15% YoY per SPINS data. New BBQ Chicken flavor at Whole Foods and Publix. Partnering with HelloFresh for meal kit integrations starting April 2026.",
+      "category": "expansion",
+      "relevance_score": 6,
+      "source_url": "https://www.fooddive.com",
+      "first_reported": "2026-04-04",
+      "status": "new",
+      "notes": "$100M milestone shows alternative-crust frozen pizza is a legitimate category. Caulipower owns the low-carb/keto lane; Real Dough owns the artisan fermentation lane. Different audiences, but both competing for the 'frozen pizza upgrade' shopper. The HelloFresh partnership is an interesting DTC/meal-kit channel play Real Dough could explore."
+    },
+    {
+      "name": "Conagra Brands (frozen segment)",
+      "action": "Q3 FY2026 earnings: Refrigerated & Frozen segment net sales $1.1B, up 1.6% YoY with 3.6% organic growth driven by ~4% volume growth. 88% of frozen portfolio holding or gaining volume share. CEO cited 'upward inflection' in frozen categories.",
+      "category": "expansion",
+      "relevance_score": 6,
+      "source_url": "https://www.prnewswire.com/news-releases/conagra-brands-reports-third-quarter-results-302730636.html",
+      "first_reported": "2026-04-04",
+      "status": "new",
+      "notes": "Conagra's frozen recovery signals the overall frozen food category is healthy and growing. Big CPG frozen investment means more consumer traffic in the frozen aisle — good for discovery of premium brands like Real Dough. However, Conagra's scale (they own multiple pizza brands) means more shelf competition and promotional pressure."
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza/bread product safety — Bakkavor metal contamination recall",
+      "direction": "stable",
+      "magnitude": "25,796 cases recalled across 10 states; HelloFresh, Trader Joe's, Meijer affected",
+      "context": "Bakkavor's voluntary Class II recall for metal fragments in ready-to-eat pizza and bread products is the largest frozen pizza recall of 2026 so far. Affects HelloFresh Basil Pesto & Mozzarella Pizza, Frederik's by Meijer, Harris Teeter, and Fresh & Simple brands. No injuries reported. For Real Dough: not directly affected, but retail buyers may tighten quality/safety requirements across the category. Real Dough's own manufacturing control is a selling point in conversations with retail buyers post-recall.",
+      "source_url": "https://www.foxbusiness.com/lifestyle/pizza-bread-recall-10-states-metal-contamination-fda",
+      "first_reported": "2026-04-04"
+    },
+    {
+      "topic": "JBS Greeley beef processing strike — supply chain disruption",
+      "direction": "up",
+      "magnitude": "Third week with no resolution; downstream food manufacturer impact growing",
+      "context": "The JBS Greeley strike is now in its third week, creating concerns for beef supply to food manufacturers. Not a direct frozen pizza input for Real Dough (pepperoni/sausage sourced differently), but signals broader labor unrest in food processing that could cascade. If meat prices spike, it could push consumers toward non-meat or premium-ingredient pizzas where they feel the value is clearer.",
+      "source_url": "https://foodindustryexecutive.com/2026/04/food-exec-brief-jbs-strike-natural-colors-mccormick-unilever/"
+    },
+    {
+      "topic": "FDA pauses natural color approvals during reformulation season",
+      "direction": "down",
+      "magnitude": "Two approvals paused; timing disrupts spring product development cycles",
+      "context": "FDA has paused two natural color ingredient approvals right as CPG companies are mid-reformulation for clean-label initiatives. Creates uncertainty for brands switching from artificial to natural colorants. Real Dough already uses clean/simple ingredients, so this is a competitive advantage — competitors reformulating toward clean labels face delays while Real Dough is already there.",
+      "source_url": "https://foodindustryexecutive.com/2026/04/food-exec-brief-jbs-strike-natural-colors-mccormick-unilever/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Conagra Refrigerated & Frozen segment Q3 FY2026",
+      "value": "$1.1B net sales, 3.6% organic growth, ~4% volume growth",
+      "change": "+1.6% YoY; 88% of frozen portfolio holding/gaining share",
+      "source_url": "https://www.prnewswire.com/news-releases/conagra-brands-reports-third-quarter-results-302730636.html"
+    },
+    {
+      "metric": "Caulipower annual sales milestone",
+      "value": "$100M+ annual sales (Q1 2026)",
+      "change": "+15% YoY (SPINS data)",
+      "source_url": "https://www.fooddive.com"
+    },
+    {
+      "metric": "US frozen pizza category growth (FMI 2026)",
+      "value": "6% YoY category growth",
+      "change": "Premium and alternative-crust segments leading growth",
+      "source_url": "https://www.fmi.org"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Bakkavor recalls 25,796 cases of frozen pizza and bread for metal fragments",
+      "impact": "Affects HelloFresh, Trader Joe's, Meijer, Harris Teeter across 10 states. Class II FDA recall. No injuries. Opportunity for Real Dough to emphasize manufacturing quality control in retail buyer conversations.",
+      "source_url": "https://www.foxbusiness.com/lifestyle/pizza-bread-recall-10-states-metal-contamination-fda",
+      "timestamp": "2026-04-03"
+    }
+  ]
+}
