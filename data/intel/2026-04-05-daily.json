@@ -1,0 +1,82 @@
+{
+  "date": "2026-04-05",
+  "type": "daily",
+  "generated_at": "2026-04-05T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Katie's Pizza",
+      "action": "Showcased premium frozen pizzas at Expo West 2026 (late March). Positioned as a restaurant-to-retail brand innovating in the premium frozen pizza tier. Exact SKU details and retail distribution not yet confirmed.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.naturalfoodretailers.com/blogs/madeleine-ware/2026/03/31/inside-expo-west-2026-innovation-insight-connectio",
+      "first_reported": "2026-04-05",
+      "status": "new",
+      "notes": "Another restaurant brand entering premium frozen retail — same playbook as Real Dough and How Ya Dough'n. The restaurant-to-frozen pipeline is becoming a defined competitive lane. Real Dough's advantage: established retail presence and sourdough differentiation. Worth tracking Katie's retail rollout and positioning."
+    },
+    {
+      "name": "How Ya Dough'n",
+      "action": "Additional detail: brand uses wild yeast fermentation for up to 12 days. Expanding into retail channels from restaurant roots. Featured prominently in QSR coverage alongside sourdough trend analysis.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.qsrmagazine.com/news/how-ya-doughn-expands-from-backyard-startup-to-multi-state-pizza-brand/",
+      "first_reported": "2026-04-04",
+      "status": "updated",
+      "notes": "Update from yesterday: 12-day wild yeast fermentation is a longer fermentation claim than Real Dough's 48-hour process. However, longer isn't necessarily better for consumer messaging — '48-hour true sourdough' is more accessible than '12-day wild yeast.' Real Dough should lean into the European-style fermentation standard and mother starter story rather than competing on fermentation duration."
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Unilever-McCormick mega-merger creating $20B flavor CPG giant",
+      "direction": "up",
+      "magnitude": "$44.8B enterprise value deal; $600M target synergies; close mid-2027",
+      "context": "The biggest CPG deal of 2026 so far. McCormick absorbs Unilever's food division (Hellmann's, Knorr, Cholula, French's) in a Reverse Morris Trust. Creates a pure-play flavor leader focused on sauces, spices, condiments, and foodservice. For frozen pizza: signals continued consolidation in CPG — big players are merging to scale, which could tighten shelf space competition and increase promotional intensity. The combined entity's $6B foodservice arm could influence pizza restaurant supply chains. Unilever shareholders own 65%, McCormick 35%. Markets skeptical — both stocks dropped 6-7% on announcement, echoing poor track record of CPG mega-mergers (50% of 45 major deals since 2000 resulted in impairments).",
+      "source_url": "https://www.emarketer.com/content/mccormick-strikes-deal-acquire-unilever-s-food-business",
+      "first_reported": "2026-04-05"
+    },
+    {
+      "topic": "Precision-fermented casein proteins entering US market — pizza cheese disruption",
+      "direction": "up",
+      "magnitude": "$34.2M Series B; US commercial launch 2026; FDA GRAS expected end of 2026",
+      "context": "Standing Ovation raised $34.2M (backed by Bel Group and Danone) to commercialize precision-fermented casein in the US in 2026. Their casein provides melt, stretch, and taste identical to cow's milk — directly relevant to pizza cheese. 74% lower GHG emissions than animal casein. This is not plant-based cheese (which melts poorly); it's bioidentical dairy protein via fermentation. If this scales, it could reshape cheese sourcing for frozen pizza within 2-3 years. Real Dough's clean-ingredient positioning aligns well with fermented/innovative supply chains, but this is primarily a watch-list item for now.",
+      "source_url": "https://agfundernews.com/standing-ovation-nets-34m-gears-up-for-us-launch-of-casein-via-precision-fermentation",
+      "first_reported": "2026-04-05"
+    },
+    {
+      "topic": "Sourdough generational divide — millennial embrace vs. boomer resistance",
+      "direction": "stable",
+      "magnitude": "Qualitative: strong millennial/GenZ adoption, boomers view as overhyped",
+      "context": "New consumer data confirms sourdough appeals strongly to millennials (tangy flavor, digestibility claims, wellness halo) but divides with boomers who prefer softer white bread. This reinforces Real Dough's targeting strategy — the 22-38 primary demo is exactly the sourdough-positive cohort. Mass-market penetration may plateau without boomer buy-in, keeping sourdough frozen pizza in the premium/artisan lane rather than mainstream. This is actually good for Real Dough's positioning — premium niche beats commodity fight.",
+      "source_url": "https://www.thetakeout.com/2131245/boomers-dont-like-millennial-food-trends/",
+      "first_reported": "2026-04-05"
+    },
+    {
+      "topic": "CPG venture capital surge — fermentation and alternative proteins attracting major investment",
+      "direction": "up",
+      "magnitude": "Multiple deals: Standing Ovation $34.2M, Constellation acquiring Hopwtr, Chobani $567M La Colombe, Foreverland €6M",
+      "context": "CPG venture activity is accelerating in April 2026, with heavy emphasis on fermentation, functional beverages, and alternative ingredients. The fermentation theme (Standing Ovation, sourdough brands) validates Real Dough's core value proposition. Constellation Brands acquiring Hopwtr signals big players buying into wellness/functional categories. Overall: money is flowing into the premium, clean-label, fermented food space that Real Dough occupies.",
+      "source_url": "https://www.dwt.com/insights/2026/04/food-venture-financing-news-weekly-issue-no-278",
+      "first_reported": "2026-04-05"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Unilever-McCormick combined food entity revenue",
+      "value": "$20B pro forma annual sales",
+      "change": "New entity; 65/35 Unilever/McCormick ownership split",
+      "source_url": "https://www.emarketer.com/content/mccormick-strikes-deal-acquire-unilever-s-food-business"
+    },
+    {
+      "metric": "Standing Ovation Series B funding",
+      "value": "$34.2M raised (Bel Group, Danone lead)",
+      "change": "Targeting US commercial launch 2026, FDA GRAS by end of 2026",
+      "source_url": "https://agfundernews.com/standing-ovation-nets-34m-gears-up-for-us-launch-of-casein-via-precision-fermentation"
+    },
+    {
+      "metric": "SPINS 2026 State of Natural & Organic",
+      "value": "Natural/organic sales mainstreaming into mass retail channels",
+      "change": "Growth accelerating; consumer demographics evolving beyond core natural shoppers",
+      "source_url": "https://www.newhope.com/market-data-and-analysis/download-2026-state-of-natural-organic-data-behind-consumer-trends-behaviors"
+    }
+  ],
+  "breaking": []
+}
