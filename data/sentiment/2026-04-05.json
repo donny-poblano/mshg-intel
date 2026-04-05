@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-05",
+  "fetchedAt": "2026-04-05T06:01:33.828Z",
+  "ratings": {
+    "merriment-social": { "rating": 4.4, "totalRatings": 890, "avgVisible": 4.4, "sentiment": "positive" },
+    "third-coast": { "rating": 4.5, "totalRatings": 504, "avgVisible": 4.0, "sentiment": "mixed" },
+    "flourchild": { "rating": 4.5, "totalRatings": 292, "avgVisible": 4.4, "sentiment": "positive" },
+    "loon-room": { "rating": 4.7, "totalRatings": 35, "avgVisible": 4.8, "sentiment": "positive" }
+  },
+  "alerts": [],
+  "notes": "No new reviews since last fetch (2026-04-05T00:02Z). Two existing ≤2-star reviews unchanged (Third Coast: Korinne Mack 2★, Flourchild: Jim Whitaker 2★). No new alerts triggered."
+}
