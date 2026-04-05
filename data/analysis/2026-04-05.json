@@ -1,0 +1,181 @@
+{
+  "date": "2026-04-05",
+  "period": "2026-01-01 to 2026-04-03",
+  "analysis_type": "daily_update",
+  "generated_by": "analyst-agent",
+  "data_freshness": {
+    "xlsx_date": "2026-04-04",
+    "report_period": "2026-01-01 to 2026-04-03",
+    "ytd_data": true,
+    "note": "Sunday April 5 run — daily data pull, report data through April 3"
+  },
+
+  "ad_performance": {
+    "meta": {
+      "spend": 5460.11,
+      "clicks": 40381,
+      "cpc": 0.14,
+      "ctr": 3.28,
+      "reach": 521526,
+      "impressions": 1230611,
+      "cpm": 4.44,
+      "link_clicks": 28235,
+      "frequency": 2.36,
+      "cplc": 0.19,
+      "link_ctr": 2.29,
+      "gender_split": {
+        "female": { "spend": 2854.27, "clicks": 21585, "ctr": "3.60%", "cpc": 0.13 },
+        "male": { "spend": 2556.83, "clicks": 18454, "ctr": "2.97%", "cpc": 0.14 }
+      },
+      "vs_apr04": {
+        "spend_delta": 158.57,
+        "clicks_delta": 857,
+        "cpc_delta": 0.01,
+        "ctr_delta": -0.01,
+        "impressions_delta": -4182,
+        "note": "Incremental daily spend added — overall efficiency holding steady"
+      }
+    },
+    "google": {
+      "spend": 2056.36,
+      "clicks": 5237,
+      "cpc": 0.39,
+      "ctr": 2.09,
+      "impressions": 250526,
+      "cpm": 8.21,
+      "vs_apr04": {
+        "spend_delta": 30.84,
+        "clicks_delta": 120,
+        "note": "Steady daily pacing"
+      }
+    },
+    "total_spend_ytd": 7516.47,
+    "google_campaigns": [
+      {
+        "name": "MM - Search - Real Dough - NB",
+        "clicks": 2710,
+        "cpc": 0.40,
+        "ctr": 1.57,
+        "impressions": 172288,
+        "spend": 1073.71
+      },
+      {
+        "name": "MM - Search - Real Dough - Branded",
+        "clicks": 1480,
+        "cpc": 0.19,
+        "ctr": 10.26,
+        "impressions": 14420,
+        "spend": 281.88
+      },
+      {
+        "name": "MM - Search - Real Dough - Competitors",
+        "clicks": 1047,
+        "cpc": 0.67,
+        "ctr": 1.64,
+        "impressions": 63818,
+        "spend": 700.77
+      }
+    ],
+    "meta_demographics": {
+      "by_age": [
+        { "age": "65+", "spend": 1393.64, "impressions": 263095, "clicks": 10808, "cpc": 0.13, "ctr": 4.11, "link_clicks": 6969 },
+        { "age": "25-34", "spend": 994.03, "impressions": 230973, "clicks": 6273, "cpc": 0.16, "ctr": 2.72, "link_clicks": 5093 },
+        { "age": "35-44", "spend": 930.78, "impressions": 230866, "clicks": 6481, "cpc": 0.14, "ctr": 2.81, "link_clicks": 4703 },
+        { "age": "55-64", "spend": 894.97, "impressions": 201703, "clicks": 7732, "cpc": 0.12, "ctr": 3.83, "link_clicks": 4740 },
+        { "age": "45-54", "spend": 620.42, "impressions": 159025, "clicks": 5167, "cpc": 0.12, "ctr": 3.25, "link_clicks": 3263 },
+        { "age": "18-24", "spend": 626.07, "impressions": 144916, "clicks": 3919, "cpc": 0.16, "ctr": 2.70, "link_clicks": 3466 }
+      ],
+      "by_gender": [
+        { "gender": "Female", "spend": 2854.27, "impressions": 599468, "clicks": 21585, "cpc": 0.13, "ctr": 3.60, "link_clicks": 15076 },
+        { "gender": "Male", "spend": 2556.83, "impressions": 620346, "clicks": 18454, "cpc": 0.14, "ctr": 2.97, "link_clicks": 12902 }
+      ]
+    }
+  },
+
+  "audience": {
+    "instagram": {
+      "followers": 433,
+      "new_followers": 301,
+      "unfollows": 13,
+      "net_gain": 288,
+      "reach": 377067,
+      "website_clicks": 970,
+      "engagement_rate": 3,
+      "top_demo": "F 35-44 (41%)",
+      "demographics": {
+        "gender": { "female": 241, "male": 131, "unknown": 55 },
+        "age": [
+          { "age": "35-44", "followers": 174 },
+          { "age": "25-34", "followers": 119 },
+          { "age": "45-54", "followers": 63 },
+          { "age": "55-64", "followers": 28 },
+          { "age": "65+", "followers": 22 },
+          { "age": "18-24", "followers": 19 }
+        ]
+      }
+    },
+    "facebook": {
+      "followers": 433,
+      "post_impressions": 834581,
+      "page_views": 827110
+    },
+    "youtube": {
+      "subscribers_gained": 17,
+      "views": 11042,
+      "avg_view_duration_seconds": 25.1,
+      "avg_view_duration_display": "0:25"
+    },
+    "tiktok": {
+      "video_views": 4722,
+      "likes": 151
+    }
+  },
+
+  "top_posts": [
+    { "platform": "youtube", "title": "Sourdough Frozen Pizza ASMR 🍕", "views": 2241, "avg_view_pct": 118.45, "url": "https://www.youtube.com/watch?v=k12wmEj934w" },
+    { "platform": "youtube", "title": "Dinner = Done.", "views": 2195, "avg_view_pct": 72.20, "url": "https://www.youtube.com/watch?v=TzhDsnXg3ww" },
+    { "platform": "youtube", "title": "Frozen Pizza Grocery Haul", "views": 1592, "avg_view_pct": 126.78, "url": "https://www.youtube.com/watch?v=2irJ-B_V2rs" },
+    { "platform": "youtube", "title": "Better Frozen Pizza Starts Here", "views": 1379, "avg_view_pct": 68.74, "url": "https://www.youtube.com/watch?v=c_4sfsOU1TI" },
+    { "platform": "instagram", "title": "Founder Pro Tips reel", "reach": 1260, "engagement": 68, "engagement_rate": 35.79, "url": "https://www.instagram.com/reel/DU8nXVhgI0w/" },
+    { "platform": "instagram", "title": "Peppin' Ain't Easy product reel", "reach": 1751, "engagement": 53, "engagement_rate": 0, "url": "https://www.instagram.com/reel/DUTamCcj7w7/" },
+    { "platform": "instagram", "title": "Three friends origin story", "reach": 494, "engagement": 63, "engagement_rate": 36.21, "url": "https://www.instagram.com/p/DU3duxJluqr/" },
+    { "platform": "facebook", "title": "You're either the one paying...", "reach": 201, "engagement": 59, "engagement_rate": 29.35 },
+    { "platform": "facebook", "title": "Sourdough fermentation explainer", "reach": 615, "reactions": 22, "engagement": 47 },
+    { "platform": "facebook", "title": "Pro tips video (reel)", "reach": 596, "reactions": 25, "engagement": 56 },
+    { "platform": "meta_ad", "headline": "No More Cardboard Crust.", "link_clicks": 8960, "cpc": 0.16, "ctr": 2.41, "impressions": 440127 },
+    { "platform": "meta_ad", "headline": "Straight From Wisconsin", "link_clicks": 6383, "cpc": 0.09, "ctr": 5.73, "impressions": 172916 },
+    { "platform": "tiktok", "title": "Oh, you're buying? Guess we're stocking up.", "views": 820, "avg_watch_sec": 6.15, "likes": 49 },
+    { "platform": "facebook_reel", "title": "Pro tips from creators", "reach": 596, "avg_view_time_ms": 9747 },
+    { "platform": "facebook_reel", "title": "Wisco Kid is now in stores", "reach": 375, "avg_view_time_ms": 8186 }
+  ],
+
+  "search_terms": [
+    { "term": "real dough pizza", "clicks": 530, "cpc": 0.16, "ctr": 34.62, "impressions": 1531 },
+    { "term": "real dough pizza co", "clicks": 389, "cpc": 0.15, "ctr": 29.81, "impressions": 1305 },
+    { "term": "hot slice", "clicks": 121, "cpc": 0.60, "ctr": 24.25, "impressions": 499 },
+    { "term": "screamin sicilian pizza", "clicks": 92, "cpc": 1.78, "ctr": 3.81, "impressions": 2417 },
+    { "term": "sourdough frozen pizza", "clicks": 72, "cpc": 0.48, "ctr": 26.18, "impressions": 275 },
+    { "term": "real dough frozen pizza", "clicks": 63, "cpc": 0.26, "ctr": 23.77, "impressions": 265 },
+    { "term": "real dough pizza company", "clicks": 47, "cpc": 0.21, "ctr": 38.84, "impressions": 121 }
+  ],
+
+  "patterns": [
+    "ASMR/texture YouTube content leads in views (2,241 Sourdough ASMR) with 118% avg view pct — viewers loop it",
+    "Grocery Haul format (127% avg view pct) outperforms polished product videos — consider more haul-style UGC content",
+    "Female audience drives Meta performance: higher CTR (3.60% vs 2.97%), more link clicks (15,076 vs 12,902) on same spend",
+    "65+ age group highest Meta spend allocation ($1,393) and highest CTR (4.11%) — outperforming 'target' demographics",
+    "Instagram 35-44 F remains core audience (41% of followers) — aligned with top-performing content themes (family, quality ingredients)",
+    "Facebook humor/relatable content consistently hits 20-30% engagement rate vs 8-14% for product/educational posts",
+    "Organic Instagram reach (377K) vs paid Meta reach (521K) — organic is punching well relative to spend",
+    "Origin story and founder content performing well across all platforms — storytelling resonates",
+    "Branded search CPC ($0.19) dramatically cheaper than NB ($0.40) and competitor ($0.67) — brand awareness is driving search efficiency",
+    "Screamin Sicilian competitor keywords generating impressions but 3.81% CTR at $1.78 CPC — consider pausing to reallocate"
+  ],
+
+  "flags": [
+    "Screamin Sicilian competitor campaign: $1.78 CPC with only 3.81% CTR — ROI questionable vs NB campaign",
+    "TikTok views (4,722 YTD) significantly underperforming vs YouTube (11,042) despite similar posting cadence — algorithm lift not happening",
+    "Instagram unfollows (13) vs new followers (301) — healthy ratio, but worth monitoring if educational content increases",
+    "Meta frequency at 2.36 — approaching territory where creative refresh could improve performance"
+  ]
+}

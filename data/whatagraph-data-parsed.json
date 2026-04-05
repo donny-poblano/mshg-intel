@@ -1,241 +1,347 @@
 {
-  "date": "2026-04-04",
+  "date": "2026-04-05",
   "period": "2026-01-01 to 2026-04-03",
-  "generated": "2026-04-04T12:09:16.654Z",
+  "generated": "2026-04-05T12:12:04.650Z",
   "ad_performance": {
     "meta": {
-      "spend": 5301.54,
-      "clicks": 39524,
-      "cpc": 0.13,
-      "ctr": 3.29,
-      "reach": 522326,
-      "impressions": 1234793,
-      "cpm": 4.41,
-      "link_clicks": 28338,
+      "spend": 5460.11,
+      "clicks": 40381,
+      "cpc": 0.14,
+      "ctr": 3.28,
+      "reach": 521526,
+      "impressions": 1230611,
+      "cpm": 4.44,
+      "link_clicks": 28235,
       "frequency": 2.36,
       "cplc": 0.19,
       "link_ctr": 2.29
     },
     "google": {
-      "spend": 2025.52,
-      "clicks": 5117,
-      "cpc": 0.4,
-      "ctr": 2.1,
-      "impressions": 244112,
-      "cpm": 8.3
+      "spend": 2056.36,
+      "clicks": 5237,
+      "cpc": 0.39,
+      "ctr": 2.09,
+      "impressions": 250526,
+      "cpm": 8.21
     },
     "google_campaigns": [
       {
         "name": "MM - Search - Real Dough - NB",
-        "clicks": 2641,
+        "clicks": 2710,
         "cpc": 0.4,
         "ctr": 1.57,
-        "impressions": 167693,
-        "spend": 1060.14
+        "impressions": 172288,
+        "cpm": 6.23,
+        "spend": 1073.71
       },
       {
         "name": "MM - Search - Real Dough - Branded",
-        "clicks": 1459,
+        "clicks": 1480,
         "cpc": 0.19,
-        "ctr": 10.41,
-        "impressions": 14022,
-        "spend": 276.58
+        "ctr": 10.26,
+        "impressions": 14420,
+        "cpm": 19.55,
+        "spend": 281.88
       },
       {
         "name": "MM - Search - Real Dough - Competitors",
-        "clicks": 1017,
-        "cpc": 0.68,
-        "ctr": 1.63,
-        "impressions": 62397,
-        "spend": 688.8
+        "clicks": 1047,
+        "cpc": 0.67,
+        "ctr": 1.64,
+        "impressions": 63818,
+        "cpm": 10.98,
+        "spend": 700.77
       }
     ],
-    "total_spend": 7327.06
+    "meta_demographics": {
+      "by_age": [
+        {
+          "age": "65+",
+          "spend": 1393.64,
+          "impressions": 263095,
+          "clicks": 10808,
+          "cpc": 0.13,
+          "ctr": 4.11,
+          "link_clicks": 6969
+        },
+        {
+          "age": "25-34",
+          "spend": 994.03,
+          "impressions": 230973,
+          "clicks": 6273,
+          "cpc": 0.16,
+          "ctr": 2.72,
+          "link_clicks": 5093
+        },
+        {
+          "age": "35-44",
+          "spend": 930.78,
+          "impressions": 230866,
+          "clicks": 6481,
+          "cpc": 0.14,
+          "ctr": 2.81,
+          "link_clicks": 4703
+        },
+        {
+          "age": "55-64",
+          "spend": 894.97,
+          "impressions": 201703,
+          "clicks": 7732,
+          "cpc": 0.12,
+          "ctr": 3.83,
+          "link_clicks": 4740
+        },
+        {
+          "age": "45-54",
+          "spend": 620.42,
+          "impressions": 159025,
+          "clicks": 5167,
+          "cpc": 0.12,
+          "ctr": 3.25,
+          "link_clicks": 3263
+        },
+        {
+          "age": "18-24",
+          "spend": 626.07,
+          "impressions": 144916,
+          "clicks": 3919,
+          "cpc": 0.16,
+          "ctr": 2.7,
+          "link_clicks": 3466
+        }
+      ],
+      "by_gender": [
+        {
+          "gender": "Male",
+          "spend": 2556.83,
+          "impressions": 620346,
+          "clicks": 18454,
+          "cpc": 0.14,
+          "ctr": 2.97,
+          "link_clicks": 12902
+        },
+        {
+          "gender": "Female",
+          "spend": 2854.27,
+          "impressions": 599468,
+          "clicks": 21585,
+          "cpc": 0.13,
+          "ctr": 3.6,
+          "link_clicks": 15076
+        }
+      ]
+    }
   },
   "audience": {
     "instagram": {
-      "followers_total": 429,
-      "new_followers": 297,
-      "top_demo_gender": "F 56.4%",
-      "top_demo_age": "F 35-44 (40.7%)",
-      "reach": 368045,
-      "website_clicks": 956,
-      "engagement_rate_avg": 3,
-      "gender_breakdown": {
-        "female": 237,
-        "male": 130,
-        "unknown": 53
-      },
-      "age_breakdown": {
-        "35-44": 171,
-        "25-34": 117,
-        "45-54": 63,
-        "55-64": 27,
-        "65+": 21,
-        "18-24": 19,
-        "13-17": 2
+      "followers": 433,
+      "new_followers": 301,
+      "unfollows": 13,
+      "reach": 377067,
+      "website_clicks": 970,
+      "engagement_rate": 3,
+      "top_demo": "F 35-44 (41%)",
+      "demographics": {
+        "gender": {
+          "female": 241,
+          "male": 131,
+          "unknown": 55
+        },
+        "age": [
+          {
+            "age": "35-44",
+            "followers": 174
+          },
+          {
+            "age": "25-34",
+            "followers": 119
+          },
+          {
+            "age": "45-54",
+            "followers": 63
+          },
+          {
+            "age": "55-64",
+            "followers": 28
+          },
+          {
+            "age": "65+",
+            "followers": 22
+          },
+          {
+            "age": "18-24",
+            "followers": 19
+          }
+        ]
       }
     },
     "facebook": {
-      "followers_total": 221,
-      "new_follows": 223,
-      "unfollows": 11,
-      "page_impressions": 814846,
-      "post_engagements": 28158,
-      "reactions": 1249
+      "followers": 433,
+      "post_impressions": 834581,
+      "page_clicks": 827110
     },
     "youtube": {
-      "views": 10031,
       "subscribers_gained": 17,
-      "avg_view_duration_sec": 25.12
+      "views": 11042,
+      "avg_view_duration": "0:25"
     },
     "tiktok": {
-      "followers": 28,
-      "video_views": 4579,
-      "engagements": 149
+      "video_views": 4722,
+      "engagements": 151
     }
   },
   "top_posts": [
     {
-      "platform": "instagram",
-      "message": "Founder Pro Tips — baking instructions reel",
-      "reach": 1258,
-      "engagement": 68,
-      "engagement_rate_daily": 35.79,
-      "url": "https://www.instagram.com/reel/DU8nXVhgI0w/"
-    },
-    {
-      "platform": "instagram",
-      "message": "Peppin Ain Easy at Sendiks",
-      "reach": 1749,
-      "engagement": 53,
-      "engagement_rate_daily": 0,
-      "url": "https://www.instagram.com/reel/DUTamCcj7w7/"
-    },
-    {
-      "platform": "instagram",
-      "message": "You did not expect to be impressed by frozen pizza",
-      "reach": 822,
-      "engagement": 51,
-      "engagement_rate_daily": 37.23,
-      "url": "https://www.instagram.com/reel/DUoA-6gAP_g/"
-    },
-    {
-      "platform": "instagram",
-      "message": "Three childhood best friends - founder story",
-      "reach": 493,
-      "engagement": 63,
-      "engagement_rate_daily": 36.21,
-      "url": "https://www.instagram.com/p/DU3duxJluqr/"
-    },
-    {
       "platform": "youtube",
       "title": "Sourdough Frozen Pizza ASMR",
-      "views": 2206,
-      "avg_view_pct": 118.4,
+      "views": 2241,
+      "avg_view_pct": 118.45,
       "url": "https://www.youtube.com/watch?v=k12wmEj934w"
     },
     {
       "platform": "youtube",
-      "title": "Pepperoni Pizza That Hits Different",
-      "views": 265,
-      "avg_view_pct": 503.38,
-      "shares": 13,
-      "url": "https://www.youtube.com/watch?v=74YV9ngbjuk"
+      "title": "Dinner = Done.",
+      "views": 2195,
+      "avg_view_pct": 72.2,
+      "url": "https://www.youtube.com/watch?v=TzhDsnXg3ww"
+    },
+    {
+      "platform": "youtube",
+      "title": "Frozen Pizza Grocery Haul",
+      "views": 1592,
+      "avg_view_pct": 126.78,
+      "url": "https://www.youtube.com/watch?v=2irJ-B_V2rs"
+    },
+    {
+      "platform": "youtube",
+      "title": "Better Frozen Pizza Starts Here",
+      "views": 1379,
+      "avg_view_pct": 68.74,
+      "url": "https://www.youtube.com/watch?v=c_4sfsOU1TI"
+    },
+    {
+      "platform": "instagram",
+      "title": "Founder Pro Tips reel",
+      "reach": 1260,
+      "engagement": 68,
+      "engagement_rate": 35.79,
+      "url": "https://www.instagram.com/reel/DU8nXVhgI0w/"
+    },
+    {
+      "platform": "instagram",
+      "title": "Three friends origin story",
+      "reach": 494,
+      "engagement": 63,
+      "engagement_rate": 36.21,
+      "url": "https://www.instagram.com/p/DU3duxJluqr/"
+    },
+    {
+      "platform": "instagram",
+      "title": "Peppin Ain't Easy product reel",
+      "reach": 1751,
+      "engagement": 53,
+      "engagement_rate": 0,
+      "url": "https://www.instagram.com/reel/DUTamCcj7w7/"
+    },
+    {
+      "platform": "facebook",
+      "title": "You're either the one paying...",
+      "reach": 201,
+      "engagement": 59,
+      "engagement_rate": 29.35
+    },
+    {
+      "platform": "facebook",
+      "title": "Sourdough fermentation explainer",
+      "reach": 615,
+      "reactions": 22,
+      "engagement": 47
+    },
+    {
+      "platform": "facebook",
+      "title": "Pro tips video reel",
+      "reach": 596,
+      "reactions": 25,
+      "engagement": 56
+    },
+    {
+      "platform": "meta_ad",
+      "headline": "No More Cardboard Crust.",
+      "link_clicks": 8960,
+      "cpc": 0.16,
+      "ctr": 2.41,
+      "impressions": 440127
+    },
+    {
+      "platform": "meta_ad",
+      "headline": "Straight From Wisconsin",
+      "link_clicks": 6383,
+      "cpc": 0.09,
+      "ctr": 5.73,
+      "impressions": 172916
     },
     {
       "platform": "tiktok",
-      "message": "Oh you are buying? Guess we are stocking up",
-      "views": 819,
+      "title": "Oh you're buying? Guess we're stocking up.",
+      "views": 820,
+      "avg_watch": 6.15,
       "likes": 49
     },
     {
-      "platform": "tiktok",
-      "message": "Run errands with me (Sendiks)",
-      "views": 256,
-      "avg_watch_sec": 6.8,
-      "likes": 9
+      "platform": "facebook_reel",
+      "title": "Pro tips straight from creators",
+      "reach": 596,
+      "avg_view_time": 9747
+    },
+    {
+      "platform": "facebook_reel",
+      "title": "Wisco Kid is now in stores",
+      "reach": 375,
+      "avg_view_time": 8186
     }
   ],
-  "meta_top_creatives": [
+  "search_terms": [
     {
-      "headline": "No More Cardboard Crust.",
-      "link_clicks": 8782,
+      "term": "real dough pizza",
+      "clicks": 530,
       "cpc": 0.16,
-      "ctr": 2.41,
-      "impressions": 430846
+      "ctr": 34.62,
+      "impressions": 1531
     },
     {
-      "headline": "Straight From Wisconsin",
-      "link_clicks": 6185,
-      "cpc": 0.09,
-      "ctr": 5.78,
-      "impressions": 165266
-    },
-    {
-      "headline": "Meet Real Dough Pizza Co.",
-      "link_clicks": 3448,
-      "cpc": 0.1,
-      "ctr": 5.17,
-      "impressions": 123884
-    },
-    {
-      "headline": "A Better Frozen Pizza",
-      "link_clicks": 2957,
-      "cpc": 0.16,
-      "ctr": 2.84,
-      "impressions": 150191
-    },
-    {
-      "headline": "Your Go-To Pizzas, Upgraded",
-      "link_clicks": 1950,
+      "term": "real dough pizza co",
+      "clicks": 389,
       "cpc": 0.15,
-      "ctr": 3.47,
-      "impressions": 76170
+      "ctr": 29.81,
+      "impressions": 1305
+    },
+    {
+      "term": "hot slice",
+      "clicks": 121,
+      "cpc": 0.6,
+      "ctr": 24.25,
+      "impressions": 499
+    },
+    {
+      "term": "screamin sicilian pizza",
+      "clicks": 92,
+      "cpc": 1.78,
+      "ctr": 3.81,
+      "impressions": 2417
+    },
+    {
+      "term": "sourdough frozen pizza",
+      "clicks": 72,
+      "cpc": 0.48,
+      "ctr": 26.18,
+      "impressions": 275
+    },
+    {
+      "term": "real dough frozen pizza",
+      "clicks": 63,
+      "cpc": 0.26,
+      "ctr": 23.77,
+      "impressions": 265
     }
-  ],
-  "meta_age_demographics": {
-    "65+": {
-      "spend": 1367.95,
-      "impressions": 258765,
-      "clicks": 10621,
-      "cpc": 0.13,
-      "ctr": "4.10%"
-    },
-    "25-34": {
-      "spend": 955.97,
-      "impressions": 224013,
-      "clicks": 6095,
-      "cpc": 0.16,
-      "ctr": "2.72%"
-    },
-    "35-44": {
-      "spend": 894.17,
-      "impressions": 223928,
-      "clicks": 6324,
-      "cpc": 0.14,
-      "ctr": "2.82%"
-    },
-    "55-64": {
-      "spend": 880.7,
-      "impressions": 198851,
-      "clicks": 7637,
-      "cpc": 0.12,
-      "ctr": "3.84%"
-    },
-    "45-54": {
-      "spend": 610.34,
-      "impressions": 157013,
-      "clicks": 5098,
-      "cpc": 0.12,
-      "ctr": "3.25%"
-    },
-    "18-24": {
-      "spend": 611.26,
-      "impressions": 141905,
-      "clicks": 3853,
-      "cpc": 0.16,
-      "ctr": "2.72%"
-    }
-  }
+  ]
 }
