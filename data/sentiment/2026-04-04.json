@@ -1,43 +1,48 @@
 {
   "date": "2026-04-04",
-  "fetchedAt": "2026-04-04T18:01:25.784Z",
-  "ratings": {
-    "merriment-social": { "rating": 4.4, "totalRatings": 890, "trend": "stable" },
-    "third-coast": { "rating": 4.5, "totalRatings": 504, "trend": "stable" },
-    "flourchild": { "rating": 4.5, "totalRatings": 292, "trend": "stable" },
-    "loon-room": { "rating": 4.7, "totalRatings": 35, "trend": "stable" }
-  },
-  "reviewSentiment": {
-    "merriment-social": [
-      { "author": "Michelle", "rating": 4, "sentiment": "positive" },
-      { "author": "Tiffany David", "rating": 5, "sentiment": "positive" },
-      { "author": "S. Krug", "rating": 3, "sentiment": "mixed", "flags": ["pricing-surcharge", "food-quality"] },
-      { "author": "BryDeV", "rating": 5, "sentiment": "positive" },
-      { "author": "Kate Quinn", "rating": 5, "sentiment": "positive" }
-    ],
-    "third-coast": [
-      { "author": "Korinne Mack", "rating": 2, "sentiment": "negative", "flags": ["service-ignored", "food-salty", "solo-diner-experience"] },
-      { "author": "Maxi Harmon", "rating": 5, "sentiment": "positive" },
-      { "author": "Samantha Baldyga", "rating": 5, "sentiment": "positive" },
-      { "author": "stuartwogs", "rating": 3, "sentiment": "mixed", "flags": ["food-overcooked", "seasoning"] },
-      { "author": "A small elf", "rating": 5, "sentiment": "positive" }
-    ],
-    "flourchild": [
-      { "author": "Jim Whitaker", "rating": 2, "sentiment": "negative", "flags": ["crust-dry", "sauce-bland", "price-value"] },
-      { "author": "Alandra Nyree", "rating": 5, "sentiment": "positive" },
-      { "author": "Alicia Richter", "rating": 5, "sentiment": "positive" },
-      { "author": "Lisa Ridenour", "rating": 5, "sentiment": "positive" },
-      { "author": "Gabriel Huff", "rating": 5, "sentiment": "positive" }
-    ],
-    "loon-room": [
-      { "author": "Nick Wolf", "rating": 4, "sentiment": "mixed", "flags": ["charcuterie-quality", "entree-choice-restriction"] },
-      { "author": "Henry Schellhorn", "rating": 5, "sentiment": "positive" },
-      { "author": "Lesli Jennings", "rating": 5, "sentiment": "positive" },
-      { "author": "Sam Miller", "rating": 5, "sentiment": "positive" },
-      { "author": "Jordan Llanas", "rating": 5, "sentiment": "positive" }
-    ]
+  "fetchedAt": "2026-04-05T00:02:19.916Z",
+  "entities": {
+    "merriment-social": {
+      "rating": 4.4,
+      "totalRatings": 890,
+      "reviewsSampled": 5,
+      "sentiment": "positive",
+      "avgSampleRating": 4.4,
+      "breakdown": { "5star": 3, "4star": 1, "3star": 1, "2star": 0, "1star": 0 },
+      "themes": ["great food", "strong drinks", "friendly service", "fun atmosphere", "events/private dining"],
+      "concerns": ["3% surcharge", "oversweet brussels sprouts"]
+    },
+    "third-coast": {
+      "rating": 4.5,
+      "totalRatings": 504,
+      "reviewsSampled": 5,
+      "sentiment": "mixed",
+      "avgSampleRating": 4.0,
+      "breakdown": { "5star": 3, "4star": 0, "3star": 1, "2star": 1, "1star": 0 },
+      "themes": ["great atmosphere", "good seafood", "attentive service", "elegant/relaxed vibe"],
+      "concerns": ["solo diner ignored by bartender", "oversalted potholes", "overcooked scallops", "salty steak tartar"]
+    },
+    "flourchild": {
+      "rating": 4.5,
+      "totalRatings": 292,
+      "reviewsSampled": 5,
+      "sentiment": "positive",
+      "avgSampleRating": 4.4,
+      "breakdown": { "5star": 4, "4star": 0, "3star": 0, "2star": 1, "1star": 0 },
+      "themes": ["creative menu", "great vibes/music", "crab rangoon spring rolls", "King Cheese pizza", "friendly staff"],
+      "concerns": ["dry/stale crust complaint", "sauce lacking flavor", "spinach dip not creamy enough"]
+    },
+    "loon-room": {
+      "rating": 4.7,
+      "totalRatings": 35,
+      "reviewsSampled": 5,
+      "sentiment": "very positive",
+      "avgSampleRating": 4.8,
+      "breakdown": { "5star": 4, "4star": 1, "3star": 0, "2star": 0, "1star": 0 },
+      "themes": ["amazing cocktails", "custom drinks", "great bartenders", "cozy speakeasy vibe"],
+      "concerns": ["pedestrian charcuterie on V-Day special", "couldn't pick different entrees"]
+    }
   },
   "alerts": [],
-  "newReviewsSinceLast": 0,
-  "notes": "No changes from previous fetch. All ratings stable."
+  "changesFromPrevious": "none"
 }
