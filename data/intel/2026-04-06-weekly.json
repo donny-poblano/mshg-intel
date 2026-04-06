@@ -1,0 +1,171 @@
+{
+  "date": "2026-04-06",
+  "type": "weekly",
+  "generated_at": "2026-04-06T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Nestlé / Vital Pursuit",
+      "action": "Launched two upgraded Vital Pursuit GLP-1-friendly frozen pizzas in early 2026 with 33g protein and 17g fiber per serving (up from 22g/4g in originals). Now includes Max Pro Pizzas and gluten-free cauliflower crust varieties. Priced $4.99-$5.39. Only 20% of buyers actually use GLP-1 drugs — 40% are new to frozen foods entirely, drawn by macros.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.fooddive.com/news/why-nestle-is-betting-on-huge-opportunity-in-frozen-food/814264/",
+      "first_reported": "2026-04-06",
+      "status": "new",
+      "notes": "Nestlé creating a new frozen pizza sub-category around functional nutrition. 33g protein + 17g fiber is a strong macros pitch that could siphon the health-conscious shopper Real Dough also targets. But their play is 'GLP-1 friendly' medical positioning vs Real Dough's 'craft sourdough' artisan positioning — different lanes. The 40% new-to-frozen stat is most interesting: these products are expanding the frozen pizza buyer pool, not just cannibalizing existing share."
+    },
+    {
+      "name": "Dr. Oetker / Suprema",
+      "action": "Suprema sourdough range now confirmed live in Canada (July 2025 launch) with nationwide retail distribution at major chains. Four Canadian SKUs: Margherita, Cinque Formaggi, 'Nduja & Miele Piccante, Salame Romano — all under $10. No US launch confirmed or planned. UK launch backed by £2M campaign.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.globenewswire.com/news-release/2025/07/02/3109034/0/en/Dr-Oetker-Takes-the-Stage-with-Suprema-A-Sophisticated-New-Frozen-Pizza-Celebrated-Through-a-Custom-Opera-Performance.html",
+      "first_reported": "2026-03-28",
+      "status": "updated",
+      "notes": "Critical update: Suprema is now in TWO markets (UK + Canada) but still NOT in US. The Canadian pricing under $10 is aggressive for a premium sourdough pizza — significantly lower than Real Dough's likely price point. If Dr. Oetker enters the US, their global scale + sub-$10 pricing would be the most serious competitive threat. Real Dough's moat remains: true mother starter, Wisconsin-made story, and DTC/specialty retail relationships Dr. Oetker can't easily replicate."
+    },
+    {
+      "name": "How Ya Dough'n",
+      "action": "Expanding restaurant footprint: Coral Springs FL (first Broward County location, April 2026), Las Vegas NV (first out-of-state, under construction). No frozen retail plans confirmed. Brand remains restaurant-only with 12-day wild yeast fermentation claim.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.qsrmagazine.com/news/how-ya-doughn-expands-from-backyard-startup-to-multi-state-pizza-brand/",
+      "first_reported": "2026-04-04",
+      "status": "updated",
+      "notes": "Restaurant expansion, NOT frozen retail. Las Vegas is a brand validation market — if they succeed there, frozen retail becomes more likely. Their 12-day fermentation claim still longer than Real Dough's 48-hour process on paper, but restaurant → frozen is a different game than what Real Dough already solved. Monitor for any CPG/retail partnership announcements."
+    },
+    {
+      "name": "Screamin' Sicilian",
+      "action": "Ranked #9 most popular and #2 fastest-growing frozen pizza brand on Instacart (Jul 2024-Jun 2025 data). Premium craft positioning with Wisconsin cheese. Growing faster than most mainstream brands.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://sporked.com/article/most-popular-frozen-pizza-instacart-2026/",
+      "first_reported": "2026-04-06",
+      "status": "new",
+      "notes": "Screamin' Sicilian is the closest mainstream competitor to Real Dough's positioning — premium, Wisconsin-based, craft identity. Their Instacart growth rate (#2 fastest) signals strong e-commerce/delivery demand for premium frozen pizza. Real Dough should study their Instacart strategy and ensure comparable visibility on delivery platforms."
+    },
+    {
+      "name": "DiGiorno (Nestlé)",
+      "action": "Ranked #1 fastest-growing and #2 most popular frozen pizza on Instacart. Continues to dominate as Nestlé's flagship frozen pizza brand alongside new Vital Pursuit GLP-1 line.",
+      "category": "campaign",
+      "relevance_score": 5,
+      "source_url": "https://sporked.com/article/most-popular-frozen-pizza-instacart-2026/",
+      "first_reported": "2026-04-06",
+      "status": "new",
+      "notes": "DiGiorno's growth on delivery platforms shows even mainstream brands are winning in e-commerce. The Instacart top 10 is dominated by mass-market brands (Red Baron #1, DiGiorno #2, Totino's #3) — premium brands like Screamin' Sicilian at #9 are the exception. Real Dough's path is through specialty/natural retailers and DTC, not competing head-on in mass delivery."
+    },
+    {
+      "name": "Rosina Foods",
+      "action": "Launched Calabrian and smoked mozzarella ravioli + beef short rib ravioli at Pizza Expo 2026. Expanding into premium pizza toppings and filled pastas for pizzeria foodservice.",
+      "category": "new_product",
+      "relevance_score": 4,
+      "source_url": "https://www.youtube.com/watch?v=BzK025pAV1Y",
+      "first_reported": "2026-04-06",
+      "status": "new",
+      "notes": "Foodservice supplier move — not a direct frozen retail competitor but signals Calabrian chili trend reaching pizza supply chain. Aligns with Hormel's identification of Calabrian chili as top 2026 pizza trend."
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Hormel's Top 5 Pizza Trends for 2026",
+      "direction": "up",
+      "magnitude": "Calabrian chili interest up 59% over 4 years; Indian-inspired pizza up 98% over 4 years; 43% of US consumers seek new flavors via LTOs",
+      "context": "Hormel identified 5 key pizza trends at Pizza Expo 2026: (1) Calabrian chili for complex heat, (2) Brisket as premium protein, (3) Meat-forward triple pepperoni, (4) Global fusion (butter chicken, chorizo), (5) Specialty crusts. Real Dough's hot honey pepperoni SKU (Peppin' Ain't Easy) aligns with the heat trend. The 'global fusion' and 'specialty crusts' trends directly validate sourdough and bold flavor combinations. Potential LTO inspiration: Calabrian chili + sourdough seasonal SKU.",
+      "source_url": "https://www.prnewswire.com/news-releases/hormel-foods-unveils-top-5-pizza-trends-for-2026-calabrian-chili-brisket-and-global-fusion-lead-the-menu-302715799.html",
+      "first_reported": "2026-04-06"
+    },
+    {
+      "topic": "GLP-1 drugs accelerating frozen pizza category disruption",
+      "direction": "down",
+      "magnitude": "5% frozen pizza sales decline in high-GLP-1 zip codes; 24M Americans potentially on GLP-1 drugs; pill-form Wegovy now in 70K pharmacies",
+      "context": "Update from March 30 report: GLP-1 headwind is intensifying. Pill-form Wegovy availability (70K pharmacies) will accelerate adoption beyond injection users. Nestlé's Vital Pursuit pivot (40% new-to-frozen buyers) shows the counter-strategy: functional nutrition positioning attracts NEW buyers. For Real Dough: the 'intentional indulgence' angle is key — GLP-1 users still eat pizza, just less often and more deliberately. Premium sourdough is exactly the kind of 'worth it' occasion purchase.",
+      "source_url": "https://wifitalents.com/ozempic-food-industry-statistics/",
+      "first_reported": "2026-03-30",
+      "status": "updated"
+    },
+    {
+      "topic": "Tariff pass-through hitting retail shelves in April-May 2026",
+      "direction": "up",
+      "magnitude": "5-15% price increases in tariff-sensitive categories; $15-$65/week added to grocery bills; 3-7% menu/retail price hikes within 60 days",
+      "context": "Update from March 30 report: Wholesale tariff effects from late March are NOW hitting retail shelves. 12-18 month supply chain lag means full impact arrives mid-2026. Italian imports (olive oil, cheese, cured meats) face direct tariff exposure — relevant to premium pizza ingredients. This creates a two-sided dynamic: (1) margin pressure on all frozen pizza brands, (2) consumers may trade down from restaurants to frozen — actually growing the frozen pizza category. Real Dough's premium price becomes easier to justify when even value brands raise prices.",
+      "source_url": "https://whatsthegrocerybill.com/news/grocery-prices-rising-fast-tariffs-war-costs-push-food-bill-highe",
+      "first_reported": "2026-03-30",
+      "status": "updated"
+    },
+    {
+      "topic": "Power of Frozen 2026: frozen food shifting from backup to core meal planning",
+      "direction": "up",
+      "magnitude": "40% of US shoppers use frozen food daily or every few days (up from 35% in 2019); 30% plan to increase frozen purchases",
+      "context": "American Frozen Food Institute + FMI report (Oct 2025 survey). Frozen is no longer the 'I have nothing else' option — it's now a planned part of weekly meals. 37% cite waste reduction as a driver. This is a category tailwind for Real Dough: as frozen loses its stigma, premium frozen pizza becomes a natural step up from value brands. Cross-merchandising with fresh produce is the recommended retail strategy.",
+      "source_url": "https://massmarketretailers.com/power-of-frozen-2026-category-moves-from-back-up-to-core/",
+      "first_reported": "2026-04-06"
+    },
+    {
+      "topic": "UNFI Wisconsin distribution center closing — regional supply chain disruption",
+      "direction": "down",
+      "magnitude": "443 jobs eliminated; 425K sq ft Sturtevant WI facility closing June-August 2026; operations shifting to Joliet IL",
+      "context": "Direct Wisconsin supply chain impact. UNFI is the largest natural/organic food distributor in the US — many specialty and natural retailers depend on them. The shift from Sturtevant to Joliet adds distance for Wisconsin-based brands and retailers. During transition (June-August 2026), expect potential disruptions to frozen distribution. Real Dough should confirm their distribution isn't UNFI-dependent, or if it is, build buffer inventory before June.",
+      "source_url": "https://www.supplychaindive.com/news/unfi-sturtevant-wisconsin-distribution-center-closure-layoffs-grocery-supply-chain/815369/",
+      "first_reported": "2026-04-06"
+    },
+    {
+      "topic": "Natural Grocers entering Wisconsin market",
+      "direction": "up",
+      "magnitude": "First WI store planned in Lake Geneva; health-focused chain emphasizing meat, dairy, produce",
+      "context": "Natural Grocers is a health-forward specialty chain — exactly the type of retailer that aligns with Real Dough's premium, clean-label positioning. Their Lake Geneva opening is a potential retail expansion opportunity for Real Dough to get on shelves from day one. Worth a direct outreach to their frozen category buyer.",
+      "source_url": "https://www.supermarketnews.com/new-stores/natural-grocers-will-debut-in-wisconsin",
+      "first_reported": "2026-04-06"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Global frozen pizza market value 2026",
+      "value": "$22.67 billion (4.2% growth from 2025)",
+      "change": "+4.2% YoY",
+      "source_url": "https://natlawreview.com/press-releases/frozen-pizza-market-2026-maintaining-strong-demand-quick-meal-segments"
+    },
+    {
+      "metric": "US frozen food industry total 2026",
+      "value": "$93.5 billion",
+      "change": "Growing; high-protein meals at $12B (double-digit growth)",
+      "source_url": "https://www.prnewswire.com/news-releases/conagra-brands-future-of-frozen-food-2026-reviews-trends-shaping-93-5-billion-industry-302660287.html"
+    },
+    {
+      "metric": "US frozen pizza segment value",
+      "value": "$7.4 billion in sales",
+      "change": "Growing alongside multi-serve meals category",
+      "source_url": "https://www.prnewswire.com/news-releases/conagra-brands-future-of-frozen-food-2026-reviews-trends-shaping-93-5-billion-industry-302660287.html"
+    },
+    {
+      "metric": "Instacart frozen pizza market share leaders (Jul 2024-Jun 2025)",
+      "value": "#1 Red Baron, #2 DiGiorno, #3 Totino's, #4 Jack's, #5 Lean Cuisine, #9 Screamin' Sicilian, #10 Home Run Inn",
+      "change": "Fastest growing: DiGiorno (#1), Screamin' Sicilian (#2), Milton's (#3), Porta (#4)",
+      "source_url": "https://sporked.com/article/most-popular-frozen-pizza-instacart-2026/"
+    },
+    {
+      "metric": "Frozen food daily usage rate",
+      "value": "40% of US shoppers use frozen daily or every few days",
+      "change": "Up from 35% in 2019; 30% plan to increase purchases",
+      "source_url": "https://massmarketretailers.com/power-of-frozen-2026-category-moves-from-back-up-to-core/"
+    },
+    {
+      "metric": "GLP-1 drug adoption (US)",
+      "value": "Up to 24 million Americans potentially on GLP-1 drugs",
+      "change": "Pill-form Wegovy now in 70K pharmacies; accelerating adoption",
+      "source_url": "https://wifitalents.com/ozempic-food-industry-statistics/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "UNFI closing Sturtevant WI distribution center — 443 jobs, June-August 2026",
+      "impact": "Direct Wisconsin frozen food supply chain disruption. Real Dough should audit UNFI dependency and build buffer inventory before June.",
+      "source_url": "https://www.supplychaindive.com/news/unfi-sturtevant-wisconsin-distribution-center-closure-layoffs-grocery-supply-chain/815369/",
+      "first_reported": "2026-04-06"
+    },
+    {
+      "headline": "Tariff price increases now hitting retail shelves — 5-15% hikes in affected categories",
+      "impact": "Frozen pizza ingredient costs (cheese, imported toppings) face margin pressure. But restaurant-to-frozen trade-down could grow the category.",
+      "source_url": "https://whatsthegrocerybill.com/news/grocery-prices-rising-fast-tariffs-war-costs-push-food-bill-highe",
+      "first_reported": "2026-04-06"
+    }
+  ]
+}
