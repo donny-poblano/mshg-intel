@@ -1,7 +1,7 @@
 {
-  "date": "2026-04-05",
+  "date": "2026-04-06",
   "period": "2026-01-01 to 2026-04-03",
-  "generated": "2026-04-05T12:12:04.650Z",
+  "generated": "2026-04-06T12:05:20.264Z",
   "ad_performance": {
     "meta": {
       "spend": 5460.11,
@@ -109,142 +109,98 @@
           "ctr": 2.7,
           "link_clicks": 3466
         }
-      ],
-      "by_gender": [
-        {
-          "gender": "Male",
-          "spend": 2556.83,
-          "impressions": 620346,
-          "clicks": 18454,
-          "cpc": 0.14,
-          "ctr": 2.97,
-          "link_clicks": 12902
-        },
-        {
-          "gender": "Female",
-          "spend": 2854.27,
-          "impressions": 599468,
-          "clicks": 21585,
-          "cpc": 0.13,
-          "ctr": 3.6,
-          "link_clicks": 15076
-        }
       ]
-    }
+    },
+    "top_creatives": [
+      {
+        "headline": "No More Cardboard Crust.",
+        "link_clicks": 8960,
+        "cpc": 0.16,
+        "ctr": 2.41,
+        "impressions": 440127
+      },
+      {
+        "headline": "Straight From Wisconsin",
+        "link_clicks": 6383,
+        "cpc": 0.09,
+        "ctr": 5.73,
+        "impressions": 172916
+      },
+      {
+        "headline": "Meet Real Dough Pizza Co.",
+        "link_clicks": 3477,
+        "cpc": 0.1,
+        "ctr": 5.17,
+        "impressions": 124969
+      },
+      {
+        "headline": "A Better Frozen Pizza",
+        "link_clicks": 3016,
+        "cpc": 0.16,
+        "ctr": 2.83,
+        "impressions": 152898
+      }
+    ]
   },
   "audience": {
     "instagram": {
       "followers": 433,
       "new_followers": 301,
       "unfollows": 13,
-      "reach": 377067,
-      "website_clicks": 970,
-      "engagement_rate": 3,
-      "top_demo": "F 35-44 (41%)",
-      "demographics": {
-        "gender": {
-          "female": 241,
-          "male": 131,
-          "unknown": 55
+      "engagement_rate_avg": 3,
+      "top_demo": "F 35-44 (40% female, 65+ is biggest age segment)",
+      "by_gender": {
+        "female": 241,
+        "male": 131,
+        "unknown": 55
+      },
+      "by_age": [
+        {
+          "age": "35-44",
+          "followers": 174
         },
-        "age": [
-          {
-            "age": "35-44",
-            "followers": 174
-          },
-          {
-            "age": "25-34",
-            "followers": 119
-          },
-          {
-            "age": "45-54",
-            "followers": 63
-          },
-          {
-            "age": "55-64",
-            "followers": 28
-          },
-          {
-            "age": "65+",
-            "followers": 22
-          },
-          {
-            "age": "18-24",
-            "followers": 19
-          }
-        ]
-      }
+        {
+          "age": "25-34",
+          "followers": 119
+        },
+        {
+          "age": "45-54",
+          "followers": 63
+        },
+        {
+          "age": "55-64",
+          "followers": 28
+        },
+        {
+          "age": "65+",
+          "followers": 22
+        }
+      ]
     },
     "facebook": {
-      "followers": 433,
+      "post_engagements": 28782,
       "post_impressions": 834581,
-      "page_clicks": 827110
+      "page_views": 827110,
+      "reactions": {
+        "like": 492,
+        "love": 35,
+        "wow": 7
+      }
     },
     "youtube": {
-      "subscribers_gained": 17,
       "views": 11042,
-      "avg_view_duration": "0:25"
+      "subscribers_gained": 17,
+      "avg_view_duration_sec": 25.1
     },
     "tiktok": {
+      "followers": 28,
       "video_views": 4722,
-      "engagements": 151
+      "likes": 151
     }
   },
   "top_posts": [
     {
-      "platform": "youtube",
-      "title": "Sourdough Frozen Pizza ASMR",
-      "views": 2241,
-      "avg_view_pct": 118.45,
-      "url": "https://www.youtube.com/watch?v=k12wmEj934w"
-    },
-    {
-      "platform": "youtube",
-      "title": "Dinner = Done.",
-      "views": 2195,
-      "avg_view_pct": 72.2,
-      "url": "https://www.youtube.com/watch?v=TzhDsnXg3ww"
-    },
-    {
-      "platform": "youtube",
-      "title": "Frozen Pizza Grocery Haul",
-      "views": 1592,
-      "avg_view_pct": 126.78,
-      "url": "https://www.youtube.com/watch?v=2irJ-B_V2rs"
-    },
-    {
-      "platform": "youtube",
-      "title": "Better Frozen Pizza Starts Here",
-      "views": 1379,
-      "avg_view_pct": 68.74,
-      "url": "https://www.youtube.com/watch?v=c_4sfsOU1TI"
-    },
-    {
       "platform": "instagram",
-      "title": "Founder Pro Tips reel",
-      "reach": 1260,
-      "engagement": 68,
-      "engagement_rate": 35.79,
-      "url": "https://www.instagram.com/reel/DU8nXVhgI0w/"
-    },
-    {
-      "platform": "instagram",
-      "title": "Three friends origin story",
-      "reach": 494,
-      "engagement": 63,
-      "engagement_rate": 36.21,
-      "url": "https://www.instagram.com/p/DU3duxJluqr/"
-    },
-    {
-      "platform": "instagram",
-      "title": "Peppin Ain't Easy product reel",
-      "reach": 1751,
-      "engagement": 53,
-      "engagement_rate": 0,
-      "url": "https://www.instagram.com/reel/DUTamCcj7w7/"
-    },
-    {
-      "platform": "facebook",
       "title": "You're either the one paying...",
       "reach": 201,
       "engagement": 59,
@@ -298,6 +254,20 @@
       "title": "Wisco Kid is now in stores",
       "reach": 375,
       "avg_view_time": 8186
+    },
+    {
+      "platform": "youtube",
+      "title": "Sourdough Frozen Pizza ASMR",
+      "views": 2241,
+      "avg_view_pct": 118.45,
+      "url": "https://www.youtube.com/watch?v=k12wmEj934w"
+    },
+    {
+      "platform": "youtube",
+      "title": "Dinner = Done.",
+      "views": 2195,
+      "avg_view_pct": 72.2,
+      "url": "https://www.youtube.com/watch?v=TzhDsnXg3ww"
     }
   ],
   "search_terms": [
