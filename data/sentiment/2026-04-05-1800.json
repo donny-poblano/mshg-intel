@@ -1,0 +1,70 @@
+{
+  "date": "2026-04-05",
+  "fetchedAt": "2026-04-05T18:01:31.518Z",
+  "sentiment_scores": {
+    "merriment-social": {
+      "rating": 4.4,
+      "totalRatings": 890,
+      "trend": "stable",
+      "reviewSentiment": {
+        "positive": 3,
+        "neutral": 1,
+        "negative": 0,
+        "mixed": 1
+      }
+    },
+    "third-coast": {
+      "rating": 4.5,
+      "totalRatings": 504,
+      "trend": "stable",
+      "reviewSentiment": {
+        "positive": 3,
+        "neutral": 0,
+        "negative": 1,
+        "mixed": 1
+      },
+      "alerts": [
+        {
+          "author": "Korinne Mack",
+          "rating": 2,
+          "sentiment": "negative",
+          "summary": "Felt ignored as solo diner at bar, found potholes too salty. Complained about lack of service from bartender.",
+          "needs_response": true,
+          "age": "~1 month"
+        }
+      ]
+    },
+    "flourchild": {
+      "rating": 4.5,
+      "totalRatings": 292,
+      "trend": "stable",
+      "reviewSentiment": {
+        "positive": 4,
+        "neutral": 0,
+        "negative": 1,
+        "mixed": 0
+      },
+      "alerts": [
+        {
+          "author": "Jim Whitaker",
+          "rating": 2,
+          "sentiment": "negative",
+          "summary": "Liked atmosphere/service but found pizza crust dry/stale, sauce lacking flavor. Compared to 'old Pizza Hut pizza'. Enjoyed crab spring rolls.",
+          "needs_response": true,
+          "age": "~7 months"
+        }
+      ]
+    },
+    "loon-room": {
+      "rating": 4.7,
+      "totalRatings": 35,
+      "trend": "stable",
+      "reviewSentiment": {
+        "positive": 4,
+        "neutral": 0,
+        "negative": 0,
+        "mixed": 1
+      }
+    }
+  }
+}

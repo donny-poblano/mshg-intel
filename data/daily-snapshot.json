@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-08",
+  "period": "2026-01-01 to 2026-04-03",
+  "source_file": "real-dough-pizza-co.xlsx",
+  "ad_performance": {
+    "meta": {
+      "spend": 5460.11,
+      "clicks": 40381,
+      "cpc": 0.14,
+      "ctr": 3.28,
+      "reach": 521526,
+      "impressions": 1230611,
+      "cpm": 4.44,
+      "link_clicks": 28235,
+      "cost_per_link_click": 0.20,
+      "link_ctr": 2.25,
+      "frequency": 2.38,
+      "demographics_gender": {
+        "male": { "clicks": 20296, "cpc": 0.14, "ctr": 2.92, "spend": 2871.46 },
+        "female": { "clicks": 23883, "cpc": 0.13, "ctr": 3.55, "spend": 3217.71 },
+        "unknown": { "clicks": 391, "cpc": 0.15, "ctr": 3.09, "spend": 57.35 }
+      }
+    },
+    "google": {
+      "spend": 2056.36,
+      "clicks": 5237,
+      "cpc": 0.39,
+      "ctr": 2.09,
+      "impressions": 250526,
+      "cpm": 8.21,
+      "campaigns": [
+        { "name": "MM - Search - Real Dough - NB", "clicks": 2710, "cpc": 0.40, "ctr": 1.57, "impressions": 172288, "spend": 1073.71 },
+        { "name": "MM - Search - Real Dough - Branded", "clicks": 1480, "cpc": 0.19, "ctr": 10.26, "impressions": 14420, "spend": 281.88 },
+        { "name": "MM - Search - Real Dough - Competitors", "clicks": 1047, "cpc": 0.67, "ctr": 1.64, "impressions": 63818, "spend": 700.77 }
+      ]
+    },
+    "total_spend": 7516.47
+  },
+  "audience": {
+    "instagram": {
+      "followers": 433,
+      "new_followers": 301,
+      "unfollows": 13,
+      "net_growth": 288,
+      "reach": 377067,
+      "engagement_rate_avg": 3.0
+    },
+    "facebook": {
+      "page_post_impressions": 834581,
+      "page_views": { "jan": 0, "feb": 332787, "mar": 447653, "apr_partial": 46670 }
+    },
+    "youtube": {
+      "views": 11042,
+      "subscribers_gained": 17,
+      "avg_view_duration_sec": 25.1
+    },
+    "tiktok": {
+      "followers": 28,
+      "video_views": 4722,
+      "likes": 151
+    }
+  },
+  "top_posts": [
+    { "platform": "youtube", "title": "Sourdough Frozen Pizza ASMR 🍕", "views": 2241, "avg_view_pct": 118.45, "likes": 14, "subs_gained": 2 },
+    { "platform": "youtube", "title": "Dinner = Done.", "views": 2195, "avg_view_pct": 72.2, "likes": 25 },
+    { "platform": "youtube", "title": "Frozen Pizza Grocery Haul", "views": 1592, "avg_view_pct": 126.78, "likes": 10 },
+    { "platform": "youtube", "title": "Pepperoni Pizza That Hits Different", "views": 265, "avg_view_pct": 503.38, "likes": 5, "shares": 13, "note": "Exceptionally high avg view pct — likely short loop-worthy clip" },
+    { "platform": "youtube", "title": "Pretty, Pretty, Pretty Good Pizza", "views": 317, "avg_view_pct": 246.53, "likes": 7, "shares": 11 },
+    { "platform": "instagram", "title": "Founder Pro Tips 🍕", "url": "https://www.instagram.com/reel/DU8nXVhgI0w/", "reach": 1260, "engagement": 68, "engagement_rate": 35.79 },
+    { "platform": "instagram", "title": "Three childhood best friends left cubicles for scratch kitchens", "url": "https://www.instagram.com/p/DU3duxJluqr/", "reach": 494, "engagement": 63, "engagement_rate": 36.21 },
+    { "platform": "facebook", "title": "You're either the one paying for all the pizzas…", "reach": 201, "engagement": 59, "engagement_rate": 29.35, "link_clicks": 2 },
+    { "platform": "tiktok", "title": "Oh, you're buying? Guess we're stocking up.", "views": 820, "likes": 49, "avg_watch_sec": 6.15 },
+    { "platform": "tiktok", "title": "Real Dough Pizza Co. Pro Tips", "views": 339, "likes": 9, "avg_watch_sec": 3.07 }
+  ],
+  "patterns": [
+    "ASMR and loop-format YouTube content dominates: ASMR video at 118% avg view pct, Pepperoni video at 503% — both being rewatched heavily",
+    "Founder story content (Instagram 'three childhood best friends') at 36% engagement rate — origin narrative resonates strongly",
+    "Female audience outperforms male on Meta: 3.55% CTR vs 2.92%, at lower CPC ($0.13 vs $0.14) — efficiency advantage for female targeting",
+    "Google branded search has 10.26% CTR at only $0.19 CPC — brand awareness is building, capitalize with more branded content",
+    "TikTok underperforming vs YouTube (4,722 views YTD vs 11,042 YouTube views) — needs investment or may not be the right channel",
+    "Facebook organic engagement peaks on relatable/humorous content: 'paying for all the pizzas' post 29% engagement rate vs 10-14% average",
+    "Instagram Founder Pro Tips reel (1,260 reach, 35.79% ER) — instructional/tips format outperforms product-only posts significantly",
+    "Total ad spend $7,516 YTD across both platforms — Meta delivering at $0.14 CPC vs Google $0.39 — Meta is primary efficiency driver"
+  ]
+}
