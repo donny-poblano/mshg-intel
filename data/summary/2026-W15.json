@@ -1,0 +1,57 @@
+{
+  "date": "2026-04-10",
+  "week": "2026-W15",
+  "headline": "Paid efficiency held, ASMR and founder content still win, retail distribution signals are improving, and ops needs to close the Merriment payment-mapping gap before it becomes recurring noise.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Meta remains highly efficient at scale: $0.14 CPC on 45,564 clicks and 31,831 link clicks YTD, with 'Straight From Wisconsin' still the top paid message at $0.09 CPC and 5.28% CTR.",
+        "Organic content patterns stayed consistent: YouTube ASMR is the breakout format ('Sourdough Frozen Pizza ASMR' at 2,313 views and 124.34% avg view percentage), while founder and utility content lead Instagram and Facebook engagement.",
+        "Audience growth is still healthy: Instagram reached 457 followers with 312 net new YTD, plus 1,012 website clicks YTD, suggesting content is driving real downstream action, not just vanity reach.",
+        "Market backdrop remains favorable for premium frozen: frozen food is moving into core meal planning, sourdough/specialty crust trends are strengthening, and new differentiated products continue winning shelf space at Target and other retailers."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Meta budget is still skewing older than the actual organic audience. 65+ is the largest spend bucket, while Instagram's core audience remains women 35-44.",
+        "Google branded search is excellent ($0.20 CPC, 9.55% CTR), but competitor conquesting remains expensive, especially Screamin' Sicilian terms at roughly $1.75-$1.78 CPC.",
+        "Operations data is still thin and only covers Merriment Social. The Mar 27 GIFTCARD mapping issue remains unresolved in the dataset, and Apr 4 introduced another unmapped 'OTHER' payment warning.",
+        "A Wisconsin supply-chain risk is emerging: UNFI is closing its Sturtevant distribution center this summer, which could affect regional frozen distribution if any retail relationships depend on that network.",
+        "Review sentiment is broadly positive, but the sampled negatives are specific and useful: Third Coast got a 2-star service complaint, and Flourchild's 2-star review again called out dry/stale crust and weak sauce."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "AGENCY: Shift more Meta spend toward 25-44 and keep building Wisconsin/origin creative variants before frequency climbs higher.",
+        "AGENCY: Put more weight behind ASMR, founder story, and pro-tips content. Those are the clearest cross-platform winners right now.",
+        "AGENCY: Reduce or cap competitor search spend, then reallocate into branded search and sourdough-intent terms with better efficiency.",
+        "OPS: Map Merriment's GIFTCARD and OTHER payment types in QBO/GL so journal-entry noise stops repeating.",
+        "OPS/SALES: Confirm whether any current or planned distribution relies on UNFI Wisconsin, and if so, build a buffer plan before June."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "Wisconsin/origin messaging is still the strongest paid hook, ASMR/texture video is the strongest YouTube format, and founder plus utility content is the strongest organic engagement driver on Instagram and Facebook.",
+    "what_didnt": "Older-skewing Meta spend is still misaligned with the real community, competitor search is expensive, and generic polished product messaging continues to lag more human, useful, or sensory-led creative.",
+    "recommendation": "For the next cycle, prioritize three lanes: (1) new 'Straight From Wisconsin' variants, (2) 3-5 more ASMR/texture cuts, and (3) one founder or pro-tip asset per week that can run organically first, then get paid support if it pops. Keep search focused on branded and high-intent sourdough terms, not vanity conquesting.",
+    "competitive_context": "The premium frozen category is getting sharper, not softer. Dr. Oetker remains the clearest sourdough positioning threat outside the US, Screamin' Sicilian is proving premium Wisconsin pizza can grow on Instacart, and Target's continued rollout of differentiated frozen products shows buyers still want specific stories, not generic premium claims."
+  },
+  "data_quality": {
+    "missing": [
+      "Operations coverage is incomplete and only includes Merriment Social, with no current-period operational snapshots for Third Coast, Flourchild, or Loon Room.",
+      "Weekly analytics are still mostly YTD, so true week-over-week reads remain directional unless the source export adds bounded weekly views.",
+      "Review dataset is a small sample of surfaced reviews, not a complete weekly inbox of all new reviews."
+    ],
+    "stale": [
+      "Whatagraph export behavior is inconsistent at the file level, so workbook date ranges must be trusted over local file timestamps.",
+      "Some review entries show older relative-time strings, which makes freshness hard to judge from the sentiment file alone."
+    ],
+    "anomalies": [
+      "YouTube avg view percentage above 100% continues to indicate rewatches, not a tracking error.",
+      "Apr 5 operations snapshot shows a large journal-entry imbalance, but the file itself attributes it to open tabs in a mid-day snapshot rather than a true accounting failure."
+    ]
+  }
+}
