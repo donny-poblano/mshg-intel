@@ -1,0 +1,168 @@
+{
+  "date": "2026-04-10",
+  "period": "2026-01-01 to 2026-04-09",
+  "analysis_type": "friday_weekly_review",
+  "generated_by": "analyst-agent",
+  "data_freshness": {
+    "xlsx_date": "2026-04-09",
+    "report_period": "2026-01-01 to 2026-04-09",
+    "ytd_data": true,
+    "note": "Friday April 10 run. Fresh Excel export was attempted through browser automation, but the saved local file retained its prior filesystem timestamp while the parsed workbook period advanced to Apr 9. Analysis uses the parsed workbook date range as source of truth."
+  },
+  "ad_performance": {
+    "meta": {
+      "spend": 6308.57,
+      "clicks": 45564,
+      "cpc": 0.14,
+      "ctr": 3.21,
+      "reach": 591508,
+      "impressions": 1420335,
+      "cpm": 4.44,
+      "link_clicks": 31831,
+      "frequency": 2.4,
+      "cplc": 0.2,
+      "link_ctr": 2.24,
+      "vs_2026_04_07": {
+        "spend_delta": 848.46,
+        "clicks_delta": 5183,
+        "reach_delta": 69982,
+        "impressions_delta": 189724,
+        "ctr_delta": -0.07,
+        "note": "Spend and volume grew materially over the last reported pull, while efficiency stayed mostly flat."
+      },
+      "gender_split": {
+        "female": { "spend": 3302.63, "clicks": 24420, "ctr": 3.53, "cpc": 0.14, "link_clicks": 17034 },
+        "male": { "spend": 2946.72, "clicks": 20749, "ctr": 2.9, "cpc": 0.14, "link_clicks": 14494 }
+      },
+      "top_ages": [
+        { "age": "65+", "spend": 1520.74, "clicks": 11843, "ctr": 4.11, "link_clicks": 7601 },
+        { "age": "25-34", "spend": 1225.68, "clicks": 7419, "ctr": 2.63, "link_clicks": 6015 },
+        { "age": "35-44", "spend": 1164.72, "clicks": 7708, "ctr": 2.7, "link_clicks": 5563 }
+      ]
+    },
+    "google": {
+      "spend": 2350.46,
+      "clicks": 5976,
+      "cpc": 0.39,
+      "ctr": 2.01,
+      "impressions": 297742,
+      "cpm": 7.89,
+      "vs_2026_04_07": {
+        "spend_delta": 294.1,
+        "clicks_delta": 739,
+        "cpc_delta": 0,
+        "ctr_delta": -0.08
+      },
+      "campaigns": [
+        { "name": "MM - Search - Real Dough - NB", "clicks": 3149, "cpc": 0.4, "ctr": 1.54, "impressions": 204585, "spend": 1255.99 },
+        { "name": "MM - Search - Real Dough - Branded", "clicks": 1577, "cpc": 0.2, "ctr": 9.55, "impressions": 16508, "spend": 308.34 },
+        { "name": "MM - Search - Real Dough - Competitors", "clicks": 1250, "cpc": 0.63, "ctr": 1.63, "impressions": 76649, "spend": 786.13 }
+      ]
+    },
+    "total_spend_ytd": 8659.03
+  },
+  "audience": {
+    "instagram": {
+      "followers_total": 457,
+      "new_followers_ytd": 325,
+      "unfollows_ytd": 13,
+      "net_gain_ytd": 312,
+      "reach_ytd": 428780,
+      "website_clicks_ytd": 1012,
+      "engagement_rate_avg": 2.95,
+      "top_gender": "Female 55.0%",
+      "top_age": "35-44 (40.4%)",
+      "gender_breakdown": { "female": 251, "male": 145, "unknown": 60 },
+      "age_breakdown": { "35-44": 184, "25-34": 128, "45-54": 65, "55-64": 29, "65+": 25, "18-24": 24, "13-17": 1 }
+    },
+    "facebook": {
+      "page_impressions_ytd": 966517,
+      "page_views_ytd": 955529,
+      "post_engagements_ytd": 32327,
+      "reactions_ytd": {
+        "like": 1276,
+        "love": 73,
+        "haha": 10,
+        "wow": 15,
+        "anger": 1,
+        "sorry": 0
+      }
+    },
+    "youtube": {
+      "views_ytd": 13302,
+      "subscribers_gained_ytd": 18,
+      "avg_view_duration_sec": 24.33
+    },
+    "tiktok": {
+      "followers": 31,
+      "video_views_ytd": 5361,
+      "engagements_ytd": 164
+    }
+  },
+  "top_posts": {
+    "cross_platform_top3": [
+      { "platform": "youtube", "title": "Sourdough Frozen Pizza ASMR 🍕", "views": 2313, "avg_view_pct": 124.34, "url": "https://www.youtube.com/watch?v=k12wmEj934w" },
+      { "platform": "youtube", "title": "Dinner = Done.", "views": 2195, "avg_view_pct": 72.2, "url": "https://www.youtube.com/watch?v=TzhDsnXg3ww" },
+      { "platform": "instagram", "title": "Founder Pro Tips", "reach": 1269, "engagement": 68, "engagement_rate": 35.79, "url": "https://www.instagram.com/reel/DU8nXVhgI0w/" }
+    ],
+    "instagram_top5": [
+      { "title": "Founder Pro Tips", "reach": 1269, "engagement": 68, "engagement_rate": 35.79 },
+      { "title": "Three childhood best friends", "reach": 499, "engagement": 63, "engagement_rate": 36.21 },
+      { "title": "Peppin' Ain't Easy @ Sendiks", "reach": 1760, "engagement": 53 },
+      { "title": "The Wisco Kid @ Sendiks", "reach": 972, "engagement": 52 },
+      { "title": "You didn't expect to be impressed", "reach": 837, "engagement": 51, "engagement_rate": 37.23 }
+    ],
+    "facebook_top3": [
+      { "title": "Pro tips from the creators", "reach": 611, "engagement": 56, "url": "https://www.facebook.com/122123092317054408/videos/1974534806505417" },
+      { "title": "Sourdough is naturally fermented", "reach": 634, "engagement": 47, "url": "https://www.facebook.com/122123092317054408/posts/122123445201054408" },
+      { "title": "Three childhood best friends", "reach": 512, "engagement": 46, "url": "https://www.facebook.com/122123092317054408/posts/122123082147054408" }
+    ],
+    "tiktok_top3": [
+      { "title": "Oh, you're buying? Guess we're stocking up.", "views": 837, "avg_watch_sec": 6.19, "likes": 49 },
+      { "title": "Real Dough Pro Tips", "views": 345, "avg_watch_sec": 2.85, "likes": 9 },
+      { "title": "Some frozen pizzas take shortcuts", "views": 364, "avg_watch_sec": 2.7, "likes": 7 }
+    ]
+  },
+  "meta_top_creatives": [
+    { "headline": "No More Cardboard Crust.", "link_clicks": 9783, "cpc": 0.17, "ctr": 2.34, "impressions": 495736, "note": "Still the volume leader." },
+    { "headline": "Straight From Wisconsin", "link_clicks": 7768, "cpc": 0.09, "ctr": 5.28, "impressions": 231608, "note": "Best efficiency at scale." },
+    { "headline": "Meet Real Dough Pizza Co.", "link_clicks": 3773, "cpc": 0.11, "ctr": 4.96, "impressions": 142027, "note": "Strong brand-intro creative." },
+    { "headline": "A Better Frozen Pizza", "link_clicks": 3415, "cpc": 0.17, "ctr": 2.74, "impressions": 175897 },
+    { "headline": "Your Go-To Pizzas, Upgraded", "link_clicks": 2185, "cpc": 0.16, "ctr": 3.37, "impressions": 87088 }
+  ],
+  "search_terms": {
+    "branded_top": [
+      { "term": "real dough pizza", "clicks": 564, "cpc": 0.17, "ctr": 34.22 },
+      { "term": "real dough pizza co", "clicks": 415, "cpc": 0.16, "ctr": 29.35 },
+      { "term": "real dough frozen pizza", "clicks": 65, "cpc": 0.27, "ctr": 23.05 }
+    ],
+    "non_branded_watchouts": [
+      { "term": "screamin sicilian pizza", "clicks": 93, "cpc": 1.78, "ctr": 3.75 },
+      { "term": "screamin sicilian", "clicks": 45, "cpc": 1.75, "ctr": 3.97 },
+      { "term": "hot slice", "clicks": 123, "cpc": 0.7, "ctr": 26.74 }
+    ]
+  },
+  "patterns": [
+    "ASMR and texture-led YouTube creative is still the clearest breakout format. 'Sourdough Frozen Pizza ASMR' now leads at 2,313 views with 124% average view percentage, which signals strong rewatches.",
+    "Founder and utility content continue to carry organic engagement. 'Founder Pro Tips' is still the top Instagram engagement piece at 68 engagements and 35.79% ER, and a matching pro-tips concept is also a Facebook leader.",
+    "The Wisconsin/origin angle remains the strongest paid message. 'Straight From Wisconsin' holds the best Meta efficiency at $0.09 CPC with 5.28% CTR, well ahead of broader product-led headlines.",
+    "Female audiences are still outperforming on Meta at scale, with higher CTR (3.53% vs 2.90%) and more link clicks (17,034 vs 14,494). Creative should keep speaking to household decision-makers, not just pizza enthusiasts.",
+    "Age targeting still looks misaligned. Meta's 65+ segment drives the most spend and clicks, but Instagram's actual community center is 35-44 women. Budget may be drifting older than the brand story wants.",
+    "Branded search remains the cleanest Google win. Branded terms keep delivering exceptional CTR, while competitor conquesting around Screamin Sicilian is still expensive and relatively weak.",
+    "TikTok still responds best to relatable humor and everyday-life framing. 'Oh, you're buying? Guess we're stocking up.' remains the top TikTok by a wide margin, while more polished brand language trails.",
+    "Instagram reach is growing faster than follower conversion. 428,780 reach against 457 total followers means the content is getting seen, but profile conversion still has room to improve with stronger follow CTAs and bio incentives."
+  ],
+  "flags": [
+    "Meta frequency is now 2.4. Not alarming yet, but it is moving toward fatigue territory if the same winning creatives stay in rotation without refreshes.",
+    "Competitor search terms are still expensive: 'screamin sicilian pizza' at $1.78 CPC and 'screamin sicilian' at $1.75 CPC. That spend likely has weaker payoff than branded or category-intent terms.",
+    "Whatagraph export behavior is a little sloppy. The workbook content advanced to Apr 9, but the local file timestamp did not, so freshness checks should key off workbook dates, not Finder timestamps.",
+    "Facebook source sheets are labeled inconsistently in Whatagraph exports, so page-view style metrics should be treated as directional until the agency confirms naming in the report template."
+  ],
+  "recommended_actions": [
+    "Produce another 3 to 5 short ASMR or texture-first YouTube/short-form cuts, especially cheese pull, crust crackle, and bake-close-up variants.",
+    "Keep a weekly founder or utility post in rotation on Instagram and Facebook, then support the best one with paid spend instead of only using product ads.",
+    "Shift a slice of Meta budget out of the oldest age band and test tighter 25-44 weighting to see whether landing-page quality and downstream conversion improve.",
+    "Reduce or cap competitor search spend, especially Screamin Sicilian queries, and reallocate into branded search plus high-intent category terms like sourdough frozen pizza.",
+    "Add stronger profile-follow CTAs to high-reach Instagram posts and test a pinned post or bio hook tied to store-finder value."
+  ]
+}
