@@ -1,0 +1,57 @@
+{
+  "date": "2026-04-17",
+  "week": "2026-W16",
+  "headline": "Wisconsin and sensory creative are still the clearest growth levers, the category is getting more crowded with restaurant-grade and novelty launches, and this week's biggest risk is stale ops data plus a live category quality-control signal from a major recall.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Paid efficiency is still strong. Meta delivered $0.13 CPC on 23,828 clicks in the March export, and 'Straight From Wisconsin' remains the standout creative at $0.09 CPC and 5.36% CTR.",
+        "Content winners are getting clearer, not fuzzier. YouTube ASMR/texture content led again, with 'Sourdough Frozen Pizza ASMR' at 2,206 views and 118.4% avg view percentage, while relatable everyday TikTok framing still outperformed polished brand copy.",
+        "Instagram added 165 followers in-period and reached 234,828 people, with women 35-44 still the clearest organic audience center.",
+        "Market validation for Real Dough's lane keeps rising. Katie's, Flour + Water, Di Fara, and Antico all reinforced that restaurant-led, fermentation-forward frozen pizza can win meaningful grocery distribution."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "The category got more competitive this week from both ends. Restaurant-authentic brands kept expanding, while incumbents pushed harder into novelty and convenience, including breakfast pizza, microwave crisping trays, stuffed crust, and retailer-exclusive collabs.",
+        "A meaningful trust signal hit the category: 25,000+ cases tied to a Bakkavor / Trader Joe's-linked recall were flagged for possible metal contamination. Quality and manufacturing discipline are now part of the marketing story, not just ops.",
+        "Meta targeting still skews older than the brand's real community. Paid spend is concentrated in 55+ and 65+, while the organic audience center remains women 35-44.",
+        "Operations data is stale and incomplete. The newest ops file is a single Merriment mid-day snapshot from Apr 5, with no fresh current-week operational read across the portfolio."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "AGENCY: Keep building Wisconsin/origin and sensory-crust variants. Those are still the most proven paid and organic hooks.",
+        "AGENCY: Reduce low-quality conquesting and keep search budget concentrated in branded plus sourdough-intent terms.",
+        "AGENCY: Test more 25-44 Meta weighting and judge it on retailer-intent quality, not just cheap clicks from older cohorts.",
+        "OPS: Treat quality assurance as a brand asset this week. Be ready with a simple retailer-safe talking point around process discipline and product integrity if recall chatter spreads.",
+        "DATA: Fix the stale-dashboard gap before next Friday. Fresh ops snapshots and bounded weekly analytics are the biggest missing inputs right now."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "Wisconsin/origin messaging, crust-and-texture storytelling, ASMR-style video, and relatable household framing continue to outperform generic premium product creative.",
+    "what_didnt": "Competitor search remains a weak use of budget, older-skewing Meta delivery is still misaligned with the core community, and polished but non-specific product messaging is not creating the same pull as sensory or founder-rooted content.",
+    "recommendation": "For the next cycle, stay narrow and sharper, not broader. Prioritize three lanes: (1) more Wisconsin and sourdough-proof creative, (2) more sensory short-form built around crust crackle, bake texture, and cheese pull, and (3) tighter paid targeting toward 25-44 households with stronger store-finder or retail-availability CTAs.",
+    "competitive_context": "This week reinforced a two-front battle in frozen pizza. On one side, restaurant and chef-backed brands like Katie's, Flour + Water, Di Fara, and Antico are winning with fermentation, authenticity, and clean process stories. On the other, large incumbents are chasing attention with novelty crusts, breakfast occasions, microwave convenience, and co-branded flavor drops. Real Dough is better positioned in the authenticity lane, but it needs that story to stay specific, visible, and operationally credible."
+  },
+  "data_quality": {
+    "missing": [
+      "No fresh current-week operations coverage for Third Coast, Flourchild, or Loon Room, and no current-week portfolio-level ops file at all.",
+      "This week's analytics synthesis is based on a March-only Whatagraph export, so true week-over-week April performance is not available in the source set.",
+      "The review file surfaces sampled reviews and aggregate ratings, but it does not clearly isolate newly posted reviews from this exact week."
+    ],
+    "stale": [
+      "Latest operations snapshot is Apr 5 and limited to Merriment Social mid-day only.",
+      "Review samples include many older entries, so sentiment should be treated as directional brand signal, not a clean weekly inbox."
+    ],
+    "anomalies": [
+      "YouTube average view percentage above 100% still appears to reflect rewatches, not bad math.",
+      "Apr 5 Merriment journal-entry imbalance appears to be driven by open tabs in a mid-day snapshot, not necessarily a true close issue.",
+      "The Whatagraph source changed reporting windows versus last week's file, so comparisons to prior YTD analyses are directional rather than apples-to-apples."
+    ]
+  }
+}
