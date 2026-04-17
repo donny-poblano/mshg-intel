@@ -1,0 +1,149 @@
+{
+  "date": "2026-04-17",
+  "period": "2026-03-01 to 2026-03-31",
+  "analysis_type": "friday_weekly_review",
+  "generated_by": "analyst-agent",
+  "data_freshness": {
+    "xlsx_date": "2026-03-31",
+    "report_period": "2026-03-01 to 2026-03-31",
+    "ytd_data": false,
+    "note": "This Whatagraph export resolved to a March-only reporting window, not the YTD view used in some prior Friday files. Comparisons to earlier YTD analyses are directional, not apples-to-apples."
+  },
+  "ad_performance": {
+    "meta": {
+      "spend": 3050.19,
+      "clicks": 23828,
+      "cpc": 0.13,
+      "ctr": 3.47,
+      "reach": 349299,
+      "impressions": 686641,
+      "cpm": 4.44,
+      "frequency": 1.97,
+      "link_clicks": 16389,
+      "cplc": 0.19,
+      "link_ctr": 2.39,
+      "gender_split": {
+        "female": { "spend": 1635.54, "clicks": 13010, "ctr": 3.8, "link_clicks": 8968 },
+        "male": { "spend": 1388.02, "clicks": 10616, "ctr": 3.14, "link_clicks": 7272 }
+      },
+      "top_ages": [
+        { "age": "65+", "spend": 755.27, "clicks": 6258, "ctr": 4.35, "link_clicks": 3948 },
+        { "age": "55-64", "spend": 490.67, "clicks": 4499, "ctr": 4.13, "link_clicks": 2686 },
+        { "age": "35-44", "spend": 543.63, "clicks": 3995, "ctr": 2.99, "link_clicks": 2861 }
+      ]
+    },
+    "google": {
+      "spend": 929.39,
+      "clicks": 2852,
+      "cpc": 0.33,
+      "ctr": 2.17,
+      "impressions": 131639,
+      "cpm": 7.06,
+      "campaigns": [
+        { "name": "MM - Search - Real Dough - NB", "clicks": 1415, "cpc": 0.33, "ctr": 1.57, "impressions": 90261, "spend": 473.36 },
+        { "name": "MM - Search - Real Dough - Branded", "clicks": 899, "cpc": 0.17, "ctr": 12.29, "impressions": 7313, "spend": 151.98 },
+        { "name": "MM - Search - Real Dough - Competitors", "clicks": 538, "cpc": 0.57, "ctr": 1.58, "impressions": 34065, "spend": 304.05 }
+      ]
+    },
+    "total_spend": 3979.58
+  },
+  "audience": {
+    "instagram": {
+      "followers_total": 418,
+      "new_followers_period": 165,
+      "unfollows_period": 11,
+      "reach_period": 234828,
+      "website_clicks_period": 254,
+      "engagement_rate_avg": 2.38,
+      "top_gender": "Female 56.6%",
+      "top_age": "35-44 (41.0%)",
+      "gender_breakdown": { "female": 235, "male": 127, "unknown": 53 },
+      "age_breakdown": { "35-44": 170, "25-34": 114, "45-54": 63, "55-64": 26, "65+": 21, "18-24": 19, "13-17": 2 }
+    },
+    "facebook": {
+      "followers_total": 220,
+      "new_follows_period": 125,
+      "unfollows_period": 7,
+      "post_engagement_rate": 0.15,
+      "page_impressions_period": 456877,
+      "post_engagements_period": 16724,
+      "reactions_period": {
+        "like": 603,
+        "love": 29,
+        "haha": 8,
+        "wow": 8,
+        "anger": 1,
+        "sorry": 0
+      }
+    },
+    "youtube": {
+      "views_period": 5542,
+      "subscribers_gained_period": 10,
+      "avg_view_duration_sec": 24.77
+    },
+    "tiktok": {
+      "followers": 28,
+      "video_views_period": 2704,
+      "likes_period": 81
+    }
+  },
+  "top_posts": {
+    "cross_platform_top3": [
+      { "platform": "youtube", "title": "Sourdough Frozen Pizza ASMR 🍕", "views": 2206, "avg_view_pct": 118.4, "url": "https://www.youtube.com/watch?v=k12wmEj934w" },
+      { "platform": "youtube", "title": "Frozen Pizza Grocery Haul", "views": 1591, "avg_view_pct": 126.78, "url": "https://www.youtube.com/watch?v=2irJ-B_V2rs" },
+      { "platform": "tiktok", "title": "Oh, you’re buying? Guess we’re stocking up.", "views": 849, "avg_watch_sec": 6.22, "likes": 49 }
+    ],
+    "instagram_top5": [
+      { "title": "The world deserved a better frozen pizza", "reach": 587, "engagement": 50, "engagement_rate": 11.96, "url": "https://www.instagram.com/reel/DWjgNmzBV38/" },
+      { "title": "Three best friends. One seriously good crust.", "reach": 502, "engagement": 37, "engagement_rate": 14.4, "url": "https://www.instagram.com/reel/DVYuXmmgMBG/" },
+      { "title": "You’re either the one paying for all the pizzas", "reach": 620, "engagement": 31, "engagement_rate": 8.45, "url": "https://www.instagram.com/reel/DWB0HtolIXZ/" },
+      { "title": "The only Pi on our mind: Pizza Pie", "reach": 625, "engagement": 30, "engagement_rate": 8.88, "url": "https://www.instagram.com/p/DV3n1J-j3sw/" },
+      { "title": "Some nights you just need something that works", "reach": 411, "engagement": 24, "engagement_rate": 7.36, "url": "https://www.instagram.com/reel/DVylJLblA0g/" }
+    ],
+    "facebook_top3": [
+      { "title": "You’re either the one paying for all the pizzas", "reach": 260, "engagement": 59, "engagement_rate": 22.69, "url": "https://www.facebook.com/reel/1309745711211236/" },
+      { "title": "For nights when you need practical, but still want it to count", "reach": 248, "engagement": 23, "engagement_rate": 9.27, "url": "https://www.facebook.com/reel/819073693813486/" },
+      { "title": "Turn the sound on for this one", "reach": 223, "engagement": 21, "engagement_rate": 9.42, "url": "https://www.facebook.com/reel/1313757750641071/" }
+    ],
+    "youtube_top3": [
+      { "title": "Sourdough Frozen Pizza ASMR 🍕", "views": 2206, "avg_view_pct": 118.4, "url": "https://www.youtube.com/watch?v=k12wmEj934w" },
+      { "title": "Frozen Pizza Grocery Haul", "views": 1591, "avg_view_pct": 126.78, "url": "https://www.youtube.com/watch?v=2irJ-B_V2rs" },
+      { "title": "Better Frozen Pizza Starts Here", "views": 721, "avg_view_pct": 43.89, "url": "https://www.youtube.com/watch?v=c_4sfsOU1TI" }
+    ],
+    "tiktok_top3": [
+      { "title": "Oh, you’re buying? Guess we’re stocking up.", "views": 849, "avg_watch_sec": 6.22, "likes": 49 },
+      { "title": "Sound on, crust crunch ASMR", "views": 357, "avg_watch_sec": 3.65, "likes": 4 },
+      { "title": "Run errands with me", "views": 268, "avg_watch_sec": 6.83, "likes": 9 }
+    ]
+  },
+  "meta_top_creatives": [
+    { "headline": "No More Cardboard Crust.", "link_clicks": 4557, "cpc": 0.16, "ctr": 2.47, "impressions": 223947, "note": "Volume leader." },
+    { "headline": "Straight From Wisconsin", "link_clicks": 4352, "cpc": 0.09, "ctr": 5.36, "impressions": 125740, "note": "Best efficiency at scale." },
+    { "headline": "Meet Real Dough Pizza Co.", "link_clicks": 1736, "cpc": 0.11, "ctr": 4.36, "impressions": 76465, "note": "Strong brand-intro creative." },
+    { "headline": "Your Go-To Pizzas, Upgraded", "link_clicks": 1488, "cpc": 0.15, "ctr": 3.35, "impressions": 60317 },
+    { "headline": "A Better Frozen Pizza", "link_clicks": 1226, "cpc": 0.16, "ctr": 2.52, "impressions": 65589 }
+  ],
+  "patterns": [
+    "ASMR and texture-first creative is still the clearest YouTube winner. 'Sourdough Frozen Pizza ASMR' leads in views, while 'Frozen Pizza Grocery Haul' over-indexes even harder on completion at 126.78%, which signals replay value.",
+    "The Wisconsin/origin angle remains the strongest paid message. 'Straight From Wisconsin' materially outperforms broader headlines on Meta efficiency at $0.09 CPC and 5.36% CTR.",
+    "Relatable everyday-life framing beats polished brand copy on TikTok. 'Oh, you're buying? Guess we're stocking up.' is the top TikTok by a wide margin and doubles as one of the best watch-time performers.",
+    "Instagram's strongest posts mix brand conviction with founder or lifestyle context, not just product shots. The best engagement cluster includes founder-story, practical dinner, and opinionated brand-positioning content.",
+    "Facebook still rewards utility and relatable family-dinner framing more than abstract brand language. The top reels are practical, sensory, or situational.",
+    "Meta targeting still leans older than the organic audience center of gravity. The 65+ segment drives the most spend and clicks, while Instagram's follower base is anchored in women 35-44.",
+    "Branded Google search remains the cleanest efficiency pocket. Branded CTR is 12.29% at $0.17 CPC, while competitor terms are much more expensive and less productive.",
+    "Follower growth is happening, but audience conversion is still modest relative to reach. Instagram reached 234,828 people in the period but ended at 418 followers, which suggests profile conversion still has room to improve."
+  ],
+  "flags": [
+    "This export returned a March-only date range, so dashboard freshness should be interpreted from workbook dates, not from cron timing alone.",
+    "Competitor search is still expensive at $0.57 CPC and 1.58% CTR, which is a weak trade versus branded search.",
+    "Age skew in Meta paid remains older than the brand's likely core buyer. If left untouched, budget may keep drifting toward low-friction clickers rather than best-fit households."
+  ],
+  "recommended_actions": [
+    "Keep producing ASMR and sensory-led short-form, especially crust crackle, bake-close-up, and cheese-pull variants for YouTube and cross-post tests.",
+    "Scale or refresh the Wisconsin/origin paid angle before broadening new message tests. It is still the cleanest proof point in Meta creative.",
+    "Shift a slice of Meta budget from 55+ and 65+ into 25-44 tests, then compare landing-page behavior and retailer-intent quality, not just cheap clicks.",
+    "Lean harder into relatable household and errand-life hooks on TikTok instead of polished product copy.",
+    "Protect branded Google spend and tighten competitor caps so search dollars stay concentrated in the highest-intent traffic.",
+    "Add stronger follow and profile CTAs on top-reaching Instagram reels, plus a pinned value prop around store-finder utility."
+  ]
+}
