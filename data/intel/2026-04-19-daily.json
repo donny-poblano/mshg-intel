@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-19",
+  "type": "daily",
+  "generated_at": "2026-04-19T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Tombstone",
+      "action": "Tombstone added a new Garlic Parmesan French Fry Style Crust pizza in April, extending its potato-crust platform into another indulgent, gluten-free flavor and showing that big frozen brands are still hunting for attention through novelty crust formats rather than traditional line extensions.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://sporked.com/article/tombstone-garlic-parm-french-fry-crust-pizza/",
+      "first_reported": "2026-04-19",
+      "status": "new"
+    },
+    {
+      "name": "Bakkavor / Trader Joe\u2019s / HelloFresh / Meijer / Harris Teeter",
+      "action": "A Class II recall covering more than 25,000 cases of ready-to-eat pizza and focaccia was formally classified after metal-fragment contamination tied to slow-roasted tomatoes, a reminder that private-label and meal-kit pizza supply chains can create multi-brand quality shocks from a single manufacturing issue.",
+      "category": "recall",
+      "relevance_score": 9,
+      "source_url": "https://www.delish.com/food-news/a70908189/trader-joes-pizza-recall/",
+      "first_reported": "2026-04-19",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium pizza brands are still leaning into slow-crafted dough language",
+      "direction": "up",
+      "magnitude": "Papa Johns UK launched a nationwide sourdough line after two years of development and 50+ recipe iterations",
+      "context": "Even outside frozen, pizza brands are putting more marketing weight behind fermentation, craft, and crust differentiation. That supports Real Dough\u2019s sourdough-style quality positioning, but it also means the language is getting more crowded and needs stronger proof in-market.",
+      "source_url": "https://www.thegrocer.co.uk/news/papa-johns-launches-sourdough-pizza-range-nationwide/717454.article",
+      "first_reported": "2026-04-19",
+      "status": "new"
+    },
+    {
+      "topic": "Retail shelf competition is tilting further toward private label and value-led innovation",
+      "direction": "up",
+      "magnitude": "U.S. private-label sales reached $330B with 24% unit share and 23% dollar share",
+      "context": "For any premium frozen pizza brand, the battle is not just against named competitors. Retailers are scaling their own brands, premiumizing them, and training shoppers to expect stronger value at shelf.",
+      "source_url": "https://www.foodengineeringmag.com/articles/103613-circana-us-private-label-sales-reach-330b",
+      "first_reported": "2026-04-19",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "U.S. private-label sales",
+      "value": "$330B",
+      "change": "24% unit share, 23% dollar share",
+      "source_url": "https://www.foodengineeringmag.com/articles/103613-circana-us-private-label-sales-reach-330b"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today\u2019s clearest Real Dough signals are novelty crust innovation, supply-chain quality risk, and stronger retailer-owned competition",
+      "impact": "Tombstone is still winning attention with weird indulgent crust formats, Bakkavor\u2019s recall shows how one supplier issue can ripple across multiple pizza labels, and Circana\u2019s $330B private-label milestone confirms that value-led shelf pressure is still rising underneath the premium story.",
+      "source_url": "https://www.foodengineeringmag.com/articles/103613-circana-us-private-label-sales-reach-330b",
+      "first_reported": "2026-04-19"
+    }
+  ]
+}
