@@ -1,0 +1,116 @@
+{
+  "date": "2026-04-24",
+  "period": "2026-03-01 to 2026-03-31",
+  "analysis_type": "friday_weekly_review",
+  "generated_by": "analyst-agent",
+  "data_freshness": {
+    "xlsx_date": "2026-03-31",
+    "report_period": "2026-03-01 to 2026-03-31",
+    "ytd_data": false,
+    "download_attempted": true,
+    "download_status": "menu click succeeded in browser automation, but the local xlsx did not refresh and the parsed workbook remained the same March window already on disk",
+    "note": "This Friday run completed the required parse step, but Whatagraph still resolved to the same March-only export. Weekly conclusions are therefore stability checks and action recommendations, not new-period trend changes."
+  },
+  "ad_performance": {
+    "meta": {
+      "spend": 3050.19,
+      "clicks": 23828,
+      "cpc": 0.13,
+      "ctr": 3.47,
+      "reach": 349299,
+      "impressions": 686641,
+      "cpm": 4.44,
+      "frequency": 1.97,
+      "link_clicks": 16389,
+      "link_ctr": 2.39
+    },
+    "google": {
+      "spend": 929.39,
+      "clicks": 2852,
+      "cpc": 0.33,
+      "ctr": 2.17,
+      "impressions": 131639,
+      "cpm": 7.06
+    },
+    "total_spend": 3979.58,
+    "comparison_to_2026_04_17": {
+      "status": "unchanged_source_window",
+      "note": "Because the workbook period did not advance, spend and efficiency metrics are unchanged versus the last Friday analysis sourced from the same March export."
+    }
+  },
+  "audience": {
+    "instagram": {
+      "followers_total": 418,
+      "new_followers_period": 165,
+      "unfollows_period": 11,
+      "reach_period": 234828,
+      "website_clicks_period": 254,
+      "engagement_rate_avg": 2.38,
+      "top_gender": "Female 56.6%",
+      "top_age": "35-44 (41.0%)"
+    },
+    "facebook": {
+      "followers_total": 220,
+      "new_follows_period": 125,
+      "unfollows_period": 7,
+      "page_impressions_period": 456877,
+      "post_engagements_period": 16724
+    },
+    "youtube": {
+      "views_period": 5542,
+      "subscribers_gained_period": 10,
+      "avg_view_duration_sec": 24.77
+    },
+    "tiktok": {
+      "followers": 28,
+      "video_views_period": 2704,
+      "likes_period": 81
+    }
+  },
+  "top_posts": {
+    "cross_platform_top3": [
+      {
+        "platform": "youtube",
+        "title": "Sourdough Frozen Pizza ASMR 🍕",
+        "views": 2206,
+        "avg_view_pct": 118.4,
+        "url": "https://www.youtube.com/watch?v=k12wmEj934w"
+      },
+      {
+        "platform": "youtube",
+        "title": "Frozen Pizza Grocery Haul",
+        "views": 1591,
+        "avg_view_pct": 126.78,
+        "url": "https://www.youtube.com/watch?v=2irJ-B_V2rs"
+      },
+      {
+        "platform": "tiktok",
+        "title": "Oh, you're buying? Guess we're stocking up.",
+        "views": 849,
+        "avg_watch_sec": 6.22,
+        "likes": 49
+      }
+    ]
+  },
+  "patterns": [
+    "Nothing in the source data has dethroned sensory video. ASMR and texture-led YouTube content still dominate both raw views and completion quality, which makes this the safest creative lane to scale.",
+    "The Wisconsin/origin message remains the strongest paid hook. 'Straight From Wisconsin' is still the best Meta efficiency signal and should remain the benchmark for new creative tests.",
+    "Organic social still performs best when the post feels useful or relatable, not overly polished. Founder context, practical dinner framing, and everyday humor remain the repeatable winners.",
+    "Audience fit still looks tighter in women 35-44 than in the oldest paid age bands. If the agency is optimizing only for cheap clicks, the account risks overweighting older clickers instead of the brand's likely household buyer core.",
+    "Branded search is still healthy, while competitor search remains the weakest efficiency pocket. That split has been stable long enough to justify a firmer budget stance, not just passive monitoring.",
+    "This week's biggest signal is actually operational: reporting freshness is now the bottleneck. The analytics story cannot progress week to week if the shared-report export stays pinned to March."
+  ],
+  "flags": [
+    "Fresh download was attempted, but the xlsx on disk did not update and the workbook still parsed as March-only. The dashboard may appear current by cron timing while actually reflecting stale source data.",
+    "March Meta frequency of 1.97 is not yet dangerous, but without fresher data we cannot tell whether April creative fatigue has started.",
+    "Google competitor terms were already inefficient in the last valid source window. If that mix has continued through April, wasted spend is likely accumulating unseen."
+  ],
+  "recommended_actions": [
+    "Fix the export path first. The highest-leverage move is to get a truly fresh Whatagraph xlsx so future Friday analyses can compare real week-over-week movement instead of re-reading March.",
+    "Until the reporting refresh is fixed, keep scaling the proven themes rather than inventing a new strategy: ASMR/texture on YouTube, Wisconsin/origin in paid, and relatable utility/humor on short-form social.",
+    "Pull budget away from competitor search unless there is conversion evidence strong enough to justify the higher CPC. Branded and tighter category-intent terms are still the cleaner bet.",
+    "Prepare 2 to 3 new paid creative variants built from the current winners: Wisconsin origin story, founder-led practical dinner framing, and crust/texture close-ups.",
+    "Add stronger follow or subscribe CTAs on the highest-reach organic posts and YouTube uploads. The brand is earning attention faster than it is converting that attention into retained audience."
+  ],
+  "week_summary": "Friday April 24 check completed the required report parse, but the Whatagraph export still resolved to the same March reporting window already used in the previous Friday review. That means the strategic story is stable, not newly changed: sensory video still wins, Wisconsin/origin remains the best paid message, relatable utility continues to beat polished brand copy, and competitor search still looks like the weakest use of budget. The most important problem now is data freshness, because it is blocking true week-over-week analysis."
+}
