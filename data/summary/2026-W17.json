@@ -1,0 +1,57 @@
+{
+  "date": "2026-04-24",
+  "week": "2026-W17",
+  "headline": "Creative direction is still clear, sensory plus Wisconsin still wins, but this week's real issue is stale reporting while the frozen aisle gets more polarized, more operationally disciplined, and harder to win with a fuzzy premium story.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "The playbook still works. Meta held at $0.13 CPC on 23,828 clicks, and 'Straight From Wisconsin' remains the strongest paid message at $0.09 CPC and 5.36% CTR.",
+        "Sensory video is still the safest growth lane. YouTube led with 'Sourdough Frozen Pizza ASMR' at 2,206 views and 118.4% avg view percentage, plus 'Frozen Pizza Grocery Haul' at 1,591 views and 126.78% avg view percentage.",
+        "Organic audience fit is getting clearer. Instagram added 165 followers in-period, reached 234,828 people, and still centers on women 35-44, which is a better brand-fit signal than the oldest paid cohorts.",
+        "Branded search is still healthy, which means Real Dough already has real demand to harvest before it needs to get more aggressive elsewhere."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "This week's biggest blocker is data freshness, not creative performance. The Friday parse completed, but Whatagraph still served the same March-only export, so week-over-week April movement is still invisible.",
+        "The frozen category is getting squeezed from both ends. Private label and value promo pressure are rising, while premium players keep sharpening fermentation, quality, and retailer-ready storytelling.",
+        "The market is rewarding products that are specific and easy to understand fast, for example Wisconsin origin, fermentation, protein, convenience, or cultural cuisine. A vague 'better frozen pizza' position is getting riskier.",
+        "Paid still skews older than the likely household buyer core. Cheap clicks from 55+ and 65+ may be masking weaker audience fit versus women 35-44.",
+        "Operations and sentiment inputs are incomplete for a true Real Dough weekly read. Ops data is only an old Merriment snapshot, and the review file covers restaurant brands, not a clean Real Dough review stream."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "DATA: Fix the Whatagraph export path before next Friday so the dashboard stops rereading March and can show actual week-over-week April movement.",
+        "AGENCY: Keep the next paid and social batch narrow, Wisconsin origin, founder/practical dinner framing, and crust-texture ASMR. Those are still the proven lanes.",
+        "AGENCY: Pull budget away from competitor search unless there is conversion evidence strong enough to justify the extra CPC. Keep leaning into branded and sourdough-intent search.",
+        "AGENCY: Build 2 to 3 new retail-ready creative variants that make the value proposition obvious in one glance, artisan sourdough, Wisconsin-made credibility, and easy weeknight dinner utility.",
+        "OPS/INSIGHTS: Add a real Real Dough sentiment source and fresh portfolio ops feed so next week's executive summary is not forced to infer from stale or adjacent data."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "Wisconsin-origin messaging, crust and texture storytelling, ASMR-style YouTube, and relatable household or founder-led framing still outperform generic premium product creative.",
+    "what_didnt": "Competitor search still looks like the weakest efficiency pocket, older-skewing Meta delivery is still misaligned with the likely buyer core, and broad premium positioning is getting less defensible as the aisle fragments.",
+    "recommendation": "For the next cycle, do less but sharper. Keep creative centered on three lanes: Wisconsin credibility, sourdough texture proof, and easy real-dinner utility. Pair that with tighter 25-44 household targeting and stronger store-finder or retail-availability calls to action.",
+    "competitive_context": "This week reinforced that frozen is no longer one category story. Wegmans and PORTA pushed premium artisan retail cues, Food Lion and Kroger kept pressure on value and promo, Papa Johns leaned into sourdough process storytelling, and Nestle signaled more discipline around core frozen growth. Real Dough can still win, but only if its story stays concrete, retailer-friendly, and operationally credible."
+  },
+  "data_quality": {
+    "missing": [
+      "No fresh April week-over-week analytics window, because the Whatagraph export stayed pinned to March.",
+      "No clean Real Dough review stream in reviews.json, which currently covers restaurant brands rather than a dedicated Real Dough sentiment feed.",
+      "No fresh current-week operations data relevant to Real Dough."
+    ],
+    "stale": [
+      "The latest analyst read is still based on the same March 1 to March 31 source window used last week.",
+      "Operations data is limited to an Apr 5 Merriment mid-day snapshot, which is adjacent context, not a current Real Dough ops view."
+    ],
+    "anomalies": [
+      "YouTube average view percentage above 100% still appears to reflect rewatches, not a metric error.",
+      "The dashboard can look current by cron timing while actually surfacing stale source data, which is now the main reporting risk."
+    ]
+  }
+}
