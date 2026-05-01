@@ -1,0 +1,54 @@
+{
+  "date": "2026-04-22",
+  "type": "daily",
+  "generated_at": "2026-04-22T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Apetit Oyj",
+      "action": "Apetit decided to discontinue production at its Pudasjärvi frozen pizza factory by the end of 2026 and shift output to contract manufacturing in Finland, citing declining frozen pizza sales and high investment needs at the plant.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://apetit.fi/en/news-3/?id=71962493&t=s",
+      "first_reported": "2026-04-22",
+      "status": "new"
+    },
+    {
+      "name": "Kroger / Private Selection",
+      "action": "Kroger kicked off Online Deal Days with 25% off select Private Selection frozen pizzas for pickup and delivery, a useful signal that major grocers are still using frozen pizza as a digital traffic and value-driving promo category.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://ir.kroger.com/news/news-details/2026/Kroger-Dishes-on-How-Customers-Love-to-Shop-Online-Just-in-Time-for-Online-Deal-Days/default.aspx",
+      "first_reported": "2026-04-22",
+      "status": "new"
+    },
+    {
+      "name": "Papa Johns UK",
+      "action": "Papa Johns launched a nationwide sourdough pizza range after two years of development, leaning on an aged culture fermented for up to 11 days and explicit demand for more hand-crafted, premium at-home pizza experiences.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.thegrocer.co.uk/news/papa-johns-launches-sourdough-pizza-range-nationwide/717454.article",
+      "first_reported": "2026-04-22",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "The category is stretching in three directions at once: value-driving retailer promo, premium fermented crust storytelling, and tighter manufacturing discipline",
+      "direction": "up",
+      "magnitude": "Kroger promoted private-label frozen pizza, Papa Johns pushed slow-crafted sourdough positioning, and Apetit exited owned factory production in favor of contract manufacturing",
+      "context": "Today’s clearest signal is that pizza is not winning through one generic premium story. Retailers still need value hooks, brands still see upside in stronger crust/process narratives, and operators are still rationalizing manufacturing when demand or capex no longer justifies owned capacity.",
+      "source_url": "https://apetit.fi/en/news-3/?id=71962493&t=s",
+      "first_reported": "2026-04-22",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Pizza is getting more polarized, cheaper when used as a promo, more premium when sold on craft, and less forgiving operationally",
+      "impact": "For Real Dough, the takeaway is to stay sharply positioned. A credible premium story needs a specific process cue, like fermentation or crust craft, while price-led shelf fights and manufacturing inefficiency both look increasingly brutal.",
+      "source_url": "https://www.thegrocer.co.uk/news/papa-johns-launches-sourdough-pizza-range-nationwide/717454.article",
+      "first_reported": "2026-04-22"
+    }
+  ]
+}

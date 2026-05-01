@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-13",
+  "type": "daily",
+  "generated_at": "2026-04-13T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Bettani Farms",
+      "action": "Bettani Farms said its Caseed platform is being commercialized for B2B CPG use in frozen pizza, frozen appetizers, and other prepared foods, with product launches expected within months. The company is explicitly targeting mozzarella, the biggest cheese segment, rather than smaller alt-dairy niches.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://agfundernews.com/%F0%9F%8E%A5-new-name-new-strategy-bettani-farms-targets-mozzarella-market-with-game-changing-plant-based-casein",
+      "first_reported": "2026-04-13",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Natural-channel pizza innovation is shifting toward uncooked and protein-forward formats",
+      "direction": "up",
+      "magnitude": "Expo West 2026 highlighted frozen uncooked pizzas, dairy-forward formulations, and even a cottage-cheese crust concept",
+      "context": "The strongest pizza-adjacent signal from Expo West was not generic premiumization, but a move toward products that feel more prepared, higher-protein, and less processed. That matters because it raises the bar for what 'better frozen pizza' means in natural and specialty retail.",
+      "source_url": "https://www.newhope.com/natural-products-expos/the-7-trends-dominating-natural-products-expo-west-2026",
+      "first_reported": "2026-04-13",
+      "status": "new"
+    },
+    {
+      "topic": "Sourdough is strengthening as a craft pizza quality signal beyond frozen retail",
+      "direction": "up",
+      "magnitude": "Multiple New Jersey pizzerias are now being profiled specifically for naturally fermented, long-rise sourdough pizza programs",
+      "context": "This is not a frozen launch, but it is a strong authenticity signal. As more media coverage celebrates naturally fermented dough for flavor, texture, and digestibility, Real Dough's sourdough story becomes easier to explain and more culturally legible to shoppers.",
+      "source_url": "https://jerseybites.com/a-rising-crust-new-jerseys-sourdough-pizza-movement/",
+      "first_reported": "2026-04-13",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "The pizza conversation is splitting into two serious lanes: functional/protein-led innovation and fermentation-led authenticity",
+      "impact": "Real Dough should keep avoiding vague premium language. The clearer shelf stories right now are either measurable function or unmistakable craft. Real Dough is better positioned to win on the craft side, especially if it keeps making sourdough and ingredient quality the first thing retailers and shoppers understand.",
+      "source_url": "https://www.newhope.com/natural-products-expos/the-7-trends-dominating-natural-products-expo-west-2026",
+      "first_reported": "2026-04-13"
+    }
+  ]
+}

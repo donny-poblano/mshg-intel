@@ -1,0 +1,54 @@
+{
+  "date": "2026-04-09",
+  "type": "daily",
+  "generated_at": "2026-04-09T13:02:00Z",
+  "competitors": [
+    {
+      "name": "Yough",
+      "action": "Launched nationwide in just under 2,000 Target stores with a Greek-yogurt-dough frozen pizza line, alongside a strategic investment from Founders Row.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.prnewswire.com/news-releases/founders-row-invests-in-yough-as-greek-yogurt-powered-frozen-pizza-launches-nationwide-at-target-302715868.html",
+      "first_reported": "2026-04-09",
+      "status": "new"
+    },
+    {
+      "name": "California Pizza Kitchen",
+      "action": "Expanded its frozen retail business internationally with Nestle across Mexico, Central and South America, and the Caribbean, while also signaling broader grocery platform growth beyond pizza.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.pizzamarketplace.com/news/california-pizza-kitchen-expands-frozen-offerings-in-grocery-stores/",
+      "first_reported": "2026-04-09",
+      "status": "new"
+    },
+    {
+      "name": "Blackbird Foods",
+      "action": "Expanded its plant-based Pizza Minis nationwide at Sprouts Farmers Market, adding another specialty-retail proof point for differentiated frozen pizza formats.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://startupcpg.com/newswire/startup-cpg-newswire-blackbird-foods-expands-plant-based-pizza-minis-to-sprouts-farmers-market-nationwide/",
+      "first_reported": "2026-04-09",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Differentiated frozen pizza concepts keep winning new shelf space",
+      "direction": "up",
+      "magnitude": "Protein-led dough, restaurant-brand retail expansion, and specialty plant-based formats all advanced in early April 2026",
+      "context": "The strongest new signals are not generic pizza launches. Retailers are rewarding clear product theses: functional dough, restaurant equity, or distinct dietary positioning.",
+      "source_url": "https://www.prnewswire.com/news-releases/founders-row-invests-in-yough-as-greek-yogurt-powered-frozen-pizza-launches-nationwide-at-target-302715868.html",
+      "first_reported": "2026-04-09",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Yough lands a near-2,000-store Target rollout with investor backing",
+      "impact": "High-conviction retail buyers are still funding and shelving freezer products built around a distinctive dough story.",
+      "source_url": "https://www.prnewswire.com/news-releases/founders-row-invests-in-yough-as-greek-yogurt-powered-frozen-pizza-launches-nationwide-at-target-302715868.html",
+      "first_reported": "2026-04-09"
+    }
+  ]
+}

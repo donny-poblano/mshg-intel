@@ -1,0 +1,73 @@
+{
+  "date": "2026-04-28",
+  "type": "daily",
+  "generated_at": "2026-04-28T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Yough",
+      "action": "Founders Row invested in Yough as the brand launched its Greek-yogurt-dough frozen pizzas nationwide at Target, putting the better-for-you concept into just under 2,000 stores out of the gate.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.prnewswire.com/news-releases/founders-row-invests-in-yough-as-greek-yogurt-powered-frozen-pizza-launches-nationwide-at-target-302715868.html",
+      "first_reported": "2026-04-28",
+      "status": "new"
+    },
+    {
+      "name": "California Pizza Kitchen",
+      "action": "California Pizza Kitchen said it is expanding its retail business beyond frozen pizza for the first time since 1999, while also widening Nestle-led frozen pizza distribution across Latin America and pushing further into Asia.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.nrn.com/casual-dining/california-pizza-kitchen-extending-retail-lineup-beyond-frozen-pizza",
+      "first_reported": "2026-04-28",
+      "status": "new"
+    },
+    {
+      "name": "Amy's Kitchen",
+      "action": "Amy's Kitchen promoted longtime operator Paul Schiefer to CEO, signaling a new growth chapter for one of frozen retail's most credible premium brands as it emphasizes innovation, sustainability, and operational discipline across a business nearing $1 billion in retail sales.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.prnewswire.com/news-releases/amys-kitchen-names-paul-schiefer-ceo-as-founder-andy-berliner-transitions-to-executive-chairman-302749551.html",
+      "first_reported": "2026-04-28",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza and adjacent frozen CPG are rewarding sharper platforms, not generic premium claims",
+      "direction": "up",
+      "magnitude": "Yough is scaling a high-protein reformulation into ~2,000 Target doors, CPK is extending restaurant brand equity beyond pizza while expanding internationally, and Amy's is tightening leadership around innovation plus operating performance.",
+      "context": "For Real Dough, the signal is that freezer winners are pairing product quality with a very legible growth story, either functional nutrition, brand-platform extension, or disciplined premium trust.",
+      "source_url": "https://www.prnewswire.com/news-releases/founders-row-invests-in-yough-as-greek-yogurt-powered-frozen-pizza-launches-nationwide-at-target-302715868.html",
+      "first_reported": "2026-04-28",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Yough Target rollout",
+      "value": "Just under 2,000 Target stores",
+      "change": null,
+      "source_url": "https://www.prnewswire.com/news-releases/founders-row-invests-in-yough-as-greek-yogurt-powered-frozen-pizza-launches-nationwide-at-target-302715868.html"
+    },
+    {
+      "metric": "Amy's Kitchen retail scale",
+      "value": "57,000+ stores and approaching $1 billion in retail sales",
+      "change": null,
+      "source_url": "https://www.prnewswire.com/news-releases/amys-kitchen-names-paul-schiefer-ceo-as-founder-andy-berliner-transitions-to-executive-chairman-302749551.html"
+    },
+    {
+      "metric": "CPK grocery footprint",
+      "value": "10,000+ grocery retailers globally",
+      "change": null,
+      "source_url": "https://www.nrn.com/casual-dining/california-pizza-kitchen-extending-retail-lineup-beyond-frozen-pizza"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's cleanest signal is that frozen pizza growth is clustering around clearer strategic stories",
+      "impact": "High-protein reformulation, restaurant-brand line extension, and premium frozen leadership upgrades are all getting real capital and shelf support. Real Dough should keep building around a specific retail promise buyers can repeat in one sentence, not a broad artisan claim.",
+      "source_url": "https://www.prnewswire.com/news-releases/founders-row-invests-in-yough-as-greek-yogurt-powered-frozen-pizza-launches-nationwide-at-target-302715868.html",
+      "first_reported": "2026-04-28"
+    }
+  ]
+}

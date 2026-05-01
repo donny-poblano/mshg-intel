@@ -1,0 +1,73 @@
+{
+  "date": "2026-04-27",
+  "type": "daily",
+  "generated_at": "2026-04-27T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Cape Cod Cafe",
+      "action": "Cape Cod Cafe rolled its frozen South Shore bar pizzas into approximately 400 Target stores nationwide, turning a strong regional restaurant-CPG concept into a much broader retail test across the Northeast, Mid-Atlantic, and Southeast.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.prnewswire.com/news-releases/cape-cod-cafe-pizza-hit-400-target-stores-on-march-1-2026-302706790.html",
+      "first_reported": "2026-04-27",
+      "status": "new"
+    },
+    {
+      "name": "Rich Products / Great Kitchens",
+      "action": "Rich Products said its acquisition of Great Kitchens creates a vertically integrated topped-pizza and flatbread platform spanning deli and frozen, combining crust innovation with private-label take-and-bake and Uno-branded pizza scale.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.prnewswire.com/news-releases/rich-products-builds-pizza-powerhouse-through-strategic-acquisition-of-great-kitchens-food-company-302670103.html",
+      "first_reported": "2026-04-27",
+      "status": "new"
+    },
+    {
+      "name": "Dr. Praeger's",
+      "action": "Dr. Praeger's launched Pizza Stars nationwide at Target, Whole Foods, and more, pushing pizza flavor into a better-for-you frozen snack format built around cauliflower, zucchini, gluten-free credentials, and kid-friendly shape cues.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.refrigeratedfrozenfood.com/articles/103436-dr-praegers-releases-pizza-stars",
+      "first_reported": "2026-04-27",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "The freezer keeps fragmenting into distinct winners instead of one generic premium lane",
+      "direction": "up",
+      "magnitude": "Cape Cod Cafe is scaling a regional restaurant pizza into Target, Rich is consolidating private-label and topped-pizza manufacturing power, and Dr. Praeger's is stretching pizza into a health-forward snack format.",
+      "context": "For Real Dough, the signal is that premium quality alone is not enough. The brands breaking through either own a very specific regional story, control serious manufacturing/distribution leverage, or translate pizza into a clearer adjacent use case like better-for-you snacking.",
+      "source_url": "https://www.prnewswire.com/news-releases/cape-cod-cafe-pizza-hit-400-target-stores-on-march-1-2026-302706790.html",
+      "first_reported": "2026-04-27",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Cape Cod Cafe Target rollout",
+      "value": "~400 stores",
+      "change": null,
+      "source_url": "https://www.prnewswire.com/news-releases/cape-cod-cafe-pizza-hit-400-target-stores-on-march-1-2026-302706790.html"
+    },
+    {
+      "metric": "Great Kitchens workforce joining Rich Products",
+      "value": "1,000 associates",
+      "change": null,
+      "source_url": "https://www.prnewswire.com/news-releases/rich-products-builds-pizza-powerhouse-through-strategic-acquisition-of-great-kitchens-food-company-302670103.html"
+    },
+    {
+      "metric": "Dr. Praeger's Pizza Stars nutrition",
+      "value": "5g protein and 4g fiber per serving",
+      "change": null,
+      "source_url": "https://www.refrigeratedfrozenfood.com/articles/103436-dr-praegers-releases-pizza-stars"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Three different freezer winners showed up today, regional authenticity, manufacturing scale, and better-for-you format innovation",
+      "impact": "Cape Cod Cafe shows a regional restaurant pizza can travel nationally if the story is sharp. Rich shows scale players are still consolidating pizza capability fast. Dr. Praeger's shows pizza-adjacent frozen snacks are stealing attention with health and convenience hooks. Real Dough should keep narrowing its retail story around a distinct pizza identity, not a broad premium claim.",
+      "source_url": "https://www.prnewswire.com/news-releases/rich-products-builds-pizza-powerhouse-through-strategic-acquisition-of-great-kitchens-food-company-302670103.html",
+      "first_reported": "2026-04-27"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-18",
+  "type": "daily",
+  "generated_at": "2026-04-18T13:02:28Z",
+  "competitors": [
+    {
+      "name": "Rustica",
+      "action": "Rustica officially launched two new stuffed crust frozen pizzas, Spinach & Cheese and Pepperoni & Bacon, into major grocery stores across Canada on April 9, signaling that mainstream frozen pizza players are still investing in indulgent crust-led innovation instead of just flavor-line extensions.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.tridge.com/news/rustica-officially-launches-two-new-stuffed--jonabzmf",
+      "first_reported": "2026-04-18",
+      "status": "new"
+    },
+    {
+      "name": "Buddy’s Pizza",
+      "action": "Buddy’s new ownership group said it plans to expand the Detroit-style brand into grocery store frozen aisles nationwide, which is a strong signal that regional restaurant equity is still being converted into premium frozen retail plays.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.dbusiness.com/daily-news/local-investors-buy-buddys-pizza-plan-to-put-iconic-brand-in-grocery-stores/",
+      "first_reported": "2026-04-18",
+      "status": "new"
+    },
+    {
+      "name": "CJ Schwan’s / Red Baron / Tony’s / Freschetta",
+      "action": "CJ Schwan’s detailed its new 400,000-square-foot automated pizza plant in Salina, built to produce more than 100 million pizzas annually, underscoring that scaled frozen pizza demand is being met with major manufacturing and automation investment, not incremental line tweaks.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.foodengineeringmag.com/articles/103609-recipe-for-growth-how-cj-schwans-powers-pizza-production-with-people-and-automation",
+      "first_reported": "2026-04-18",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza competition is intensifying at both ends of the market",
+      "direction": "up",
+      "magnitude": "Indulgent stuffed crust launches on one side, large-scale automated capacity expansion on the other",
+      "context": "The category is splitting into two winning plays, premium-feeling product novelty for consumers and bigger, more automated production for incumbents. That raises the bar for any challenger that wants to look distinctive and actually scale.",
+      "source_url": "https://www.foodengineeringmag.com/articles/103609-recipe-for-growth-how-cj-schwans-powers-pizza-production-with-people-and-automation",
+      "first_reported": "2026-04-18",
+      "status": "new"
+    },
+    {
+      "topic": "Restaurant-brand frozen pizza remains an active expansion lane",
+      "direction": "up",
+      "magnitude": "Buddy’s is explicitly pursuing grocery frozen expansion after an ownership change",
+      "context": "Operators with strong local pizza identity still see frozen retail as a meaningful growth path. For Real Dough, that reinforces the opportunity, but also means the shelf is getting more crowded with authenticity claims.",
+      "source_url": "https://www.dbusiness.com/daily-news/local-investors-buy-buddys-pizza-plan-to-put-iconic-brand-in-grocery-stores/",
+      "first_reported": "2026-04-18",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Frozen pizza’s April signal is clear: bolder products, bigger plants, more restaurant brands heading into retail",
+      "impact": "Rustica is pushing indulgent crust innovation, Buddy’s is taking Detroit-style restaurant equity into frozen grocery, and CJ Schwan’s is scaling industrial capacity behind leading brands. Real Dough is entering a category that still has room, but it is getting sharper, faster, and more operationally serious.",
+      "source_url": "https://www.foodengineeringmag.com/articles/103609-recipe-for-growth-how-cj-schwans-powers-pizza-production-with-people-and-automation",
+      "first_reported": "2026-04-18"
+    }
+  ]
+}

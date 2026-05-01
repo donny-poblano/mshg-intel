@@ -1,0 +1,54 @@
+{
+  "date": "2026-04-21",
+  "type": "daily",
+  "generated_at": "2026-04-21T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Chuck E. Cheese / Flatlander Foods / Kroger",
+      "action": "Chuck E. Cheese pushed into frozen retail through a Flatlander Foods licensing deal, launching cheese and pepperoni pizzas exclusively across Kroger stores at $6.99 with family-value packaging and bounce-back e-ticket offers.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.refrigeratedfrozenfood.com/articles/100476-chuck-e-cheese-introduces-retail-frozen-pizza-exclusively-at-kroger",
+      "first_reported": "2026-04-21",
+      "status": "new"
+    },
+    {
+      "name": "PORTA / The Fresh Market",
+      "action": "PORTA expanded its Roman-style premium frozen pizzas into all The Fresh Market locations, giving the brand broader specialty-retail reach beyond earlier regional distribution and reinforcing that artisan Italian positioning still wins freezer space.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.refrigeratedfrozenfood.com/articles/103656-portas-pizzas-now-available-at-the-fresh-market",
+      "first_reported": "2026-04-11",
+      "status": "updated"
+    },
+    {
+      "name": "CJ Schwan’s / Red Baron / Tony’s / Freschetta",
+      "action": "CJ Schwan’s Salina pizza complex was named FOOD ENGINEERING’s 2026 Plant of the Year, spotlighting a 400,000-square-foot manufacturing buildout plus automated distribution capacity that now produces more than 100 million pizzas annually.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.foodengineeringmag.com/articles/103495-food-engineering-names-2026-plant-of-the-year-winner",
+      "first_reported": "2026-04-18",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "The aisle keeps splitting into three credible plays: family-value licensed brands, specialty premium artisan retail, and industrial-scale incumbents",
+      "direction": "up",
+      "magnitude": "Chuck E. Cheese went mass-family at Kroger, PORTA widened premium specialty distribution, and CJ Schwan’s got fresh recognition for 100M-plus pizza capacity",
+      "context": "Today’s cleanest signal is that frozen pizza is not converging around one winner. Growth is coming from distinct lanes with different shelf stories: nostalgic value licensing, high-quality imported/artisan premium, and large-scale operational muscle behind incumbents.",
+      "source_url": "https://www.foodengineeringmag.com/articles/103495-food-engineering-names-2026-plant-of-the-year-winner",
+      "first_reported": "2026-04-21",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Frozen pizza is getting harder to enter with a generic premium story",
+      "impact": "Kroger is carrying family-licensed value pizza from Chuck E. Cheese, specialty chains are broadening artisan imports like PORTA, and incumbents like CJ Schwan’s are being rewarded for automation and scale. Real Dough needs to stay sharply positioned, not vaguely premium.",
+      "source_url": "https://www.refrigeratedfrozenfood.com/articles/100476-chuck-e-cheese-introduces-retail-frozen-pizza-exclusively-at-kroger",
+      "first_reported": "2026-04-21"
+    }
+  ]
+}

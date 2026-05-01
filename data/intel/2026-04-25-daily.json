@@ -1,0 +1,82 @@
+{
+  "date": "2026-04-25",
+  "type": "daily",
+  "generated_at": "2026-04-25T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Amy's Kitchen",
+      "action": "Amy's Kitchen Personal Pizzas were named one of Progressive Grocer's Best New Products of 2026, a useful signal that the premium frozen pizza set is still getting retailer/editorial validation when it delivers a restaurant-style experience in a compact, convenient format.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/progressive-grocer-names-best-new-products-2026",
+      "first_reported": "2026-04-25",
+      "status": "new"
+    },
+    {
+      "name": "QVC / TikTok Shop",
+      "action": "QVC used its April 25-26 Foodie Fest to roll out a curated premium frozen-food assortment on TikTok Shop, including Rastelli's, Egg Harbor, and Brooklyn Dumplings, signaling that frozen CPG is pushing deeper into social-commerce discovery instead of relying only on grocery shelf velocity.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.stocktitan.net/news/QVCGP/qvc-s-annual-foodie-fest-returns-for-a-flavor-packed-weekend-of-must-9ttk5qxi5rsk.html",
+      "first_reported": "2026-04-25",
+      "status": "new"
+    },
+    {
+      "name": "Frozen One",
+      "action": "Frozen One raised $2 million in seed funding, another sign that investors still see whitespace in premium freezer innovation and are willing to back emerging frozen-meal brands even as the aisle gets more competitive and segmented.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.foodbusinessnews.net/articles/30205-frozen-one-raises-2-million-in-seed-funding",
+      "first_reported": "2026-04-25",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium frozen is now winning through multiple paths at once: retailer validation, social-commerce distribution, and investor-backed startup formation",
+      "direction": "up",
+      "magnitude": "Amy's earned major grocery-editor endorsement, QVC moved premium frozen into TikTok Shop, and Frozen One secured $2M in seed funding",
+      "context": "For Real Dough, the signal is that premium freezer demand is broadening beyond traditional grocery doors. Shelf quality still matters, but discovery, storytelling, and brand distinctiveness now matter more because newer entrants can reach shoppers through specialty channels, social commerce, and venture-funded challenger positioning.",
+      "source_url": "https://www.stocktitan.net/news/QVCGP/qvc-s-annual-foodie-fest-returns-for-a-flavor-packed-weekend-of-must-9ttk5qxi5rsk.html",
+      "first_reported": "2026-04-25",
+      "status": "new"
+    },
+    {
+      "topic": "Specialty grocers are outperforming traditional supermarkets",
+      "direction": "up",
+      "magnitude": "Trader Joe's grew more than 3% year over year and beat the overall grocery sector by 6 points in Consumer Edge's April 22, 2026 report",
+      "context": "That matters for Real Dough because premium frozen pizza is more likely to win in differentiated, curated retail environments than in the supermarket middle where value and private label pressure are strongest.",
+      "source_url": "https://www.prnewswire.com/news-releases/consumer-edge-data-reveals-grocery-shakeup-specialty-and-discount-grocers-outperform-while-supermarkets-lose-their-grip-302749652.html",
+      "first_reported": "2026-04-25",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "U.S. private-label CPG sales",
+      "value": "$330 billion",
+      "change": "24% unit share and 23% dollar share",
+      "source_url": "https://www.circana.com/post/circana-research-reveals-u-s-private-label-cpg-sales-reach-330-billion"
+    },
+    {
+      "metric": "Trader Joe's growth vs. sector",
+      "value": ">3% year over year",
+      "change": "Outperformed the overall grocery sector by 6 points",
+      "source_url": "https://www.prnewswire.com/news-releases/consumer-edge-data-reveals-grocery-shakeup-specialty-and-discount-grocers-outperform-while-supermarkets-lose-their-grip-302749652.html"
+    },
+    {
+      "metric": "Frozen One seed round",
+      "value": "$2 million",
+      "change": null,
+      "source_url": "https://www.foodbusinessnews.net/articles/30205-frozen-one-raises-2-million-in-seed-funding"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Premium frozen is spreading beyond the grocery shelf",
+      "impact": "Today's cleanest signal is not one single pizza launch, it's the shape of the market. Amy's is still winning quality validation, QVC is testing frozen-food discovery on TikTok Shop, startups are still raising capital, and specialty grocers are taking share. Real Dough should keep building for premium specialty retail, but it also needs a discovery engine that can travel outside the freezer door.",
+      "source_url": "https://www.prnewswire.com/news-releases/consumer-edge-data-reveals-grocery-shakeup-specialty-and-discount-grocers-outperform-while-supermarkets-lose-their-grip-302749652.html",
+      "first_reported": "2026-04-25"
+    }
+  ]
+}

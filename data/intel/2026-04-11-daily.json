@@ -1,0 +1,54 @@
+{
+  "date": "2026-04-11",
+  "type": "daily",
+  "generated_at": "2026-04-11T13:10:00Z",
+  "competitors": [
+    {
+      "name": "DiGiorno",
+      "action": "Prepared Foods reported Nestle extended DiGiorno with four Wood Fired Style Crust offerings, pushing harder into texture-led premiumization with a crisp, chewy, charred crust story.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.preparedfoods.com/articles/131393-retail-pizza-heats-up-at-home",
+      "first_reported": "2026-04-11",
+      "status": "new"
+    },
+    {
+      "name": "PORTA",
+      "action": "Prepared Foods highlighted PORTA extending its flash-frozen Roman-style pinsa line with Sweet & Spicy Soppressata, reinforcing that imported Italian ingredients and premium crust formats are still gaining attention in frozen retail.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.preparedfoods.com/articles/131393-retail-pizza-heats-up-at-home",
+      "first_reported": "2026-04-11",
+      "status": "new"
+    },
+    {
+      "name": "Michaels of Brooklyn",
+      "action": "Foodbevy reported the brand launched a small-batch premium pizza sauce at The Fresh Market, extending restaurant credibility into take-home pizza occasions beyond the frozen pie itself.",
+      "category": "expansion",
+      "relevance_score": 6,
+      "source_url": "https://www.foodbevy.com/this-week-in-cpg-04-06-27/",
+      "first_reported": "2026-04-11",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "At-home pizza premiumization is broadening from frozen pies into full pizza-occasion CPG",
+      "direction": "up",
+      "magnitude": "Prepared Foods and Foodbevy both point to premium crust, imported ingredients, and restaurant-led pantry extensions in April 2026",
+      "context": "The signal is not just more frozen pizza SKUs. Winning brands are building a stronger quality story around crust texture, Italian sourcing, and restaurant credibility, then expanding into adjacent products that help own the full at-home pizza moment.",
+      "source_url": "https://www.preparedfoods.com/articles/131393-retail-pizza-heats-up-at-home",
+      "first_reported": "2026-04-11",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Texture and authenticity are becoming the clearest premium frozen-pizza battlegrounds",
+      "impact": "Real Dough should keep leaning into a distinct crust story and avoid generic premium claims. The freezer aisle is rewarding products that can explain why their bite, chew, char, or sourcing is meaningfully different.",
+      "source_url": "https://www.preparedfoods.com/articles/131393-retail-pizza-heats-up-at-home",
+      "first_reported": "2026-04-11"
+    }
+  ]
+}

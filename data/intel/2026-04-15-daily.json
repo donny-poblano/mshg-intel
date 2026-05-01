@@ -1,0 +1,54 @@
+{
+  "date": "2026-04-15",
+  "type": "daily",
+  "generated_at": "2026-04-15T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Di Fara x BossBites",
+      "action": "Di Fara launched $9.99 frozen pizzas into select ShopRite, Target, Pathmark, Lidl, and Foodtown locations through a new grocery partnership with BossBites, turning an iconic independent pizzeria into a multi-banner freezer-aisle brand.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.bkreader.com/lifestyle-culture/di-faras-pizza-is-now-available-in-the-frozen-food-isle-12113223",
+      "first_reported": "2026-04-15",
+      "status": "new"
+    },
+    {
+      "name": "Antico Casa",
+      "action": "Antico Pizza Napoletana launched its Antico Casa super-premium frozen line in more than 80 Costco stores across the Southeast, using a 36-hour fermentation process and restaurant-level Italian ingredients to position frozen pizza as a true artisan retail product.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://www.pmq.com/iconic-neapolitan-shop-lands-its-frozen-pizzas-in-a-major-retailer-starting-next-month/",
+      "first_reported": "2026-04-15",
+      "status": "new"
+    },
+    {
+      "name": "Red Baron x bibigo",
+      "action": "Red Baron and bibigo teamed up on a limited-edition Korean BBQ-style frozen pizza exclusive to Kroger, showing mainstream frozen pizza brands are borrowing adjacent CPG flavor equity to create novelty and retailer-specific exclusives.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://www.prnewswire.com/news-releases/red-baron-and-bibigo-brands-team-up-to-launch-korean-bbqstyle-classic-crust-pizza-302676699.html",
+      "first_reported": "2026-04-15",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "The frozen pizza aisle is splitting into two sharper growth plays: chef-authentic restaurant retail and co-branded flavor innovation",
+      "direction": "up",
+      "magnitude": "Di Fara and Antico are scaling restaurant credibility into grocery while Red Baron is using a Kroger-exclusive CPG collab to chase attention and trial",
+      "context": "The strongest current signal is not generic premiumization. Winning moves are either highly credible restaurant transfer, especially fermentation and ingredient-story driven, or distinctive partnership-led flavor launches that help retailers merchandise novelty.",
+      "source_url": "https://www.bkreader.com/lifestyle-culture/di-faras-pizza-is-now-available-in-the-frozen-food-isle-12113223",
+      "first_reported": "2026-04-15",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Independent pizzerias are no longer just validating frozen retail, they are landing meaningful grocery distribution",
+      "impact": "Real Dough should treat restaurant credibility as a real shelf weapon, not a brand-story nice-to-have. Di Fara and Antico both show that authentic pizza process and name recognition can travel into mainstream grocery when the product story is specific and retailer-ready.",
+      "source_url": "https://www.pmq.com/iconic-neapolitan-shop-lands-its-frozen-pizzas-in-a-major-retailer-starting-next-month/",
+      "first_reported": "2026-04-15"
+    }
+  ]
+}

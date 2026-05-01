@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-01",
+  "type": "daily",
+  "generated_at": "2026-05-01T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Buddy's Pizza",
+      "action": "Buddy's new ownership group said it plans to grow the brand's frozen pizza business in grocery store freezer aisles nationwide, with quality and authenticity positioned as the expansion wedge.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.dbusiness.com/daily-news/local-investors-buy-buddys-pizza-plan-to-put-iconic-brand-in-grocery-stores/",
+      "first_reported": "2026-05-01",
+      "status": "new"
+    },
+    {
+      "name": "Pizza John's",
+      "action": "Pizza John's said it is expanding into retail with bake-at-home pizzas, a clear signal that established regional pizzerias still see freezer-adjacent retail as a meaningful growth lane.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://pizzatoday.com/news/pizzerias-to-watch-in-2026/617463/",
+      "first_reported": "2026-05-01",
+      "status": "new"
+    },
+    {
+      "name": "Aldi / Mama Cozzi's",
+      "action": "Aldi's May 2026 Finds added multiple limited-time frozen pizza SKUs under Mama Cozzi's, including cheese stuffed crust and flatbread varieties, reinforcing how aggressively discount retail keeps rotating freezer-pizza value propositions.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.snackandbakery.com/articles/115637-aldi-rolls-out-its-may-2026-finds",
+      "first_reported": "2026-05-01",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Restaurant-origin pizza brands are still pushing into retail while value grocers keep increasing frozen-pizza assortment churn",
+      "direction": "up",
+      "magnitude": "One heritage Detroit chain is planning nationwide freezer expansion, an established independent is adding bake-at-home retail, and Aldi is refreshing multiple limited-time pizza formats at once.",
+      "context": "For Real Dough, the useful read is that retail momentum is not just coming from big CPG incumbents. Regional restaurant credibility still travels, but it has to coexist with relentless value-channel SKU rotation.",
+      "source_url": "https://www.dbusiness.com/daily-news/local-investors-buy-buddys-pizza-plan-to-put-iconic-brand-in-grocery-stores/",
+      "first_reported": "2026-05-01",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Global frozen food market forecast",
+      "value": "$607.2 billion by 2032",
+      "change": "4.4% CAGR from 2023 to 2032",
+      "source_url": "https://www.prnewswire.com/news-releases/frozen-food-market-expected-to-reach-607-2-billion-by-2032--at-a-cagr-of-4-4-allied-market-research-302754354.html"
+    },
+    {
+      "metric": "Fastest-growing frozen food product segment",
+      "value": "Frozen bakeries",
+      "change": null,
+      "source_url": "https://www.prnewswire.com/news-releases/frozen-food-market-expected-to-reach-607-2-billion-by-2032--at-a-cagr-of-4-4-allied-market-research-302754354.html"
+    },
+    {
+      "metric": "Aldi May frozen pizza rotation",
+      "value": "4 featured SKUs across stuffed crust and flatbread formats",
+      "change": null,
+      "source_url": "https://www.snackandbakery.com/articles/115637-aldi-rolls-out-its-may-2026-finds"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's clearest signal is that freezer growth is still being claimed by brands with a simple retail story",
+      "impact": "Buddy's is leaning on Detroit authenticity, Pizza John's is turning restaurant equity into bake-at-home retail, and Aldi keeps pressing the category with rotating value formats. Real Dough should keep sharpening a one-line shelf story instead of relying on broad premium language alone.",
+      "source_url": "https://www.dbusiness.com/daily-news/local-investors-buy-buddys-pizza-plan-to-put-iconic-brand-in-grocery-stores/",
+      "first_reported": "2026-05-01"
+    }
+  ]
+}

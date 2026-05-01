@@ -1,0 +1,73 @@
+{
+  "date": "2026-04-23",
+  "type": "daily",
+  "generated_at": "2026-04-23T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Beyond Meat / Kroger",
+      "action": "Beyond Meat rolled out Beyond Chicken Pieces Spicy Buffalo to more than 2,000 Kroger stores nationwide, extending the brand's frozen retail footprint with a convenience-first, high-protein, clean-label product aimed at mainstream grocery shoppers.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://investors.beyondmeat.com/news-releases/news-release-details/beyond-meatr-launches-new-beyond-chickenr-pieces-spicy-buffalo",
+      "first_reported": "2026-04-23",
+      "status": "new"
+    },
+    {
+      "name": "Amy's Kitchen",
+      "action": "Amy's Kitchen promoted longtime insider Paul Schiefer to CEO as founder Andy Berliner moved to executive chairman, signaling that a major premium frozen-food player is entering its next growth phase with an explicit focus on innovation, sustainability, and operational discipline.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.prnewswire.com/news-releases/amys-kitchen-names-paul-schiefer-ceo-as-founder-andy-berliner-transitions-to-executive-chairman-302749551.html",
+      "first_reported": "2026-04-23",
+      "status": "new"
+    },
+    {
+      "name": "Conagra / Frozen Category",
+      "action": "Conagra's Future of Frozen Food 2026 report highlighted multi-serve meals, pizzas, and frozen sides as roughly a $12B shared-meal segment, with value-size products now over 40% of frozen aisle sales, reinforcing that freezer growth is being driven by family-style value and restaurant-style convenience rather than niche premium alone.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.preparedfoods.com/articles/131400-frozen-finds-new-growth-drivers",
+      "first_reported": "2026-04-23",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen growth is clustering around mainstream convenience plus family-value, while premium brands are tightening leadership and portfolio strategy to keep up",
+      "direction": "up",
+      "magnitude": "Beyond expanded frozen protein distribution at Kroger, Amy's formalized a succession move around innovation and operational growth, and Conagra framed pizzas and multi-serve frozen meals as a $12B shared-meal lane with value-size products above 40% of aisle sales",
+      "context": "The category signal today is not just premiumization. The freezer is rewarding products that are easy, shareable, and retailer-ready at scale. Real Dough should keep its artisan story, but the offer has to travel with strong convenience and value logic if it wants mass retail relevance.",
+      "source_url": "https://www.preparedfoods.com/articles/131400-frozen-finds-new-growth-drivers",
+      "first_reported": "2026-04-23",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "US frozen food market size",
+      "value": "$93.5B",
+      "change": null,
+      "source_url": "https://www.preparedfoods.com/articles/131400-frozen-finds-new-growth-drivers"
+    },
+    {
+      "metric": "Frozen shared-meal segment",
+      "value": "~$12B across multi-serve meals, pizzas, and frozen sides",
+      "change": null,
+      "source_url": "https://www.preparedfoods.com/articles/131400-frozen-finds-new-growth-drivers"
+    },
+    {
+      "metric": "Value-size frozen share of aisle sales",
+      "value": ">40%",
+      "change": null,
+      "source_url": "https://www.preparedfoods.com/articles/131400-frozen-finds-new-growth-drivers"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The freezer aisle is rewarding brands that pair strong product identity with retailer-scale convenience and value",
+      "impact": "For Real Dough, the takeaway is to avoid a vague premium pitch. The winning retail story likely needs three things together: a clear product hook, dead-simple at-home usage, and a family-value frame that can stand up in a Kroger-style aisle.",
+      "source_url": "https://www.preparedfoods.com/articles/131400-frozen-finds-new-growth-drivers",
+      "first_reported": "2026-04-23"
+    }
+  ]
+}

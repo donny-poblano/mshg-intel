@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-01",
+  "week": "2026-W18",
+  "headline": "Creative still has a clear winning lane, texture plus Wisconsin plus practical dinner, but the bigger issue this week is that reporting freshness and sentiment coverage are both broken while the frozen aisle keeps getting sharper and more crowded.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Paid efficiency is still strong in the latest export: Meta held at $0.13 CPC on 23,828 clicks, and 'Straight From Wisconsin' remains the best creative at $0.09 CPC and 5.36% CTR.",
+        "YouTube still shows the clearest content win. 'Sourdough Frozen Pizza ASMR' led with 2,206 views and 118.4% average view percentage, with 'Frozen Pizza Grocery Haul' close behind at 1,591 views and 126.78%.",
+        "The brand story is still coherent. Across paid, organic, and search, Wisconsin origin, sourdough texture, and weeknight utility remain more compelling than broad premium language."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "The reporting pipeline is still the main blocker. The May 1 analyst run again parsed a March 1 to March 31 workbook even though the live Whatagraph view appeared to show April KPI cards.",
+        "Sentiment coverage is effectively missing. reviews.json still returns 'Place not found' for Merriment, Third Coast, Flourchild, and Loon Room, so there is no usable review signal at all this week.",
+        "Competitive pressure is intensifying from both sides: premium brands are winning with sharper one-line stories like Detroit, high-protein, or regional restaurant authenticity, while Aldi, Red Baron, and private label keep pressing value and convenience."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "DATA: Fix the Whatagraph export route before next Friday so the parser consumes a true April or current-period workbook instead of repeating March.",
+        "DATA: Repair the review-source queries or replace the source, because zero valid sentiment coverage means Andrew is flying blind on customer feedback.",
+        "AGENCY: Build the next creative batch around three narrow lanes only, Wisconsin-made credibility, close-up crust and ASMR texture proof, and easy family-dinner utility.",
+        "AGENCY: Reduce spend on competitor search unless it can prove conversion value, and keep harvesting branded plus sourdough-intent demand first.",
+        "POSITIONING: Tighten the retail shelf story into one instantly repeatable line. The aisle is rewarding brands shoppers and buyers can understand in one sentence."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "Wisconsin-origin messaging, sourdough texture proof, ASMR-style video, and practical dinner framing still outperform generic premium creative.",
+    "what_didnt": "Broad artisan language, competitor search, and any reporting or sentiment workflow that depends on the current export and review setup.",
+    "recommendation": "For the next cycle, stay narrow and concrete. Lead with Wisconsin credibility, real crust texture, and weeknight usefulness. Pair that with stronger store-finder or retail-availability calls to action and avoid broad 'better frozen pizza' claims.",
+    "competitive_context": "This week's market signal was consistent: Buddy's leaned into Detroit authenticity, Pizza John's extended restaurant equity into retail, Crosta Mollica kept proving premium growth through specific regional identity, while Aldi, Red Baron, and private label kept raising value and convenience pressure. Real Dough can still win, but only with a sharper, faster-to-grasp shelf story."
+  },
+  "data_quality": {
+    "missing": [
+      "No usable sentiment data. All four entries in reviews.json still fail with 'Place not found'.",
+      "No fresh current-week Real Dough operations feed. The only operations inputs remain older Merriment snapshots, not a true Real Dough ops view."
+    ],
+    "stale": [
+      "The latest analyst file is still based on a March 1 to March 31 workbook even after a fresh export attempt on May 1.",
+      "Whatagraph dashboard visuals and exportable workbook data appear out of sync, creating a live-view versus parsed-data mismatch."
+    ],
+    "anomalies": [
+      "YouTube average view percentage above 100% likely reflects rewatches, not a metric error.",
+      "The dashboard can appear fresh by schedule while still surfacing stale source data, which is now the biggest decision-risk in the stack."
+    ]
+  }
+}

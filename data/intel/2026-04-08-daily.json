@@ -1,0 +1,57 @@
+{
+  "date": "2026-04-08",
+  "type": "daily",
+  "generated_at": "2026-04-09T00:36:00Z",
+  "competitors": [
+    {
+      "name": "Bettani Farms",
+      "action": "Announced an April 8 pivot to mozzarella and B2B CPG sales, explicitly targeting frozen pizza and frozen appetizer manufacturers with its casein-mimicking 'Caseed' protein. Company says self-affirmed GRAS is nearly complete, commercial scale-up trials succeeded, and launches are expected within the next few months.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://agfundernews.com/%F0%9F%8E%A5-new-name-new-strategy-bettani-farms-targets-mozzarella-market-with-game-changing-plant-based-casein",
+      "first_reported": "2026-04-08",
+      "status": "new",
+      "notes": "High-signal ingredient play for frozen pizza. Not a direct shelf competitor yet, but it points to continued investment in pizza-specific cheese functionality and gives larger CPG brands another way to launch premium plant-forward or mixed-dairy SKUs fast."
+    },
+    {
+      "name": "Mama Cozzi's / Aldi",
+      "action": "Rolled out new Neapolitan Style Bianca and Supreme frozen pizzas starting April 8 at $5.49, plus a Bruschetta pizza at $5.29 in Aldi's weekly rotation.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://sporked.com/article/new-at-aldi-april-6-2026/",
+      "first_reported": "2026-04-08",
+      "status": "new",
+      "notes": "Important because value retail is now merchandising Neapolitan-style cues at aggressive price points. That keeps premium crust language moving mainstream and makes crust/story differentiation even more important for Real Dough."
+    },
+    {
+      "name": "Di Fara Frozen",
+      "action": "National Target expansion is now live, following the brand's frozen line extension to four SKUs including Vodka Sauce and Three Meat.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.preparedfoods.com/articles/131393-retail-pizza-heats-up-at-home",
+      "first_reported": "2026-04-08",
+      "status": "new",
+      "notes": "Another restaurant-to-retail pizza brand scaling into big-box distribution. Confirms Target is willing to carry premium/heritage frozen pizza brands, not just mass-market incumbents."
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen, uncooked pizza emerging as a natural-channel leader",
+      "direction": "up",
+      "magnitude": "Expo West 2026 identified frozen, uncooked pizza as a category leader over traditional reheated frozen pizza",
+      "context": "Natural Products Expo West reported pizza had an unusually large presence this year, with dairy-forward formulations and frozen uncooked products gaining momentum. That is a strong signal that 'closer to fresh' frozen pizza is becoming a real retail story, especially in natural/specialty channels where Real Dough fits best.",
+      "source_url": "https://www.newhope.com/natural-products-expos/the-7-trends-dominating-natural-products-expo-west-2026",
+      "first_reported": "2026-04-08",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Aldi pushes Neapolitan-style frozen pizza under $6",
+      "impact": "Premium crust cues are no longer premium-only. Expect more shoppers to understand Neapolitan/sourdough language, but also more price pressure from value players.",
+      "source_url": "https://sporked.com/article/new-at-aldi-april-6-2026/",
+      "first_reported": "2026-04-08"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-04-24",
+  "type": "daily",
+  "generated_at": "2026-04-24T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Nestle",
+      "action": "Nestle's new CEO Philipp Navratil unveiled a portfolio overhaul centered on four core businesses, including Food & Snacks, while the company separately said its US innovation push is expanding focus on frozen foods as it prunes slower assets and chases faster, more relevant at-home occasions.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.foodnavigator-usa.com/Article/2026/04/21/nestle-ceo-unveils-overhaul-strategy/",
+      "first_reported": "2026-04-24",
+      "status": "new"
+    },
+    {
+      "name": "Counter / Albertsons",
+      "action": "High-protein frozen meal brand Counter expanded into Albertsons in April, widening distribution beyond Target, Kroger, Lidl, Costco, and Sam's Club with 30 to 31 gram protein single-serve bowls positioned for the macro-forward and GLP-1-adjacent freezer shopper.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://eatcounter.com/blogs/news/the-lazy-persons-guide-to-high-protein-meal-prep-just-use-your-freezer",
+      "first_reported": "2026-04-24",
+      "status": "new"
+    },
+    {
+      "name": "Ajinomoto / UMAI",
+      "action": "Ajinomoto launched UMAI, a premium Japanese frozen ready-to-eat meal line, explicitly framing frozen food as a primary meal occasion rather than a backup option and leaning into authentic flavor plus health-forward positioning for younger convenience shoppers.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.minimeinsights.com/2026/04/15/ajinomoto-strengthens-its-2026-food-market-leadership-with-the-launch-of-umai-ajinomoto-brand-elevating-the-eat-well-live-well-experience/",
+      "first_reported": "2026-04-24",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "The frozen aisle is splitting into three stronger growth lanes: scaled incumbents tightening portfolios, macro-forward performance meals winning more mainstream doors, and premium global cuisine repositioning frozen as a real meal instead of pantry insurance",
+      "direction": "up",
+      "magnitude": "Nestle is reorganizing around core food businesses with more frozen focus, Counter is adding Albertsons distribution, and Ajinomoto is launching premium Japanese frozen meals for a younger convenience-led audience",
+      "context": "For Real Dough, this is a useful warning against a vague premium story. The freezer is rewarding products that are either operationally disciplined, nutritionally legible, or culturally specific. Real Dough's lane is still credible, but it needs a very sharp retail story around artisan quality plus clear use-case and shopper fit.",
+      "source_url": "https://www.foodnavigator-usa.com/Article/2026/04/21/nestle-ceo-unveils-overhaul-strategy/",
+      "first_reported": "2026-04-24",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Counter protein per single-serve frozen meal",
+      "value": "30-31g protein",
+      "change": null,
+      "source_url": "https://eatcounter.com/blogs/news/counter-vs-vital-pursuit-which-glp-1-frozen-meal-actually-has-enough-protein"
+    },
+    {
+      "metric": "Ajinomoto Thailand RTE frozen food market",
+      "value": "~20 billion baht",
+      "change": "Projected to grow 2.3%-3.3% annually from 2026 to 2028",
+      "source_url": "https://www.minimeinsights.com/2026/04/15/ajinomoto-strengthens-its-2026-food-market-leadership-with-the-launch-of-umai-ajinomoto-brand-elevating-the-eat-well-live-well-experience/"
+    },
+    {
+      "metric": "Nestle planned workforce reduction under overhaul",
+      "value": "16,000 jobs",
+      "change": null,
+      "source_url": "https://www.foodnavigator-usa.com/Article/2026/04/21/nestle-ceo-unveils-overhaul-strategy/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The freezer is getting more segmented and more disciplined at the same time",
+      "impact": "Nestle is simplifying around core food businesses, protein-forward entrants are buying more shelf space, and premium international meals are raising shopper expectations. Real Dough should keep its artisan moat, but pair it with a cleaner retail promise that is easy for buyers and consumers to understand fast.",
+      "source_url": "https://www.foodnavigator-usa.com/Article/2026/04/21/nestle-ceo-unveils-overhaul-strategy/",
+      "first_reported": "2026-04-24"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-17",
+  "type": "daily",
+  "generated_at": "2026-04-17T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Red Baron",
+      "action": "Red Baron released a new microwaveable CRUNCHTIME line in Four Cheese, Pepperoni, and Meat-Trio, using a crisping tray and a sub-$6 opening price on Instacart, which pushes frozen pizza further toward fast solo-use convenience instead of only oven-based family occasions.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://sporked.com/article/new-red-baron-frozen-pizzas-crunchtime/",
+      "first_reported": "2026-04-17",
+      "status": "new"
+    },
+    {
+      "name": "Tombstone",
+      "action": "Tombstone added a Garlic Parm French Fry Style Crust Pizza to its potato-crust line, doubling down on novelty crust architecture and late-night snack positioning instead of traditional premium artisan cues.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://sporked.com/article/tombstone-garlic-parm-french-fry-crust-pizza/",
+      "first_reported": "2026-04-17",
+      "status": "new"
+    },
+    {
+      "name": "Bakkavor / Trader Joe's-linked private label",
+      "action": "More than 25,000 cases of frozen pizza and focaccia tied to Bakkavor were flagged in a Class II recall over possible metal contamination, affecting Trader Joe's and other retail and meal-kit channels, which is a meaningful quality-control signal for private-label frozen pizza supply.",
+      "category": "campaign",
+      "relevance_score": 9,
+      "source_url": "https://www.delish.com/food-news/a70908189/trader-joes-pizza-recall/",
+      "first_reported": "2026-04-17",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza innovation is tilting toward convenience hardware and novelty formats",
+      "direction": "up",
+      "magnitude": "Red Baron introduced microwave crisping-tray pizzas while Tombstone extended its french-fry-style crust platform",
+      "context": "Today's strongest product signal is not another premium artisan story. Big brands are testing easier prep, more texture theater, and snackable formats that can win on impulse and convenience.",
+      "source_url": "https://sporked.com/article/new-red-baron-frozen-pizzas-crunchtime/",
+      "first_reported": "2026-04-17",
+      "status": "new"
+    },
+    {
+      "topic": "Private-label frozen pizza quality risk remains a live issue",
+      "direction": "down",
+      "magnitude": "25,000+ cases were caught in a Class II recall tied to metal contamination",
+      "context": "The Bakkavor recall is a reminder that frozen pizza growth is still constrained by execution and manufacturing discipline. For Real Dough, product quality and plant credibility are part of the brand story, not back-office details.",
+      "source_url": "https://www.delish.com/food-news/a70908189/trader-joes-pizza-recall/",
+      "first_reported": "2026-04-17",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Frozen pizza's latest moves are getting weirder, faster, and more operationally fragile",
+      "impact": "Red Baron and Tombstone are both chasing attention through convenience and texture-driven formats, while the Bakkavor recall shows how quickly trust can break when execution slips. The category is rewarding distinct form factors, but only if manufacturing stays tight.",
+      "source_url": "https://sporked.com/article/new-red-baron-frozen-pizzas-crunchtime/",
+      "first_reported": "2026-04-17"
+    }
+  ]
+}

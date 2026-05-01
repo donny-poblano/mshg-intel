@@ -1,0 +1,73 @@
+{
+  "date": "2026-04-30",
+  "type": "daily",
+  "generated_at": "2026-04-30T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Frozen One",
+      "action": "Frozen One raised $2 million in seed funding to support a nationwide retail push, including rollout into roughly 1,464 Target stores and Kroger Texas doors.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.foodbusinessnews.net/articles/30205-frozen-one-raises-2-million-in-seed-funding",
+      "first_reported": "2026-04-30",
+      "status": "new"
+    },
+    {
+      "name": "Blackbird Foods",
+      "action": "Blackbird expanded its plant-based Pizza Minis nationwide at Sprouts, extending a convenience-led, better-for-you frozen pizza format beyond Whole Foods into another scaled natural grocery chain.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.vegpreneur.org/blog/plant-based-pizza-minis-are-coming-to-sprouts",
+      "first_reported": "2026-04-30",
+      "status": "new"
+    },
+    {
+      "name": "Buddy's Pizza",
+      "action": "Buddy's new owners said they plan to grow the brand's frozen pizza presence in grocery store freezer aisles nationwide while explicitly repositioning around quality, authenticity, and Detroit heritage.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.dbusiness.com/daily-news/local-investors-buy-buddys-pizza-plan-to-put-iconic-brand-in-grocery-stores/",
+      "first_reported": "2026-04-30",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza growth is concentrating around very legible retail stories",
+      "direction": "up",
+      "magnitude": "Capital is backing high-protein positioning, natural-channel retailers are scaling plant-based convenience formats, and restaurant brands are still moving into freezer aisles with authenticity-led expansion plans.",
+      "context": "For Real Dough, the lesson is that broad artisan language is not enough on its own. Buyers are rewarding products that can be explained fast, whether that is protein, plant-based convenience, or restaurant-origin authenticity.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30205-frozen-one-raises-2-million-in-seed-funding",
+      "first_reported": "2026-04-30",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Frozen One Target rollout",
+      "value": "~1,464 Target stores across all 50 states",
+      "change": null,
+      "source_url": "https://www.foodbusinessnews.net/articles/30205-frozen-one-raises-2-million-in-seed-funding"
+    },
+    {
+      "metric": "Frozen One seed funding",
+      "value": "$2 million",
+      "change": null,
+      "source_url": "https://www.foodbusinessnews.net/articles/30205-frozen-one-raises-2-million-in-seed-funding"
+    },
+    {
+      "metric": "Blackbird Pizza Minis format",
+      "value": "4-count, 5-inch personal pizzas now at Sprouts nationwide",
+      "change": null,
+      "source_url": "https://www.vegpreneur.org/blog/plant-based-pizza-minis-are-coming-to-sprouts"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's strongest signal is that frozen pizza buyers want an instantly repeatable hook",
+      "impact": "High-protein, plant-based convenience, and restaurant-authenticity stories are all getting real distribution or capital. Real Dough should keep sharpening a simple retail promise that merchandisers and shoppers can understand in one sentence.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30205-frozen-one-raises-2-million-in-seed-funding",
+      "first_reported": "2026-04-30"
+    }
+  ]
+}

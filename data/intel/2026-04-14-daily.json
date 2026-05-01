@@ -1,0 +1,54 @@
+{
+  "date": "2026-04-14",
+  "type": "daily",
+  "generated_at": "2026-04-14T13:00:00Z",
+  "competitors": [
+    {
+      "name": "California Pizza Kitchen",
+      "action": "CPK said it is expanding retail beyond frozen pizza for the first time since 1999, adding grocery-bound appetizers and entrées in the U.S. while also widening frozen-pizza distribution through Nestlé across Latin America, the Caribbean, Taiwan, Japan, and Shanghai.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.nrn.com/casual-dining/california-pizza-kitchen-extending-retail-lineup-beyond-frozen-pizza",
+      "first_reported": "2026-04-14",
+      "status": "new"
+    },
+    {
+      "name": "Katie’s Pizza & Pasta / Katie’s CPG",
+      "action": "Katie’s said its frozen pizzas drove 8.4% of frozen-pizza category growth in the natural channel and that new distribution deals will add thousands more retail locations in 2026, showing an independent restaurant brand scaling nationally through clean-label frozen pizza and adjacent pantry items.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.pmq.com/how-katie-lee-is-blowing-up-the-frozen-pizza-aisle-and-still-opening-restaurants-too/",
+      "first_reported": "2026-04-14",
+      "status": "new"
+    },
+    {
+      "name": "Flour + Water Foods",
+      "action": "Flour + Water entered frozen retail last month with Margherita, Pepperoni, and Cacio e Pepe pizzas in 12 Bay Area Whole Foods plus specialty grocers, using slow-fermented dough, par-bake plus flash-freeze, and chef-led positioning to bring a premium restaurant pizza into grocery.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.pmq.com/chef-ryan-pollnow-shares-lessons-learned-as-flour-water-pizzeria-enters-frozen-pizza-market/",
+      "first_reported": "2026-04-14",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Independent restaurant brands are entering frozen pizza with clean-label, craft-process positioning",
+      "direction": "up",
+      "magnitude": "Katie’s is adding thousands of new retail doors in 2026 while Flour + Water just launched into Whole Foods and specialty grocery",
+      "context": "The sharper competitive signal is no longer only big CPG incumbents. Credible restaurant operators are using naturally leavened dough, chef-led production, and selective grocery distribution to make frozen pizza feel closer to a restaurant experience.",
+      "source_url": "https://www.pmq.com/how-katie-lee-is-blowing-up-the-frozen-pizza-aisle-and-still-opening-restaurants-too/",
+      "first_reported": "2026-04-14",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Restaurant-to-retail frozen pizza is accelerating on both ends of the market",
+      "impact": "CPK is widening its global frozen footprint through Nestlé while independents like Katie’s and Flour + Water are proving that craft, clean-label pizza can scale into grocery. Real Dough is competing in a lane that is getting more crowded, but also more validated.",
+      "source_url": "https://www.nrn.com/casual-dining/california-pizza-kitchen-extending-retail-lineup-beyond-frozen-pizza",
+      "first_reported": "2026-04-14"
+    }
+  ]
+}

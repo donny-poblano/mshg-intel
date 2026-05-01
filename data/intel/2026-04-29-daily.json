@@ -1,0 +1,73 @@
+{
+  "date": "2026-04-29",
+  "type": "daily",
+  "generated_at": "2026-04-29T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Conagra Brands",
+      "action": "Conagra reported Q3 FY26 organic net sales up 2.4% on April 1, with frozen and snacks called out as share-gaining pockets even as margins stayed under pressure from inflation.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.stocktitan.net/sec-filings/CAG/8-k-conagra-brands-inc-reports-material-event-71cfaaa0dfbd.html",
+      "first_reported": "2026-04-29",
+      "status": "new"
+    },
+    {
+      "name": "Bakkavor / private-label retail pizza",
+      "action": "A 25,000-plus case recall covering frozen pizza and focaccia sold through Trader Joe's, HelloFresh, Meijer, Harris Teeter, and Fresh & Simple widened the quality-risk signal around private-label and meal-kit pizza supply chains.",
+      "category": "campaign",
+      "relevance_score": 9,
+      "source_url": "https://www.delish.com/food-news/a70908189/trader-joes-pizza-recall/",
+      "first_reported": "2026-04-29",
+      "status": "new"
+    },
+    {
+      "name": "Red Baron",
+      "action": "Red Baron released three new CRUNCHTIME microwaveable frozen pizzas with crisping trays, pushing faster convenience and texture claims into the value end of the category.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://sporked.com/article/new-red-baron-frozen-pizzas-crunchtime/",
+      "first_reported": "2026-04-29",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza competition is splitting into three pressure points: convenience tech, retailer-value pressure, and supply-chain trust",
+      "direction": "up",
+      "magnitude": "Red Baron is compressing cook time to five microwave minutes, private label is riding a broader $330B store-brand wave, and the Bakkavor recall shows how fragile multi-banner supply chains can be when ingredient quality slips.",
+      "context": "For Real Dough, the opening is still premium differentiation, but it needs to be paired with an easy retail promise and obsessive quality control. The market is getting more polarized between fast-value players and trust-based premium brands.",
+      "source_url": "https://www.foodengineeringmag.com/articles/103613-circana-us-private-label-sales-reach-330b",
+      "first_reported": "2026-04-29",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Conagra organic net sales",
+      "value": "+2.4% in Q3 FY26",
+      "change": null,
+      "source_url": "https://www.stocktitan.net/sec-filings/CAG/8-k-conagra-brands-inc-reports-material-event-71cfaaa0dfbd.html"
+    },
+    {
+      "metric": "Frozen pizza and focaccia recall scale",
+      "value": "25,000+ cases across 10 states",
+      "change": null,
+      "source_url": "https://www.delish.com/food-news/a70908189/trader-joes-pizza-recall/"
+    },
+    {
+      "metric": "U.S. private label CPG size",
+      "value": "$330B, 24% unit share, 23% dollar share",
+      "change": null,
+      "source_url": "https://www.foodengineeringmag.com/articles/103613-circana-us-private-label-sales-reach-330b"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's clearest signal is that frozen pizza is being squeezed from both ends",
+      "impact": "Value and convenience players keep sharpening the pitch, while a broad private-label recall reminds buyers that trust and quality systems still matter. Real Dough should keep leading with product integrity and a simple consumer promise rather than trying to out-value the freezer aisle giants.",
+      "source_url": "https://www.delish.com/food-news/a70908189/trader-joes-pizza-recall/",
+      "first_reported": "2026-04-29"
+    }
+  ]
+}

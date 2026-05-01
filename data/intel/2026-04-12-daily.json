@@ -1,0 +1,54 @@
+{
+  "date": "2026-04-12",
+  "type": "daily",
+  "generated_at": "2026-04-12T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Yough!",
+      "action": "Yough's Greek-yogurt frozen pizzas expanded into nearly 2,000 Target stores, pushing a high-protein pizza format that delivers roughly 40g-50g protein per pizza and gives the frozen aisle a stronger functional-nutrition angle.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/30004-founders-row-invests-in-yough",
+      "first_reported": "2026-04-12",
+      "status": "new"
+    },
+    {
+      "name": "Di Fara",
+      "action": "Di Fara is expanding its frozen pizza line with a new Three-Meat pie priced under $10 and is reportedly looking to grow into chains like Kroger and Lidl, signaling that well-known independent pizzerias are still moving into grocery with premium credibility plus sharper value pricing.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.pmq.com/di-fara-enters-the-cold-war-as-independents-change-frozen-pizza-landscape-for-the-better/",
+      "first_reported": "2026-04-12",
+      "status": "new"
+    },
+    {
+      "name": "RAGÚ x Palermo Villa",
+      "action": "RAGÚ's collaboration with Palermo Villa extended a legacy sauce brand into frozen pizza, showing the at-home pizza occasion is broadening beyond standalone pizza brands into cross-category CPG partnerships that can win on familiarity and retailer trust.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.palermovillainc.com/our-news/rag%C3%BA-launches-a-delicious-collaboration-with-palermo-villa-inc/",
+      "first_reported": "2026-04-12",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza innovation is splitting into two winning lanes: functional nutrition and restaurant-backed authenticity",
+      "direction": "up",
+      "magnitude": "Target-scale distribution for protein-forward Yough and continued grocery expansion from Di Fara both surfaced in the latest scan",
+      "context": "The category is not moving in one direction. One lane is macro-driven and nutrition-forward, while the other is chef- or restaurant-led and quality-forward. Real Dough sits much closer to the authenticity lane, but the nutrition lane matters because it is teaching retailers to look for a sharper product story than generic premium claims.",
+      "source_url": "https://www.preparedfoods.com/articles/131393-retail-pizza-heats-up-at-home",
+      "first_reported": "2026-04-12",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Target-scale and grocery-chain expansion signals the freezer aisle still has room for differentiated pizza stories",
+      "impact": "Real Dough should keep sharpening a single, obvious reason to win at shelf, ideally rooted in crust and restaurant-grade credibility, because both high-protein challengers and independent pizzeria brands are earning space with much clearer hooks than generic premium positioning.",
+      "source_url": "https://www.preparedfoods.com/articles/131393-retail-pizza-heats-up-at-home",
+      "first_reported": "2026-04-12"
+    }
+  ]
+}

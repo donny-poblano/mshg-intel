@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-20",
+  "type": "daily",
+  "generated_at": "2026-04-20T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Wegmans / Amore",
+      "action": "Wegmans launched a restaurant-inspired Amore frozen pizza line with Roman-style fermented crusts and multiple premium toppings, signaling that grocers are still pushing store-exclusive premium frozen pizza concepts instead of relying only on legacy national brands.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://progressivegrocer.com/wegmans-launches-restaurant-inspired-frozen-pizza-line",
+      "first_reported": "2026-04-20",
+      "status": "new"
+    },
+    {
+      "name": "Food Lion",
+      "action": "Food Lion expanded its private-label frozen pizza line across more than 1,100 stores, which is a strong shelf-pressure signal that retailer-owned frozen pizza is still scaling on assortment and value, not just holding ground during inflation.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://progressivegrocer.com/food-lion-grows-private-label-frozen-pizza-line",
+      "first_reported": "2026-04-20",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "The frozen pizza middle is getting squeezed from both ends",
+      "direction": "up",
+      "magnitude": "Private label is strengthening at value while premium frozen keeps sharpening its quality and differentiation cues",
+      "context": "Frozen pizza is increasingly behaving like a barbell category. Retailer labels are getting more credible and normalized, while premium products keep winning with better ingredients, cleaner positioning, and stronger emotional hooks. Mid-tier branded pizza is under the most pressure.",
+      "source_url": "https://frozenet.com/analysis/the-frozen-middle-is-getting-crushed/",
+      "first_reported": "2026-04-20",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Today’s clearest Real Dough signal is sharper shelf polarization, premium store exclusives up top and stronger private label pressure underneath",
+      "impact": "Wegmans is investing in a more chef-inspired premium frozen pizza story while Food Lion is expanding retailer-owned pizza assortment at scale. At the same time, broader frozen-category analysis says the middle is getting crushed. For Real Dough, that means a blurry mid-tier position is the dangerous place to be.",
+      "source_url": "https://frozenet.com/analysis/the-frozen-middle-is-getting-crushed/",
+      "first_reported": "2026-04-20"
+    }
+  ]
+}

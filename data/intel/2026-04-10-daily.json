@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-10",
+  "type": "daily",
+  "generated_at": "2026-04-10T13:05:00Z",
+  "competitors": [
+    {
+      "name": "Feel Good Foods",
+      "action": "Expanded nationally at Target in April, growing from 4 to 7 SKUs and adding Pepperoni Pizza Bagels alongside broader frozen-snack distribution.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.fb101.com/feel-good-foods-expands-distribution-a-game-changer-in-the-frozen-aisle/",
+      "first_reported": "2026-04-10",
+      "status": "new"
+    },
+    {
+      "name": "Amy's Kitchen",
+      "action": "Its Personal Pizza was named one of Progressive Grocer's Best New Products of 2026, reinforcing demand for premium, clean-label single-serve frozen pizza.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/progressive-grocer-names-best-new-products-2026",
+      "first_reported": "2026-04-10",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Global flavor demand is moving mainstream in frozen and prepared foods",
+      "direction": "up",
+      "magnitude": "Progressive Grocer reports Gen Z and Millennials are over-indexing on international cuisines in frozen/prepared food",
+      "context": "This matters for frozen pizza because younger shoppers are increasingly looking for bold, differentiated flavor stories instead of plain cheese/pepperoni parity. Real Dough should treat globally inflected flavoring, heat, and sauce profiles as a growth lane, especially in limited-time or retailer-specific SKUs.",
+      "source_url": "https://progressivegrocer.com/international-cuisines-enter-mainstream",
+      "first_reported": "2026-04-10",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Target is still adding differentiated frozen pizza-adjacent products, not just legacy brands",
+      "impact": "The freezer buyer signal is clear: products with a specific nutritional or format hook can still win shelf space nationally. Real Dough needs equally sharp retail positioning, not generic premium claims.",
+      "source_url": "https://www.fb101.com/feel-good-foods-expands-distribution-a-game-changer-in-the-frozen-aisle/",
+      "first_reported": "2026-04-10"
+    }
+  ]
+}

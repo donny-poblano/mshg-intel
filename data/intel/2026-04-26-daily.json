@@ -1,0 +1,73 @@
+{
+  "date": "2026-04-26",
+  "type": "daily",
+  "generated_at": "2026-04-26T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Crosta Mollica",
+      "action": "Crosta Mollica launched a fresh NPD wave built around premium at-home pizza: a new Pizza Base Bianca in Sainsbury's and Tesco, plus four new pizzas including frozen SKUs on Ocado and in Tesco freezers, leaning into white-sauce, Roman pinsa, and regional Italian positioning.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://www.thegrocer.co.uk/news/crosta-mollica-adds-first-white-pizza-base-to-tap-growing-uk-demand/717691.article",
+      "first_reported": "2026-04-26",
+      "status": "new"
+    },
+    {
+      "name": "Crosta Mollica",
+      "action": "Crosta Mollica's latest accounts showed turnover up 37.2% to £67.6m, with pizza revenues up 50%, as the brand expanded retail distribution, channels, and countries, a strong proof point that premium supermarket pizza can still grow in a relatively flat category.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.thegrocer.co.uk/news/crosta-mollica-sales-soar-by-a-third-following-distribution-gains/717442.article",
+      "first_reported": "2026-04-26",
+      "status": "new"
+    },
+    {
+      "name": "Pi00a",
+      "action": "Pi00a landed on ABC's Shark Tank as a Deaf- and CODA-owned frozen pizza brand, positioning globally inspired handcrafted Neapolitan pizzas as a mission-driven premium CPG story with national audience reach and clear founder-market fit.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://abc.com/news/831b44b3-7d6c-47d2-846a-65411341657d/category/2887649",
+      "first_reported": "2026-04-26",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium frozen and take-home pizza is moving toward more specific identity rather than generic premium language",
+      "direction": "up",
+      "magnitude": "Crosta Mollica is scaling with Roman pinsa, white-sauce bases, and retailer-specific frozen placements, while Pi00a is using founder story plus globally inspired Neapolitan positioning to stand out nationally.",
+      "context": "For Real Dough, the useful signal is that premium alone is no longer enough. The winners keep pairing artisan cues with a sharper format, origin, or founder story that retailers and shoppers can remember fast.",
+      "source_url": "https://www.thegrocer.co.uk/news/crosta-mollica-adds-first-white-pizza-base-to-tap-growing-uk-demand/717691.article",
+      "first_reported": "2026-04-26",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Crosta Mollica turnover",
+      "value": "£67.6m",
+      "change": "+37.2% year over year",
+      "source_url": "https://www.thegrocer.co.uk/news/crosta-mollica-sales-soar-by-a-third-following-distribution-gains/717442.article"
+    },
+    {
+      "metric": "Crosta Mollica pizza revenue growth",
+      "value": "+50%",
+      "change": null,
+      "source_url": "https://www.thegrocer.co.uk/news/crosta-mollica-sales-soar-by-a-third-following-distribution-gains/717442.article"
+    },
+    {
+      "metric": "Crosta Mollica Primavera retail price",
+      "value": "£5.75",
+      "change": null,
+      "source_url": "https://www.thegrocer.co.uk/news/crosta-mollica-adds-first-white-pizza-base-to-tap-growing-uk-demand/717691.article"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Premium pizza brands are winning with sharper stories, not just better ingredients",
+      "impact": "Crosta Mollica is turning regional Italian specificity into retail growth, and Pi00a shows that founder-led identity can punch above its size when paired with a premium frozen format. Real Dough should keep narrowing its retail story around exactly what kind of artisan pizza it is, and why that matters in one sentence.",
+      "source_url": "https://abc.com/news/831b44b3-7d6c-47d2-846a-65411341657d/category/2887649",
+      "first_reported": "2026-04-26"
+    }
+  ]
+}

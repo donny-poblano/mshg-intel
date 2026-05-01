@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-16",
+  "type": "daily",
+  "generated_at": "2026-04-16T13:00:00Z",
+  "competitors": [
+    {
+      "name": "DiGiorno",
+      "action": "DiGiorno launched a new breakfast frozen-pizza platform with croissant crust in Eggs Benedict Inspired, Sausage & Gravy, and Cinnamon Roll varieties at a suggested $9.29, pushing frozen pizza further into daypart expansion instead of only dinner occasions.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://www.foodbusinessnews.net/articles/21166-breakfast-pizza-debuts-at-digiorno",
+      "first_reported": "2026-04-16",
+      "status": "new"
+    },
+    {
+      "name": "Rustica Foods",
+      "action": "Rustica officially launched two new stuffed crust frozen pizzas, Spinach & Cheese and Pepperoni & Bacon, into major Canadian grocery banners including Walmart, Sobeys, IGA, Metro, Food Basics, Super C, and Adonis, showing mainstream retailers still backing indulgent crust innovation at scale.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.newswire.ca/news-releases/rustica-officially-launches-two-new-stuffed-crust-pizzas-across-canada-837576546.html",
+      "first_reported": "2026-04-16",
+      "status": "new"
+    },
+    {
+      "name": "General Mills",
+      "action": "General Mills confirmed it will shut its St. Charles, Missouri pizza-crust facility, with 163 layoffs tied to the closure, creating a notable supply-chain and capacity signal around frozen pizza manufacturing rather than a demand-side launch story.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/30124-general-mills-set-to-shutter-pizza-crust-facility",
+      "first_reported": "2026-04-16",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza innovation is splitting between indulgent format plays and occasion expansion",
+      "direction": "up",
+      "magnitude": "DiGiorno moved into breakfast while Rustica doubled down on stuffed crust across national grocery distribution",
+      "context": "The strongest current product signal is that brands are still finding white space through crust architecture and use occasion, not just new toppings. That matters for Real Dough because format and occasion can create shelf distinction faster than another flavor SKU.",
+      "source_url": "https://www.foodbusinessnews.net/articles/21166-breakfast-pizza-debuts-at-digiorno",
+      "first_reported": "2026-04-16",
+      "status": "new"
+    },
+    {
+      "topic": "Manufacturing and supply discipline remain part of the category story",
+      "direction": "down",
+      "magnitude": "General Mills is removing a pizza-crust plant and 163 jobs from the network",
+      "context": "Even while brands keep launching new frozen pizza products, upstream capacity is still being rationalized. That is a reminder that the category is rewarding focused, scalable bets rather than broad undifferentiated production.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30124-general-mills-set-to-shutter-pizza-crust-facility",
+      "first_reported": "2026-04-16",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Frozen pizza growth is still being chased with bolder form factors, but manufacturers are tightening the back end",
+      "impact": "For Real Dough, today's signal is that differentiation probably comes faster from a sharply ownable format or occasion story than from incremental flavor churn, while operations need to stay disciplined because manufacturing capacity is not expanding everywhere.",
+      "source_url": "https://www.foodbusinessnews.net/articles/21166-breakfast-pizza-debuts-at-digiorno",
+      "first_reported": "2026-04-16"
+    }
+  ]
+}
