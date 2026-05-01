@@ -1,0 +1,116 @@
+{
+  "date": "2026-05-01",
+  "period": "2026-03-01 to 2026-03-31",
+  "analysis_type": "friday_weekly_review",
+  "generated_by": "analyst-agent",
+  "data_freshness": {
+    "xlsx_date": "2026-03-31",
+    "report_period": "2026-03-01 to 2026-03-31",
+    "ytd_data": false,
+    "download_attempted": true,
+    "download_status": "browser automation opened the shared report and triggered the Excel export, but the local workbook available to the parser still resolves to the March-only export already on disk",
+    "note": "The browser UI surfaced April KPI cards during the session, but the exported xlsx that the parser consumed still contains March 1 to March 31 data. This run therefore captures the mismatch and treats the analysis as a stale-source checkpoint, not a fresh April trend read."
+  },
+  "ad_performance": {
+    "meta": {
+      "spend": 3050.19,
+      "clicks": 23828,
+      "cpc": 0.13,
+      "ctr": 3.47,
+      "reach": 349299,
+      "impressions": 686641,
+      "cpm": 4.44,
+      "frequency": 1.97,
+      "link_clicks": 16389,
+      "link_ctr": 2.39
+    },
+    "google": {
+      "spend": 929.39,
+      "clicks": 2852,
+      "cpc": 0.33,
+      "ctr": 2.17,
+      "impressions": 131639,
+      "cpm": 7.06
+    },
+    "total_spend": 3979.58,
+    "comparison_to_2026_04_24": {
+      "status": "unchanged_source_window",
+      "note": "The parsed workbook period did not advance, so spend and efficiency metrics remain unchanged versus the April 24 Friday analysis."
+    }
+  },
+  "audience": {
+    "instagram": {
+      "followers_total": 418,
+      "new_followers_period": 165,
+      "unfollows_period": 11,
+      "reach_period": 234828,
+      "website_clicks_period": 254,
+      "engagement_rate_avg": 2.38,
+      "top_gender": "Female 56.6%",
+      "top_age": "35-44 (41.0%)"
+    },
+    "facebook": {
+      "followers_total": 220,
+      "new_follows_period": 125,
+      "unfollows_period": 7,
+      "page_impressions_period": 456877,
+      "post_engagements_period": 16724
+    },
+    "youtube": {
+      "views_period": 5542,
+      "subscribers_gained_period": 10,
+      "avg_view_duration_sec": 24.77
+    },
+    "tiktok": {
+      "followers": 28,
+      "video_views_period": 2704,
+      "likes_period": 81
+    }
+  },
+  "top_posts": {
+    "cross_platform_top3": [
+      {
+        "platform": "youtube",
+        "title": "Sourdough Frozen Pizza ASMR 🍕",
+        "views": 2206,
+        "avg_view_pct": 118.4,
+        "url": "https://www.youtube.com/watch?v=k12wmEj934w"
+      },
+      {
+        "platform": "youtube",
+        "title": "Frozen Pizza Grocery Haul",
+        "views": 1591,
+        "avg_view_pct": 126.78,
+        "url": "https://www.youtube.com/watch?v=2irJ-B_V2rs"
+      },
+      {
+        "platform": "tiktok",
+        "title": "Oh, you're buying? Guess we're stocking up.",
+        "views": 849,
+        "avg_watch_sec": 6.22,
+        "likes": 49
+      }
+    ]
+  },
+  "patterns": [
+    "Sensory content is still the clearest winner. Texture, cheese pull, and ASMR-style YouTube videos remain the best combination of reach and retention in the exported dataset.",
+    "The Wisconsin-origin angle still looks like the strongest paid message. It continues to be the safest benchmark for Meta creative efficiency until fresher export data proves otherwise.",
+    "Organic social continues to respond better to practical and relatable framing than polished brand talk. Everyday dinner utility, humor, and founder-adjacent context are still the most repeatable lanes.",
+    "Instagram's audience shape remains centered on women 35 to 44, which should keep informing both creative voice and offer framing.",
+    "Google branded and high-intent category demand still appear healthier than competitor capture. Competitor-search efficiency remains the biggest likely waste pocket in the available source window.",
+    "The biggest pattern this week is a reporting inconsistency: the live dashboard view appears to have advanced to April KPI cards while the Excel export fed to the parser is still pinned to March. That makes reporting reliability the immediate issue, not creative strategy."
+  ],
+  "flags": [
+    "Fresh export was attempted again, but the workbook consumed by the parser still carries a March 1 to March 31 window. The dashboard can look freshly updated by cron timing while still serving stale source data.",
+    "There is now a visible mismatch between browser-visible KPI cards and exportable workbook data. That raises the risk that manual spot checks and automated reporting tell different stories.",
+    "Without a true April workbook, we still cannot verify whether Meta CPC inflation, creative fatigue, or search-mix drift worsened during April."
+  ],
+  "recommended_actions": [
+    "Fix the Whatagraph export path first. If the share link UI shows April but the xlsx stays on March, the team needs either a different export route or a direct scrape fallback so weekly reporting is trustworthy again.",
+    "Until freshness is restored, keep leaning into the proven winners instead of overreacting: ASMR and texture on YouTube, Wisconsin-origin hooks in paid, and relatable dinner framing on short-form organic.",
+    "Review Google search mix and pull back on competitor terms unless they can prove downstream conversion value. The historical efficiency gap is wide enough to justify action.",
+    "Queue 2 to 3 fresh paid variants built from the standing winners: origin story, founder or family dinner framing, and close-up crust or texture visuals.",
+    "Add stronger follow and subscribe CTAs to the best-performing video posts. Attention generation is outpacing retained audience growth in the exported data."
+  ],
+  "week_summary": "Friday May 1 check completed the required report-open and parse workflow, but the export consumed by the parser is still stuck on the March reporting window even though the live Whatagraph view appeared to show April KPI cards. Strategically, the story remains the same: sensory video still wins, Wisconsin-origin is still the best paid hook, relatable utility still beats polished brand copy, and competitor search remains the weakest efficiency pocket. Operationally, the real problem is now the reporting mismatch between the live view and the downloadable workbook."
+}
