@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-08",
+  "week": "2026-W19",
+  "headline": "First true April read confirms a 60% spend scale-up delivered proportional reach but inflated Meta CPC 38% while Instagram grew 44% in followers with declining engagement — the efficiency ceiling is tightening.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Data pipeline fixed: first analysis with actual April 2026 data after weeks of stale March exports. Direct API export method now bypasses the browser download failure.",
+        "'Straight From Wisconsin' is still the best creative at $0.13 CPC and 3.65% CTR on 288K impressions — the only ad holding efficiency at scale.",
+        "Instagram followers grew 44% (418 → 602) and reach nearly doubled to 424K. Core demo remains F 35-44 at 40.5%.",
+        "Meta total reach hit 556K at 1.94 frequency — healthy reach-to-frequency balance even at higher spend."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Meta CPC inflated 38% ($0.13 → $0.18) and CTR dropped 25% (3.47% → 2.59%) as spend scaled from $3,050 to $4,931. The efficiency loss at higher spend needs monitoring.",
+        "Instagram engagement rate fell from 2.38% to 1.93% despite audience growth — new followers are arriving but not engaging.",
+        "YouTube declined 12.5% in views and subscriber gains dropped from 10 to 4. The ASMR viral moment from March hasn't been replicated.",
+        "TikTok is effectively dormant at 1,806 views and 19 likes for the entire month. Most posts hit sub-100 views.",
+        "Google competitor search burned $579 at $0.51 CPC with 'paul newman pizza' alone at $175.80 — still the most expensive, lowest-ROI channel."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "PAID: Shift Meta budget toward 45-64 age demos where CPC is $0.12-$0.15 and CTR is 3.35-3.73%. Reduce spend on 18-24.",
+        "CREATIVE: Build 2-3 new variants combining Wisconsin origin with practical dinner utility. Keep 'Straight From Wisconsin' running at current levels.",
+        "INSTAGRAM: Add interactive content (polls, Q&A, carousels) to convert passive followers into engaged audience before the engagement rate drops further.",
+        "YOUTUBE: Produce a new ASMR/texture video to replace the aging original. Consider series format for subscriber retention.",
+        "TIKTOK: Either invest in paid distribution or pause organic effort. Current output-to-result ratio doesn't justify the production time.",
+        "GOOGLE: Cut 'paul newman pizza' keyword and review competitor terms. Redirect to branded and category where CPC is 3-6x cheaper.",
+        "PIPELINE: Standardize the direct API export method in cron automation to prevent regression to browser-click attempts."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "Wisconsin-origin messaging held efficiency at scale. Practical dinner framing and social proof (testimonials, pairings) drove the best organic engagement. The 45-64 Meta demo is the cheapest, most engaged audience segment.",
+    "what_didnt": "Generic 'better frozen pizza' ads inflated CPC at scale. TikTok organic has no traction. Competitor search keeps burning budget without conversion evidence. YouTube growth stalled without fresh ASMR-style content.",
+    "recommendation": "For the next cycle: lean into the 45-64 demo on paid, build new Wisconsin + dinner utility creative, produce fresh texture/ASMR YouTube content, and either fund TikTok with paid or pause organic. Cut 'paul newman pizza' and review all competitor search terms for conversion proof.",
+    "competitive_context": "The frozen pizza aisle continues to sharpen. April data shows Real Dough can still scale reach efficiently, but only with its strongest creative (Wisconsin origin). As CPC inflates at higher spend, the creative selection becomes more important — running mediocre ads at scale is now measurably expensive."
+  },
+  "data_quality": {
+    "missing": [
+      "No conversion or ROAS data beyond click-level metrics. Cannot prove competitor search value or ad-to-purchase attribution.",
+      "No review/sentiment data — reviews.json still broken from prior weeks."
+    ],
+    "stale": [
+      "None — this is the first fresh April export. Data pipeline is current."
+    ],
+    "anomalies": [
+      "YouTube 'Sourdough Frozen Pizza ASMR' shows 231.14% average view percentage, consistent with rewatch behavior seen in prior months.",
+      "Facebook 'Peppin Ain't Easy' reel shows 9,646 avg view time (ms), unusually high for the format — likely driven by loop plays.",
+      "Meta demographics show 'Unknown' age group at 16,590 impressions but only 31 clicks — likely bot or placement-level noise."
+    ]
+  }
+}

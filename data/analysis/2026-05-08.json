@@ -1,0 +1,230 @@
+{
+  "date": "2026-05-08",
+  "period": "2026-04-01 to 2026-04-30",
+  "analysis_type": "friday_weekly_review",
+  "generated_by": "analyst-agent",
+  "data_freshness": {
+    "xlsx_date": "2026-05-08",
+    "report_period": "2026-04-01 to 2026-04-30",
+    "ytd_data": false,
+    "download_attempted": true,
+    "download_status": "successful — fresh April workbook downloaded via direct API call to Whatagraph backend (report-download-excel endpoint with by:pages, layout:widgets_per_sheets payload)",
+    "note": "This is the first analysis with a true April reporting window. Previous runs through May 1 were stuck parsing a March workbook. The export pipeline issue from prior weeks is now resolved."
+  },
+  "ad_performance": {
+    "meta": {
+      "spend": 4931.40,
+      "clicks": 27992,
+      "cpc": 0.18,
+      "ctr": 2.59,
+      "reach": 556775,
+      "impressions": 1082717,
+      "cpm": 4.55,
+      "frequency": 1.94,
+      "link_clicks": 22248,
+      "link_cpc": 0.22,
+      "link_ctr": 2.05,
+      "demographics": {
+        "by_gender": {
+          "female": { "clicks": 14997, "cpc": 0.17, "ctr": 2.90, "impressions": 517085, "spend": 2592.08 },
+          "male": { "clicks": 12637, "cpc": 0.18, "ctr": 2.36, "impressions": 536397, "spend": 2283.14 }
+        },
+        "top_age_by_clicks": [
+          { "age": "45-54", "clicks": 2882, "cpc": 0.15, "ctr": 3.35, "spend": 423.10 },
+          { "age": "55-64", "clicks": 2239, "cpc": 0.12, "ctr": 3.73, "spend": 276.79 },
+          { "age": "35-44", "clicks": 1788, "cpc": 0.17, "ctr": 2.80, "spend": 310.78 }
+        ]
+      }
+    },
+    "google": {
+      "spend": 1450.68,
+      "clicks": 3496,
+      "cpc": 0.41,
+      "ctr": 1.60,
+      "impressions": 219118,
+      "cpm": 6.62,
+      "campaigns": [
+        { "name": "MM - Search - Real Dough - NB", "clicks": 1797, "cpc": 0.40, "ctr": 1.43, "impressions": 125668, "spend": 723.88 },
+        { "name": "MM - Search - Real Dough - Competitors", "clicks": 1126, "cpc": 0.51, "ctr": 1.57, "impressions": 71548, "spend": 579.43 },
+        { "name": "MM - Search - Real Dough - Branded", "clicks": 573, "cpc": 0.26, "ctr": 2.62, "impressions": 21902, "spend": 147.37 }
+      ]
+    },
+    "total_spend": 6382.08,
+    "comparison_to_march": {
+      "meta_spend_change": "+61.7% ($3,050 → $4,931)",
+      "meta_cpc_change": "+38.5% ($0.13 → $0.18)",
+      "meta_ctr_change": "-25.4% (3.47% → 2.59%)",
+      "meta_reach_change": "+59.4% (349,299 → 556,775)",
+      "meta_impressions_change": "+57.7% (686,641 → 1,082,717)",
+      "google_spend_change": "+56.1% ($929 → $1,451)",
+      "google_cpc_change": "+24.2% ($0.33 → $0.41)",
+      "total_spend_change": "+60.4% ($3,980 → $6,382)",
+      "note": "April saw a significant budget scale-up across both Meta and Google. Reach and impressions grew proportionally on Meta, but CPC inflated meaningfully and CTR dropped, indicating some efficiency loss at higher spend levels."
+    }
+  },
+  "audience": {
+    "instagram": {
+      "followers_total": 602,
+      "new_followers_period": 188,
+      "unfollows_period": 10,
+      "reach_period": 424540,
+      "engagement_rate_avg": 1.93,
+      "reels_reach": 2647,
+      "reels_engagement": 145,
+      "stories_reach": 1017,
+      "top_gender": "Female 53.7% (323 of 602)",
+      "top_age": "35-44 (244 followers, 40.5%)",
+      "by_age": [
+        { "age": "35-44", "followers": 244 },
+        { "age": "25-34", "followers": 168 },
+        { "age": "45-54", "followers": 91 },
+        { "age": "55-64", "followers": 47 },
+        { "age": "65+", "followers": 28 },
+        { "age": "18-24", "followers": 19 }
+      ]
+    },
+    "facebook": {
+      "followers_net_new": 35,
+      "page_views_period": 614211,
+      "post_impressions_period": 622084,
+      "post_engagements_period": 15804,
+      "reach_period": 315565
+    },
+    "youtube": {
+      "views_period": 4851,
+      "subscribers_gained_period": 4,
+      "avg_view_duration_sec": 24.55,
+      "estimated_minutes_watched": 556,
+      "total_engagement": 45
+    },
+    "tiktok": {
+      "followers": 35,
+      "video_views_period": 1806,
+      "likes_period": 19,
+      "top_video_views": 323,
+      "top_video_avg_watch": 4.42
+    },
+    "comparison_to_march": {
+      "ig_followers": "+44% (418 → 602)",
+      "ig_new_followers": "+14% (165 → 188)",
+      "ig_engagement_rate": "-18.9% (2.38% → 1.93%)",
+      "ig_reach": "+80.8% (234,828 → 424,540)",
+      "fb_page_views": "+34.5% (456,877 → 614,211)",
+      "yt_views": "-12.5% (5,542 → 4,851)",
+      "yt_subs_gained": "-60% (10 → 4)",
+      "tiktok_views": "-33.2% (2,704 → 1,806)",
+      "note": "Instagram is the big growth story — followers jumped 44% and reach nearly doubled. But engagement rate dropped, suggesting the new audience skews passive. YouTube and TikTok both declined, with TikTok especially weak."
+    }
+  },
+  "top_creatives": {
+    "meta_ads_top5": [
+      { "headline": "Straight From Wisconsin", "link_clicks": 7711, "cpc": 0.13, "ctr": 3.65, "impressions": 288162 },
+      { "headline": "No More Cardboard Crust.", "link_clicks": 4230, "cpc": 0.23, "ctr": 1.77, "impressions": 273677 },
+      { "headline": "A Better Frozen Pizza", "link_clicks": 3854, "cpc": 0.22, "ctr": 1.94, "impressions": 218128 },
+      { "headline": "Your Frozen Pizza Upgrade", "link_clicks": 2124, "cpc": 0.23, "ctr": 2.13, "impressions": 106782 },
+      { "headline": "Pepperoni + Sausage, Done Right", "link_clicks": 1547, "cpc": 0.17, "ctr": 3.15, "impressions": 60864 }
+    ]
+  },
+  "top_posts": {
+    "cross_platform_top5": [
+      {
+        "platform": "youtube",
+        "title": "Dinner: Frozen Pizza with Real Ingredients",
+        "views": 1956,
+        "avg_view_pct": 79.54,
+        "minutes_watched": 115,
+        "url": "https://www.youtube.com/watch?v=EQB6x86g2k0"
+      },
+      {
+        "platform": "youtube",
+        "title": "Sourdough Frozen Pizza Crust for the Win",
+        "views": 1292,
+        "avg_view_pct": 42.41,
+        "minutes_watched": 181,
+        "url": "https://www.youtube.com/watch?v=ukYzj86XtdQ"
+      },
+      {
+        "platform": "instagram",
+        "title": "Pizza pairings vetted 🍷🍕",
+        "reach": 615,
+        "engagement": 33,
+        "engagement_rate": 7.04,
+        "url": "https://www.instagram.com/p/DW9d4QTgKfD/"
+      },
+      {
+        "platform": "instagram",
+        "title": "We could talk about our frozen pizza all day… sounds better from them",
+        "reach": 573,
+        "engagement": 25,
+        "engagement_rate": 5.47,
+        "url": "https://www.instagram.com/reel/DW3rMGFBmcF/"
+      },
+      {
+        "platform": "tiktok",
+        "title": "Dinner loading… Real Dough frozen pizza made with real ingredients",
+        "views": 323,
+        "avg_watch_sec": 4.42,
+        "engagement": 6,
+        "engagement_rate": 1.86
+      }
+    ],
+    "facebook_top3": [
+      { "title": "Pizza pairings vetted 🍷🍕", "reach": 216, "engagement": 20, "engagement_rate": 9.26 },
+      { "title": "You check ingredients. You choose carefully.", "reach": 107, "engagement": 9, "engagement_rate": 8.41 },
+      { "title": "Cruising through dinner time with Real Dough", "reach": 123, "engagement": 10, "engagement_rate": 8.13 }
+    ],
+    "facebook_reels_top3": [
+      { "title": "Jingle — keep it or cut it? 🍕", "reach": 308, "avg_view_time": 6956 },
+      { "title": "Testimonial reel — sounds better from them", "reach": 148, "avg_view_time": 5470 },
+      { "title": "Peppin' Ain't Easy — hot honey drizzle", "reach": 147, "avg_view_time": 9646 }
+    ]
+  },
+  "search_performance": {
+    "branded_top_terms": [
+      { "term": "real dough pizza co", "clicks": 126, "cpc": 0.34, "ctr": 25.77, "impressions": 489 },
+      { "term": "real dough pizza", "clicks": 112, "cpc": 0.33, "ctr": 23.19, "impressions": 483 },
+      { "term": "real dough frozen pizza", "clicks": 11, "cpc": 0.38, "ctr": 15.28, "impressions": 72 }
+    ],
+    "non_branded_top_terms": [
+      { "term": "hot slice", "clicks": 40, "cpc": 1.05, "ctr": 24.84, "impressions": 161 },
+      { "term": "pizza", "clicks": 26, "cpc": 0.78, "ctr": 0.44, "impressions": 5926 },
+      { "term": "sourdough frozen pizza", "clicks": 12, "cpc": 0.97, "ctr": 13.95, "impressions": 86 },
+      { "term": "screamin sicilian pizza", "clicks": 8, "cpc": 2.06, "ctr": 3.11, "impressions": 257 },
+      { "term": "best frozen pizza", "clicks": 6, "cpc": 0.79, "ctr": 1.46, "impressions": 6940 }
+    ],
+    "keyword_performance": [
+      { "keyword": "paul newman pizza", "clicks": 114, "cpc": 1.54, "ctr": 1.16, "impressions": 9834, "spend": 175.80 },
+      { "keyword": "best frozen pizza", "clicks": 101, "cpc": 0.79, "ctr": 1.46, "impressions": 6940, "spend": 79.99 },
+      { "keyword": "sourdough pizza crust", "clicks": 87, "cpc": 1.09, "ctr": 2.30, "impressions": 3777, "spend": 95.24 }
+    ],
+    "competitor_campaign_note": "Competitor search spent $579.43 at $0.51 CPC — still the most expensive campaign by CPC and lowest-CTR channel. Branded search remains the most efficient at $0.26 CPC and 2.62% CTR."
+  },
+  "patterns": [
+    "BUDGET SCALE-UP INFLATED COSTS: April total spend jumped 60% to $6,382 ($4,931 Meta + $1,451 Google). Meta CPC rose 38% from $0.13 to $0.18 and CTR dropped from 3.47% to 2.59%. Reach scaled proportionally (+59%), so the spend isn't wasted — but the efficiency ceiling is tightening.",
+    "WISCONSIN ORIGIN STILL WINS PAID: 'Straight From Wisconsin' remains the top creative with 7,711 link clicks at $0.13 CPC and 3.65% CTR — the only creative that held efficiency at scale. All other headlines ran at $0.17–$0.23 CPC, roughly 30–80% more expensive.",
+    "INSTAGRAM GROWTH IS REAL BUT SHALLOW: Followers grew 44% (418 → 602) and reach nearly doubled, but engagement rate dropped from 2.38% to 1.93%. The new audience is arriving but not yet converting to active engagement. The core demo remains F 35-44 (40.5%).",
+    "YOUTUBE DECLINING FROM MARCH PEAK: Views dropped 12.5% and subscriber gains fell from 10 to 4. The ASMR video that dominated in March ('Sourdough Frozen Pizza ASMR', 127 views in April vs 2,206 in March) has aged out. 'Dinner: Frozen Pizza with Real Ingredients' is the new leader at 1,956 views. The long-form format still works but needs fresh creative.",
+    "TIKTOK IS UNDERPERFORMING: Only 1,806 views across the month with 19 likes total. Best video was 323 views. Average watch time is decent (4–10 seconds) but zero engagement on most posts. The platform isn't getting organic distribution.",
+    "FACEBOOK ORGANIC IS STEADY-STATE: 15,804 post engagements and 622K impressions are healthy but didn't grow meaningfully. Top performing posts lean into humor, pairings, and practical dinner framing — same lanes as March.",
+    "META AD DEMOGRAPHICS FAVOR WOMEN AND OLDER AUDIENCES: Female clicks outperformed male (14,997 vs 12,637) at lower CPC ($0.17 vs $0.18). The 55-64 age group delivered the cheapest clicks at $0.12 CPC with 3.73% CTR. The 45-54 group had the most clicks (2,882). Younger demos (18-24) are the most expensive to reach.",
+    "GOOGLE COMPETITOR SEARCH REMAINS THE WORST EFFICIENCY POCKET: $579.43 spent at $0.51 CPC compared to branded search at $0.26 CPC. Competitor clicks are cheap impressions-wise ($8.10 CPM vs $6.73 branded) but the intent quality is low. 'paul newman pizza' alone burned $175.80 at $1.54 CPC.",
+    "DATA PIPELINE NOW FIXED: This is the first analysis with true April data. The export method (direct API call with by:pages, layout:widgets_per_sheets payload) bypasses the browser download issue that plagued prior weeks. This should be stable going forward."
+  ],
+  "flags": [
+    "Meta CPC inflation is the most important efficiency signal. At $0.18 CPC vs $0.13 in March, the 38% increase at 60% higher spend means some budget is chasing less efficient placements.",
+    "Instagram engagement rate decline (2.38% → 1.93%) needs watching. Growth is great, but if the new followers never engage, the reach-to-action ratio will keep dropping.",
+    "YouTube subscriber growth collapsed (10 → 4) despite decent view counts. The ASMR magic from March hasn't been replicated with fresh content.",
+    "TikTok is effectively dormant. With 1,806 views and 19 likes across a full month, the organic strategy isn't working. Either invest in paid TikTok or reallocate the content effort.",
+    "Google competitor search continues to spend disproportionately ($579) for what it delivers. Without conversion data, it's impossible to know if these clicks have downstream value."
+  ],
+  "recommended_actions": [
+    "PAID META: Lean harder into the 45-64 age range where CPC is cheapest ($0.12-$0.15) and CTR is highest (3.35-3.73%). Consider reducing spend on 18-24 where CPC is highest and CTR lowest.",
+    "CREATIVE: Keep 'Straight From Wisconsin' running — it's still outperforming at scale. Build 2-3 new variants that combine the Wisconsin origin angle with the practical dinner utility framing that works on organic.",
+    "INSTAGRAM: Post more interactive content (polls, questions, carousels) to convert new passive followers into engaged audience. The 44% follower growth is wasted if engagement rate keeps falling.",
+    "YOUTUBE: Produce a new ASMR/texture video to replace the aging original. The format clearly works (231% avg view pct on the original) but needs fresh creative. Also consider a series format to build subscriber habit.",
+    "TIKTOK: Either commit to paid distribution or pause the organic effort. Current strategy produces sub-100 view counts on most posts — not worth the production time.",
+    "GOOGLE: Cut 'paul newman pizza' keyword ($175.80 at $1.54 CPC) and review other competitor terms. Redirect that budget to branded and category terms where CPC is 3-6x cheaper.",
+    "REPORTING: The Whatagraph export pipeline fix (direct API method) should be standardized in the cron automation so future runs don't regress to browser-click attempts."
+  ],
+  "week_summary": "First analysis with actual April 2026 data after weeks of stale March exports. The big story: budget scaled up 60% to $6,382 total ($4,931 Meta + $1,451 Google) and reach grew proportionally, but CPC inflated 38% on Meta ($0.13 → $0.18) and CTR dropped 25%. Instagram is the growth engine — followers up 44% to 602, reach nearly doubled — but engagement rate is falling. YouTube and TikTok both declined from March. 'Straight From Wisconsin' remains the undisputed best creative. The efficiency ceiling is tightening as spend scales, and the competitor search campaign continues to burn budget at premium CPCs without clear conversion proof. Data pipeline is now fixed."
+}

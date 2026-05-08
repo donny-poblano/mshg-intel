@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-03",
+  "type": "daily",
+  "generated_at": "2026-05-03T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Aldi / Mama Cozzi's / Richelieu Foods",
+      "action": "A nationwide health alert hit two Mama Cozzi's frozen breakfast pizzas sold at Aldi after recalled dry milk powder in the cheese raised possible Salmonella risk, a sharp reminder that private-label frozen pizza programs can take fast brand damage from upstream ingredient failures.",
+      "category": "recall",
+      "relevance_score": 9,
+      "source_url": "https://www.fox29.com/news/usda-issues-health-alert-frozen-pizza-sold-nationwide-aldi-stores-due-salmonella-concerns",
+      "first_reported": "2026-05-03",
+      "status": "new"
+    },
+    {
+      "name": "Dr. Oetker / Ristorante",
+      "action": "Dr. Oetker reintroduced its Ristorante Pollo pizza for convenience retailers starting in May, which is a useful signal that established frozen pizza brands are still tuning channel-specific assortments instead of relying on one broad grocery-only range.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.betterretailing.com/br/product-news/dr-oetker-reintroduces-its-ristorante-pollo-pizza/",
+      "first_reported": "2026-05-03",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza competition is splitting between sharper channel targeting and higher supply-chain risk",
+      "direction": "up",
+      "magnitude": "Dr. Oetker is tailoring a convenience-specific reintroduction while Aldi's private-label breakfast pizzas were pulled into a nationwide health alert tied to an upstream dairy ingredient recall.",
+      "context": "The useful read for Real Dough is that distribution wins still matter, but execution discipline matters just as much. A clean, credible premium story can get undercut quickly if manufacturing or ingredient control slips.",
+      "source_url": "https://www.fox29.com/news/usda-issues-health-alert-frozen-pizza-sold-nationwide-aldi-stores-due-salmonella-concerns",
+      "first_reported": "2026-05-03",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Aldi health alert affected SKUs",
+      "value": "2 breakfast pizzas with best-by dates of Oct. 15 and Oct. 21-24, 2026",
+      "change": null,
+      "source_url": "https://www.fox29.com/news/usda-issues-health-alert-frozen-pizza-sold-nationwide-aldi-stores-due-salmonella-concerns"
+    },
+    {
+      "metric": "Dr. Oetker reintroduction channel",
+      "value": "Convenience retail from May 2026",
+      "change": null,
+      "source_url": "https://www.betterretailing.com/br/product-news/dr-oetker-reintroduces-its-ristorante-pollo-pizza/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The cleanest signal today is that frozen pizza upside and downside are both getting more channel-specific",
+      "impact": "One brand is using convenience-only assortment tuning to stay relevant, while another got dragged into a national safety issue through a private-label supply chain. Real Dough should keep building tight retail stories, but it also needs obsessive supplier and QA discipline if it wants premium trust to hold.",
+      "source_url": "https://www.fox29.com/news/usda-issues-health-alert-frozen-pizza-sold-nationwide-aldi-stores-due-salmonella-concerns",
+      "first_reported": "2026-05-03"
+    }
+  ]
+}

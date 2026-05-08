@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-02",
+  "type": "daily",
+  "generated_at": "2026-05-02T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Freiberger / Craft Pizza",
+      "action": "Freiberger debuted its new Craft Pizza line at Tesco in the UK with six SKUs across thin crust, pinsa, and classic-crust formats, signaling that one of Europe's biggest frozen-pizza manufacturers is still investing in restaurant-style segmentation instead of just line extensions.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.frozenfoodsbiz.com/craft-pizza-serves-up-freibergers-first-brand-launch-in-united-kingdom/",
+      "first_reported": "2026-05-02",
+      "status": "new"
+    },
+    {
+      "name": "Goodfella's / Nomad Foods",
+      "action": "Goodfella's is replacing its Takeaway line with a new New York-Style Pizza range, adding hot-honey and loaded-topping cues while rolling into Tesco first and wider UK retail after that, which shows mainstream freezer brands are still chasing premium takeaway-style occasions with trend-led toppings.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.frozenfoodsbiz.com/goodfellas-pizza-brings-a-taste-of-new-york-to-frozen-aisles-in-britain/",
+      "first_reported": "2026-05-02",
+      "status": "new"
+    },
+    {
+      "name": "Palermo's x Ragu",
+      "action": "Palermo's partnered with Ragu on a four-SKU frozen pizza line launching at select retailers in early May, a useful signal that legacy sauce brands still see frozen pizza as a viable extension vehicle and that mainstream shelf players keep borrowing adjacent pantry equity to win trial.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.foodbusinessnews.net/articles/28217-palermo-partners-on-new-ragu-frozen-pizzas",
+      "first_reported": "2026-05-02",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Mainstream frozen pizza is leaning harder into restaurant mimicry and borrowed flavor equity",
+      "direction": "up",
+      "magnitude": "Freiberger launched six Tesco SKUs positioned as fresh-restaurant quality, Goodfella's rebuilt its takeaway line around New York-style and hot honey cues, and Palermo extended Ragu into frozen pizza with four value-priced SKUs.",
+      "context": "The practical read for Real Dough is that freezer-aisle competition is not standing still on story. Even large-scale players are sharpening a simple occasion-led pitch, whether that is takeaway replacement, trend flavor, or pantry-brand familiarity.",
+      "source_url": "https://www.frozenfoodsbiz.com/goodfellas-pizza-brings-a-taste-of-new-york-to-frozen-aisles-in-britain/",
+      "first_reported": "2026-05-02",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Freiberger manufacturing scale",
+      "value": "13 locations and 3,800 employees across Europe and the USA",
+      "change": null,
+      "source_url": "https://www.frozenfoodsbiz.com/craft-pizza-serves-up-freibergers-first-brand-launch-in-united-kingdom/"
+    },
+    {
+      "metric": "Craft Pizza Tesco launch breadth",
+      "value": "6 SKUs across thin crust, pinsa, and classic crust",
+      "change": null,
+      "source_url": "https://www.frozenfoodsbiz.com/craft-pizza-serves-up-freibergers-first-brand-launch-in-united-kingdom/"
+    },
+    {
+      "metric": "Ragu frozen pizza opening price band",
+      "value": "$4.99 to $6.99",
+      "change": null,
+      "source_url": "https://www.foodbusinessnews.net/articles/28217-palermo-partners-on-new-ragu-frozen-pizzas"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's cleanest signal is that big freezer players keep making the category easier to understand in one sentence",
+      "impact": "Freiberger is selling restaurant-quality range architecture, Goodfella's is selling premium fakeaway energy, and Palermo is selling familiar sauce-brand trust. Real Dough should keep tightening its own one-line shelf story around authentic sourdough and Wisconsin credibility instead of broad premium language.",
+      "source_url": "https://www.frozenfoodsbiz.com/craft-pizza-serves-up-freibergers-first-brand-launch-in-united-kingdom/",
+      "first_reported": "2026-05-02"
+    }
+  ]
+}

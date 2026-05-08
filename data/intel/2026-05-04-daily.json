@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-04",
+  "type": "daily",
+  "generated_at": "2026-05-04T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Aldi / Walmart private label / Richelieu Foods",
+      "action": "The frozen-pizza salmonella alert widened from Aldi-only attention into a broader private-label risk event after Walmart and Culinary Circle chicken-bacon-ranch pizzas were added to the same dry-milk-powder contamination issue, turning one retailer incident into a category-wide reminder that upstream ingredient failures can damage multiple freezer programs at once.",
+      "category": "recall",
+      "relevance_score": 10,
+      "source_url": "https://www.usatoday.com/story/news/health/2026/05/03/walmart-frozen-pizza-recall-aldi-salmonella-concerns/89922386007/",
+      "first_reported": "2026-05-04",
+      "status": "new"
+    },
+    {
+      "name": "Amy's Kitchen",
+      "action": "Amy's Kitchen landed a phased Costco expansion across more than 150 warehouses in Los Angeles, the Bay Area, and Texas, showing that large club retail is still opening meaningful doors for premium organic frozen brands with strong trust and repeat demand.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.prnewswire.com/news-releases/amys-kitchen-lands-costco-distribution-in-three-major-markets-bringing-organic-frozen-meals-to-millions-of-members-302759548.html",
+      "first_reported": "2026-05-04",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen is moving from backup meal to trusted primary meal occasion",
+      "direction": "up",
+      "magnitude": "Conagra's 2026 Future of Frozen report says frozen appears in 80B+ annual eating occasions, pizza leads the aisle at $7.4B in sales, and dinner is increasingly framed as a shareable at-home restaurant substitute.",
+      "context": "The strategic read for Real Dough is that premium frozen pizza does not need to apologize for being frozen anymore. The winning lane is restaurant-level credibility plus convenience, especially for multi-person dinner occasions where pizza already over-indexes.",
+      "source_url": "https://www.conagrabrands.com/files/future-of-frozen-report-2026",
+      "first_reported": "2026-05-04",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Recall scope",
+      "value": "At least 5 named frozen pizza SKUs across Aldi, Walmart, and Culinary Circle were tied to the same milk-powder salmonella alert",
+      "change": null,
+      "source_url": "https://www.usatoday.com/story/news/health/2026/05/03/walmart-frozen-pizza-recall-aldi-salmonella-concerns/89922386007/"
+    },
+    {
+      "metric": "Amy's Costco rollout",
+      "value": "150+ Costco warehouses across Los Angeles, Bay Area, and Texas",
+      "change": null,
+      "source_url": "https://www.prnewswire.com/news-releases/amys-kitchen-lands-costco-distribution-in-three-major-markets-bringing-organic-frozen-meals-to-millions-of-members-302759548.html"
+    },
+    {
+      "metric": "Frozen pizza category scale",
+      "value": "$7.4B in sales, leading the frozen department according to Conagra's 2026 Future of Frozen report",
+      "change": null,
+      "source_url": "https://www.conagrabrands.com/files/future-of-frozen-report-2026"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's clearest signal is that frozen-pizza upside and downside are both scaling faster",
+      "impact": "One side of the market is widening distribution through Costco and premium trust. The other side is seeing multi-retailer fallout from a single ingredient problem. Real Dough should keep building a premium dinner story, but supplier QA and clean manufacturing discipline are now just as strategic as marketing.",
+      "source_url": "https://www.usatoday.com/story/news/health/2026/05/03/walmart-frozen-pizza-recall-aldi-salmonella-concerns/89922386007/",
+      "first_reported": "2026-05-04"
+    }
+  ]
+}

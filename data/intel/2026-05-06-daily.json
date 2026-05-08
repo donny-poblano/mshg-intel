@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-06",
+  "type": "daily",
+  "generated_at": "2026-05-06T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Amy's Kitchen",
+      "action": "Amy's personal pizzas in Cheese, Margherita, and Veggie Combo were highlighted in Progressive Grocer's 2026 Best New Products list, reinforcing that certified-organic, personal-size frozen pizza is earning mainstream retailer and trade-editor validation, not just natural-channel shelf space.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/progressive-grocer-names-best-new-products-2026",
+      "first_reported": "2026-05-06",
+      "status": "new"
+    },
+    {
+      "name": "Nestle / DiGiorno",
+      "action": "Nestle publicly reaffirmed its commitment to the US frozen-food business even while reshaping its broader portfolio, and explicitly called out frozen snacks, meals, and pizza as flat in 2025 with better growth pockets in high protein and global flavors, which is a useful incumbent read on where the next frozen-pizza wins are likely to come from.",
+      "category": "strategy",
+      "relevance_score": 9,
+      "source_url": "https://www.foodbusinessnews.net/articles/29848-nestle-remains-committed-to-us-frozen-food-business",
+      "first_reported": "2026-05-06",
+      "status": "new"
+    },
+    {
+      "name": "Frozen One",
+      "action": "Frozen One raised $2 million in seed funding and paired it with a rapid retail push, moving from roughly 700 stores in Q1 to Target and other chains, showing that better-for-you frozen brands with strong protein positioning are still attracting capital and shelf expansion despite a tougher overall freezer environment.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.foodbusinessnews.net/articles/30205-frozen-one-raises-2-million-in-seed-funding",
+      "first_reported": "2026-05-06",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Personal-size premium frozen pizza is gaining mainstream retail validation",
+      "direction": "up",
+      "magnitude": "Amy's personal pizzas were singled out in a national grocery trade outlet's 2026 best-new-products coverage.",
+      "context": "The signal is that convenience is not winning only at the low end. Retailers and editors are rewarding better-ingredient, single-serve frozen formats that fit quick lunch and solo-dinner behavior.",
+      "source_url": "https://progressivegrocer.com/progressive-grocer-names-best-new-products-2026",
+      "first_reported": "2026-05-06",
+      "status": "new"
+    },
+    {
+      "topic": "Frozen growth is concentrating in high-protein and globally inspired formats rather than the base pizza category",
+      "direction": "up",
+      "magnitude": "Nestle said frozen snacks, meals, and pizza were flat in 2025, while high protein and global flavors showed better growth.",
+      "context": "That is a strong strategic cue for Real Dough. Premium alone is not enough, the sharper growth stories are functional nutrition and flavor discovery layered onto freezer convenience.",
+      "source_url": "https://www.foodbusinessnews.net/articles/29848-nestle-remains-committed-to-us-frozen-food-business",
+      "first_reported": "2026-05-06",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Amy's personal pizza shelf price",
+      "value": "$5.99 per 5.6-ounce package",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/progressive-grocer-names-best-new-products-2026"
+    },
+    {
+      "metric": "Frozen One seed round",
+      "value": "$2 million raised, with rollout into approximately 1,464 Target stores and roughly 2,300 retail locations total",
+      "change": null,
+      "source_url": "https://www.foodbusinessnews.net/articles/30205-frozen-one-raises-2-million-in-seed-funding"
+    },
+    {
+      "metric": "Nestle frozen-category read",
+      "value": "Frozen snacks, meals, and pizza were flat in 2025, with growth pockets in high protein and global flavors",
+      "change": null,
+      "source_url": "https://www.foodbusinessnews.net/articles/29848-nestle-remains-committed-to-us-frozen-food-business"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's clearest signal is that frozen pizza still needs a sharper hook, while personal-size convenience, protein, and global flavor cues are where freezer momentum is concentrating.",
+      "impact": "For Real Dough, the practical read is to keep premium quality, but package the story around a more specific demand engine: single-serve convenience, functional benefits, or distinctive flavor positioning. The market looks less interested in generic premium pizza and more interested in premium pizza with a clear reason to choose it now.",
+      "source_url": "https://www.foodbusinessnews.net/articles/29848-nestle-remains-committed-to-us-frozen-food-business",
+      "first_reported": "2026-05-06"
+    }
+  ]
+}

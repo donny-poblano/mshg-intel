@@ -1,317 +1,137 @@
 {
-  "date": "2026-04-06",
-  "period": "2026-01-01 to 2026-04-03",
-  "generated": "2026-04-06T12:05:20.264Z",
+  "date": "2026-05-08",
+  "period": "2026-04-01 to 2026-04-30",
+  "generated": "2026-05-08T12:15:00.000Z",
   "ad_performance": {
     "meta": {
-      "spend": 5460.11,
-      "clicks": 40381,
-      "cpc": 0.14,
-      "ctr": 3.28,
-      "reach": 521526,
-      "impressions": 1230611,
-      "cpm": 4.44,
-      "link_clicks": 28235,
-      "frequency": 2.36,
-      "cplc": 0.19,
-      "link_ctr": 2.29
+      "spend": 4931.40,
+      "clicks": 27992,
+      "cpc": 0.18,
+      "ctr": 2.59,
+      "reach": 556775,
+      "impressions": 1082717,
+      "cpm": 4.55,
+      "link_clicks": 22248,
+      "frequency": 1.94,
+      "cplc": 0.22,
+      "link_ctr": 2.05
     },
     "google": {
-      "spend": 2056.36,
-      "clicks": 5237,
-      "cpc": 0.39,
-      "ctr": 2.09,
-      "impressions": 250526,
-      "cpm": 8.21
+      "spend": 1450.68,
+      "clicks": 3496,
+      "cpc": 0.41,
+      "ctr": 1.60,
+      "impressions": 219118,
+      "cpm": 6.62
     },
     "google_campaigns": [
       {
         "name": "MM - Search - Real Dough - NB",
-        "clicks": 2710,
-        "cpc": 0.4,
-        "ctr": 1.57,
-        "impressions": 172288,
-        "cpm": 6.23,
-        "spend": 1073.71
-      },
-      {
-        "name": "MM - Search - Real Dough - Branded",
-        "clicks": 1480,
-        "cpc": 0.19,
-        "ctr": 10.26,
-        "impressions": 14420,
-        "cpm": 19.55,
-        "spend": 281.88
+        "clicks": 1797,
+        "cpc": 0.40,
+        "ctr": 1.43,
+        "impressions": 125668,
+        "cpm": 5.76,
+        "spend": 723.88
       },
       {
         "name": "MM - Search - Real Dough - Competitors",
-        "clicks": 1047,
-        "cpc": 0.67,
-        "ctr": 1.64,
-        "impressions": 63818,
-        "cpm": 10.98,
-        "spend": 700.77
+        "clicks": 1126,
+        "cpc": 0.51,
+        "ctr": 1.57,
+        "impressions": 71548,
+        "cpm": 8.10,
+        "spend": 579.43
+      },
+      {
+        "name": "MM - Search - Real Dough - Branded",
+        "clicks": 573,
+        "cpc": 0.26,
+        "ctr": 2.62,
+        "impressions": 21902,
+        "cpm": 6.73,
+        "spend": 147.37
       }
     ],
     "meta_demographics": {
+      "by_gender": {
+        "female": { "clicks": 14997, "cpc": 0.17, "ctr": 2.90, "impressions": 517085, "spend": 2592.08 },
+        "male": { "clicks": 12637, "cpc": 0.18, "ctr": 2.36, "impressions": 536397, "spend": 2283.14 }
+      },
       "by_age": [
-        {
-          "age": "65+",
-          "spend": 1393.64,
-          "impressions": 263095,
-          "clicks": 10808,
-          "cpc": 0.13,
-          "ctr": 4.11,
-          "link_clicks": 6969
-        },
-        {
-          "age": "25-34",
-          "spend": 994.03,
-          "impressions": 230973,
-          "clicks": 6273,
-          "cpc": 0.16,
-          "ctr": 2.72,
-          "link_clicks": 5093
-        },
-        {
-          "age": "35-44",
-          "spend": 930.78,
-          "impressions": 230866,
-          "clicks": 6481,
-          "cpc": 0.14,
-          "ctr": 2.81,
-          "link_clicks": 4703
-        },
-        {
-          "age": "55-64",
-          "spend": 894.97,
-          "impressions": 201703,
-          "clicks": 7732,
-          "cpc": 0.12,
-          "ctr": 3.83,
-          "link_clicks": 4740
-        },
-        {
-          "age": "45-54",
-          "spend": 620.42,
-          "impressions": 159025,
-          "clicks": 5167,
-          "cpc": 0.12,
-          "ctr": 3.25,
-          "link_clicks": 3263
-        },
-        {
-          "age": "18-24",
-          "spend": 626.07,
-          "impressions": 144916,
-          "clicks": 3919,
-          "cpc": 0.16,
-          "ctr": 2.7,
-          "link_clicks": 3466
-        }
+        { "age": "45-54", "spend": 423.10, "impressions": 86004, "clicks": 2882, "cpc": 0.15, "ctr": 3.35, "link_clicks": 1918 },
+        { "age": "55-64", "spend": 276.79, "impressions": 60095, "clicks": 2239, "cpc": 0.12, "ctr": 3.73, "link_clicks": 1420 },
+        { "age": "35-44", "spend": 310.78, "impressions": 0, "clicks": 1788, "cpc": 0.17, "ctr": 2.80, "link_clicks": 0 },
+        { "age": "25-34", "spend": 0, "impressions": 0, "clicks": 0, "cpc": 0, "ctr": 0, "link_clicks": 0 },
+        { "age": "18-24", "spend": 0, "impressions": 0, "clicks": 0, "cpc": 0, "ctr": 0, "link_clicks": 0 },
+        { "age": "65+", "spend": 0, "impressions": 0, "clicks": 0, "cpc": 0, "ctr": 0, "link_clicks": 0 }
       ]
     },
     "top_creatives": [
-      {
-        "headline": "No More Cardboard Crust.",
-        "link_clicks": 8960,
-        "cpc": 0.16,
-        "ctr": 2.41,
-        "impressions": 440127
-      },
-      {
-        "headline": "Straight From Wisconsin",
-        "link_clicks": 6383,
-        "cpc": 0.09,
-        "ctr": 5.73,
-        "impressions": 172916
-      },
-      {
-        "headline": "Meet Real Dough Pizza Co.",
-        "link_clicks": 3477,
-        "cpc": 0.1,
-        "ctr": 5.17,
-        "impressions": 124969
-      },
-      {
-        "headline": "A Better Frozen Pizza",
-        "link_clicks": 3016,
-        "cpc": 0.16,
-        "ctr": 2.83,
-        "impressions": 152898
-      }
+      { "headline": "Straight From Wisconsin", "link_clicks": 7711, "cpc": 0.13, "ctr": 3.65, "impressions": 288162 },
+      { "headline": "No More Cardboard Crust.", "link_clicks": 4230, "cpc": 0.23, "ctr": 1.77, "impressions": 273677 },
+      { "headline": "A Better Frozen Pizza", "link_clicks": 3854, "cpc": 0.22, "ctr": 1.94, "impressions": 218128 },
+      { "headline": "Your Frozen Pizza Upgrade", "link_clicks": 2124, "cpc": 0.23, "ctr": 2.13, "impressions": 106782 },
+      { "headline": "Pepperoni + Sausage, Done Right", "link_clicks": 1547, "cpc": 0.17, "ctr": 3.15, "impressions": 60864 }
     ]
   },
   "audience": {
     "instagram": {
-      "followers": 433,
-      "new_followers": 301,
-      "unfollows": 13,
-      "engagement_rate_avg": 3,
-      "top_demo": "F 35-44 (40% female, 65+ is biggest age segment)",
-      "by_gender": {
-        "female": 241,
-        "male": 131,
-        "unknown": 55
-      },
+      "followers": 602,
+      "new_followers": 188,
+      "unfollows": 10,
+      "engagement_rate_avg": 1.93,
+      "reach": 424540,
+      "reels_reach": 2647,
+      "reels_engagement": 145,
+      "stories_reach": 1017,
+      "top_demo": "F 35-44 (40.5%, 244 followers)",
+      "by_gender": { "female": 323, "male": 200, "unknown": 79 },
       "by_age": [
-        {
-          "age": "35-44",
-          "followers": 174
-        },
-        {
-          "age": "25-34",
-          "followers": 119
-        },
-        {
-          "age": "45-54",
-          "followers": 63
-        },
-        {
-          "age": "55-64",
-          "followers": 28
-        },
-        {
-          "age": "65+",
-          "followers": 22
-        }
+        { "age": "35-44", "followers": 244 },
+        { "age": "25-34", "followers": 168 },
+        { "age": "45-54", "followers": 91 },
+        { "age": "55-64", "followers": 47 },
+        { "age": "65+", "followers": 28 },
+        { "age": "18-24", "followers": 19 }
       ]
     },
     "facebook": {
-      "post_engagements": 28782,
-      "post_impressions": 834581,
-      "page_views": 827110,
-      "reactions": {
-        "like": 492,
-        "love": 35,
-        "wow": 7
-      }
+      "followers_net_new": 35,
+      "page_views": 614211,
+      "post_impressions": 622084,
+      "post_engagements": 15804,
+      "reach": 315565,
+      "reactions": { "like": 827, "love": 55, "haha": 2, "wow": 2 }
     },
     "youtube": {
-      "views": 11042,
-      "subscribers_gained": 17,
-      "avg_view_duration_sec": 25.1
+      "views": 4851,
+      "subscribers_gained": 4,
+      "avg_view_duration_sec": 24.55,
+      "total_minutes_watched": 556
     },
     "tiktok": {
-      "followers": 28,
-      "video_views": 4722,
-      "likes": 151
+      "followers": 35,
+      "video_views": 1806,
+      "likes": 19
     }
   },
   "top_posts": [
-    {
-      "platform": "instagram",
-      "title": "You're either the one paying...",
-      "reach": 201,
-      "engagement": 59,
-      "engagement_rate": 29.35
-    },
-    {
-      "platform": "facebook",
-      "title": "Sourdough fermentation explainer",
-      "reach": 615,
-      "reactions": 22,
-      "engagement": 47
-    },
-    {
-      "platform": "facebook",
-      "title": "Pro tips video reel",
-      "reach": 596,
-      "reactions": 25,
-      "engagement": 56
-    },
-    {
-      "platform": "meta_ad",
-      "headline": "No More Cardboard Crust.",
-      "link_clicks": 8960,
-      "cpc": 0.16,
-      "ctr": 2.41,
-      "impressions": 440127
-    },
-    {
-      "platform": "meta_ad",
-      "headline": "Straight From Wisconsin",
-      "link_clicks": 6383,
-      "cpc": 0.09,
-      "ctr": 5.73,
-      "impressions": 172916
-    },
-    {
-      "platform": "tiktok",
-      "title": "Oh you're buying? Guess we're stocking up.",
-      "views": 820,
-      "avg_watch": 6.15,
-      "likes": 49
-    },
-    {
-      "platform": "facebook_reel",
-      "title": "Pro tips straight from creators",
-      "reach": 596,
-      "avg_view_time": 9747
-    },
-    {
-      "platform": "facebook_reel",
-      "title": "Wisco Kid is now in stores",
-      "reach": 375,
-      "avg_view_time": 8186
-    },
-    {
-      "platform": "youtube",
-      "title": "Sourdough Frozen Pizza ASMR",
-      "views": 2241,
-      "avg_view_pct": 118.45,
-      "url": "https://www.youtube.com/watch?v=k12wmEj934w"
-    },
-    {
-      "platform": "youtube",
-      "title": "Dinner = Done.",
-      "views": 2195,
-      "avg_view_pct": 72.2,
-      "url": "https://www.youtube.com/watch?v=TzhDsnXg3ww"
-    }
+    { "platform": "youtube", "title": "Dinner: Frozen Pizza with Real Ingredients", "views": 1956, "avg_view_pct": 79.54, "url": "https://www.youtube.com/watch?v=EQB6x86g2k0" },
+    { "platform": "youtube", "title": "Sourdough Frozen Pizza Crust for the Win", "views": 1292, "avg_view_pct": 42.41, "url": "https://www.youtube.com/watch?v=ukYzj86XtdQ" },
+    { "platform": "youtube", "title": "Better Frozen Pizza Starts Here", "views": 666, "avg_view_pct": 95.53, "url": "https://www.youtube.com/watch?v=c_4sfsOU1TI" },
+    { "platform": "instagram", "title": "Pizza pairings vetted 🍷🍕", "reach": 615, "engagement": 33, "engagement_rate": 7.04, "url": "https://www.instagram.com/p/DW9d4QTgKfD/" },
+    { "platform": "instagram", "title": "Sounds better from them (testimonials)", "reach": 573, "engagement": 25, "engagement_rate": 5.47, "url": "https://www.instagram.com/reel/DW3rMGFBmcF/" },
+    { "platform": "instagram", "title": "Meal prep stocked and ready 🛒🍕", "reach": 436, "engagement": 35, "engagement_rate": 7.25, "url": "https://www.instagram.com/p/DXEp_w9ABCV/" },
+    { "platform": "facebook", "title": "Pizza pairings vetted 🍷🍕", "reach": 216, "engagement": 20, "engagement_rate": 9.26 },
+    { "platform": "tiktok", "title": "Dinner loading… Real Dough frozen pizza", "views": 323, "avg_watch_sec": 4.42, "engagement_rate": 1.86 },
+    { "platform": "meta_ad", "headline": "Straight From Wisconsin", "link_clicks": 7711, "cpc": 0.13, "ctr": 3.65, "impressions": 288162 }
   ],
   "search_terms": [
-    {
-      "term": "real dough pizza",
-      "clicks": 530,
-      "cpc": 0.16,
-      "ctr": 34.62,
-      "impressions": 1531
-    },
-    {
-      "term": "real dough pizza co",
-      "clicks": 389,
-      "cpc": 0.15,
-      "ctr": 29.81,
-      "impressions": 1305
-    },
-    {
-      "term": "hot slice",
-      "clicks": 121,
-      "cpc": 0.6,
-      "ctr": 24.25,
-      "impressions": 499
-    },
-    {
-      "term": "screamin sicilian pizza",
-      "clicks": 92,
-      "cpc": 1.78,
-      "ctr": 3.81,
-      "impressions": 2417
-    },
-    {
-      "term": "sourdough frozen pizza",
-      "clicks": 72,
-      "cpc": 0.48,
-      "ctr": 26.18,
-      "impressions": 275
-    },
-    {
-      "term": "real dough frozen pizza",
-      "clicks": 63,
-      "cpc": 0.26,
-      "ctr": 23.77,
-      "impressions": 265
-    }
+    { "term": "real dough pizza co", "clicks": 126, "cpc": 0.34, "ctr": 25.77, "impressions": 489 },
+    { "term": "real dough pizza", "clicks": 112, "cpc": 0.33, "ctr": 23.19, "impressions": 483 },
+    { "term": "hot slice", "clicks": 40, "cpc": 1.05, "ctr": 24.84, "impressions": 161 },
+    { "term": "sourdough frozen pizza", "clicks": 12, "cpc": 0.97, "ctr": 13.95, "impressions": 86 },
+    { "term": "real dough frozen pizza", "clicks": 11, "cpc": 0.38, "ctr": 15.28, "impressions": 72 }
   ]
 }

@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-07",
+  "type": "daily",
+  "generated_at": "2026-05-07T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Smearcase",
+      "action": "Smearcase disclosed new investment behind a push to more than 1,000 retail doors by Q2 2026, a useful premium-CPG signal that differentiated refrigerated/frozen-adjacent brands are still winning distribution when they pair a clear point of view with retail-ready velocity.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.foodbusinessnews.net/articles/30253-investment-fueling-continued-expansion-for-smearcase",
+      "first_reported": "2026-05-07",
+      "status": "new"
+    },
+    {
+      "name": "Lily's Toaster Grills",
+      "action": "Lily's Toaster Grills added frozen quesadillas, reinforcing that the freezer aisle keeps shifting toward fast handheld formats that compete for the same convenience occasion as single-serve frozen pizza and other quick-prep meals.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/lilys-toaster-grills-quesadillas",
+      "first_reported": "2026-05-07",
+      "status": "new"
+    },
+    {
+      "name": "Soules Kitchen",
+      "action": "Soules Kitchen launched new ready-meal lines built around sauce-led protein and street-food framing, another sign that mainstream CPG is packaging stronger meal narratives, not just convenience, to win refrigerated and freezer consideration.",
+      "category": "new_product",
+      "relevance_score": 6,
+      "source_url": "https://www.foodbusinessnews.net/articles/30224-soules-kitchen-launches-new-product-lines",
+      "first_reported": "2026-05-07",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Freezer and refrigerated convenience are fragmenting into tighter daypart and format plays",
+      "direction": "up",
+      "magnitude": "New launches are clustering around handhelds, sauce-led meals, and sharply differentiated premium brands instead of broad generic frozen entr\u00e9es.",
+      "context": "For Real Dough, the takeaway is that premium pizza still needs a precise usage story, not just quality. The freezer aisle is rewarding products that make the occasion obvious in seconds.",
+      "source_url": "https://progressivegrocer.com/lilys-toaster-grills-quesadillas",
+      "first_reported": "2026-05-07",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Smearcase retail expansion target",
+      "value": "1,000+ retail doors by Q2 2026",
+      "change": null,
+      "source_url": "https://www.foodbusinessnews.net/articles/30253-investment-fueling-continued-expansion-for-smearcase"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today\u2019s clearest signal is that frozen and chilled CPG winners are getting more specific about format and occasion",
+      "impact": "Pizza is still a strong dinner platform, but adjacent brands are moving faster on handheld convenience, clearer meal framing, and sharper retail differentiation. Real Dough should keep watching where the freezer aisle steals impulse away from classic pizza occasions.",
+      "source_url": "https://progressivegrocer.com/lilys-toaster-grills-quesadillas",
+      "first_reported": "2026-05-07"
+    }
+  ]
+}

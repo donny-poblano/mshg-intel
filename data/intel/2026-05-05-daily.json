@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-05",
+  "type": "daily",
+  "generated_at": "2026-05-05T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Clean Eatz Kitchen",
+      "action": "Clean Eatz Kitchen expanded its frozen pizza push by taking three classic cauliflower-crust SKUs, Cheese, Hawaiian, and Pepperoni, onto QVC, pairing better-for-you positioning with a mass discovery channel instead of relying only on grocery shelf traffic.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.prnewswire.com/news-releases/clean-eatz-kitchen-introduces-new-pizza-flavors-on-qvc-wednesday-302762190.html",
+      "first_reported": "2026-05-05",
+      "status": "new"
+    },
+    {
+      "name": "pi00a",
+      "action": "The fast-growing frozen pizza brand pi00a used a Shark Tank finale appearance and a reported $200,000 Lori Greiner deal to turn mission-led founder story into national awareness, a reminder that small freezer brands can punch above their weight when the brand narrative is distinctive enough.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://www.pmq.com/shark-tank-investor-offers-200000-for-share-of-deaf-owned-frozen-pizza-brand-pi00a/",
+      "first_reported": "2026-05-05",
+      "status": "new"
+    },
+    {
+      "name": "General Mills",
+      "action": "General Mills disclosed plans to shutter a pizza crust facility by July as part of a broader restructuring program, which is a useful signal that even scaled incumbents are still pruning legacy production capacity instead of treating pizza-adjacent manufacturing as a guaranteed growth engine.",
+      "category": "supply_chain",
+      "relevance_score": 7,
+      "source_url": "https://www.foodbusinessnews.net/articles/30124-general-mills-set-to-shutter-pizza-crust-facility",
+      "first_reported": "2026-05-05",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza growth is spreading across nontraditional channels and brand stories, not just conventional grocery",
+      "direction": "up",
+      "magnitude": "Clean Eatz is using QVC for frozen-pizza discovery while pi00a is using TV-driven founder storytelling to break through nationally.",
+      "context": "The useful read for Real Dough is that freezer growth is no longer only a shelf-war. Discovery channels, founder identity, and direct audience-building are increasingly part of the route to retail pull.",
+      "source_url": "https://www.prnewswire.com/news-releases/clean-eatz-kitchen-introduces-new-pizza-flavors-on-qvc-wednesday-302762190.html",
+      "first_reported": "2026-05-05",
+      "status": "new"
+    },
+    {
+      "topic": "The category is rewarding nimble brand building while legacy production networks get rationalized",
+      "direction": "up",
+      "magnitude": "Challenger brands are chasing attention with media and alternative channels while General Mills is closing a pizza crust facility as part of restructuring.",
+      "context": "That split suggests Real Dough should keep acting like a sharp challenger brand, not assume scale alone is the moat. Shelf presence matters, but brand heat and operational flexibility matter more.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30124-general-mills-set-to-shutter-pizza-crust-facility",
+      "first_reported": "2026-05-05",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Clean Eatz QVC pizza offer",
+      "value": "6-count cauliflower-crust pizza packages at $59.98 with free shipping",
+      "change": null,
+      "source_url": "https://www.prnewswire.com/news-releases/clean-eatz-kitchen-introduces-new-pizza-flavors-on-qvc-wednesday-302762190.html"
+    },
+    {
+      "metric": "pi00a national visibility moment",
+      "value": "Shark Tank finale exposure plus a reported $200,000 Lori Greiner deal",
+      "change": null,
+      "source_url": "https://www.pmq.com/shark-tank-investor-offers-200000-for-share-of-deaf-owned-frozen-pizza-brand-pi00a/"
+    },
+    {
+      "metric": "General Mills restructuring signal",
+      "value": "One pizza crust facility slated to cease operations by July 2026",
+      "change": null,
+      "source_url": "https://www.foodbusinessnews.net/articles/30124-general-mills-set-to-shutter-pizza-crust-facility"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's clearest signal is that challenger frozen-pizza brands are finding attention outside the aisle while legacy operators keep trimming infrastructure",
+      "impact": "Real Dough should keep investing in a story people want to repeat, not just a premium product people notice once. QVC-style discovery, founder-led storytelling, and flexible go-to-market look more alive right now than old assumptions about scale and manufacturing footprint.",
+      "source_url": "https://www.prnewswire.com/news-releases/clean-eatz-kitchen-introduces-new-pizza-flavors-on-qvc-wednesday-302762190.html",
+      "first_reported": "2026-05-05"
+    }
+  ]
+}
