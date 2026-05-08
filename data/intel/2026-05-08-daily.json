@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-08",
+  "type": "daily",
+  "generated_at": "2026-05-08T13:00:00Z",
+  "competitors": [
+    {
+      "name": "C&S Wholesale Grocers / Sol Select",
+      "action": "C&S launched Sol Select, a new value private-label line with more than 250 products, including frozen pizza, using bilingual packaging and an immediate rollout through Grand Union, Piggly Wiggly, and independent grocers before a broader SpartanNash expansion this summer.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://progressivegrocer.com/cs-wholesale-grocers-launches-hispanic-inspired-private-label-grand-union-piggly-wiggly",
+      "first_reported": "2026-05-08",
+      "status": "new"
+    },
+    {
+      "name": "Conagra",
+      "action": "Conagra named John Brase as its next CEO effective June 1, putting a major center-store and frozen-food operator under new leadership just as large CPG portfolios keep leaning harder on efficiency, brand focus, and category prioritization.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/conagra-taps-smucker-coo-be-new-ceo",
+      "first_reported": "2026-05-08",
+      "status": "new"
+    },
+    {
+      "name": "General Mills / TNT Crust",
+      "action": "General Mills is moving ahead with the shutdown of its St. Charles pizza-crust plant, a supply-chain signal worth watching because it tightens where scaled crust production sits and reinforces how aggressively big food companies are consolidating manufacturing around core volume.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.fooddive.com/news/general-mills-to-close-3-plants-as-part-of-supply-chain-resturcting/761577/",
+      "first_reported": "2026-05-08",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza and adjacent freezer categories are being squeezed from both ends by private-label expansion and big-CPG portfolio consolidation",
+      "direction": "up",
+      "magnitude": "Retailers are widening own-brand reach while manufacturers centralize leadership and production.",
+      "context": "For Real Dough, the opportunity is to stay clearly premium and story-led, because value tiers are getting broader and scaled incumbents are getting leaner at the same time.",
+      "source_url": "https://progressivegrocer.com/cs-wholesale-grocers-launches-hispanic-inspired-private-label-grand-union-piggly-wiggly",
+      "first_reported": "2026-05-08",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Sol Select launch scope",
+      "value": "250+ products across frozen, center-store, dairy, and household",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/cs-wholesale-grocers-launches-hispanic-inspired-private-label-grand-union-piggly-wiggly"
+    },
+    {
+      "metric": "General Mills St. Charles pizza-crust layoffs",
+      "value": "163 workers affected ahead of June 8, 2026 closure",
+      "change": null,
+      "source_url": "https://www.fooddive.com/news/general-mills-to-close-3-plants-as-part-of-supply-chain-resturcting/761577/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The sharpest signal today is value-layer expansion around frozen pizza, not flashy innovation",
+      "impact": "C&S is widening private-label frozen distribution while Conagra and General Mills show the parallel big-CPG playbook, tighter leadership focus and tighter manufacturing footprints. Real Dough should keep leaning into differentiation that private label cannot copy quickly.",
+      "source_url": "https://progressivegrocer.com/cs-wholesale-grocers-launches-hispanic-inspired-private-label-grand-union-piggly-wiggly",
+      "first_reported": "2026-05-08"
+    }
+  ]
+}

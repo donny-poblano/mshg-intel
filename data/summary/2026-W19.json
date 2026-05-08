@@ -1,58 +1,54 @@
 {
   "date": "2026-05-08",
   "week": "2026-W19",
-  "headline": "First true April read confirms a 60% spend scale-up delivered proportional reach but inflated Meta CPC 38% while Instagram grew 44% in followers with declining engagement — the efficiency ceiling is tightening.",
+  "headline": "April finally came into focus: Real Dough scaled reach hard, but efficiency softened, social growth is getting shallower, and the freezer aisle is getting more crowded from both premium specialists and value private label.",
   "highlights": [
     {
       "category": "wins",
       "items": [
-        "Data pipeline fixed: first analysis with actual April 2026 data after weeks of stale March exports. Direct API export method now bypasses the browser download failure.",
-        "'Straight From Wisconsin' is still the best creative at $0.13 CPC and 3.65% CTR on 288K impressions — the only ad holding efficiency at scale.",
-        "Instagram followers grew 44% (418 → 602) and reach nearly doubled to 424K. Core demo remains F 35-44 at 40.5%.",
-        "Meta total reach hit 556K at 1.94 frequency — healthy reach-to-frequency balance even at higher spend."
+        "Reporting is finally fresh. This is the first weekly summary built from a true April 1 to April 30 export instead of stale March data.",
+        "Meta scale still worked: reach hit 556,775 on $4,931 spend, and 'Straight From Wisconsin' remained the clear paid winner at $0.13 CPC and 3.65% CTR.",
+        "Instagram grew fast, up 44% from 418 to 602 followers, with reach up to 424,540. The core audience is still women 35-44.",
+        "The creative story is still consistent across channels: Wisconsin origin, real-ingredient credibility, and practical dinner framing outperform generic premium messaging."
       ]
     },
     {
       "category": "attention",
       "items": [
-        "Meta CPC inflated 38% ($0.13 → $0.18) and CTR dropped 25% (3.47% → 2.59%) as spend scaled from $3,050 to $4,931. The efficiency loss at higher spend needs monitoring.",
-        "Instagram engagement rate fell from 2.38% to 1.93% despite audience growth — new followers are arriving but not engaging.",
-        "YouTube declined 12.5% in views and subscriber gains dropped from 10 to 4. The ASMR viral moment from March hasn't been replicated.",
-        "TikTok is effectively dormant at 1,806 views and 19 likes for the entire month. Most posts hit sub-100 views.",
-        "Google competitor search burned $579 at $0.51 CPC with 'paul newman pizza' alone at $175.80 — still the most expensive, lowest-ROI channel."
+        "Paid efficiency is tightening as spend scales. Meta CPC rose 38% month over month ($0.13 to $0.18) while CTR fell 25% (3.47% to 2.59%).",
+        "Audience growth is getting shallower. Instagram followers surged, but engagement rate dropped from 2.38% to 1.93%, which means reach is growing faster than response.",
+        "YouTube cooled off and TikTok is effectively stalled. YouTube subscriber gains fell from 10 to 4, and TikTok generated only 1,806 views and 19 likes for the month.",
+        "Competitive pressure sharpened this week from both ends: premium brands are winning with tighter occasion stories, while private label and large CPG players are expanding value coverage and consolidating operations."
       ]
     },
     {
       "category": "action_items",
       "items": [
-        "PAID: Shift Meta budget toward 45-64 age demos where CPC is $0.12-$0.15 and CTR is 3.35-3.73%. Reduce spend on 18-24.",
-        "CREATIVE: Build 2-3 new variants combining Wisconsin origin with practical dinner utility. Keep 'Straight From Wisconsin' running at current levels.",
-        "INSTAGRAM: Add interactive content (polls, Q&A, carousels) to convert passive followers into engaged audience before the engagement rate drops further.",
-        "YOUTUBE: Produce a new ASMR/texture video to replace the aging original. Consider series format for subscriber retention.",
-        "TIKTOK: Either invest in paid distribution or pause organic effort. Current output-to-result ratio doesn't justify the production time.",
-        "GOOGLE: Cut 'paul newman pizza' keyword and review competitor terms. Redirect to branded and category where CPC is 3-6x cheaper.",
-        "PIPELINE: Standardize the direct API export method in cron automation to prevent regression to browser-click attempts."
+        "PAID: Protect budget by concentrating Meta spend around the 45-64 demo, where CPC and CTR are strongest, and cut weaker younger-audience spend.",
+        "CREATIVE: Build the next batch around Wisconsin credibility plus clear use-case framing, weeknight dinner, texture/ASMR, and family utility, instead of broad 'better frozen pizza' claims.",
+        "SEARCH: Reduce or pause competitor keyword waste, especially 'paul newman pizza' at $175.80 spend and $1.54 CPC, unless it can prove conversion value.",
+        "CONTENT: Ship a fresh YouTube texture/ASMR piece and more interactive Instagram formats to turn follower growth into actual engagement.",
+        "DATA: Fix the reviews feed and add a current Real Dough operations source. Right now Andrew still has no usable sentiment feed and no current-week ops readout."
       ]
     }
   ],
   "agency_brief": {
-    "what_worked": "Wisconsin-origin messaging held efficiency at scale. Practical dinner framing and social proof (testimonials, pairings) drove the best organic engagement. The 45-64 Meta demo is the cheapest, most engaged audience segment.",
-    "what_didnt": "Generic 'better frozen pizza' ads inflated CPC at scale. TikTok organic has no traction. Competitor search keeps burning budget without conversion evidence. YouTube growth stalled without fresh ASMR-style content.",
-    "recommendation": "For the next cycle: lean into the 45-64 demo on paid, build new Wisconsin + dinner utility creative, produce fresh texture/ASMR YouTube content, and either fund TikTok with paid or pause organic. Cut 'paul newman pizza' and review all competitor search terms for conversion proof.",
-    "competitive_context": "The frozen pizza aisle continues to sharpen. April data shows Real Dough can still scale reach efficiently, but only with its strongest creative (Wisconsin origin). As CPC inflates at higher spend, the creative selection becomes more important — running mediocre ads at scale is now measurably expensive."
+    "what_worked": "Wisconsin-origin messaging, real-ingredient proof, and practical dinner framing. 'Straight From Wisconsin' is still the most efficient paid asset, and social posts tied to pairings, testimonials, and meal utility outperform broader premium language.",
+    "what_didnt": "Scaled generic premium creative, TikTok organic, and competitor search. Audience growth without engagement is also becoming a soft failure mode on Instagram.",
+    "recommendation": "For the next cycle, stay narrow and specific. Keep the Wisconsin story, but package it around a faster-to-grasp occasion: weeknight dinner, texture proof, or family utility. Reallocate budget away from inefficient competitor search and weaker audience pockets, then support that with a fresh ASMR-style YouTube asset and more interactive Instagram creative.",
+    "competitive_context": "This week's market intel was consistent: frozen is being squeezed from both sides. Premium winners are getting more occasion-specific, with sharper convenience, protein, and flavor hooks, while private label and major CPG players are widening value coverage and tightening operations. Real Dough should avoid broad premium positioning and lean harder into differentiation that private label cannot copy quickly."
   },
   "data_quality": {
     "missing": [
-      "No conversion or ROAS data beyond click-level metrics. Cannot prove competitor search value or ad-to-purchase attribution.",
-      "No review/sentiment data — reviews.json still broken from prior weeks."
+      "No usable sentiment feed. reviews.json still only returns 'Place not found' errors.",
+      "No current Real Dough operations input. The operations folder still reflects older Merriment snapshots, not a live Real Dough weekly operations read."
     ],
     "stale": [
-      "None — this is the first fresh April export. Data pipeline is current."
+      "Operations data is stale relative to the rest of the dashboard inputs and should not be treated as current brand operations guidance."
     ],
     "anomalies": [
-      "YouTube 'Sourdough Frozen Pizza ASMR' shows 231.14% average view percentage, consistent with rewatch behavior seen in prior months.",
-      "Facebook 'Peppin Ain't Easy' reel shows 9,646 avg view time (ms), unusually high for the format — likely driven by loop plays.",
-      "Meta demographics show 'Unknown' age group at 16,590 impressions but only 31 clicks — likely bot or placement-level noise."
+      "YouTube average view percentage above 100% in older breakout videos likely reflects rewatches, not a reporting bug.",
+      "The latest weekly intel is current, but 2026-05-08 daily intel is still untracked in git and should be committed with this refresh so the dashboard inputs stay reproducible."
     ]
   }
 }
