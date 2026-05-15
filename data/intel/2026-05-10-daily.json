@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-10",
+  "type": "daily",
+  "generated_at": "2026-05-10T13:00:00Z",
+  "competitors": [
+    {
+      "name": "PIANO PIANO",
+      "action": "PIANO PIANO announced a coast-to-coast Canadian rollout for its 72-hour naturally leavened sourdough frozen pizzas through Walmart Canada, Country Grocer, and Coleman's, taking the line to more than 350 retail locations and reinforcing that restaurant-origin premium frozen pizza can scale nationally.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.newswire.ca/news-releases/canada-s-most-loved-restaurant-pizza-is-now-available-coast-to-coast-881174850.html",
+      "first_reported": "2026-05-10",
+      "status": "new"
+    },
+    {
+      "name": "C&S Wholesale Grocers / Sol Select",
+      "action": "C&S launched Sol Select, a new 250-plus-SKU private label line that explicitly includes frozen pizza and will expand this summer into D&W Fresh Market, Family Fare, Martin's Super Markets, and SpartanNash independent partners, a useful signal that value-tier private label frozen pizza distribution is widening through wholesale-led networks.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/cs-private-label-sol-select/819532/",
+      "first_reported": "2026-05-10",
+      "status": "new"
+    },
+    {
+      "name": "Clean Eatz Kitchen",
+      "action": "Clean Eatz Kitchen added three classic cauliflower-crust frozen pizza flavors, Cheese, Hawaiian, and Pepperoni, to a new QVC drop with nationwide frozen shipping, showing continued demand for health-positioned frozen pizza sold through direct and TV-commerce channels rather than traditional grocery alone.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.prnewswire.com/news-releases/clean-eatz-kitchen-introduces-new-pizza-flavors-on-qvc-wednesday-302762190.html",
+      "first_reported": "2026-05-10",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "The frozen pizza aisle is fragmenting into premium restaurant-origin sourdough at the top, health-forward DTC formats in the middle, and widening private-label value distribution underneath.",
+      "direction": "up",
+      "magnitude": "Three separate channel signals in one week: national premium retail rollout, wholesale private-label expansion, and national QVC frozen shipping.",
+      "context": "Real Dough should stay clearly premium and story-led, because the category is getting more crowded at both the value end and the wellness end.",
+      "source_url": "https://www.newswire.ca/news-releases/canada-s-most-loved-restaurant-pizza-is-now-available-coast-to-coast-881174850.html",
+      "first_reported": "2026-05-10",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "PIANO PIANO retail footprint",
+      "value": "350+ retail locations across Canada",
+      "change": null,
+      "source_url": "https://www.newswire.ca/news-releases/canada-s-most-loved-restaurant-pizza-is-now-available-coast-to-coast-881174850.html"
+    },
+    {
+      "metric": "Sol Select assortment size",
+      "value": "250+ products",
+      "change": null,
+      "source_url": "https://www.grocerydive.com/news/cs-private-label-sol-select/819532/"
+    },
+    {
+      "metric": "Clean Eatz QVC pizza offer",
+      "value": "6-count frozen pizza pack for $59.98 with nationwide shipping",
+      "change": null,
+      "source_url": "https://www.prnewswire.com/news-releases/clean-eatz-kitchen-introduces-new-pizza-flavors-on-qvc-wednesday-302762190.html"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Fresh signal: frozen pizza growth is spreading across three lanes at once, premium sourdough retail, value private label, and health-forward direct commerce.",
+      "impact": "Real Dough should not drift toward the middle. The strongest move is to sharpen its restaurant-grade sourdough proof, premium ingredient story, and shelf distinction while monitoring how quickly private label and wellness brands crowd adjacent price bands.",
+      "source_url": "https://www.newswire.ca/news-releases/canada-s-most-loved-restaurant-pizza-is-now-available-coast-to-coast-881174850.html",
+      "first_reported": "2026-05-10"
+    }
+  ]
+}

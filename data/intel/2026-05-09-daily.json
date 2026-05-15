@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-09",
+  "type": "daily",
+  "generated_at": "2026-05-09T13:00:00Z",
+  "competitors": [
+    {
+      "name": "PIANO PIANO",
+      "action": "PIANO PIANO pushed its 72-hour naturally leavened sourdough frozen pizzas into national Canadian distribution through Walmart Canada, plus new regional distribution in British Columbia and Newfoundland, taking the brand to more than 350 retail doors and scaling output above 200,000 pizzas per month.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://retail-insider.com/retail-insider/2026/05/piano-piano-frozen-pizza-expands-to-stores-across-canada/",
+      "first_reported": "2026-05-09",
+      "status": "new"
+    },
+    {
+      "name": "Kroger / Private Selection",
+      "action": "Kroger used its April 22 to May 5 Online Deal Days event to put 25% discounts on select Private Selection frozen pizzas in pickup and delivery, a useful signal that major grocers are leaning on digital promotion and own-brand pizza value to drive online basket growth.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.prnewswire.com/news-releases/kroger-dishes-on-how-customers-love-to-shop-online-just-in-time-for-online-deal-days-302747569.html",
+      "first_reported": "2026-05-09",
+      "status": "new"
+    },
+    {
+      "name": "Jesse & Ben's",
+      "action": "Jesse & Ben's closed an oversubscribed $10 million Series A to scale supply chain capacity, expand further across grocery, club, and mass, and support a nationwide Target rollout plus ongoing Whole Foods and Costco growth, another sign that fast-moving premium freezer brands can still attract real growth capital.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.prnewswire.com/news-releases/jesse--bens-closes-10m-series-a-led-by-greycroft-302764989.html",
+      "first_reported": "2026-05-09",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "The freezer aisle keeps splitting into premium story-led brands at the top and digitally promoted private label/value at the bottom",
+      "direction": "up",
+      "magnitude": "Premium brands are scaling nationally while large grocers are using price and e-commerce mechanics to pull volume into own-brand frozen pizza.",
+      "context": "Real Dough should keep leaning into artisan proof, ingredient story, and brand distinctiveness because the middle of the category is getting squeezed by both premium specialists and retailer-owned value plays.",
+      "source_url": "https://retail-insider.com/retail-insider/2026/05/piano-piano-frozen-pizza-expands-to-stores-across-canada/",
+      "first_reported": "2026-05-09",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "PIANO PIANO retail footprint",
+      "value": "350+ stores across Canada",
+      "change": null,
+      "source_url": "https://retail-insider.com/retail-insider/2026/05/piano-piano-frozen-pizza-expands-to-stores-across-canada/"
+    },
+    {
+      "metric": "PIANO PIANO production scale",
+      "value": "200,000+ pizzas per month",
+      "change": null,
+      "source_url": "https://retail-insider.com/retail-insider/2026/05/piano-piano-frozen-pizza-expands-to-stores-across-canada/"
+    },
+    {
+      "metric": "Kroger frozen pizza digital promo",
+      "value": "25% off select Private Selection frozen pizzas during Online Deal Days",
+      "change": null,
+      "source_url": "https://www.prnewswire.com/news-releases/kroger-dishes-on-how-customers-love-to-shop-online-just-in-time-for-online-deal-days-302747569.html"
+    },
+    {
+      "metric": "Jesse & Ben's funding",
+      "value": "$10 million Series A",
+      "change": null,
+      "source_url": "https://www.prnewswire.com/news-releases/jesse--bens-closes-10m-series-a-led-by-greycroft-302764989.html"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The clearest signal today is that freezer winners are either premium enough to scale nationally or cheap enough to be used as a promo weapon",
+      "impact": "PIANO PIANO shows restaurant-grade sourdough frozen pizza can earn broad retail placement, Kroger shows grocers will keep training shoppers to expect value on own-brand pizza, and Jesse & Ben's shows investors still back differentiated freezer brands with velocity. Real Dough should stay premium and unmistakable, not drift toward the middle.",
+      "source_url": "https://retail-insider.com/retail-insider/2026/05/piano-piano-frozen-pizza-expands-to-stores-across-canada/",
+      "first_reported": "2026-05-09"
+    }
+  ]
+}

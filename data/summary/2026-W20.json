@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-15",
+  "week": "2026-W20",
+  "headline": "Reach and paid volume kept climbing, Wisconsin/founder-led creative is still the clear winner, but efficiency is softening, Instagram engagement is thinning, and current video/review visibility is partially broken.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Reporting is mostly fresh again: the latest Whatagraph export is current through 2026-05-12 for Meta, Google, Facebook, and Instagram.",
+        "Paid scale is still producing real volume: $13,339.15 YTD spend has driven 902,194 Meta reach and 65,757 Meta clicks, with total Google clicks at 8,355.",
+        "'Straight From Wisconsin' is still the paid control: 13,622 link clicks at $0.11 CPC and 4.43% CTR. 'Meet Real Dough Pizza Co.' is the sleeper efficiency winner at $0.11 CPC and 4.67% CTR.",
+        "Organic social still responds best to real operators: founder/pro-tip and origin content led Instagram and Facebook engagement, while Instagram followers grew to 623 (+43.9% vs the early-April checkpoint)."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Efficiency is softening as spend scales. Versus the 2026-04-08 YTD checkpoint, Meta spend is up 82.1% but CTR is down 10.1% and CPC is up 7.1%.",
+        "Instagram top-of-funnel is outrunning depth. Reach is up 105.4% and followers are up 43.9%, but engagement rate slipped from 3.0% to 2.58%.",
+        "Google competitor search is still the cleanest paid leak: $1,227.77 spent at $0.59 CPC versus branded search at $0.21 CPC and 5.68% CTR.",
+        "Visibility is incomplete this week: YouTube and TikTok tabs in the current workbook returned Whatagraph sample/demo data, reviews.json still only returns place-not-found errors, and operations data is still stale Merriment data rather than current Real Dough ops."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "PAID: Keep 'Straight From Wisconsin' live as the benchmark, then launch 2-3 new variants around founder authority, family dinner utility, and ingredient reassurance.",
+        "SEARCH: Cut or cap competitor terms first, especially high-cost terms like 'paul newman pizza' and broader competitor traffic, unless conversion data proves they deserve the spend.",
+        "TARGETING: Push Meta budget harder toward 35+ audiences, especially 55-64 and 65+, where click efficiency is strongest today.",
+        "ORGANIC: Make more founder/pro-tip/process content and add more explicit interaction prompts in Stories and captions to fight engagement dilution.",
+        "DATA: Repair the YouTube/TikTok Whatagraph connection, fix the reviews lookup, and add a current Real Dough operations source so next week's summary is not flying partially blind."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "Wisconsin-origin messaging, founder/operator credibility, ingredient reassurance, and practical dinner framing. The strongest paid assets are still specific and believable, and the best organic posts sound like real people who make the product.",
+    "what_didnt": "Generic premium positioning, competitor search efficiency, and passive audience growth without interaction depth. TikTok and YouTube also cannot be judged confidently this week because the source export regressed.",
+    "recommendation": "Stay narrow and human. Keep building around the original Wisconsin sourdough story, but package it through founder tips, dinner utility, and real ingredient proof instead of broad premium claims. Reallocate budget away from weak competitor search, bias distribution toward older high-efficiency audiences, and build the next content batch around operator-led education and texture/process proof.",
+    "competitive_context": "This week's market intel shows the aisle getting more segmented and more strategic at the same time: restaurant-origin brands are scaling into mass retail, private label is expanding value pressure, and premium players are sharpening shelf stories around sourdough, wood-fired, protein, retailer exclusives, or even software-style customization. Real Dough should keep its core distinction tight and pair it with sharper retail or participation mechanics, not just product claims."
+  },
+  "data_quality": {
+    "missing": [
+      "No usable review sentiment feed. reviews.json still returns only place-not-found errors.",
+      "No current Real Dough operations input. The operations folder still contains older Merriment snapshots, not a current-week Real Dough operating read."
+    ],
+    "stale": [
+      "Operations data is stale and not brand-relevant enough to guide current Real Dough decisions.",
+      "The latest trustworthy analytics view is YTD through 2026-05-12, not a clean week-only slice."
+    ],
+    "anomalies": [
+      "YouTube and TikTok sheets in the current Whatagraph export returned sample/demo data, so current video-platform rankings are intentionally excluded.",
+      "This week's summary mixes fresh YTD analytics with daily intel and broken sentiment/ops inputs; directional guidance is still valid, but completeness is not."
+    ]
+  }
+}

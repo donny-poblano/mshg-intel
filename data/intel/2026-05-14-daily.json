@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-14",
+  "type": "daily",
+  "generated_at": "2026-05-14T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Connie's Frozen Pizza / Palermo's",
+      "action": "Connie's launched a new authentic wood-fired frozen pizza line featuring a 24-hour fermented crust and Midwest retail placement at a $10.99 SRP, showing premium frozen players are still leaning harder into restaurant-process cues rather than generic premium language.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://commercialbaking.com/wood-fired-experience-inspires-palermos-brand/",
+      "first_reported": "2026-05-14",
+      "status": "new"
+    },
+    {
+      "name": "Trader Joe's",
+      "action": "Trader Joe's added a Detroit Style Uncured Pepperoni Pizza to its May assortment, using a rectangular oven-ready pan and cheese-edged crust to bring a distinct regional pizza format into mainstream freezer merchandising.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.purewow.com/food/whats-new-at-trader-joes",
+      "first_reported": "2026-05-14",
+      "status": "new"
+    },
+    {
+      "name": "Martha Stewart Grocery / Turpone Foods",
+      "action": "Martha Stewart Grocery launched a new pizza-and-pantry collection with frozen artisanal-style pizzas, pinsas, and dough balls built around a sourdough crust, now live at Longo's in the GTA and Walmart locations nationwide in Canada, with a US launch planned later this year.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/1773406/martha-stewart-announces-martha-stewart-grocery-a-new-collection-of-pizza-and-pantry-essentials/",
+      "first_reported": "2026-05-14",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium frozen pizza is getting more style-specific and easier to parse on shelf",
+      "direction": "up",
+      "magnitude": "Today's strongest signals were wood-fired fermentation at Connie's, Detroit-style format cues at Trader Joe's, and sourdough/pinsa platform building under Martha Stewart Grocery.",
+      "context": "The aisle keeps rewarding a clearer story: not just premium, but premium in a way a shopper can understand in one glance. Real Dough should keep tightening its shelf promise around true sourdough craft and a specific eating experience, not broad artisanal language alone.",
+      "source_url": "https://commercialbaking.com/wood-fired-experience-inspires-palermos-brand/",
+      "first_reported": "2026-05-14",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Connie's wood-fired launch pricing and geography",
+      "value": "$10.99 SRP at select Midwest retailers",
+      "change": "24-hour fermented crust with additional distribution planned in the coming months",
+      "source_url": "https://commercialbaking.com/wood-fired-experience-inspires-palermos-brand/"
+    },
+    {
+      "metric": "Trader Joe's May frozen pizza innovation",
+      "value": "Detroit-style private-label frozen pizza added to May 2026 assortment",
+      "change": "Uses a rectangular oven-ready pan and cheese-on-the-bottom crust for crisp edges",
+      "source_url": "https://www.purewow.com/food/whats-new-at-trader-joes"
+    },
+    {
+      "metric": "Martha Stewart Grocery launch footprint",
+      "value": "Longo's GTA distribution plus Walmart Canada nationwide",
+      "change": "US launch expected later in 2026; frozen lineup includes sourdough pizzas, pinsas, and dough balls",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/1773406/martha-stewart-announces-martha-stewart-grocery-a-new-collection-of-pizza-and-pantry-essentials/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The cleanest signal today is that frozen pizza winners keep making the shopper story more specific: wood-fired, Detroit-style, or sourdough/pinsa — not just 'premium'.",
+      "impact": "Real Dough should keep resisting vague premium positioning and sharpen a fast shelf explanation of what its sourdough delivers in texture, flavor, and legitimacy, because adjacent brands are increasingly winning with one-sentence format stories.",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/1773406/martha-stewart-announces-martha-stewart-grocery-a-new-collection-of-pizza-and-pantry-essentials/",
+      "first_reported": "2026-05-14"
+    }
+  ]
+}

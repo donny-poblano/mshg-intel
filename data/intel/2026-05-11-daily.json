@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-11",
+  "type": "daily",
+  "generated_at": "2026-05-11T13:00:00Z",
+  "competitors": [
+    {
+      "name": "One Planet Pizza",
+      "action": "One Planet Pizza crossed £1 million in annualized retail sales and secured a third Asda listing rolling out nationwide on May 11, while also extending Peppernomi into 255 Co-op stores, a strong signal that differentiated frozen pizza can still win mainstream grocery doors when the proposition is sharp enough.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://vegconomist.com/company-news/one-planet-pizza-crosses-1m-sales-mark-secures-third-asda-listing/",
+      "first_reported": "2026-05-11",
+      "status": "new"
+    },
+    {
+      "name": "Dr. Oetker / La Mia Familia",
+      "action": "Dr. Oetker said its La Mia Familia pizza bites line, launched in Germany, the Netherlands, and Spain, will add a garlic variant in May 2026 and expand into additional countries, showing a major incumbent is pushing frozen pizza into snackable, shareable formats rather than staying inside the classic round-pie lane.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.oetker.com/press/business-year-2025",
+      "first_reported": "2026-05-11",
+      "status": "new"
+    },
+    {
+      "name": "Nomad Foods / For Real! Foods",
+      "action": "Nomad Foods advanced Swedish startup For Real! Foods into concept development through its Future Foods Lab after highlighting the brand's clean-label, allergen-friendly frozen pizzas, a meaningful sign that one of Europe's biggest frozen-food operators is actively scouting better-for-you pizza formats for possible pilot and scale.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.yumda.com/en/news/1188596/future-foods-lab-nomad-foods-advances-two-startups-to-concept-development.html",
+      "first_reported": "2026-05-11",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza innovation is spreading into sharper sub-lanes instead of generic premiumization",
+      "direction": "up",
+      "magnitude": "Plant-based grocery scale, snackable pizza-bite line extensions, and clean-label functional pizza incubation all surfaced in the same cycle.",
+      "context": "The category is fragmenting around very specific consumer jobs: dairy-free mainstream shoppers, social snacking occasions, and health-oriented freezer buyers. Real Dough should keep its own claim equally crisp and ownable around authentic sourdough and craft quality.",
+      "source_url": "https://vegconomist.com/company-news/one-planet-pizza-crosses-1m-sales-mark-secures-third-asda-listing/",
+      "first_reported": "2026-05-11",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "One Planet Pizza annualized retail sales",
+      "value": "£1 million+",
+      "change": ">100% YoY sales growth",
+      "source_url": "https://vegconomist.com/company-news/one-planet-pizza-crosses-1m-sales-mark-secures-third-asda-listing/"
+    },
+    {
+      "metric": "UK frozen pizza category value",
+      "value": "£670 million+",
+      "change": null,
+      "source_url": "https://vegconomist.com/company-news/one-planet-pizza-crosses-1m-sales-mark-secures-third-asda-listing/"
+    },
+    {
+      "metric": "Dr. Oetker La Mia Familia pack format",
+      "value": "19 pre-portioned pizza bites per pack",
+      "change": "Garlic variant added in May 2026 with more-country rollout",
+      "source_url": "https://www.oetker.com/press/business-year-2025"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The strongest new signal today is format fragmentation, not one dominant frozen-pizza playbook.",
+      "impact": "Winning brands are not just saying premium. They are pairing a very specific format or shopper promise with scaled retail distribution. Real Dough should keep tightening its shelf story so it sounds as concrete as these emerging lane leaders.",
+      "source_url": "https://www.yumda.com/en/news/1188596/future-foods-lab-nomad-foods-advances-two-startups-to-concept-development.html",
+      "first_reported": "2026-05-11"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-12",
+  "type": "daily",
+  "generated_at": "2026-05-12T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Bond Bakery Brands / Holy Napoli Pizza",
+      "action": "Bond Bakery Brands invested in Holy Napoli Pizza, a Neapolitan-style frozen pizza and dough producer already distributed in 400+ Canadian retail stores, giving a premium artisan freezer brand fresh capacity and distribution fuel.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://commercialbaking.com/bond-bakery-brands-backs-holy-napoli-pizza-a-leading-canadian-frozen-pizza-company/",
+      "first_reported": "2026-05-12",
+      "status": "new"
+    },
+    {
+      "name": "Nestlé / DiGiorno",
+      "action": "DiGiorno rolled out a new Wood Fired Style Crust line in four SKUs for nationwide retail distribution starting in May, a clear incumbent push toward more artisan crust cues like char, chew, and pizzeria-style texture.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://commercialbaking.com/digiorno-goes-wood-fired-with-latest-line/",
+      "first_reported": "2026-05-12",
+      "status": "new"
+    },
+    {
+      "name": "CAULIPOWER",
+      "action": "CAULIPOWER launched new high-protein single-serve personal pizzas with 21g protein and began rolling them into Hy-Vee, FreshDirect, and additional retailers, signaling the freezer aisle is still chasing protein-forward, portion-controlled pizza formats.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://eatcaulipower.com/en/media-center/press-releases/caulipower-disrupts-the-single-serve-entree-category-with-four-new-high-protein-products-personal-pizzas-and-bowls",
+      "first_reported": "2026-05-12",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza innovation is clustering around sharper format claims, not generic premium language",
+      "direction": "up",
+      "magnitude": "Today's strongest signals were artisan-investment scale-up, wood-fired crust imitation at mass retail, and protein-forward single-serve pizza expansion.",
+      "context": "Real Dough should keep its sourdough story extremely concrete. The aisle is rewarding products that can be explained fast: true artisan process, distinct crust experience, or a functional nutrition hook.",
+      "source_url": "https://commercialbaking.com/bond-bakery-brands-backs-holy-napoli-pizza-a-leading-canadian-frozen-pizza-company/",
+      "first_reported": "2026-05-12",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Holy Napoli retail footprint",
+      "value": "400+ stores across Canada",
+      "change": "Bond investment aimed at increasing production capacity and distribution",
+      "source_url": "https://commercialbaking.com/bond-bakery-brands-backs-holy-napoli-pizza-a-leading-canadian-frozen-pizza-company/"
+    },
+    {
+      "metric": "DiGiorno wood-fired rollout",
+      "value": "4 SKUs nationwide",
+      "change": "Available starting in May at MSRP $6.49",
+      "source_url": "https://commercialbaking.com/digiorno-goes-wood-fired-with-latest-line/"
+    },
+    {
+      "metric": "CAULIPOWER personal pizza nutrition",
+      "value": "21g protein, 4g fiber, 340 calories",
+      "change": "Now in Hy-Vee and FreshDirect with further rollout to Earth Fare, Raley's, Tony's, MOMs, AWG, New Seasons, Bashas' and more",
+      "source_url": "https://eatcaulipower.com/en/media-center/press-releases/caulipower-disrupts-the-single-serve-entree-category-with-four-new-high-protein-products-personal-pizzas-and-bowls"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The freezer aisle is getting more specific: artisan-backed scale, wood-fired crust theater, and protein-led convenience are all advancing at once.",
+      "impact": "Real Dough should resist vague premium positioning and keep sharpening a one-line shelf claim around authentic sourdough craft and crust quality, because competitors are making their promises simpler and louder.",
+      "source_url": "https://commercialbaking.com/digiorno-goes-wood-fired-with-latest-line/",
+      "first_reported": "2026-05-12"
+    }
+  ]
+}

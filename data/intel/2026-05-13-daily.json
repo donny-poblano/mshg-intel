@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-13",
+  "type": "daily",
+  "generated_at": "2026-05-13T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Alex's Awesome Sourdough",
+      "action": "Alex's Awesome Sourdough added two new frozen pizza SKUs, Plant-Based Vegan Margherita and Organic Pepperoni, while signaling a gluten-free sourdough line for fall. The brand says it already has national distribution in more than 2,000 stores, making this a meaningful expansion of sourdough-led frozen pizza rather than a niche test.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://commercialbaking.com/alexs-awesome-sourdough-introduces-two-new-flavors-to-its-frozen-pizza-selection/",
+      "first_reported": "2026-05-13",
+      "status": "new"
+    },
+    {
+      "name": "Genio Della Pizza",
+      "action": "Chef Anthony Mangieri's Genio Della Pizza pushed its woodfire-baked frozen pizzas into nationwide availability across Whole Foods Market, Bristol Farms, FreshDirect, GoPuff, Goldbelly, Nugget, Lassens, Feed, and DeCicco & Sons, showing that ultra-premium, chef-led frozen pizza still has room to scale through premium retail and delivery channels.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://commercialbaking.com/genio-della-pizza-launches-frozen-pizza-nationwide/",
+      "first_reported": "2026-05-13",
+      "status": "new"
+    },
+    {
+      "name": "Talia di Napoli",
+      "action": "Talia di Napoli launched its first certified-vegan frozen pizza after years of development, pairing plant-based mozzarella with its premium Neapolitan process and cryogenic freezing system. That is a strong signal that premium frozen pizza brands are extending into dietary-specific lanes without abandoning artisan positioning.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://commercialbaking.com/talia-di-napoli-debuts-its-first-certified-vegan-frozen-pizza/",
+      "first_reported": "2026-05-13",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium frozen pizza is expanding by stacking artisan process with sharper shopper filters",
+      "direction": "up",
+      "magnitude": "Today's strongest signals were sourdough line extension at 2,000+ stores, nationwide rollout for a chef-led premium brand, and vegan expansion inside a premium Neapolitan platform.",
+      "context": "The aisle is moving beyond vague premium cues. Winning brands are combining process proof like sourdough or woodfire with a very clear retail or dietary claim. Real Dough should keep leading with authentic sourdough craft, but make the shopper promise immediate and specific.",
+      "source_url": "https://commercialbaking.com/alexs-awesome-sourdough-introduces-two-new-flavors-to-its-frozen-pizza-selection/",
+      "first_reported": "2026-05-13",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Alex's Awesome Sourdough retail footprint",
+      "value": "2,000+ stores nationally",
+      "change": "Added Vegan Margherita at $9.99 and Organic Pepperoni at $10.99, with gluten-free sourdough planned for fall",
+      "source_url": "https://commercialbaking.com/alexs-awesome-sourdough-introduces-two-new-flavors-to-its-frozen-pizza-selection/"
+    },
+    {
+      "metric": "Genio Della Pizza distribution",
+      "value": "Nationwide premium retail and delivery availability",
+      "change": "Now carried through Whole Foods Market, Bristol Farms, FreshDirect, GoPuff, Goldbelly, Nugget, Lassens, Feed, and DeCicco & Sons",
+      "source_url": "https://commercialbaking.com/genio-della-pizza-launches-frozen-pizza-nationwide/"
+    },
+    {
+      "metric": "Talia di Napoli vegan pricing",
+      "value": "$120 per 6-pack and $144 per 8-pack DTC",
+      "change": "Premium vegan SKU added to existing select retail presence including Whole Foods Market and Fresh Market",
+      "source_url": "https://commercialbaking.com/talia-di-napoli-debuts-its-first-certified-vegan-frozen-pizza/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The premium frozen pizza lane is getting more segmented, not less: sourdough, chef-led, and vegan artisan brands are all sharpening their claims at once.",
+      "impact": "Real Dough should avoid broad premium language and keep tightening a fast shelf story around true sourdough craft and why that matters, because adjacent premium brands are making their consumer promise easier to parse.",
+      "source_url": "https://commercialbaking.com/genio-della-pizza-launches-frozen-pizza-nationwide/",
+      "first_reported": "2026-05-13"
+    }
+  ]
+}

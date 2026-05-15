@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-15",
+  "type": "daily",
+  "generated_at": "2026-05-15T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Katie's Pizza & Pasta",
+      "action": "Katie's continued scaling its handmade frozen pizza brand after landing nationwide Target distribution, with PMQ highlighting a 400,000-pizza production sprint to support the rollout. That is a strong signal that premium, restaurant-origin frozen pizza can win true mass-retail placement when the story and operations are sharp enough.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.pmq.com/how-katie-lee-is-blowing-up-the-frozen-pizza-aisle-and-still-opening-restaurants-too/",
+      "first_reported": "2026-05-15",
+      "status": "new"
+    },
+    {
+      "name": "Pizza Freak Co.",
+      "action": "Chef-led frozen pizza brand Pizza Freak Co. launched an AI Chef tool built around customizing its frozen pies, adding a new kind of CPG differentiation: software and guided remixing layered on top of the product itself instead of relying only on flavor or packaging claims.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.pmq.com/chef-owned-frozen-pizza-brand-debuts-ai-tool-to-help-you-freak-your-pie-your-way/",
+      "first_reported": "2026-05-15",
+      "status": "new"
+    },
+    {
+      "name": "Milton's Craft Bakers",
+      "action": "Milton's launched a BBQ Chicken with Jalapeños and Red Onions Cauliflower Crust Pizza exclusively at Sprouts nationwide, showing the better-for-you frozen pizza lane is still leaning on retailer-exclusive flavor innovation rather than plain health messaging alone.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://commercialbaking.com/sweet-meets-heat-in-latest-miltons-launch/",
+      "first_reported": "2026-05-15",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza brands are widening the playbook beyond product alone",
+      "direction": "up",
+      "magnitude": "Today's cleanest signals were Target-scale expansion for a restaurant-origin brand, AI-led consumer customization from a chef-driven frozen label, and a spicy retailer-exclusive BFY launch at Sprouts.",
+      "context": "Real Dough should keep thinking beyond flavor drops. The aisle is rewarding brands that pair a specific product story with a specific go-to-market mechanic: mass-retail proof, merchandisable exclusives, or interactive brand engagement.",
+      "source_url": "https://www.pmq.com/how-katie-lee-is-blowing-up-the-frozen-pizza-aisle-and-still-opening-restaurants-too/",
+      "first_reported": "2026-05-15",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Katie's Target launch scale",
+      "value": "400,000 handmade frozen pizzas produced in 96 days",
+      "change": "Supports nationwide Target distribution and confirms real scale appetite for premium restaurant-origin frozen pizza",
+      "source_url": "https://www.pmq.com/how-katie-lee-is-blowing-up-the-frozen-pizza-aisle-and-still-opening-restaurants-too/"
+    },
+    {
+      "metric": "Pizza Freak Co. product system",
+      "value": "Frozen pies built for AI-guided customization and ready in about 25 minutes",
+      "change": "Signals a shift toward software-assisted engagement layered onto premium frozen pizza CPG",
+      "source_url": "https://www.pmq.com/chef-owned-frozen-pizza-brand-debuts-ai-tool-to-help-you-freak-your-pie-your-way/"
+    },
+    {
+      "metric": "Milton's Sprouts exclusive",
+      "value": "Nationwide Sprouts placement for a new cauliflower crust BBQ chicken SKU",
+      "change": "Retailer-exclusive BFY pizza innovation continues to show up through flavor and heat, not just nutrition claims",
+      "source_url": "https://commercialbaking.com/sweet-meets-heat-in-latest-miltons-launch/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The strongest signal today is that frozen pizza winners are pairing product with a distribution or engagement mechanic: Target scale, retailer exclusives, or software-driven customization.",
+      "impact": "Real Dough should keep its sourdough quality story tight, but also think in channel mechanics: exclusive drops, sharper retail stories, and simple ways shoppers can participate or personalize.",
+      "source_url": "https://www.pmq.com/how-katie-lee-is-blowing-up-the-frozen-pizza-aisle-and-still-opening-restaurants-too/",
+      "first_reported": "2026-05-15"
+    }
+  ]
+}
