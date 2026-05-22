@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-16",
+  "type": "daily",
+  "generated_at": "2026-05-16T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Screamin' Sicilian / Palermo's",
+      "action": "Screamin' Sicilian now appears to be active at Target in a deli-adjacent Roman-style take-and-bake format, not just the classic frozen door. That is a meaningful channel move because it lets a premium frozen brand borrow some of the freshness theater of prepared foods while staying in grocery convenience territory.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.target.com/p/screamin-39-sicilian-take-38-bake-pepperoni-roman-style-pizza-16-15oz/-/A-95172650",
+      "first_reported": "2026-05-16",
+      "status": "new"
+    },
+    {
+      "name": "Food Lion",
+      "action": "Food Lion's private-label frozen pizza push now looks more premium and flavor-forward than a generic value-line expansion, with reported SKUs including cup-and-char uncured pepperoni with hot honey plus sausage and caramelized onion. That sharpens the earlier shelf-pressure signal: retailer-owned pizza is not just scaling, it is learning premium language and trend cues too.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://progressivegrocer.com/food-lion-grows-private-label-frozen-pizza-line",
+      "first_reported": "2026-04-20",
+      "status": "updated"
+    },
+    {
+      "name": "Aldi / Walmart private label / Richelieu Foods",
+      "action": "The salmonella-linked frozen pizza issue remains one of the highest-signal operational stories in the aisle because it spread across multiple private-label programs through a shared dry-milk ingredient. Even though the alert first surfaced earlier this month, continuing mainstream pickup keeps reinforcing the same lesson: upstream ingredient failures can quickly become multi-banner category damage.",
+      "category": "recall",
+      "relevance_score": 9,
+      "source_url": "https://www.yahoo.com/news/articles/walmart-issues-recall-frozen-pizzas-210000418.html",
+      "first_reported": "2026-05-04",
+      "status": "ongoing"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza competition is getting harder to categorize cleanly by aisle or tier",
+      "direction": "up",
+      "magnitude": "Today's clearest signals were premium frozen brands crossing into deli-style presentation, private label borrowing premium flavor architecture, and safety issues still rippling across multiple retailer programs.",
+      "context": "Real Dough should assume the aisle is converging from both sides: premium brands are chasing fresher merchandising cues while value and private-label players are getting better at premium storytelling. That makes operational trust and a very clear sourdough claim even more important.",
+      "source_url": "https://progressivegrocer.com/food-lion-grows-private-label-frozen-pizza-line",
+      "first_reported": "2026-05-16",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Screamin' Sicilian Roman-style Target pricing",
+      "value": "$8.99 per take-and-bake Roman-style pizza at Target",
+      "change": "Signals premium pizza brands are testing deli/prepared-food adjacency instead of relying only on the frozen door",
+      "source_url": "https://www.target.com/p/screamin-39-sicilian-take-38-bake-pepperoni-roman-style-pizza-16-15oz/-/A-95172650"
+    },
+    {
+      "metric": "Food Lion private-label flavor architecture",
+      "value": "Reported flavors include cup-and-char uncured pepperoni with hot honey, sausage and caramelized onion, mushroom, and cheese",
+      "change": "Shows private label is moving beyond basic value SKUs into premium-coded flavor design",
+      "source_url": "https://progressivegrocer.com/food-lion-grows-private-label-frozen-pizza-line"
+    },
+    {
+      "metric": "Frozen pizza recall scope",
+      "value": "Multiple frozen pizza SKUs across Aldi, Walmart, and Culinary Circle were tied to the same dry-milk contamination chain",
+      "change": "Confirms how fast one upstream dairy issue can spill across several freezer programs",
+      "source_url": "https://www.yahoo.com/news/articles/walmart-issues-recall-frozen-pizzas-210000418.html"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The sharpest signal today is category convergence: premium brands are borrowing fresh-prepared cues, private label is borrowing premium flavor language, and supply-chain failures still cut across banners fast.",
+      "impact": "For Real Dough, that means the moat cannot just be 'premium frozen pizza.' It needs to be specific: true sourdough process, clean operational trust, and a shelf story that reads instantly.",
+      "source_url": "https://www.target.com/p/screamin-39-sicilian-take-38-bake-pepperoni-roman-style-pizza-16-15oz/-/A-95172650",
+      "first_reported": "2026-05-16"
+    }
+  ]
+}

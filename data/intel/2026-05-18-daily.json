@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-18",
+  "type": "daily",
+  "generated_at": "2026-05-18T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Pinsami",
+      "action": "At Tuttofood 2026, Pinsami said it is moving beyond ambient and chilled pizza bases into a premium line of fully topped frozen pizzas, with classic and Roman-inspired recipes aimed at North America, the UK, and Asia. That is a clean signal that premium Italian base makers still see whitespace in the global frozen aisle, especially where artisanal quality and convenience can be sold together.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://news.italianfood.net/2026/05/14/pinsami-redefines-frozen-pizza-from-premium-bases-to-top-of-the-range-topped-delights/",
+      "first_reported": "2026-05-18",
+      "status": "new"
+    },
+    {
+      "name": "Cal-Maine Foods / Van's Foods",
+      "action": "Cal-Maine acquired Van's Foods from Sara Lee Frozen Bakery to deepen its consumer-facing frozen retail presence, with management saying the deal should lift prepared-foods annual sales by about 10% and volume by about 6%. It is not a pizza move, but it is a relevant freezer-aisle signal: large protein incumbents are still buying their way into better-for-you frozen occasions and broader grocery distribution.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3292652/0/en/cal-maine-foods-and-sara-lee-frozen-bakery-announce-cal-maine-foods-acquisition-of-van-s-foods-brand-advancing-cal-maine-foods-diversification-strategy-and-expanding-consumer-facin.html",
+      "first_reported": "2026-05-18",
+      "status": "new"
+    },
+    {
+      "name": "Di Fara Frozen",
+      "action": "Di Fara's Vodka Sauce frozen pizza picked up Allrecipes' 2026 Golden Cart Award for Best New Frozen Pizza, a useful earned-media update on a restaurant-origin brand already pushing into grocery. The important signal is shopper validation: premium pizzeria names are not just landing freezer space, they are winning mainstream editorial and morning-show attention once they get there.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://www.allrecipes.com/golden-cart-awards-best-groceries-2026-11913893",
+      "first_reported": "2026-04-12",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium frozen competition is spreading across both product and proof points",
+      "direction": "up",
+      "magnitude": "Today's cleanest signals were a premium Italian supplier entering topped frozen pizza, a major commodity incumbent buying more freezer retail exposure, and a restaurant-origin frozen pizza brand winning mainstream consumer validation.",
+      "context": "Real Dough should expect more competition not just from direct pizza launches, but from adjacent freezer players and branded retail narratives that make premium feel safer and more familiar to shoppers.",
+      "source_url": "https://news.italianfood.net/2026/05/14/pinsami-redefines-frozen-pizza-from-premium-bases-to-top-of-the-range-topped-delights/",
+      "first_reported": "2026-05-18",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Cal-Maine prepared-foods lift from Van's acquisition",
+      "value": "~10% increase in prepared-foods annual sales and ~6% increase in prepared-foods volume on a pro forma basis",
+      "change": "Shows freezer M&A is still being justified by meaningful retail scale gains, not just brand adjacency",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3292652/0/en/cal-maine-foods-and-sara-lee-frozen-bakery-announce-cal-maine-foods-acquisition-of-van-s-foods-brand-advancing-cal-maine-foods-diversification-strategy-and-expanding-consumer-facin.html"
+    },
+    {
+      "metric": "Pinsami expansion geography",
+      "value": "New fully topped frozen range is being positioned for North America, the UK, and Asian markets",
+      "change": "Confirms international premium suppliers still see room to scale artisanal frozen pizza beyond Europe",
+      "source_url": "https://news.italianfood.net/2026/05/14/pinsami-redefines-frozen-pizza-from-premium-bases-to-top-of-the-range-topped-delights/"
+    },
+    {
+      "metric": "Allrecipes Golden Cart frozen testing pool",
+      "value": "244 frozen foods were tested within a broader field of 1,300+ new grocery products for the 2026 awards",
+      "change": "Suggests mainstream grocery media attention on frozen remains competitive, making Di Fara's win a meaningful signal rather than a niche mention",
+      "source_url": "https://www.allrecipes.com/golden-cart-awards-best-groceries-2026-11913893"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The freezer aisle keeps rewarding premium stories that are easy for shoppers to understand: Italian authenticity, better-for-you convenience, or restaurant credibility backed by third-party validation.",
+      "impact": "For Real Dough, the takeaway is to keep the sourdough story extremely legible and retail-ready. The category is getting more crowded with premium claims, so clarity matters as much as quality.",
+      "source_url": "https://www.allrecipes.com/golden-cart-awards-best-groceries-2026-11913893",
+      "first_reported": "2026-05-18"
+    }
+  ]
+}

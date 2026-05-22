@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-17",
+  "type": "daily",
+  "generated_at": "2026-05-17T13:00:00Z",
+  "competitors": [
+    {
+      "name": "PORTA",
+      "action": "PORTA said U.S. distribution has expanded past 2,000 retail doors in just over a year, sales are up more than 2.5x year over year, and its Sweet & Spicy Soppressata pizza is now rolling out nationwide at Whole Foods. That is a sharp premium-retail signal: imported-ingredient, chef-led frozen pizza can move from specialty credibility into true scaled natural-channel distribution fast.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.refrigeratedfrozenfood.com/articles/103800-porta-scales-pizza-production-as-distribution-expands-to-2-000-doors",
+      "first_reported": "2026-04-11",
+      "status": "updated"
+    },
+    {
+      "name": "Dogtown Pizza",
+      "action": "Dogtown Pizza said automation helped it more than double daily output, lift monthly production to roughly 140,000 pizzas, cut labor cost per pizza in half for some varieties, and add Walmart plus Fresh Thyme. The important signal is not just regional growth — it is that smaller frozen pizza brands can buy real margin and distribution gains through targeted line automation instead of waiting for national scale first.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.refrigeratedfrozenfood.com/articles/103420-dogtown-pizza-doubles-daily-production-reduces-shift-hours",
+      "first_reported": "2026-05-17",
+      "status": "new"
+    },
+    {
+      "name": "MBC Companies / Alpha Foods",
+      "action": "MBC acquired Alpha Foods, its second major pizza-category move after Nardone Bros., expanding coast-to-coast frozen pizza manufacturing across K-12, private-label retail, national grocery, and CPG-brand supply. That is a strong consolidation signal: institutional and private-label pizza supply is getting bundled under larger multi-daypart platforms with more leverage on capacity, innovation, and customer access.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.refrigeratedfrozenfood.com/articles/103747-mbc-companies-acquires-alpha-foods-expanding-capabilities-in-frozen-pizza-manufacturing",
+      "first_reported": "2026-05-17",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza advantage is shifting toward scaled premium distribution plus smarter manufacturing",
+      "direction": "up",
+      "magnitude": "Today’s best signals were PORTA pushing beyond 2,000 doors, Dogtown using automation to unlock both output and retail expansion, and MBC consolidating more pizza manufacturing under a broader frozen-meals platform.",
+      "context": "Real Dough should assume the aisle keeps rewarding two things at once: a very legible premium story for the shopper, and a backend operation strong enough to scale, service multiple channels, and defend margin. Brand story without operations is getting weaker; operations without a clear premium angle is turning into private-label territory.",
+      "source_url": "https://www.refrigeratedfrozenfood.com/articles/103800-porta-scales-pizza-production-as-distribution-expands-to-2-000-doors",
+      "first_reported": "2026-05-17",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "PORTA retail scale",
+      "value": "2,000+ U.S. retail doors and more than 2.5x year-over-year sales growth",
+      "change": "Confirms premium imported/chef-led frozen pizza can move well beyond niche specialty placement",
+      "source_url": "https://www.refrigeratedfrozenfood.com/articles/103800-porta-scales-pizza-production-as-distribution-expands-to-2-000-doors"
+    },
+    {
+      "metric": "Dogtown production efficiency",
+      "value": "~140,000 pizzas per month after automation, with labor cost per pizza cut in half for some varieties",
+      "change": "Shows targeted equipment upgrades can translate directly into margin and new retail accounts for regional brands",
+      "source_url": "https://www.refrigeratedfrozenfood.com/articles/103420-dogtown-pizza-doubles-daily-production-reduces-shift-hours"
+    },
+    {
+      "metric": "MBC pizza-platform expansion",
+      "value": "Alpha acquisition adds a Texas frozen pizza manufacturer to MBC’s existing Pennsylvania footprint after the 2025 Nardone deal",
+      "change": "Signals growing consolidation in K-12, private-label, and branded frozen pizza supply",
+      "source_url": "https://www.refrigeratedfrozenfood.com/articles/103747-mbc-companies-acquires-alpha-foods-expanding-capabilities-in-frozen-pizza-manufacturing"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The cleanest signal today is that frozen pizza is rewarding brands and suppliers that can pair a premium shelf story with real operating scale — whether that comes through door growth, automation, or manufacturing consolidation.",
+      "impact": "For Real Dough, the implication is pretty direct: keep the sourdough and craft story sharp, but build the business like a scale product from day one. The winners surfacing now are not just tastier; they are operationally harder to dislodge.",
+      "source_url": "https://www.refrigeratedfrozenfood.com/articles/103420-dogtown-pizza-doubles-daily-production-reduces-shift-hours",
+      "first_reported": "2026-05-17"
+    }
+  ]
+}

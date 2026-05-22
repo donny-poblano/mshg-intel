@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-22",
+  "week": "2026-W21",
+  "headline": "Founder-led Wisconsin creative is still the clearest growth engine, and premium sourdough still has room to scale nationally, but reporting is still stuck on a May 12 cutoff, competitor search remains an expensive leak, and private-label/trust pressure is rising.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Paid media is still producing real scale: $13,339.15 YTD spend has driven 902,194 Meta reach, 65,757 Meta clicks, and 8,355 Google clicks.",
+        "The best-performing paid story is still specific and believable: 'Straight From Wisconsin' delivered 13,622 link clicks at $0.11 CPC and 4.43% CTR, while 'Meet Real Dough Pizza Co.' hit 4.67% CTR at the same $0.11 CPC.",
+        "Human/operator content is still winning organically. Founder/pro-tip and origin posts led Instagram and Facebook engagement, while Instagram followers reached 623 (+43.9% vs the early-April checkpoint).",
+        "Scout keeps validating the category opportunity: premium restaurant-origin frozen pizza brands like Katie's, PORTA, Tutta Bella, Di Fara, and Alex's Awesome Sourdough are still winning new doors, new SKUs, and national scale."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "The May 22 workbook download succeeded, but the usable analytics window still ends on 2026-05-12. This is a verification week, not a true weekly close.",
+        "Google competitor search is still the cleanest paid leak: $1,227.77 spent at $0.59 CPC versus branded search at $0.21 CPC and 5.68% CTR.",
+        "Efficiency is softening under scale. Since the 2026-04-08 YTD checkpoint, Meta spend is up 82.1% but CTR is down 10.1%, and Instagram engagement rate has slipped from 3.0% to 2.58% as reach broadened.",
+        "Category pressure is getting sharper on both sides: private label is getting more premium-coded, incumbents still own trust, and recent multi-banner recall coverage shows operational trust can become a category issue fast.",
+        "Data completeness is still weak: YouTube and TikTok tabs are serving sample/demo rows, reviews.json only returns place-not-found errors, and operations data is stale Merriment data rather than current Real Dough ops."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "REPORTING: Fix the Whatagraph freshness problem first so next Friday is a real weekly close, not another May 12 replay.",
+        "PAID: Hold 'Straight From Wisconsin' and 'Meet Real Dough Pizza Co.' as controls, then launch 2-3 new variants around founder credibility, family-dinner utility, and sourdough/process proof.",
+        "SEARCH: Cut or cap competitor terms unless conversion data proves they are paying back; branded search is materially cleaner.",
+        "BRAND/AGENCY: Tighten the shelf and creative story to one fast trade-up promise: real sourdough, real ingredients, real trust — not vague premium language.",
+        "DATA/OPS: Repair reviews lookup, restore trustworthy TikTok/YouTube reporting, and replace the stale operations feed with current Real Dough operating data."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "Founder-led, Wisconsin-rooted, and process-forward creative continues to outperform broader premium messaging. Specific, human, believable ads and posts are still doing the heavy lifting.",
+    "what_didnt": "Competitor search remains inefficient, generic premium language is too soft for the aisle, and broad audience growth is starting to outrun engagement depth.",
+    "recommendation": "Keep the brand narrow, human, and legible. Build the next creative batch around founder authority, practical dinner value, and clear sourdough proof, while shifting paid budget away from weaker competitor search. On shelf and in ads, make the trade-up obvious in one sentence.",
+    "competitive_context": "This week's intel shows a polarized aisle: private label is getting smarter and more premium-coded, while premium restaurant-origin brands with crisp stories are still scaling nationally. Real Dough should stay out of the mushy middle and defend a clear moat around authentic sourdough craft, trust, and credibility."
+  },
+  "data_quality": {
+    "missing": [
+      "No usable review sentiment feed. reviews.json still returns only place-not-found errors.",
+      "No current Real Dough operations input. The operations folder still contains older Merriment snapshots, not a current-week Real Dough operating read."
+    ],
+    "stale": [
+      "The latest trustworthy analytics view is still YTD through 2026-05-12, not a clean week-only slice.",
+      "Operations data is stale and not brand-relevant enough to guide current Real Dough decisions."
+    ],
+    "anomalies": [
+      "YouTube and TikTok sheets in the current Whatagraph export are still returning sample/demo data, so current video-platform rankings are intentionally excluded.",
+      "This week's summary blends fresh market intel with a repeated YTD analytics window and broken sentiment/ops inputs; directional guidance is still useful, but completeness is not."
+    ]
+  }
+}

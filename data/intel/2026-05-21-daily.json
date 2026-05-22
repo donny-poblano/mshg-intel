@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-21",
+  "type": "daily",
+  "generated_at": "2026-05-21T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Palermo x Kellanova / Cheez-It",
+      "action": "Palermo and Kellanova rolled Cheez-It Frozen Pizza into major U.S. grocers with a Cheez-It-flavored ultra-thin crust and broad initial distribution across Kroger, Ahold, H-E-B, Winn-Dixie, Wegmans, and Food City, with wider expansion planned by August. The signal is that frozen pizza is still attracting attention through licensed snack-brand mashups, not just artisan or health cues.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/28238-palermo-kellanova-collaborate-on-cheez-it-frozen-pizzas",
+      "first_reported": "2026-05-21",
+      "status": "new"
+    },
+    {
+      "name": "7-Eleven / 7-Select",
+      "action": "7-Eleven launched 7-Select Frozen Pizza into freezer doors at participating 7-Eleven, Speedway, and Stripes stores, using the same recipe as its in-store pizza. That is a meaningful channel signal because a major convenience operator is turning its own pizza program into take-home frozen private label instead of keeping pizza only in hot foodservice.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://cspdailynews.com/foodservice/7-eleven-adds-new-7-select-frozen-pizza",
+      "first_reported": "2026-05-21",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza is gaining momentum through convenience-channel take-home value and attention-grabbing brand mashups",
+      "direction": "up",
+      "magnitude": "Today's clearest signals were Cheez-It using licensed snack equity to win shelf attention and 7-Eleven extending its pizza program into frozen private label, while CSP reported frozen-pizza sales turning around in c-stores.",
+      "context": "For Real Dough, this means the aisle is not moving in just one premium direction. Big players are widening the category through novelty, convenience, and private-label access points. Real Dough should keep its premium sourdough story sharp, but also stay conscious of where shopper trial is being stolen by simpler, louder hooks.",
+      "source_url": "https://www.cspdailynews.com/foodservice/frozen-pizza-sales-turn-around-c-stores",
+      "first_reported": "2026-05-21",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Cheez-It Frozen Pizza opening retail footprint",
+      "value": "Initial rollout at Kroger, Ahold, H-E-B, Winn-Dixie, Wegmans, and Food City, with broader expansion planned by August",
+      "change": "Shows branded collaboration still earns immediate multi-chain frozen placement when the hook is strong enough",
+      "source_url": "https://www.foodbusinessnews.net/articles/28238-palermo-kellanova-collaborate-on-cheez-it-frozen-pizzas"
+    },
+    {
+      "metric": "7-Select Frozen Pizza channel expansion",
+      "value": "Frozen take-home pizzas added to participating 7-Eleven, Speedway, and Stripes freezer sections",
+      "change": "Suggests convenience retailers see frozen pizza as a viable at-home extension of their prepared-food pizza programs",
+      "source_url": "https://cspdailynews.com/foodservice/7-eleven-adds-new-7-select-frozen-pizza"
+    },
+    {
+      "metric": "C-store frozen pizza category direction",
+      "value": "CSP reported frozen-pizza sales turning around in convenience stores in its May 2026 coverage",
+      "change": "Signals a real rebound in the take-home convenience mission as shoppers seek cheaper alternatives to restaurant or delivered pizza",
+      "source_url": "https://www.cspdailynews.com/foodservice/frozen-pizza-sales-turn-around-c-stores"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The strongest daily read is that frozen pizza growth is widening through convenience and novelty, not just artisan premiumization.",
+      "impact": "Cheez-It shows how fast a loud branded hook can earn freezer doors, while 7-Eleven shows c-stores want their own frozen take-home pizza business too. Real Dough should keep its differentiation disciplined and legible: true sourdough, credible quality, and a shelf story that can win without mass-market gimmicks.",
+      "source_url": "https://www.cspdailynews.com/foodservice/7-eleven-adds-new-7-select-frozen-pizza",
+      "first_reported": "2026-05-21"
+    }
+  ]
+}

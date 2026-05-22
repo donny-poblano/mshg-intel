@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-22",
+  "type": "daily",
+  "generated_at": "2026-05-22T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Di Fara Frozen",
+      "action": "Di Fara's frozen line appears to have moved from selective grocery placement into a much broader national rollout, with Sporked reporting availability across 1,800 Target locations plus 10 retailers including Kroger, ShopRite, and Lidl. That is a meaningful distribution update on a restaurant-origin premium brand already on Scout's radar: the freezer aisle is still making room for pizzeria credibility at national scale, not just regional novelty.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://sporked.com/article/di-fara-frozen-pizzas-news/",
+      "first_reported": "2026-04-15",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "The 2026 grocery basket is splitting harder between value basics and premium freezer indulgence",
+      "direction": "up",
+      "magnitude": "Food Trade News described a 'bifurcated basket' where shoppers trade down on low-emotion staples while still trading up on restaurant-quality frozen meals, protein, and convenience.",
+      "context": "For Real Dough, this is a useful positioning signal: the dangerous place is the fuzzy middle. Premium frozen pizza still has room if the product feels clearly worth it, but vague 'better than ordinary' positioning gets squeezed between private label and stronger premium narratives.",
+      "source_url": "https://foodtradenews.com/2026/05/18/trading-up-and-trading-down-how-shoppers-are-mastering-the-bifurcated-basket-in-2026/",
+      "first_reported": "2026-05-22",
+      "status": "new"
+    },
+    {
+      "topic": "Private label frozen remains a major strategic battleground, with relevance now mattering as much as price",
+      "direction": "up",
+      "magnitude": "At PLMA's May 19-20 international private-label show, more than 3,200 exhibitors and 32,000 industry professionals gathered around categories including frozen, while pre-show programming explicitly framed the next step as moving from price to relevance.",
+      "context": "That matters for Real Dough because retailer-owned frozen pizza is not standing still. Private label is still scaling, but the conversation is shifting from cheap filler to better-targeted, trend-aware products. Real Dough needs a premium story private label cannot mimic quickly: real sourdough, credible process, and strong brand distinctiveness.",
+      "source_url": "https://www.frozenfoodsbiz.com/lots-to-see-and-sample-at-plmas-world-private-label-trade-show/",
+      "first_reported": "2026-05-22",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Di Fara national rollout footprint",
+      "value": "1,800 Target locations plus 10 retailers including Kroger, ShopRite, and Lidl",
+      "change": "Shows restaurant-origin frozen pizza can jump from selective doors to real national freezer scale once velocity and story are strong enough",
+      "source_url": "https://sporked.com/article/di-fara-frozen-pizzas-news/"
+    },
+    {
+      "metric": "Bifurcated basket private-label share",
+      "value": "Food Trade News says private label now accounts for roughly 23-24% of total grocery sales",
+      "change": "Reinforces that value pressure is real even while shoppers still trade up on premium frozen meal occasions",
+      "source_url": "https://foodtradenews.com/2026/05/18/trading-up-and-trading-down-how-shoppers-are-mastering-the-bifurcated-basket-in-2026/"
+    },
+    {
+      "metric": "PLMA 2026 scale",
+      "value": "3,200+ exhibitors from 75+ countries and 32,000+ professionals from 125 countries",
+      "change": "Confirms retailer-owned frozen innovation remains a serious global investment zone, not a side show",
+      "source_url": "https://www.frozenfoodsbiz.com/lots-to-see-and-sample-at-plmas-world-private-label-trade-show/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's clearest read is that frozen pizza is still a polarized category: value and private label keep getting stronger, but premium brands with a crisp story can still scale nationally.",
+      "impact": "Real Dough should stay allergic to mushy middle positioning. The win is not 'premium-ish' — it is unmistakable sourdough credibility, clean storytelling, and packaging that makes the trade-up feel justified in one glance.",
+      "source_url": "https://foodtradenews.com/2026/05/18/trading-up-and-trading-down-how-shoppers-are-mastering-the-bifurcated-basket-in-2026/",
+      "first_reported": "2026-05-22"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-20",
+  "type": "daily",
+  "generated_at": "2026-05-20T13:00:00Z",
+  "competitors": [
+    {
+      "name": "DiGiorno / Nestle USA",
+      "action": "DiGiorno was named the most trusted frozen pizza brand in the 2026 BrandSpark / Newsweek consumer survey, a strong signal that incumbent shelf leaders still own a lot of default buyer confidence even while premium and artisan challengers multiply. For Real Dough, this matters because trust is still acting like a conversion shortcut in the frozen aisle, not just taste or novelty.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://sporked.com/article/most-trusted-u-s-grocery-store-2026/",
+      "first_reported": "2026-05-20",
+      "status": "new"
+    },
+    {
+      "name": "Aldi Australia / International Cuisine",
+      "action": "Aldi's International Cuisine frozen pizza line, including Numero Uno, was named Australia's favorite frozen supermarket pizza in a Canstar shopper survey. The useful signal is that a value-led private-label style program is winning on satisfaction, taste, and value at once, which reinforces how dangerous good-enough premium cues at a low price can be in mature freezer aisles.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://kitchen.nine.com.au/in-season/best-frozen-pizzas-supermarket-winners-2026/d458bf27-9176-49f9-90d7-cc62630d5033",
+      "first_reported": "2026-05-20",
+      "status": "new"
+    },
+    {
+      "name": "Dr. Oetker / Ristorante Pollo",
+      "action": "Dr. Oetker's return of Ristorante Pollo after shopper backlash remains a high-signal loyalty story, because the brand tied the relaunch to research showing discontinued favorites can damage both brand and retailer loyalty. That sharpens an important freezer-aisle lesson: once a SKU wins habitual demand, availability and continuity become part of the brand promise.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://grocerytrader.co.uk/dr-oetker-issues-a-pollo-gy-as-it-brings-back-ristorante-pollo/",
+      "first_reported": "2026-05-03",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza advantage is increasingly about trust and repeatability, not just flavor innovation",
+      "direction": "up",
+      "magnitude": "Today's cleanest signals were DiGiorno winning national trust, Aldi's value pizza line winning shopper satisfaction in Australia, and Dr. Oetker proving delisted SKUs can create real loyalty backlash.",
+      "context": "For Real Dough, the takeaway is to build not just a premium taste story but a reliability story: clear product promise, easy repeat purchase, and packaging/positioning that helps shoppers feel safe choosing it again.",
+      "source_url": "https://sporked.com/article/most-trusted-u-s-grocery-store-2026/",
+      "first_reported": "2026-05-20",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "BrandSpark / Newsweek trust survey scale",
+      "value": "35,215 U.S. shoppers across 359 categories; DiGiorno named most trusted frozen pizza",
+      "change": "Reinforces that mass-brand trust still matters as a real shelf advantage",
+      "source_url": "https://sporked.com/article/most-trusted-u-s-grocery-store-2026/"
+    },
+    {
+      "metric": "Canstar Australia frozen pizza survey",
+      "value": "666 Australians surveyed; Aldi International Cuisine earned five stars across all rated categories",
+      "change": "Shows value-positioned pizza can win on taste and satisfaction, not just price",
+      "source_url": "https://kitchen.nine.com.au/in-season/best-frozen-pizzas-supermarket-winners-2026/d458bf27-9176-49f9-90d7-cc62630d5033"
+    },
+    {
+      "metric": "Dr. Oetker loyalty-risk research",
+      "value": "52% of shoppers said they would feel sad, angry, or less loyal if a favorite product disappeared; 32% said they would switch supermarkets if a key product was no longer available",
+      "change": "Suggests SKU continuity itself can be a competitive moat in frozen pizza",
+      "source_url": "https://grocerytrader.co.uk/dr-oetker-issues-a-pollo-gy-as-it-brings-back-ristorante-pollo/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The strongest daily read is that frozen pizza brands are competing for shopper trust as much as shopper appetite.",
+      "impact": "Real Dough should treat repeatability, shelf clarity, and dependable availability as part of the product strategy. In this category, trust compounds — and once a brand has it, challengers need a very legible reason to win the next purchase.",
+      "source_url": "https://grocerytrader.co.uk/dr-oetker-issues-a-pollo-gy-as-it-brings-back-ristorante-pollo/",
+      "first_reported": "2026-05-20"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-19",
+  "type": "daily",
+  "generated_at": "2026-05-19T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Newman's Own",
+      "action": "Newman's Own launched a new frozen pizza push built around thick-crust sourdough pies plus two added stone-fired SKUs, with nationwide retail placement and a premium-but-mainstream $8.69 price point. The important signal is that a large mission-driven grocery brand is upgrading crust architecture and premium cues rather than competing only on value or legacy awareness.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.snackandbakery.com/articles/111087-newmans-own-debuts-line-of-frozen-pizzas",
+      "first_reported": "2026-05-19",
+      "status": "new"
+    },
+    {
+      "name": "Tutta Bella",
+      "action": "Tutta Bella named a new CEO specifically to lead faster national CPG growth as the brand scales beyond restaurants, saying its artisan Neapolitan pizzas are now in more than 1,000 grocery and club stores nationwide, including fresh ready-to-heat placement in Kroger and Costco. That is a clean signal that restaurant-origin pizza brands are still professionalizing leadership to chase bigger retail footprints without dropping the premium story.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.pmq.com/neapolitan-brand-lands-new-ceo-expands-retail-pizza-footprint/",
+      "first_reported": "2026-05-19",
+      "status": "new"
+    },
+    {
+      "name": "USDA / private-label frozen pizza programs",
+      "action": "The USDA's salmonella-linked public health alert expanded again by mid-May, adding more regional pizzas to the same contamination chain that already hit Aldi and Walmart private-label SKUs. The current list now spans nationwide Great Value and Mama Cozzi's items plus regional pizza programs, reinforcing that upstream ingredient failures can cascade across multiple banners and formats at once.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.livenowfox.com/news/usda-adds-list-frozen-pizza-snack-food-varieties-included-public-health-alert",
+      "first_reported": "2026-05-03",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium frozen pizza is splitting into two winning lanes: upgraded crusts and scaled restaurant credibility",
+      "direction": "up",
+      "magnitude": "Today's strongest fresh signals were Newman's Own leaning into sourdough and stone-fired premiumization, Tutta Bella hiring for national retail scale, and the FSIS alert showing how vulnerable large private-label programs remain when supply chains get stressed.",
+      "context": "For Real Dough, this keeps the opportunity pretty focused: own the fermentation story clearly, but also build the operating discipline and retailer trust that let restaurant-quality brands scale without looking fragile.",
+      "source_url": "https://www.snackandbakery.com/articles/111087-newmans-own-debuts-line-of-frozen-pizzas",
+      "first_reported": "2026-05-19",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Newman's Own frozen pizza retail price",
+      "value": "$8.69 SRP nationwide",
+      "change": "Shows mainstream premium brands are still trying to hold a sub-$9 consumer entry point while upgrading crust and ingredient story",
+      "source_url": "https://www.snackandbakery.com/articles/111087-newmans-own-debuts-line-of-frozen-pizzas"
+    },
+    {
+      "metric": "Tutta Bella retail footprint",
+      "value": "1,000+ grocery and club stores nationwide",
+      "change": "Confirms restaurant-origin artisan pizza can move well beyond regional cult status into scaled retail distribution",
+      "source_url": "https://www.pmq.com/neapolitan-brand-lands-new-ceo-expands-retail-pizza-footprint/"
+    },
+    {
+      "metric": "USDA alert scope as of May 15",
+      "value": "14 named pizza and snack products, including nationwide Great Value and Mama Cozzi's pizzas plus multiple regional pizza brands",
+      "change": "Highlights how one recalled dairy ingredient can widen into multi-banner frozen-pizza damage",
+      "source_url": "https://www.livenowfox.com/news/usda-adds-list-frozen-pizza-snack-food-varieties-included-public-health-alert"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The sharpest daily read is that premium frozen pizza is still getting more professional at the top while private-label programs stay exposed underneath.",
+      "impact": "Real Dough should keep sharpening a simple one-line shelf claim around real sourdough and artisan quality, but pair it with operational trust signals. Buyers are rewarding premium stories that scale cleanly and punishing programs that look commoditized or brittle.",
+      "source_url": "https://www.pmq.com/neapolitan-brand-lands-new-ceo-expands-retail-pizza-footprint/",
+      "first_reported": "2026-05-19"
+    }
+  ]
+}
