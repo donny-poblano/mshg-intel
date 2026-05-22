@@ -1,0 +1,419 @@
+{
+  "date": "2026-05-22",
+  "period": "2026-01-01 to 2026-05-12",
+  "analysis_type": "friday_weekly_review",
+  "generated_by": "analyst-agent",
+  "data_freshness": {
+    "xlsx_date": "2026-05-22",
+    "report_period": "2026-01-01 to 2026-05-12",
+    "ytd_data": true,
+    "download_attempted": true,
+    "download_status": "successful — browser automation pulled the latest workbook from the Whatagraph shared report download flow, then the file was copied from the browser sandbox download directory into ~/Downloads for parsing",
+    "note": "The workbook downloaded successfully on 2026-05-22, but the report payload is still cut through 2026-05-12 for Meta, Google, Facebook, and Instagram. YouTube and TikTok sheets are still returning Whatagraph sample/demo data, so this Friday review confirms the same trustworthy paid + Meta-owned organic picture as last week rather than introducing a newer post window."
+  },
+  "ad_performance": {
+    "meta": {
+      "spend": 9940.56,
+      "clicks": 65757,
+      "cpc": 0.15,
+      "ctr": 2.95,
+      "reach": 902194,
+      "impressions": 2231868,
+      "cpm": 4.45,
+      "frequency": 2.47,
+      "link_clicks": 48634,
+      "link_cpc": 0.2,
+      "link_ctr": 2.18,
+      "demographics": {
+        "by_gender": {
+          "female": {
+            "clicks": 35216,
+            "cpc": 0.15,
+            "ctr": 3.26,
+            "impressions": 1079292,
+            "spend": 5224.25
+          },
+          "male": {
+            "clicks": 29867,
+            "cpc": 0.15,
+            "ctr": 2.68,
+            "impressions": 1113412,
+            "spend": 4615.7
+          }
+        },
+        "top_age_by_clicks": [
+          {
+            "age": "65+",
+            "clicks": 14093,
+            "cpc": 0.13,
+            "ctr": 4.07,
+            "spend": 1829.13
+          },
+          {
+            "age": "25-34",
+            "clicks": 13587,
+            "cpc": 0.18,
+            "ctr": 2.44,
+            "spend": 2452.37
+          },
+          {
+            "age": "35-44",
+            "clicks": 12740,
+            "cpc": 0.17,
+            "ctr": 2.53,
+            "spend": 2148.86
+          },
+          {
+            "age": "55-64",
+            "clicks": 9627,
+            "cpc": 0.12,
+            "ctr": 3.8,
+            "spend": 1128.33
+          }
+        ]
+      }
+    },
+    "google": {
+      "spend": 3398.59,
+      "clicks": 8355,
+      "cpc": 0.41,
+      "ctr": 1.87,
+      "impressions": 447126,
+      "cpm": 7.6,
+      "campaigns": [
+        {
+          "name": "MM - Search - Real Dough - NB",
+          "clicks": 4289,
+          "cpc": 0.41,
+          "ctr": 1.52,
+          "impressions": 282573,
+          "cpm": 6.22,
+          "spend": 1757.16
+        },
+        {
+          "name": "MM - Search - Real Dough - Competitors",
+          "clicks": 2069,
+          "cpc": 0.59,
+          "ctr": 1.6,
+          "impressions": 129377,
+          "cpm": 9.49,
+          "spend": 1227.77
+        },
+        {
+          "name": "MM - Search - Real Dough - Branded",
+          "clicks": 1997,
+          "cpc": 0.21,
+          "ctr": 5.68,
+          "impressions": 35176,
+          "cpm": 11.76,
+          "spend": 413.66
+        }
+      ]
+    },
+    "total_spend": 13339.15,
+    "comparison_to_2026_04_08_ytd": {
+      "meta_spend_change": "+82.1% ($5,460.11 → $9,940.56)",
+      "meta_clicks_change": "+62.8% (40,381 → 65,757)",
+      "meta_cpc_change": "+7.1% ($0.14 → $0.15)",
+      "meta_ctr_change": "-10.1% (3.28% → 2.95%)",
+      "google_spend_change": "+65.3% ($2,056.36 → $3,398.59)",
+      "google_clicks_change": "+59.5% (5,237 → 8,355)",
+      "google_cpc_change": "+5.1% ($0.39 → $0.41)",
+      "total_spend_change": "+77.5% ($7,516.47 → $13,339.15)",
+      "note": "This is the closest apples-to-apples YTD comparison available in-repo: current export through May 12 versus the April 8 snapshot that covered Jan 1 through Apr 3. Spend and reach kept compounding, but efficiency is softening as the budget scales."
+    }
+  },
+  "audience": {
+    "instagram": {
+      "followers_total": 623,
+      "new_followers_period": 491,
+      "unfollows_period": 24,
+      "reach_period": 774447,
+      "website_clicks_period": 1250,
+      "engagement_rate_avg": 2.58,
+      "reels_reach": 15058,
+      "reels_engagement": 752,
+      "stories_reach": 3327,
+      "top_gender": "Female 52.5% (327 of 623)",
+      "top_age": "35-44 (245 followers)"
+    },
+    "facebook": {
+      "page_post_impressions_period": 1409312,
+      "page_views_latest_full_month": 614211,
+      "post_engagements_period": 42859
+    },
+    "youtube": {
+      "status": "sample_data_in_export",
+      "note": "Current Whatagraph export page is serving sample/demo YouTube sheets, so live YouTube metrics are excluded from this week's trustworthy analysis."
+    },
+    "tiktok": {
+      "status": "sample_data_in_export",
+      "note": "Current Whatagraph export page is serving sample/demo TikTok sheets, so live TikTok metrics are excluded from this week's trustworthy analysis."
+    },
+    "comparison_to_2026_04_08_ytd": {
+      "ig_followers": "+43.9% (433 → 623)",
+      "ig_new_followers": "+63.1% (301 → 491)",
+      "ig_engagement_rate": "-14.0% (3% → 2.58%)",
+      "ig_reach": "+105.4% (377,067 → 774,447)",
+      "fb_post_impressions": "+68.9% (834,581 → 1,409,312)",
+      "note": "Instagram has kept growing rapidly in absolute audience and reach, but the engagement rate is still trending down as the top of funnel broadens."
+    }
+  },
+  "top_creatives": {
+    "meta_ads_top5": [
+      {
+        "headline": "Straight From Wisconsin",
+        "link_clicks": 13622,
+        "cpc": 0.11,
+        "ctr": 4.43,
+        "impressions": 443894
+      },
+      {
+        "headline": "No More Cardboard Crust.",
+        "link_clicks": 12756,
+        "cpc": 0.18,
+        "ctr": 2.15,
+        "impressions": 693050
+      },
+      {
+        "headline": "A Better Frozen Pizza",
+        "link_clicks": 6714,
+        "cpc": 0.19,
+        "ctr": 2.3,
+        "impressions": 363908
+      },
+      {
+        "headline": "Meet Real Dough Pizza Co.",
+        "link_clicks": 4474,
+        "cpc": 0.11,
+        "ctr": 4.67,
+        "impressions": 178696
+      },
+      {
+        "headline": "Your Go-To Pizzas, Upgraded",
+        "link_clicks": 3220,
+        "cpc": 0.16,
+        "ctr": 3.16,
+        "impressions": 134008
+      }
+    ]
+  },
+  "top_posts": {
+    "coverage_note": "Current export is trustworthy for Instagram and Facebook. YouTube and TikTok current-period rows are excluded because those sheets returned Whatagraph sample data.",
+    "cross_platform_top5": [
+      {
+        "platform": "instagram",
+        "title": "Founder Pro Tips. 🍕",
+        "reach": 1326,
+        "engagement": 69,
+        "engagement_rate": 36.32,
+        "url": "https://www.instagram.com/reel/DU8nXVhgI0w/"
+      },
+      {
+        "platform": "instagram",
+        "title": "Three childhood best friends left cubicles for scratch kitchens. (Now we argue about fe...",
+        "reach": 539,
+        "engagement": 64,
+        "engagement_rate": 36.78,
+        "url": "https://www.instagram.com/p/DU3duxJluqr/"
+      },
+      {
+        "platform": "instagram",
+        "title": "You didn’t expect to be impressed by a frozen pizza, but here you are getting naturally...",
+        "reach": 898,
+        "engagement": 53,
+        "engagement_rate": 38.69,
+        "url": "https://www.instagram.com/reel/DUoA-6gAP_g/"
+      },
+      {
+        "platform": "facebook",
+        "title": "👨‍🍳 🍕 A few pro tips straight from the Real Dough Pizza Co. creators:",
+        "reach": 653,
+        "avg_view_time": 9698,
+        "url": "https://www.facebook.com/122123092317054408/videos/1974534806505417"
+      },
+      {
+        "platform": "facebook",
+        "title": "Peppin’ Ain’t Easy… but dinner should be. 🍯 🍕",
+        "reach": 157,
+        "engagement": 11,
+        "engagement_rate": 7.01
+      }
+    ],
+    "facebook_top3": [
+      {
+        "title": "You check ingredients. You choose carefully. We get it. 😉",
+        "reach": 119,
+        "engagement": 10,
+        "engagement_rate": 8.4,
+        "link_clicks": 0
+      },
+      {
+        "title": "You know you're going to cruise through dinner time when Real Dough frozen pizzas are r...",
+        "reach": 131,
+        "engagement": 10,
+        "engagement_rate": 7.63,
+        "link_clicks": 1
+      },
+      {
+        "title": "Peppin’ Ain’t Easy… but dinner should be. 🍯 🍕",
+        "reach": 157,
+        "engagement": 11,
+        "engagement_rate": 7.01,
+        "link_clicks": 0
+      }
+    ],
+    "facebook_reels_top3": [
+      {
+        "title": "👨‍🍳 🍕 A few pro tips straight from the Real Dough Pizza Co. creators:",
+        "reach": 653,
+        "avg_view_time": 9698,
+        "url": "https://www.facebook.com/122123092317054408/videos/1974534806505417"
+      },
+      {
+        "title": "Sometimes all you want is a really good cheese pizza. The Wisco Kid is now in stores an...",
+        "reach": 402,
+        "avg_view_time": 8188,
+        "url": "https://www.facebook.com/122123092317054408/videos/1450848889769192"
+      },
+      {
+        "title": "You don’t normally expect naturally fermented sourdough and real ingredients from the f...",
+        "reach": 390,
+        "avg_view_time": 7809,
+        "url": "https://www.facebook.com/122123092317054408/videos/900771926119105"
+      }
+    ]
+  },
+  "search_performance": {
+    "branded_top_terms": [
+      {
+        "term": "real dough pizza",
+        "clicks": 623,
+        "cpc": 0.19,
+        "ctr": 31.9,
+        "impressions": 1953
+      },
+      {
+        "term": "real dough pizza co",
+        "clicks": 499,
+        "cpc": 0.19,
+        "ctr": 28.47,
+        "impressions": 1753
+      },
+      {
+        "term": "real dough frozen pizza",
+        "clicks": 71,
+        "cpc": 0.27,
+        "ctr": 21.65,
+        "impressions": 328
+      }
+    ],
+    "non_branded_top_terms": [
+      {
+        "term": "hot slice",
+        "clicks": 140,
+        "cpc": 0.77,
+        "ctr": 26.97,
+        "impressions": 519
+      },
+      {
+        "term": "screamin sicilian pizza",
+        "clicks": 98,
+        "cpc": 1.79,
+        "ctr": 3.74,
+        "impressions": 2617
+      },
+      {
+        "term": "sourdough frozen pizza",
+        "clicks": 78,
+        "cpc": 0.58,
+        "ctr": 23.56,
+        "impressions": 331
+      },
+      {
+        "term": "screamin sicilian",
+        "clicks": 46,
+        "cpc": 1.78,
+        "ctr": 3.85,
+        "impressions": 1195
+      },
+      {
+        "term": "pizza",
+        "clicks": 41,
+        "cpc": 0.73,
+        "ctr": 0.38,
+        "impressions": 10796
+      }
+    ],
+    "keyword_performance": [
+      {
+        "keyword": "sourdough pizza crust",
+        "clicks": 312,
+        "cpc": 0.83,
+        "ctr": 2.42,
+        "impressions": 12893,
+        "spend": 257.41
+      },
+      {
+        "keyword": "frozen pizza",
+        "clicks": 302,
+        "cpc": 0.69,
+        "ctr": 2,
+        "impressions": 15088,
+        "spend": 208.8
+      },
+      {
+        "keyword": "best frozen pizza",
+        "clicks": 209,
+        "cpc": 0.64,
+        "ctr": 1.35,
+        "impressions": 15430,
+        "spend": 132.83
+      },
+      {
+        "keyword": "sourdough frozen pizza",
+        "clicks": 168,
+        "cpc": 0.73,
+        "ctr": 2.17,
+        "impressions": 7751,
+        "spend": 123.43
+      },
+      {
+        "keyword": "paul newman pizza",
+        "clicks": 114,
+        "cpc": 1.54,
+        "ctr": 1.16,
+        "impressions": 9834,
+        "spend": 175.8
+      }
+    ],
+    "competitor_campaign_note": "Competitor search has spent $1,227.77 at $0.59 CPC, versus branded search at $0.21 CPC and 5.68% CTR."
+  },
+  "patterns": [
+    "THE EXPORT IS FRESH, BUT THE UNDERLYING WINDOW IS NOT: today's workbook downloaded cleanly on May 22, yet the report itself still stops at 2026-05-12. That means this Friday run is best read as a verification pass on the existing YTD story, not a net-new week of marketing performance.",
+    "PAID SCALE IS STILL WORKING, BUT LESS CLEANLY: Total tracked spend is now $13,339.15 YTD ($9,940.56 Meta + $3,398.59 Google), up +77.5% versus the Apr 8 YTD snapshot. Reach and clicks are still climbing hard, but Meta CTR has slipped from 3.28% to 2.95% while CPC nudged from $0.14 to $0.15.",
+    "WISCONSIN + PRACTICAL DINNER FRAMING ARE STILL THE BEST PAID HOOKS: 'Straight From Wisconsin' remains the volume leader with 13,622 link clicks at $0.11 CPC and 4.43% CTR. 'Meet Real Dough Pizza Co.' is the sleeper efficiency winner at $0.11 CPC and 4.67% CTR.",
+    "GOOGLE BRANDED SEARCH IS THE CLEANEST DEMAND POCKET: branded search is running 5.68% CTR at $0.21 CPC. Competitor search is still the expensive leak at $0.59 CPC and $1,227.77 spent.",
+    "INSTAGRAM CONTENT WINNERS ARE HUMAN, EDUCATIONAL, AND FOUNDER-LED: 'Founder Pro Tips' drove 69 engagements on 1,326 reach, and the founder-origin post held a 36.78% engagement rate. The audience still responds best when the brand sounds like real operators, not polished ad copy.",
+    "THE CORE BUYER PROFILE IS GETTING OLDER, NOT YOUNGER: on Meta ads, age 65+ now leads raw clicks (14,093) with 4.07% CTR, while 55-64 remains highly efficient at $0.12 CPC. Instagram's biggest audience bucket is still 35-44.",
+    "FACEBOOK ORGANIC REPEATS THE SAME PLAYBOOK: helpful ingredient reassurance, easy-dinner framing, and founder/pro-tip reels keep showing up at the top. The best Facebook reel is still a practical prep video, not a glossy product montage.",
+    "INSTAGRAM TOP-OF-FUNNEL IS GROWING FASTER THAN DEPTH: followers are up to 623, reach is up to 774,447, but engagement rate has slipped from 3% to 2.58%. The audience is broadening faster than it is bonding."
+  ],
+  "flags": [
+    "The workbook is newly downloaded, but the reporting cutoff is still 2026-05-12. No one should mistake this for a complete May 13-22 weekly close.",
+    "YouTube and TikTok cannot be trusted in this workbook. Their tabs returned sample/demo rows, so any current-period view or top-video call would be false confidence.",
+    "Competitor Google search is still the least efficient paid pocket at $0.59 CPC with $1,227.77 already spent YTD.",
+    "Meta efficiency is softening under scale: CTR is down 10.1% versus the Apr 8 YTD checkpoint while spend is up 82.1%.",
+    "Instagram engagement dilution is real. Reach doubled versus early April, but engagement rate is down 14.0%.",
+    "The current export window is YTD through May 12, not a clean weekly cut. It is useful for trend direction and cumulative performance, but not for precise week-over-week content ranking."
+  ],
+  "recommended_actions": [
+    "REPORTING: fix the Whatagraph date freshness issue first. The biggest operational problem is not analysis depth — it is that the shared export on May 22 is still serving a May 12 cutoff.",
+    "PAID: keep 'Straight From Wisconsin' as the benchmark control, but spin 2-3 new variants around founder credibility, family dinner utility, and ingredient reassurance.",
+    "GOOGLE: cut or cap competitor terms first — especially 'screamin sicilian pizza' and the broader competitor campaign — unless Andrew has conversion proof that justifies $1,227.77 in spend.",
+    "META TARGETING: bias harder toward 35+ audiences. The older cohorts are carrying both click volume and efficiency; younger demos are not proving incremental value.",
+    "ORGANIC IG/FB: keep making founder/pro-tip/process content. 'Founder Pro Tips' and the behind-the-scenes founder/origin posts are the clearest proof that human operator energy beats abstract brand language.",
+    "COMMUNITY: add more interaction prompts on Instagram stories and caption endings. The audience is growing, but the falling engagement rate says they need more invitations to participate, not just more impressions."
+  ],
+  "week_summary": "The May 22 Friday run succeeded technically: the workbook downloaded, parsed, and refreshed the repo data. The catch is that the underlying report window still stops at May 12, so this is a validation of the same YTD picture we saw last week, not a clean new week of movement. That validated picture is still clear: paid scale is working but getting less efficient at the margin, Wisconsin/founder/practical-dinner creative keeps winning, branded search is the cleanest demand pocket, and current YouTube/TikTok conclusions are still blocked by source quality."
+}
