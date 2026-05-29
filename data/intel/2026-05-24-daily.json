@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-24",
+  "type": "daily",
+  "generated_at": "2026-05-24T13:00:00Z",
+  "competitors": [
+    {
+      "name": "White Rabbit",
+      "action": "White Rabbit secured an ASDA rollout for three gluten-free frozen sourdough SKUs across 522 stores starting May 11, while Morrisons simultaneously broadened the brand's range into 605 stores. That is a strong distribution signal inside a niche Real Dough should watch closely: premium, better-tasting frozen pizza with a clearly differentiated dietary promise.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://grocerytrader.co.uk/white-rabbit-widens-national-distribution-with-addition-of-asda-launch-morrisons-range-extension/",
+      "first_reported": "2026-05-24",
+      "status": "new"
+    },
+    {
+      "name": "Loopini",
+      "action": "Loopini is now showing as a new frozen pizza brand at Target with at least two premium SKUs live on the retailer site, a useful signal that Target is still willing to add higher-priced, differentiated frozen pizza concepts rather than only scaling incumbent mass brands.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.target.com/b/loopini/-/N-q643lecmjbi",
+      "first_reported": "2026-05-24",
+      "status": "new"
+    },
+    {
+      "name": "ZeroCarb LYFE",
+      "action": "ZeroCarb LYFE is pushing a different kind of frozen pizza expansion: protein-led, zero-carb comfort food backed by $8 million in institutional funding, a community Wefunder raise, and active sell-through goals at Target. Even if the concept is far from Real Dough's lane, it is another sign buyers are opening freezer space for sharply positioned nutritional propositions.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.aebligroup.com/blog/the-8m-zero-carb-bet-how-omar-atia-built-zerocarb-lyfe",
+      "first_reported": "2026-05-24",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza shelf growth is favoring sharply framed niche propositions over generic premium claims",
+      "direction": "up",
+      "magnitude": "Today's clearest signals were gluten-free sourdough national distribution at White Rabbit, premium better-for-you Target shelf placement for Loopini, and macro-driven functional positioning from ZeroCarb LYFE.",
+      "context": "For Real Dough, the implication is pretty direct: buyers still want differentiation, but it has to be legible fast. 'Sourdough' alone is not enough unless it is paired with a crisp retail promise around taste, process, or nutrition that stands apart from adjacent niche brands.",
+      "source_url": "https://grocerytrader.co.uk/white-rabbit-widens-national-distribution-with-addition-of-asda-launch-morrisons-range-extension/",
+      "first_reported": "2026-05-24",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "White Rabbit ASDA rollout",
+      "value": "3 frozen sourdough SKUs across 522 ASDA stores",
+      "change": "Morrisons also extended White Rabbit into 605 stores with two additional gnocchi SKUs",
+      "source_url": "https://grocerytrader.co.uk/white-rabbit-widens-national-distribution-with-addition-of-asda-launch-morrisons-range-extension/"
+    },
+    {
+      "metric": "Loopini Target pricing",
+      "value": "$14.49 for Classic Margherita and Bianca al Tartufo frozen pizzas at Target",
+      "change": null,
+      "source_url": "https://www.target.com/b/loopini/-/N-q643lecmjbi"
+    },
+    {
+      "metric": "ZeroCarb LYFE funding and loyalty",
+      "value": "$8 million in institutional funding and a 42% repeat purchase rate",
+      "change": "Company is also opening a community Wefunder round while pushing Target velocity",
+      "source_url": "https://www.aebligroup.com/blog/the-8m-zero-carb-bet-how-omar-atia-built-zerocarb-lyfe"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The freezer aisle is still making room for niche pizza brands when the proposition is instantly understandable",
+      "impact": "White Rabbit is scaling gluten-free sourdough through mainstream grocery, while Loopini and ZeroCarb LYFE show Target is willing to support both premium indulgence and functional nutrition stories. Real Dough should keep tightening the one-line buyer story around authentic sourdough quality and why it deserves shelf space versus these increasingly specific competitors.",
+      "source_url": "https://grocerytrader.co.uk/white-rabbit-widens-national-distribution-with-addition-of-asda-launch-morrisons-range-extension/",
+      "first_reported": "2026-05-24"
+    }
+  ]
+}

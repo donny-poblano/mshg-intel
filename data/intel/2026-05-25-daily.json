@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-25",
+  "type": "daily",
+  "generated_at": "2026-05-25T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Bagel Bites / Heinz",
+      "action": "Bagel Bites is extending beyond its classic format with new Rolled Pizza Snacks in cheese and cheese-and-pepperoni varieties, already being spotted at Giant. It is a useful format signal: frozen pizza growth is still showing up in snackable, portable forms that can win younger or lunch-driven occasions without asking shoppers to commit to a full pie.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.aol.com/articles/bagel-bites-launches-rolled-pizza-004908000.html",
+      "first_reported": "2026-05-25",
+      "status": "new"
+    },
+    {
+      "name": "White Rabbit",
+      "action": "White Rabbit secured a national ASDA listing for three gluten-free sourdough frozen SKUs across 522 stores from May 11 while Morrisons simultaneously expanded the brand with additional Italian meal-line items. The important signal for Real Dough is that freezer buyers are still rewarding sharply differentiated crust stories when the proposition is easy to read and priced accessibly.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://grocerytrader.co.uk/white-rabbit-widens-national-distribution-with-addition-of-asda-launch-morrisons-range-extension/",
+      "first_reported": "2026-05-24",
+      "status": "updated"
+    },
+    {
+      "name": "Asda / Crosta Mollica",
+      "action": "Asda is resetting the frozen aisle with 230-plus new frozen products and specifically calling out Crosta Mollica as a new brand in the refresh. That is a strong retail signal that large grocers still want more premium, Italian-coded frozen variety rather than simply defending legacy value lines.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://grocerytrader.co.uk/asda-unveils-biggest-food-shake-up-of-the-year-with-400-new-products-landing-in-stores-this-week/",
+      "first_reported": "2026-05-25",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza opportunity is widening across both format innovation and premium-retail assortment resets",
+      "direction": "up",
+      "magnitude": "Today\u2019s clearest signals were Bagel Bites pushing snackable frozen pizza, White Rabbit scaling differentiated sourdough into national grocery, and Asda opening more frozen shelf space to premium Italian brands.",
+      "context": "For Real Dough, the read is pretty clean: the aisle is still making room for distinct propositions, but they need to communicate fast. The strongest lane remains a crisp sourdough quality story with obvious retail relevance rather than a vague premium claim.",
+      "source_url": "https://grocerytrader.co.uk/white-rabbit-widens-national-distribution-with-addition-of-asda-launch-morrisons-range-extension/",
+      "first_reported": "2026-05-25",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "White Rabbit ASDA rollout",
+      "value": "3 gluten-free sourdough frozen SKUs across 522 ASDA stores from May 11",
+      "change": "Morrisons also extended the brand into 605 stores with two additional gnocchi variants",
+      "source_url": "https://grocerytrader.co.uk/white-rabbit-widens-national-distribution-with-addition-of-asda-launch-morrisons-range-extension/"
+    },
+    {
+      "metric": "Asda frozen refresh scale",
+      "value": "230+ new frozen products within a 400-product food refresh",
+      "change": "Crosta Mollica was named as one of the incoming frozen brands",
+      "source_url": "https://grocerytrader.co.uk/asda-unveils-biggest-food-shake-up-of-the-year-with-400-new-products-landing-in-stores-this-week/"
+    },
+    {
+      "metric": "Bagel Bites launch format",
+      "value": "New Rolled Pizza Snacks in cheese and cheese-and-pepperoni varieties",
+      "change": "Represents expansion from classic mini bagel format into a more portable frozen snack shape",
+      "source_url": "https://www.aol.com/articles/bagel-bites-launches-rolled-pizza-004908000.html"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The freezer aisle still has room for new pizza stories, but the winners are increasingly the ones with instantly legible positioning.",
+      "impact": "Snackable formats like Bagel Bites, sharply differentiated sourdough plays like White Rabbit, and retailer assortment resets like Asda\u2019s all point the same direction: Real Dough should keep sharpening a one-line buyer story around authentic sourdough quality and why it deserves space versus both legacy brands and adjacent snack formats.",
+      "source_url": "https://grocerytrader.co.uk/asda-unveils-biggest-food-shake-up-of-the-year-with-400-new-products-landing-in-stores-this-week/",
+      "first_reported": "2026-05-25"
+    }
+  ]
+}

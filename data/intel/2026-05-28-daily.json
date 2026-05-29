@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-28",
+  "type": "daily",
+  "generated_at": "2026-05-28T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Kraft Heinz",
+      "action": "Kraft Heinz said it is downgrading frozen from a \"win big\" priority to \"hold,\" meaning the company plans to put less innovation and marketing weight behind frozen brands like Bagel Bites, Devour, Delimex, Boca, Smart Ones, and Ore-Ida while shifting more attention to hydration. That is a meaningful CPG signal for frozen pizza: large portfolios are getting pickier about where frozen can still earn growth investment.",
+      "category": "strategy",
+      "relevance_score": 9,
+      "source_url": "https://www.foodbusinessnews.net/articles/30283-kraft-heinz-downgrading-frozen-elevating-hydration",
+      "first_reported": "2026-05-28",
+      "status": "new"
+    },
+    {
+      "name": "Nomad Foods",
+      "action": "Nomad Foods reported first-quarter 2026 revenue down 5.9% to €715 million and adjusted EBITDA down 22.9% to €93 million, but management simultaneously said category growth is accelerating and demand for its brands remains resilient while the company resets pricing, incentives, and leadership. For frozen CPG, the read is that the category still has demand, but margin and execution discipline are getting tougher.",
+      "category": "earnings",
+      "relevance_score": 8,
+      "source_url": "https://www.nomadfoods.com/news/nomad-foods-reports-first-quarter-2026-financial-results/",
+      "first_reported": "2026-05-28",
+      "status": "new"
+    },
+    {
+      "name": "Americold / PLUS",
+      "action": "Americold said Dutch grocer PLUS is consolidating its frozen assortment through a single integrated cold-chain solution, with Americold handling storage, handling, and distribution from Barneveld for a network of about 440 stores. It is not a pizza brand move, but it is a high-signal frozen retail infrastructure story: large grocers are still investing in tighter centralized frozen logistics to improve in-stock performance and execution.",
+      "category": "infrastructure",
+      "relevance_score": 7,
+      "source_url": "https://www.americold.com/news/blog/americold-delivering-centralized-cold-chain-logistics-solutions-to-plus-in-the-netherlands/",
+      "first_reported": "2026-05-28",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen CPG is splitting between brands that can still justify investment and operators that need sharper cost, logistics, and margin discipline",
+      "direction": "up",
+      "magnitude": "One major CPG owner downgraded frozen priority, one major frozen-food company showed softer financials despite saying category demand is resilient, and one large grocer centralized frozen logistics across roughly 440 stores.",
+      "context": "For Real Dough, the useful takeaway is pretty blunt: the category still has consumer demand, but capital and shelf support are getting more selective. The brands that win will need both a crisp consumer story and cleaner operational economics.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30283-kraft-heinz-downgrading-frozen-elevating-hydration",
+      "first_reported": "2026-05-28",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Nomad Foods Q1 2026 revenue",
+      "value": "€715 million",
+      "change": "Down 5.9% year over year, with organic revenue down 5.3% and volume down 4.4%",
+      "source_url": "https://www.nomadfoods.com/news/nomad-foods-reports-first-quarter-2026-financial-results/"
+    },
+    {
+      "metric": "Nomad Foods Q1 2026 adjusted EBITDA",
+      "value": "€93 million",
+      "change": "Down 22.9% year over year",
+      "source_url": "https://www.nomadfoods.com/news/nomad-foods-reports-first-quarter-2026-financial-results/"
+    },
+    {
+      "metric": "PLUS frozen logistics network",
+      "value": "Approximately 440 supermarket stores in the Netherlands",
+      "change": "Frozen assortment being consolidated into a single integrated cold-chain model through Americold's Barneveld distribution center",
+      "source_url": "https://www.americold.com/news/blog/americold-delivering-centralized-cold-chain-logistics-solutions-to-plus-in-the-netherlands/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The strongest signal today is that frozen demand is not disappearing, but investment is getting a lot less forgiving.",
+      "impact": "Kraft Heinz is explicitly pulling frozen down its priority stack, Nomad is showing how hard margins can get even when leadership says demand is resilient, and PLUS is tightening logistics to protect execution. For Real Dough, that argues for a sharper premium story paired with very disciplined operations and retailer readiness.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30283-kraft-heinz-downgrading-frozen-elevating-hydration",
+      "first_reported": "2026-05-28"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-23",
+  "type": "daily",
+  "generated_at": "2026-05-23T13:00:00Z",
+  "competitors": [
+    {
+      "name": "California Pizza Kitchen",
+      "action": "Under new ownership, CPK said it is doubling down on grocery CPG: expanding beyond frozen pizza into frozen appetizers and entrees for U.S. grocery, broadening Nestlé-led frozen pizza distribution into Latin America and the Caribbean later this quarter, and pushing further into Asia after Taiwan Costco placement. The important signal is that an established restaurant brand still sees frozen retail as a growth engine worth widening geographically and by category.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.pmq.com/under-new-owners-cpk-is-doubling-down-on-frozen-foods-for-grocery-stores/",
+      "first_reported": "2026-05-23",
+      "status": "new"
+    },
+    {
+      "name": "Connie's Frozen Pizza / Palermo Villa",
+      "action": "Connie's launched a new authentic wood-fired frozen pizza line built around 24-hour fermented dough, wood-fired baking, and a $10.99 premium price point, with initial placement at select Midwest retailers and wider distribution planned. This is a clean premiumization signal: regional incumbents are moving harder into artisan crust theater rather than staying in basic value lanes.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://commercialbaking.com/wood-fired-experience-inspires-palermos-brand/",
+      "first_reported": "2026-05-23",
+      "status": "new"
+    },
+    {
+      "name": "Palermo Villa / Stranger Things Surfer Boy Pizza",
+      "action": "Palermo is reviving its Stranger Things Surfer Boy frozen pizza line ahead of the new season, with four SKUs returning to major retailers nationwide including Walmart after the line has already sold more than 10 million pizzas. That is a strong reminder that licensed entertainment IP is still a real freezer-aisle growth lever when the product is easy to recognize and retailer-ready.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://commercialbaking.com/palermos-pizza-revives-stranger-things-pizza-line/",
+      "first_reported": "2026-05-23",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza competition is broadening along three fronts at once: restaurant-brand retail expansion, artisan-crust premiumization, and licensed-IP merchandising",
+      "direction": "up",
+      "magnitude": "Today's clearest signals were CPK widening its grocery ambitions, Connie's leaning into 24-hour fermented wood-fired positioning, and Surfer Boy proving entertainment tie-ins still move real freezer volume at national scale.",
+      "context": "For Real Dough, the opportunity is to stay brutally clear about which lane it wants to own. The strongest lane still looks like premium artisan credibility: real sourdough process, obvious crust differentiation, and packaging/storytelling strong enough to stand apart from both chain nostalgia plays and broad restaurant-brand extensions.",
+      "source_url": "https://www.pmq.com/under-new-owners-cpk-is-doubling-down-on-frozen-foods-for-grocery-stores/",
+      "first_reported": "2026-05-23",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Connie's wood-fired MSRP",
+      "value": "$10.99",
+      "change": "Signals premium frozen pizza pricing is still being pushed higher when brands can attach an artisan crust/process story",
+      "source_url": "https://commercialbaking.com/wood-fired-experience-inspires-palermos-brand/"
+    },
+    {
+      "metric": "Surfer Boy line historical sell-through",
+      "value": "10 million+ frozen pizzas sold",
+      "change": "Shows licensed frozen pizza can sustain real national volume beyond novelty when retail partners stay engaged",
+      "source_url": "https://commercialbaking.com/palermos-pizza-revives-stranger-things-pizza-line/"
+    },
+    {
+      "metric": "CPK Asia foothold",
+      "value": "BBQ Chicken Pizza now in all Costco warehouses in Taiwan, with Japan and Shanghai-region expansion next",
+      "change": "Reinforces that restaurant-origin frozen pizza brands are still using international retail to scale premium recognition",
+      "source_url": "https://www.pmq.com/under-new-owners-cpk-is-doubling-down-on-frozen-foods-for-grocery-stores/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The freezer aisle is getting more polarized, not less: broad restaurant brands are stretching into more categories and geographies while premium/regional players fight with sharper crust stories and louder merchandising hooks.",
+      "impact": "Real Dough should keep resisting mushy middle positioning. The best move is still a one-glance premium claim built around real sourdough fermentation and superior crust experience, with packaging strong enough to compete against both celebrity/nostalgia plays and big-chain grocery expansion.",
+      "source_url": "https://commercialbaking.com/wood-fired-experience-inspires-palermos-brand/",
+      "first_reported": "2026-05-23"
+    }
+  ]
+}

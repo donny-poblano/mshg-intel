@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-26",
+  "type": "daily",
+  "generated_at": "2026-05-26T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Martha Stewart Grocery / Turpone Foods",
+      "action": "Martha Stewart Grocery launched a frozen pizza-and-pantry line that includes artisanal-style frozen pizzas and pinsas built on a lighter sourdough crust, with Longo's distribution in Greater Toronto and Walmart distribution nationwide in Canada, plus a U.S. launch planned later this year. The signal is that premium pizza storytelling is now pulling in celebrity lifestyle brands with enough scale to win immediate retail placement.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/07/3290150/0/en/martha-stewart-announces-martha-stewart-grocery-a-new-collection-of-pizza-and-pantry-essentials.html",
+      "first_reported": "2026-05-26",
+      "status": "new"
+    },
+    {
+      "name": "pi00a",
+      "action": "pi00a's Shark Tank breakthrough is now translating into real frozen CPG momentum: the brand says it is already in more than 200 U.S. stores after pivoting from fresh delivery to frozen in 2024, and its April 22 TV appearance brought a $200,000 Lori Greiner investment to help scale. For Real Dough, it is a strong proof point that mission-led artisan frozen pizza can break through when the product story is distinct enough.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://gallaudet.edu/innovation-entrepreneurship-institute/alums-melody-and-russell-stein-swim-with-the-sharks-and-uplift-deaf-entrepreneurs/",
+      "first_reported": "2026-05-26",
+      "status": "new"
+    },
+    {
+      "name": "Clean Eatz Kitchen",
+      "action": "Clean Eatz Kitchen expanded its frozen pizza assortment on QVC with classic cheese, Hawaiian, and pepperoni cauliflower-crust SKUs, each positioned around 22 grams of protein and nationwide frozen shipping. The takeaway is that the category is still stretching into high-protein, gluten-free convenience lanes rather than only competing on classic indulgence.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.prnewswire.com/news-releases/clean-eatz-kitchen-introduces-new-pizza-flavors-on-qvc-wednesday-302762190.html",
+      "first_reported": "2026-05-26",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza innovation is broadening across premium lifestyle branding, artisan mission-led brands, and functional nutrition",
+      "direction": "up",
+      "magnitude": "This morning's clearest signals were Martha Stewart entering with sourdough-based frozen pizzas and pinsas, pi00a scaling artisan frozen pizza through mission-led brand equity, and Clean Eatz pushing protein-forward cauliflower-crust classics through QVC and DTC channels.",
+      "context": "For Real Dough, the important read is that the aisle is still open to differentiated pizza stories, but they are getting more specific: premium lifestyle branding, founder-led authenticity, and functional nutrition are all viable wedges. Real Dough should keep sharpening where its sourdough story is strongest and most ownable rather than sounding generically premium.",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/07/3290150/0/en/martha-stewart-announces-martha-stewart-grocery-a-new-collection-of-pizza-and-pantry-essentials.html",
+      "first_reported": "2026-05-26",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Martha Stewart Grocery initial distribution",
+      "value": "Available at Longo's across Greater Toronto and Walmart locations nationwide in Canada",
+      "change": "U.S. launch expected later in 2026",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/07/3290150/0/en/martha-stewart-announces-martha-stewart-grocery-a-new-collection-of-pizza-and-pantry-essentials.html"
+    },
+    {
+      "metric": "pi00a retail footprint",
+      "value": "Available in 200+ stores around the United States",
+      "change": "Business pivoted from fresh delivery in August 2023 to frozen pizza manufacturing in June 2024, then landed a $200,000 Shark Tank investment in April 2026",
+      "source_url": "https://gallaudet.edu/innovation-entrepreneurship-institute/alums-melody-and-russell-stein-swim-with-the-sharks-and-uplift-deaf-entrepreneurs/"
+    },
+    {
+      "metric": "Clean Eatz Kitchen pizza positioning",
+      "value": "Three new cauliflower-crust pizzas with 22g protein each, sold in six-count packs for $59.98 on QVC",
+      "change": "Nationwide frozen shipping plus follow-on availability at cleaneatzkitchen.com and QVC.com after the on-air debut",
+      "source_url": "https://www.prnewswire.com/news-releases/clean-eatz-kitchen-introduces-new-pizza-flavors-on-qvc-wednesday-302762190.html"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Frozen pizza is still fragmenting into sharper niches instead of collapsing back into one mainstream premium lane.",
+      "impact": "Today's best read for Real Dough is that buyers and consumers are rewarding very different but very legible propositions: celebrity-backed sourdough premiumization, artisan founder-led mission brands, and high-protein functional pizza. Real Dough should keep the sourdough message crisp and retail-ready, with no vague premium language.",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/07/3290150/0/en/martha-stewart-announces-martha-stewart-grocery-a-new-collection-of-pizza-and-pantry-essentials.html",
+      "first_reported": "2026-05-26"
+    }
+  ]
+}

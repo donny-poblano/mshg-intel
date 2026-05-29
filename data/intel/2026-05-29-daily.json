@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-29",
+  "type": "daily",
+  "generated_at": "2026-05-29T13:00:00Z",
+  "competitors": [
+    {
+      "name": "California Pizza Kitchen",
+      "action": "CPK said it is expanding its frozen business beyond pizza for the first time since 1999, developing frozen appetizers and entrees for grocery stores nationwide while also widening its Nestlé-led frozen pizza distribution into Mexico, Central America, South America, and the Caribbean. That is a high-signal retail move: a legacy premium frozen pizza brand is using new ownership to turn frozen into a broader CPG growth engine rather than a single-category line extension.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.morningstar.com/news/business-wire/20260309489022/california-pizza-kitchen-doubles-down-on-global-brand-growth-with-cpg-category-expansion-and-new-international-markets",
+      "first_reported": "2026-05-29",
+      "status": "new"
+    },
+    {
+      "name": "Dogtown Pizza / Confluence Food Group",
+      "action": "Dogtown Pizza's parent company completed a major expansion into a 113,000-square-foot St. Louis facility, investing $6.3 million and adding 17 jobs while centralizing Dogtown Pizza, Fox River Dairy, and Crust & Sons under one roof. Combined with reporting that Dogtown is now planning regional expansion, the signal is that frozen pizza growth is still being won through manufacturing capacity, vertical integration, and tighter distribution control.",
+      "category": "capacity",
+      "relevance_score": 8,
+      "source_url": "https://ded.mo.gov/press-room/confluence-food-group-expands-st-louis-investing-63-million-and-creating-17-new-jobs",
+      "first_reported": "2026-05-29",
+      "status": "new"
+    },
+    {
+      "name": "Antico Pizza Napoletana",
+      "action": "Antico Pizza Napoletana launched its new super-premium frozen line, Antico Casa, into Costco across the Southeast, marking the first time the Michelin Bib Gourmand-winning restaurant's products have entered retail stores. The line launches in more than 80 Costco locations and leans hard on process credibility — including a 36-hour fermentation and imported Italian ingredients — which is exactly the kind of restaurant-to-freezer premiumization worth tracking for Real Dough.",
+      "category": "launch",
+      "relevance_score": 8,
+      "source_url": "https://pizzatoday.com/press-releases/antico-pizza-napoletana-launches-new-premium-frozen-pizza/616285/",
+      "first_reported": "2026-05-29",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium frozen pizza growth is increasingly coming from restaurant brands and operators that can pair a credible food story with real retail and production infrastructure",
+      "direction": "up",
+      "magnitude": "One legacy frozen pizza leader is broadening into more CPG categories, one regional frozen pizza maker just expanded capacity and distribution readiness, and one acclaimed restaurant brand entered Costco with a process-led premium frozen line.",
+      "context": "For Real Dough, the useful takeaway is that 'premium' by itself is not enough. The category is rewarding brands that can translate restaurant credibility into retailer-friendly formats, dependable production, and a clear point of difference on process or ingredients.",
+      "source_url": "https://www.morningstar.com/news/business-wire/20260309489022/california-pizza-kitchen-doubles-down-on-global-brand-growth-with-cpg-category-expansion-and-new-international-markets",
+      "first_reported": "2026-05-29",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "CPK frozen category expansion timing",
+      "value": "First frozen expansion beyond pizza since 1999; grocery rollout expected in early 2027",
+      "change": "Also expanding Nestlé-led frozen pizza distribution into Mexico, Central America, South America, and the Caribbean, with retail rollout beginning later this quarter and reaching shelves by mid-year in select markets",
+      "source_url": "https://www.morningstar.com/news/business-wire/20260309489022/california-pizza-kitchen-doubles-down-on-global-brand-growth-with-cpg-category-expansion-and-new-international-markets"
+    },
+    {
+      "metric": "Dogtown / Confluence expansion scale",
+      "value": "$6.3 million investment, 113,000-square-foot facility, 17 new jobs",
+      "change": "Operations moved from a 24,000-square-foot site into a centralized refrigerated and frozen manufacturing/warehouse footprint",
+      "source_url": "https://ded.mo.gov/press-room/confluence-food-group-expands-st-louis-investing-63-million-and-creating-17-new-jobs"
+    },
+    {
+      "metric": "Antico Casa retail launch footprint",
+      "value": "80+ Costco stores across Alabama, Florida, Georgia, North Carolina, and Tennessee",
+      "change": "Marks Antico Pizza Napoletana's first in-store retail launch after 10 years of R&D on the frozen line",
+      "source_url": "https://pizzatoday.com/press-releases/antico-pizza-napoletana-launches-new-premium-frozen-pizza/616285/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The freezer aisle is still moving upmarket, but the real edge is shifting toward brands that can combine premium pizza positioning with serious retail execution.",
+      "impact": "CPK is broadening frozen into a bigger CPG platform, Dogtown is scaling the supply side to support wider reach, and Antico is proving restaurant prestige can translate into a warehouse-club retail play. For Real Dough, that argues for building both the product story and the retailer-ready operating backbone at the same time.",
+      "source_url": "https://www.morningstar.com/news/business-wire/20260309489022/california-pizza-kitchen-doubles-down-on-global-brand-growth-with-cpg-category-expansion-and-new-international-markets",
+      "first_reported": "2026-05-29"
+    }
+  ]
+}

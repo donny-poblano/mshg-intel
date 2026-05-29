@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-27",
+  "type": "daily",
+  "generated_at": "2026-05-27T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Del Popolo",
+      "action": "Del Popolo closed its acclaimed San Francisco restaurant after 10 years so founder Jon Darsky can focus on scaling the brand's frozen pizza business into a national platform. That is a strong restaurant-to-retail signal: a respected operator is now treating frozen as the main growth vehicle instead of a side channel born during the pandemic.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.sfchronicle.com/food/restaurants/article/del-popolo-pizza-sf-closing-22248077.php",
+      "first_reported": "2026-05-27",
+      "status": "new"
+    },
+    {
+      "name": "Picnic Works",
+      "action": "Pizza-robot maker Picnic shut down and handed its assets to a creditor-led liquidation process after years of pitching automated topping lines to foodservice operators. The useful signal for frozen pizza is cautionary: automation still matters, but the market is punishing hardware-heavy models that cannot prove durable economics and adoption.",
+      "category": "closure",
+      "relevance_score": 7,
+      "source_url": "https://www.nrn.com/restaurant-technology/pizza-robot-company-picnic-shuts-down",
+      "first_reported": "2026-05-27",
+      "status": "new"
+    },
+    {
+      "name": "Pacifico Biolabs",
+      "action": "Pacifico Biolabs raised a €7 million Series A to scale mycelium-based whole-cut protein via retrofitted breweries and said products could reach retail shelves later in 2026 through brand and retailer partners. It is not a pizza brand yet, but it is a high-signal frozen CPG input story: better alt-protein supply could make premium meatless pizza toppings and cleaner-label freezer products more credible and cheaper.",
+      "category": "funding",
+      "relevance_score": 6,
+      "source_url": "https://agfundernews.com/pacifico-biolabs-nets-8m-targets-alt-meat-cost-parity-with-brewery-retrofit-model",
+      "first_reported": "2026-05-27",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Restaurant-quality pizza brands are still using frozen as the scale path",
+      "direction": "up",
+      "magnitude": "A notable restaurant operator is exiting full-service to bet harder on frozen national growth",
+      "context": "Del Popolo reinforces the earlier pattern from Di Fara and PIANO PIANO: premium restaurant credibility is still one of the strongest stories in the freezer aisle, especially when the product can claim process integrity instead of generic artisan language.",
+      "source_url": "https://www.sfchronicle.com/food/restaurants/article/del-popolo-pizza-sf-closing-22248077.php",
+      "first_reported": "2026-05-27",
+      "status": "new"
+    },
+    {
+      "topic": "Pizza automation remains attractive but fragile",
+      "direction": "stable",
+      "magnitude": "One pizza-robot venture shut down even after meaningful fundraising",
+      "context": "The category still wants labor-saving automation, but Picnic's collapse suggests operators and investors are getting stricter about real-world economics. For Real Dough, targeted manufacturing automation matters more than flashy front-end robotics.",
+      "source_url": "https://www.nrn.com/restaurant-technology/pizza-robot-company-picnic-shuts-down",
+      "first_reported": "2026-05-27",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Del Popolo retail footprint",
+      "value": "100+ grocery stores across the Bay Area, Southern California, Arizona, and Nevada",
+      "change": "Shows a restaurant-origin frozen pizza line can build real regional distribution before pushing for national scale",
+      "source_url": "https://www.sfchronicle.com/food/restaurants/article/del-popolo-pizza-sf-closing-22248077.php"
+    },
+    {
+      "metric": "Pacifico Biolabs planned production scale",
+      "value": "200 tons per month at one Saxony site for later-2026 launches",
+      "change": "Signals faster incoming capacity for alt-protein ingredients that could spill into frozen prepared foods and pizza toppings",
+      "source_url": "https://agfundernews.com/pacifico-biolabs-nets-8m-targets-alt-meat-cost-parity-with-brewery-retrofit-model"
+    },
+    {
+      "metric": "Picnic commercialization model",
+      "value": "Pizza Station pricing started at $3,500 per month before shutdown",
+      "change": "Useful reminder that automation capex still has to clear a hard ROI bar in pizza production and service",
+      "source_url": "https://www.nrn.com/restaurant-technology/pizza-robot-company-picnic-shuts-down"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The clearest signal today is that frozen pizza remains a serious strategic destination, but only for operators with a sharp product story and disciplined economics.",
+      "impact": "Del Popolo is doubling down on frozen, Picnic shows weak automation models can still wash out, and Pacifico points to better alt-protein inputs coming downstream. Real Dough should keep leaning into authentic process and practical scale, not gimmicks.",
+      "source_url": "https://www.sfchronicle.com/food/restaurants/article/del-popolo-pizza-sf-closing-22248077.php",
+      "first_reported": "2026-05-27"
+    }
+  ]
+}
