@@ -1,0 +1,52 @@
+{
+  "date": "2026-06-05",
+  "week": "2026-W23",
+  "headline": "Founder-led Wisconsin messaging is still the clearest growth lever, competitor search remains an expensive leak, and this week’s biggest risk is still stale reporting rather than weak demand.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Meta’s best hooks are still crisp and believable: 'Straight From Wisconsin' has driven 13,622 link clicks at $0.11 CPC, while 'Meet Real Dough Pizza Co.' is still one of the most efficient ads at 4.67% CTR and $0.11 CPC.",
+        "Founder/operator content still leads organic trust across platforms: Founder Pro Tips remains the strongest Instagram post and top Facebook reel, and founder-origin storytelling stays near the top of Instagram engagement.",
+        "Brand demand is real when intent is high: Google branded search is still the cleanest pocket at 5.68% CTR and $0.21 CPC, and Instagram has grown to 623 followers with 1,269 website clicks in the current YTD window."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "The June 5 Whatagraph pull worked, but the trusted Meta/Google/Facebook/Instagram reporting window still stops at 2026-05-12. This is a verification week, not a true weekly close.",
+        "Competitor Google search is still the weakest paid pocket: $1,227.77 spent at $0.59 CPC versus branded search at $0.21 CPC.",
+        "Competitive pressure is getting sharper on multiple fronts at once: Palermo/Connie’s is pushing 24-hour fermented premium pizza, Yough is scaling high-protein pizza into ~2,000 Target stores, and recall stories around Motor City show how fast retailer trust can break when operations slip."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "REPORTING: Fix the Whatagraph freshness issue first so next Friday reflects a real May 13+ performance window instead of backfill noise.",
+        "PAID + CREATIVE: Keep 'Straight From Wisconsin' and founder-led ads as controls, then brief the agency to build the next batch around founder authority, fermentation/process proof, and practical dinner utility.",
+        "SEARCH: Cap or cut competitor terms unless conversion data clearly proves payback; branded and sourdough-intent traffic are materially cleaner.",
+        "BRAND/OPS: Tighten retailer-facing proof around quality, consistency, and supply-chain discipline so the sourdough story is backed by execution, not just positioning."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "Specific, founder-led, Wisconsin-rooted, and process-forward messaging is still outperforming generic premium language. The strongest creative combines sourdough credibility, operator voice, and an easy dinner outcome.",
+    "what_didnt": "Competitor search remains expensive, broad premium positioning is too soft, and the current stale reporting window makes false week-over-week conclusions easy.",
+    "recommendation": "Keep the creative system narrow and legible. Build the next round around founder education, fermentation/process proof, ingredient reassurance, and family-dinner utility. Make every ad and landing-page message answer one question fast: why is this frozen pizza worth trading up for?",
+    "competitive_context": "The aisle is splitting between premium craft cues, functional nutrition, and operational scale. Competitors are winning with sharper claims—24-hour fermentation, high protein, cleaner labels, or retail expansion. Real Dough should defend a tighter moat around authentic sourdough craft, Wisconsin credibility, and retailer-ready execution."
+  },
+  "data_quality": {
+    "missing": [
+      "No usable review sentiment feed for Real Dough. data/reviews.json still contains only place-not-found errors for other MSHG brands.",
+      "No current-week Real Dough operations data. data/operations/ still contains older Merriment snapshots from March/April, not current Real Dough operating inputs."
+    ],
+    "stale": [
+      "The latest trustworthy analytics view is still YTD through 2026-05-12, not a clean current-week slice.",
+      "Week-over-week Meta and Google movement is effectively frozen because the source window did not advance."
+    ],
+    "anomalies": [
+      "YouTube and TikTok tabs in the current Whatagraph export are still returning sample/demo data, so current video-platform rankings remain excluded.",
+      "Small Instagram and Facebook deltas versus last week appear to be late organic backfills inside the same reporting window, not new performance."
+    ]
+  }
+}
