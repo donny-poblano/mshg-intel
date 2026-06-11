@@ -184513,7 +184513,7 @@
     ],
     [
       "Female 25-34",
-      98,
+      101,
       90,
       null,
       "Till",
@@ -184541,7 +184541,7 @@
     ],
     [
       "Unknown 35-44",
-      24,
+      25,
       22
     ],
     [
@@ -184566,7 +184566,7 @@
     ],
     [
       "Female 65+",
-      19,
+      18,
       15
     ],
     [
@@ -186505,7 +186505,7 @@
       "Date range"
     ],
     [
-      1764,
+      7209,
       null,
       "From",
       "2026-01-01"
@@ -186529,7 +186529,7 @@
       "Date range"
     ],
     [
-      10,
+      6,
       null,
       "From",
       "2026-01-01"
@@ -186553,7 +186553,7 @@
       "Date range"
     ],
     [
-      755,
+      861,
       null,
       "From",
       "2026-01-01"
@@ -186586,106 +186586,106 @@
       "Date range"
     ],
     [
-      "Going forward",
-      8962,
-      875,
-      480,
-      44.86,
-      53,
-      13,
-      39,
-      13,
-      9,
+      "#Tuesday is the most productive day of the week!",
+      9145,
+      753,
+      181,
+      32.36,
+      58,
+      89,
+      10,
+      23,
+      4,
       null,
       "From",
       "2026-01-01"
     ],
     [
-      "When the boss wants to talk with me about very old project",
-      7795,
-      893,
-      444,
-      25.4,
-      90,
-      92,
-      50,
-      6,
-      7,
+      "Do you have one?",
+      8714,
+      497,
+      442,
+      44.31,
+      11,
+      20,
+      48,
+      17,
+      9,
       null,
       "Till",
       "2026-05-12"
     ],
     [
-      "#Tuesday is the most productive day of the week!",
-      7551,
-      817,
-      745,
-      49.49,
-      52,
-      65,
-      42,
-      25,
-      2
+      "Client's expectations VS client's budget",
+      8535,
+      155,
+      324,
+      44.59,
+      38,
+      19,
+      47,
+      14,
+      5
     ],
     [
       "TI reached out to our clients asking what they thought of the reports and they loved them!",
-      6226,
-      478,
-      297,
-      28.11,
-      21,
-      21,
-      35,
-      24,
-      7
-    ],
-    [
-      "Client's expectations VS client's budget",
-      6219,
-      310,
-      732,
-      12.58,
-      25,
-      42,
-      15,
+      8464,
+      510,
+      806,
+      11.91,
+      74,
+      66,
+      49,
       17,
-      0
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      3671,
-      768,
-      401,
-      18.5,
-      67,
-      55,
-      16,
-      1,
       4
     ],
     [
-      "Do you have one?",
-      2163,
-      860,
-      920,
-      15.26,
-      70,
-      27,
-      35,
-      4,
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      6266,
+      983,
+      538,
+      49.84,
+      97,
+      75,
+      28,
+      24,
       1
     ],
     [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      2120,
-      624,
-      363,
-      17.64,
-      34,
-      50,
-      38,
+      "When the boss wants to talk with me about very old project",
+      5799,
+      930,
+      909,
+      37.22,
+      52,
+      100,
       18,
-      5
+      22,
+      8
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      3200,
+      110,
+      956,
+      11.15,
+      64,
+      40,
+      27,
+      23,
+      4
+    ],
+    [
+      "Going forward",
+      2343,
+      500,
+      689,
+      20.56,
+      68,
+      59,
+      37,
+      2,
+      3
     ]
   ],
   "Video Performance Breakdown": [
@@ -186705,2010 +186705,2010 @@
       "Date range"
     ],
     [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
       "/more",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      25721,
-      14.37,
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      26219,
+      41.55,
       null,
       "From",
       "2026-01-01"
     ],
     [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/catalog",
+      "Going forward",
+      "/forum",
       "/shop",
       "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      25562,
-      32.99,
+      25759,
+      20.43,
       null,
       "Till",
       "2026-05-12"
     ],
     [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/home",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      25201,
-      30.69
-    ],
-    [
       "Going forward",
       "/catalog",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      24586,
-      32.68
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/more",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      24515,
-      30.52
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/home",
       "/more",
       "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      24360,
-      43.8
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/home",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      24207,
-      24.69
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/shop",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      23977,
-      36.25
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/more",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      23753,
-      30.57
-    ],
-    [
-      "Going forward",
-      "/catalog",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      23140,
-      33.49
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/forum",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      23058,
-      26.05
+      24430,
+      21.37
     ],
     [
       "#Tuesday is the most productive day of the week!",
-      "/home",
+      "/shop",
       "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      22642,
-      36.55
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      24139,
+      31.34
     ],
     [
       "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/home",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      23930,
+      39.58
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/shop",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      22562,
+      27.18
+    ],
+    [
+      "Going forward",
+      "/more",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      22548,
+      31.5
+    ],
+    [
+      "Going forward",
       "/home",
       "/catalog",
       "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      22533,
-      30.55
+      22306,
+      27.91
     ],
     [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
       "/shop",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      22472,
-      29.68
-    ],
-    [
-      "Client's expectations VS client's budget",
       "/more",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      22400,
-      25.11
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      22214,
+      35.15
     ],
     [
       "Infographic guide on making the most of mobile vs. desktop statistics!",
       "/catalog",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      22244,
-      38.18
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      22124,
+      41.02
     ],
     [
       "Client's expectations VS client's budget",
-      "/more",
+      "/shop",
       "/forum",
       "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      22148,
+      21967,
+      38.29
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/more",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      21810,
       19.08
     ],
     [
       "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/forum",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      21959,
-      38.73
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/forum",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      21823,
-      28.9
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/catalog",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      21683,
-      36.5
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/catalog",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      21598,
-      34.71
-    ],
-    [
-      "Client's expectations VS client's budget",
       "/home",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      21184,
-      34.4
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/catalog",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      21164,
-      20.2
-    ],
-    [
-      "Going forward",
-      "/shop",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      21074,
-      26.4
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/catalog",
       "/catalog",
       "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      20743,
-      26.71
+      21735,
+      44.13
     ],
     [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/catalog",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      20647,
-      36.5
-    ],
-    [
-      "Going forward",
-      "/catalog",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      20638,
-      29.86
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/shop",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      20415,
-      29.59
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/home",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      20183,
-      33.11
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/more",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      19787,
-      39.42
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/forum",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      19678,
-      32.68
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/forum",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      19665,
-      24.62
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/catalog",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      19661,
-      25.46
-    ],
-    [
-      "Going forward",
-      "/home",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      19549,
-      38.42
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/forum",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      19482,
-      22.95
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
       "/shop",
       "/catalog",
       "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      19387,
-      32.49
+      21353,
+      27.68
     ],
     [
       "Client's expectations VS client's budget",
-      "/more",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      19226,
-      38.27
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/shop",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      19213,
-      45.37
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/more",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      19189,
-      30.78
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/home",
+      "/forum",
       "/shop",
       "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      19134,
-      31.33
+      21328,
+      34.02
     ],
     [
       "#Tuesday is the most productive day of the week!",
-      "/shop",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      19123,
-      27.41
-    ],
-    [
-      "Client's expectations VS client's budget",
+      "/catalog",
       "/forum",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      19098,
-      35.82
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/more",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      19069,
-      28.76
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      21256,
+      36.7
     ],
     [
       "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/shop",
       "/more",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      18852,
-      39.2
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/more",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      18656,
-      34.41
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      21240,
+      30.8
     ],
     [
       "Client's expectations VS client's budget",
       "/more",
       "/catalog",
       "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      18638,
-      23.64
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/more",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      18533,
-      28.02
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/more",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      18509,
-      31.6
+      21234,
+      28.97
     ],
     [
       "Client's expectations VS client's budget",
-      "/forum",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      18469,
-      31.9
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/home",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      18109,
-      32
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/more",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      18098,
-      32.59
-    ],
-    [
-      "Going forward",
-      "/shop",
       "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      18003,
-      27.09
-    ],
-    [
-      "Going forward",
-      "/shop",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      17998,
-      37.28
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/home",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      17879,
-      44.05
-    ],
-    [
-      "Going forward",
-      "/home",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      17826,
-      32.72
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/shop",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      17823,
-      28.74
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/forum",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      17729,
-      28.19
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/more",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      17713,
-      34.77
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/catalog",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      17711,
-      32.38
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/more",
       "/forum",
       "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      17684,
-      44.62
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/shop",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      17536,
-      38.79
+      21134,
+      21.88
     ],
     [
       "Going forward",
-      "/more",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      17404,
-      24.79
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
       "/home",
       "/forum",
       "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      17120,
-      25.27
+      20910,
+      17.37
     ],
     [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/shop",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      17069,
-      23.54
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/shop",
+      "#Tuesday is the most productive day of the week!",
+      "/more",
       "/forum",
       "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      16924,
-      38.59
+      20801,
+      31.08
     ],
     [
-      "Going forward",
-      "/shop",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      16810,
-      32.12
-    ],
-    [
-      "Going forward",
-      "/shop",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      16682,
-      43.36
-    ],
-    [
-      "Client's expectations VS client's budget",
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
       "/forum",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      16591,
-      20.22
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/catalog",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      16552,
-      36.02
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
       "/more",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      16547,
-      18.99
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      20783,
+      27.81
     ],
     [
       "#Tuesday is the most productive day of the week!",
       "/shop",
       "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      16542,
-      39.9
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      20379,
+      23.88
     ],
     [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/home",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      16487,
-      31.26
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/home",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      16159,
-      29.46
-    ],
-    [
-      "Going forward",
-      "/catalog",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      16012,
-      17.96
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/catalog",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      15980,
-      31.23
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/catalog",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      15978,
-      39.51
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "#Tuesday is the most productive day of the week!",
       "/shop",
       "/shop",
       "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      15926,
-      29.38
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/forum",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      15912,
-      38.53
-    ],
-    [
-      "Going forward",
-      "/more",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      15901,
-      20.1
+      20035,
+      23.33
     ],
     [
       "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/catalog",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      15854,
-      24.7
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/home",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      15824,
-      36.48
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/forum",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      15811,
-      27.26
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/forum",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      15796,
-      36.05
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/home",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      15786,
-      25.88
-    ],
-    [
-      "Going forward",
-      "/shop",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      15750,
-      21.16
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/home",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      15577,
-      27.32
-    ],
-    [
-      "Going forward",
-      "/catalog",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      15553,
-      16.17
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/shop",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      15494,
-      44.26
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/catalog",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      15442,
-      21.34
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/home",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      15395,
-      35.48
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/catalog",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      15370,
-      31.23
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/home",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      15268,
-      36.49
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/shop",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      15264,
-      26.67
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/catalog",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      15211,
-      41.45
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/shop",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      15203,
-      36.71
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/shop",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      15130,
-      36.28
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/more",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      14881,
-      31.96
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/forum",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      14849,
-      26.66
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/shop",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      14819,
-      28.36
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/catalog",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      14788,
-      37.69
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/more",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      14757,
-      24.61
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/home",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      14693,
-      39.99
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/shop",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      14592,
-      39.74
-    ],
-    [
-      "Client's expectations VS client's budget",
       "/more",
       "/more",
       "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      14568,
-      37.62
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/forum",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      14507,
-      25.97
+      19983,
+      27.82
     ],
     [
       "#Tuesday is the most productive day of the week!",
-      "/catalog",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      14497,
-      31.23
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/catalog",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      14413,
-      34.25
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/forum",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      14403,
-      31.46
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/forum",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      14300,
-      25.7
-    ],
-    [
-      "Going forward",
-      "/forum",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      14299,
-      27.99
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/catalog",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      14269,
-      25.38
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/shop",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      14240,
-      28.53
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/shop",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      14210,
-      20.58
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/shop",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      14200,
-      22.93
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/more",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      14189,
-      31.88
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/shop",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      14137,
-      14.43
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/catalog",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      14122,
-      26.55
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/more",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      14076,
-      38.49
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/forum",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      13920,
-      34.66
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/more",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      13812,
-      22.82
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/forum",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      13808,
-      31.92
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/more",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      13773,
-      32.12
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/shop",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      13766,
-      29.14
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/catalog",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      13752,
-      26.4
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/forum",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      13697,
-      39.07
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/catalog",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      13695,
-      35.82
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/forum",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      13674,
-      41.36
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/more",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      13672,
-      25.23
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/shop",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      13667,
-      34.24
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/catalog",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      13644,
-      13.83
-    ],
-    [
-      "Going forward",
-      "/forum",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      13612,
-      30.9
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/catalog",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      13555,
-      25
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/forum",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      13453,
-      37.24
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/home",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      13450,
-      34.42
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/shop",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      13426,
-      31.86
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/forum",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      13418,
-      30.83
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/forum",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      13393,
-      12.07
-    ],
-    [
-      "Going forward",
-      "/shop",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      13367,
-      44.5
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/catalog",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      13175,
-      31.75
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/more",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      13108,
-      31.37
-    ],
-    [
-      "Going forward",
-      "/more",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      13003,
-      22.61
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/forum",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      12855,
-      33.98
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/shop",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      12827,
-      19.13
-    ],
-    [
-      "Going forward",
-      "/forum",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      12771,
-      27.86
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/more",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      12702,
-      29.52
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/home",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      12410,
-      20.28
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/shop",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      12402,
-      34.03
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/home",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      12384,
-      35.85
-    ],
-    [
-      "Going forward",
-      "/home",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      12369,
-      32.14
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/forum",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      12290,
-      19.86
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/home",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      12283,
-      34.44
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/home",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      12276,
-      44.97
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/forum",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      12201,
-      31.15
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/more",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      12174,
-      40.08
-    ],
-    [
-      "Going forward",
-      "/catalog",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      12151,
-      30.81
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/catalog",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      12120,
-      27.11
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/home",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      12085,
-      27.6
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/home",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      12026,
-      18.27
-    ],
-    [
-      "Going forward",
-      "/catalog",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      11904,
-      30.41
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/home",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      11860,
-      31.63
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/shop",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      11837,
-      29.36
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/more",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      11833,
-      21.18
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/forum",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      11828,
-      30.73
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/forum",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      11828,
-      29.26
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
       "/forum",
       "/catalog",
       "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      11607,
-      22.8
+      19950,
+      28.94
     ],
     [
-      "#Tuesday is the most productive day of the week!",
-      "/home",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      11577,
-      34.6
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/shop",
+      "Client's expectations VS client's budget",
+      "/catalog",
       "/more",
       "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      11569,
-      18.49
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/more",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      11528,
-      32.5
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/forum",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      11527,
-      39.69
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/catalog",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      11508,
-      31.17
-    ],
-    [
-      "Going forward",
-      "/catalog",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      11418,
-      28.21
-    ],
-    [
-      "Going forward",
-      "/forum",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      11159,
-      30.6
-    ],
-    [
-      "Going forward",
-      "/catalog",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      11152,
-      23.27
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/catalog",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      11078,
-      35.41
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/catalog",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      11023,
-      19.82
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/home",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      11006,
-      23.55
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/home",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      10876,
-      37.13
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/more",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      10835,
-      31.91
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/forum",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      10812,
-      25.79
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/more",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      10808,
-      40.82
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/forum",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      10788,
-      38.74
-    ],
-    [
-      "Going forward",
-      "/catalog",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      10713,
-      27.69
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/more",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      10708,
-      46.01
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/home",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      10706,
-      25.35
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/catalog",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      10648,
-      35.06
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/shop",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      10625,
-      38.08
-    ],
-    [
-      "Going forward",
-      "/forum",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      10605,
-      35.5
-    ],
-    [
-      "Going forward",
-      "/shop",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      10495,
-      45.94
-    ],
-    [
-      "Going forward",
-      "/more",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      10425,
-      41.98
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/forum",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      10421,
-      38.46
-    ],
-    [
-      "Going forward",
-      "/home",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      10397,
-      32.86
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/more",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      10386,
-      37.14
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/shop",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      10344,
-      45.25
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/home",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      10333,
-      32.37
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/catalog",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      10236,
-      28.19
-    ],
-    [
-      "Going forward",
-      "/more",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      10192,
-      32.09
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/forum",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      10067,
-      32.45
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/more",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      10018,
-      29.9
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/home",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      9988,
-      47.74
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/shop",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      9629,
-      22.3
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/more",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      9553,
-      29.95
-    ],
-    [
-      "Going forward",
-      "/forum",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      9509,
-      34.09
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/forum",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      9464,
-      31.43
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/catalog",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      9386,
-      25.58
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/forum",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      9365,
-      31.78
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/forum",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      9358,
-      31.17
-    ],
-    [
-      "Going forward",
-      "/shop",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      9288,
-      32.11
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/forum",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      9232,
-      38.06
-    ],
-    [
-      "Going forward",
-      "/forum",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      9209,
-      30.87
-    ],
-    [
-      "Going forward",
-      "/home",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      9073,
-      42.89
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/more",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      8955,
+      19353,
       33.71
     ],
     [
       "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/catalog",
+      "/more",
       "/catalog",
       "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      8869,
-      28.29
+      19239,
+      28.93
     ],
     [
       "Client's expectations VS client's budget",
-      "/shop",
+      "/catalog",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      19123,
+      28.04
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/forum",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      19056,
+      41.57
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/more",
       "/more",
       "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      8843,
-      41.81
-    ],
-    [
-      "Client's expectations VS client's budget",
-      "/shop",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      8818,
-      25.3
-    ],
-    [
-      "Going forward",
-      "/forum",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      8644,
-      23.14
-    ],
-    [
-      "Going forward",
-      "/home",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      8363,
-      36.96
-    ],
-    [
-      "Going forward",
-      "/home",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      8230,
-      37.06
+      19023,
+      31.65
     ],
     [
       "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/forum",
-      "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      8206,
-      26.27
-    ],
-    [
-      "Client's expectations VS client's budget",
       "/home",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      8192,
-      41.7
-    ],
-    [
-      "Going forward",
-      "/more",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      8170,
-      34.86
-    ],
-    [
-      "Going forward",
-      "/more",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      8129,
-      35.88
-    ],
-    [
-      "Going forward",
-      "/forum",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      8048,
-      38.05
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "/shop",
       "/forum",
       "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      7990,
-      34.18
+      18943,
+      33.99
     ],
     [
-      "#Tuesday is the most productive day of the week!",
-      "/shop",
+      "Going forward",
+      "/home",
       "/catalog",
       "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      7978,
-      33.47
+      18909,
+      40.49
+    ],
+    [
+      "Going forward",
+      "/more",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      18899,
+      44.23
     ],
     [
       "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/shop",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      7918,
-      33.03
+      "/more",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      18824,
+      40.78
     ],
     [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "#Tuesday is the most productive day of the week!",
+      "/catalog",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      18821,
+      15.28
+    ],
+    [
+      "Client's expectations VS client's budget",
       "/home",
       "/catalog",
       "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      7723,
-      26.14
-    ],
-    [
-      "Going forward",
-      "/forum",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      7644,
+      18783,
       17.46
     ],
     [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "Client's expectations VS client's budget",
       "/more",
       "/home",
       "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      7483,
-      29.59
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/home",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      7482,
-      16.06
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/shop",
-      "/home",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      7384,
-      32.92
-    ],
-    [
-      "#Tuesday is the most productive day of the week!",
-      "/home",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      7344,
-      25.2
+      18438,
+      29.08
     ],
     [
       "Going forward",
       "/more",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      7281,
-      23.47
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      18224,
+      24.81
     ],
     [
       "#Tuesday is the most productive day of the week!",
-      "/more",
+      "/home",
       "/more",
       "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      7008,
-      20.18
+      18183,
+      30.19
     ],
     [
       "Client's expectations VS client's budget",
-      "/home",
+      "/catalog",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      18003,
+      36.05
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/more",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      17916,
+      29.46
+    ],
+    [
+      "Client's expectations VS client's budget",
       "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      6912,
-      39.05
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      17818,
+      32.07
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/more",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      17765,
+      26.37
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/forum",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      17567,
+      25.22
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/catalog",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      17391,
+      21.24
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/catalog",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      17221,
+      29.41
     ],
     [
       "#Tuesday is the most productive day of the week!",
       "/home",
       "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      17204,
+      34.18
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/forum",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      17164,
+      26.25
+    ],
+    [
+      "Going forward",
+      "/shop",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      17101,
+      43.19
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/catalog",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      17045,
+      17.02
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/forum",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      16970,
+      41.62
+    ],
+    [
+      "Going forward",
+      "/forum",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      16954,
+      22.2
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/catalog",
+      "/catalog",
       "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      6804,
-      33.23
+      16891,
+      23.28
+    ],
+    [
+      "Going forward",
+      "/catalog",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      16872,
+      39.2
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/forum",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      16814,
+      28.97
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/shop",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      16749,
+      30.05
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/home",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      16715,
+      29.66
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/catalog",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      16620,
+      34.58
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/home",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      16615,
+      40.64
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/shop",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      16552,
+      21.31
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/forum",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      16482,
+      34.49
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/home",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      16439,
+      27.56
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/catalog",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      16349,
+      28.13
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/home",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      16334,
+      38.66
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/shop",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      16264,
+      23.64
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/shop",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      16222,
+      19.48
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/more",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      16151,
+      22.29
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/more",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      16117,
+      21.38
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/catalog",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      16107,
+      40.24
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/home",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      16067,
+      23.9
+    ],
+    [
+      "Going forward",
+      "/home",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      15975,
+      18.28
+    ],
+    [
+      "Going forward",
+      "/forum",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      15910,
+      31.87
+    ],
+    [
+      "Going forward",
+      "/forum",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      15863,
+      30.23
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/forum",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      15807,
+      28.98
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/forum",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      15786,
+      21.1
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/more",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      15781,
+      34.45
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/more",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      15775,
+      24.73
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/shop",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      15748,
+      36.16
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/forum",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      15723,
+      23.68
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/shop",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      15445,
+      28.56
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/home",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      15355,
+      13.77
+    ],
+    [
+      "Going forward",
+      "/more",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      15300,
+      18.19
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/home",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      15282,
+      29.67
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/home",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      15241,
+      28.46
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/shop",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      15142,
+      36.13
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/shop",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      15049,
+      23.26
+    ],
+    [
+      "Going forward",
+      "/catalog",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      15037,
+      43.96
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/forum",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      15007,
+      36.99
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/catalog",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      14918,
+      39.06
+    ],
+    [
+      "Going forward",
+      "/catalog",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      14910,
+      31.06
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/shop",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      14878,
+      33.56
+    ],
+    [
+      "Going forward",
+      "/forum",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      14832,
+      30.77
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/home",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      14827,
+      35.11
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/home",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      14810,
+      34.9
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/forum",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      14802,
+      15.49
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/forum",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      14797,
+      29.58
+    ],
+    [
+      "Going forward",
+      "/forum",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      14770,
+      26.24
+    ],
+    [
+      "Going forward",
+      "/shop",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      14692,
+      20.26
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/shop",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      14676,
+      40.36
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/shop",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      14675,
+      25.05
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/forum",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      14637,
+      32.28
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/catalog",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      14602,
+      22.19
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/home",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      14536,
+      22.67
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/more",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      14458,
+      41.85
     ],
     [
       "Infographic guide on making the most of mobile vs. desktop statistics!",
       "/catalog",
       "/forum",
       "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      6762,
-      33.64
+      14394,
+      33.51
     ],
     [
       "Going forward",
+      "/catalog",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      14386,
+      24.65
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/shop",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      14382,
+      21.81
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/more",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      14351,
+      32.58
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/catalog",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      14194,
+      27.28
+    ],
+    [
+      "Going forward",
+      "/more",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      14149,
+      41.92
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/home",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      14144,
+      37.83
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/more",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      14098,
+      18.07
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
       "/home",
       "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      6698,
-      21.54
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      14035,
+      24.45
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/catalog",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      14018,
+      26.72
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/home",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      13994,
+      29.16
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/more",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      13986,
+      31.05
     ],
     [
       "Going forward",
+      "/shop",
       "/home",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      6620,
-      31.02
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      13984,
+      30.29
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/more",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      13823,
+      46.41
     ],
     [
       "#Tuesday is the most productive day of the week!",
       "/catalog",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      13817,
+      42.43
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/forum",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      13812,
+      30.94
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/more",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      13798,
+      21.22
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/forum",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      13787,
+      29.39
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/forum",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      13763,
+      20.7
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/catalog",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      13746,
+      44.23
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/catalog",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      13699,
+      25.78
+    ],
+    [
+      "Going forward",
+      "/shop",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      13673,
+      37.71
+    ],
+    [
+      "Going forward",
+      "/shop",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      13659,
+      24.34
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/catalog",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      13593,
+      23.8
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/more",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      13332,
+      25.78
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/more",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      13324,
+      30.64
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/forum",
       "/shop",
       "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      6377,
-      28.76
+      13208,
+      29.33
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/catalog",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      13189,
+      35.9
+    ],
+    [
+      "Going forward",
+      "/home",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      13175,
+      31.03
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/home",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      13165,
+      18.58
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/catalog",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      13142,
+      31.78
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/home",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      13071,
+      25.34
+    ],
+    [
+      "Going forward",
+      "/home",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      13066,
+      25.01
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/shop",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      12963,
+      20.52
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/shop",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      12871,
+      28.42
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/forum",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      12528,
+      38.53
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/shop",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      12521,
+      34.59
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/home",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      12475,
+      28.62
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/forum",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      12440,
+      25.97
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/home",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      12413,
+      19.34
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/forum",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      12320,
+      24.65
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/more",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      12308,
+      27.68
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/shop",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      12260,
+      17.4
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/shop",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      12096,
+      14.98
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/home",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      11880,
+      35.24
+    ],
+    [
+      "Going forward",
+      "/shop",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      11868,
+      33.65
+    ],
+    [
+      "Going forward",
+      "/catalog",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      11833,
+      39.86
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/shop",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      11784,
+      23.3
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/home",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      11769,
+      18.4
+    ],
+    [
+      "Going forward",
+      "/forum",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      11768,
+      39.11
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/more",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      11756,
+      37.34
     ],
     [
       "Going forward",
       "/more",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      6300,
-      26.84
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      11747,
+      25.17
     ],
     [
       "Going forward",
       "/more",
       "/home",
       "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      6069,
-      29.81
+      11742,
+      26.6
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/catalog",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      11738,
+      18.81
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/more",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      11692,
+      30.98
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/more",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      11685,
+      36.47
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/shop",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      11653,
+      31.67
+    ],
+    [
+      "Going forward",
+      "/shop",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      11513,
+      15.86
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/forum",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      11507,
+      31.56
+    ],
+    [
+      "Going forward",
+      "/forum",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      11501,
+      43.17
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/forum",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      11489,
+      44.06
     ],
     [
       "#Tuesday is the most productive day of the week!",
       "/shop",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      5685,
-      19.16
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      11363,
+      19.48
     ],
     [
-      "Client's expectations VS client's budget",
-      "/catalog",
-      "/catalog",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      5601,
-      21.03
+      "#Tuesday is the most productive day of the week!",
+      "/shop",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      11314,
+      11.73
     ],
     [
       "Infographic guide on making the most of mobile vs. desktop statistics!",
       "/home",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      11309,
+      26.41
+    ],
+    [
+      "Going forward",
+      "/catalog",
       "/home",
       "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      4431,
-      42.43
+      11133,
+      35.21
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/catalog",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      11054,
+      26.18
+    ],
+    [
+      "Going forward",
+      "/more",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      11034,
+      29.56
     ],
     [
       "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
       "/catalog",
       "/catalog",
       "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      4411,
-      16.15
+      11022,
+      38.18
+    ],
+    [
+      "Going forward",
+      "/forum",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      10956,
+      19.12
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/home",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      10807,
+      28.51
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/more",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      10807,
+      44.05
+    ],
+    [
+      "Going forward",
+      "/more",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      10748,
+      16.7
+    ],
+    [
+      "Going forward",
+      "/home",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      10702,
+      41.07
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/forum",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      10490,
+      17.31
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/more",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      10486,
+      33.85
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/more",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      10438,
+      40.02
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/forum",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      10264,
+      34.6
+    ],
+    [
+      "Going forward",
+      "/shop",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      10205,
+      35.13
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/more",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      10187,
+      34.04
+    ],
+    [
+      "Going forward",
+      "/home",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      10185,
+      28.08
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/more",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      10141,
+      23.21
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/forum",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      10070,
+      33.76
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/catalog",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      10057,
+      27.09
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/forum",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      9994,
+      14.42
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/more",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      9964,
+      19.58
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/home",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      9797,
+      20.53
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/catalog",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      9722,
+      33.03
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/forum",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      9716,
+      36.21
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/shop",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      9689,
+      36.97
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/catalog",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      9659,
+      46.89
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/shop",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      9601,
+      16.12
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/more",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      9593,
+      37.85
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/shop",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      9577,
+      15.38
+    ],
+    [
+      "Going forward",
+      "/forum",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      9560,
+      37.49
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/home",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      9536,
+      18.65
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/forum",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      9484,
+      32.36
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/forum",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      9435,
+      32.28
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/forum",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      9419,
+      37.29
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/shop",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      9399,
+      31.62
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/catalog",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      9352,
+      26.42
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/forum",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      9290,
+      20.27
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/catalog",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      9190,
+      24.16
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/shop",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      9027,
+      35.52
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/more",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      8883,
+      29.53
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/catalog",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      8815,
+      23.46
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/shop",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      8736,
+      40.69
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/forum",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      8722,
+      32.39
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/catalog",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      8594,
+      30.91
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/catalog",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      8283,
+      40.3
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/more",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      8280,
+      34.37
+    ],
+    [
+      "Going forward",
+      "/catalog",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      7935,
+      29.87
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/home",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      7925,
+      29.35
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/shop",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      7793,
+      19.72
+    ],
+    [
+      "Going forward",
+      "/catalog",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      7786,
+      27.41
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/catalog",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      7765,
+      32.96
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/more",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      7720,
+      22.8
     ],
     [
       "Infographic guide on making the most of mobile vs. desktop statistics!",
       "/catalog",
       "/more",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      4404,
-      31.34
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      7488,
+      23.87
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/forum",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      7477,
+      35.31
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/home",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      7420,
+      26.78
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/home",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      6982,
+      32.29
     ],
     [
       "Going forward",
-      "/shop",
-      "/forum",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      4327,
-      28.61
-    ],
-    [
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "/shop",
-      "/shop",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      4074,
-      35.79
-    ],
-    [
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
       "/catalog",
       "/shop",
       "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      3682,
-      19.98
+      6889,
+      27.2
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/more",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      6861,
+      35.64
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/home",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      6839,
+      27.38
     ],
     [
       "Going forward",
       "/home",
       "/home",
       "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      3606,
-      20.86
+      6702,
+      29.1
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/home",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      6696,
+      38.67
+    ],
+    [
+      "Going forward",
+      "/home",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      6399,
+      12.17
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/forum",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      6226,
+      27.56
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/home",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      6113,
+      17.25
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/forum",
+      "/more",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      6091,
+      34.82
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/home",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      6054,
+      36.31
+    ],
+    [
+      "Going forward",
+      "/shop",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      5949,
+      44.86
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/shop",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      5809,
+      39.88
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/home",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      5805,
+      34.08
+    ],
+    [
+      "Going forward",
+      "/more",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      5738,
+      28.69
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/catalog",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      5718,
+      22.37
+    ],
+    [
+      "Client's expectations VS client's budget",
+      "/shop",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      5341,
+      16.38
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/forum",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      4947,
+      32.8
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/more",
+      "/home",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      4714,
+      25.09
+    ],
+    [
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "/shop",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      4538,
+      16.38
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/more",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      4270,
+      41.37
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/forum",
+      "/forum",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      4231,
+      27.81
+    ],
+    [
+      "Going forward",
+      "/shop",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      3703,
+      35.08
+    ],
+    [
+      "#Tuesday is the most productive day of the week!",
+      "/home",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      3050,
+      31.17
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/home",
+      "/catalog",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      2760,
+      38.69
+    ],
+    [
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "/catalog",
+      "/shop",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      2421,
+      20.29
     ]
   ],
   "Followers": [
@@ -188723,7 +188723,7 @@
       "Date range"
     ],
     [
-      0,
+      9,
       null,
       "From",
       "2026-01-01"
@@ -188747,7 +188747,7 @@
       "Date range"
     ],
     [
-      5,
+      7,
       null,
       "From",
       "2026-01-01"
@@ -188771,7 +188771,7 @@
       "Date range"
     ],
     [
-      9,
+      6,
       null,
       "From",
       "2026-01-01"
@@ -188801,730 +188801,730 @@
       "Date range"
     ],
     [
-      "demo07.webp",
-      "Client's expectations VS client's budget",
+      "demo04.webp",
+      "When the boss wants to talk with me about very old project",
       "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      54,
-      7.6,
-      143,
-      5.15,
+      52,
+      6.9,
+      131,
+      5.7,
       null,
       "From",
       "2026-01-01"
     ],
     [
-      "demo10.webp",
-      "#Tuesday is the most productive day of the week!",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      46,
-      7.4,
-      145,
-      5.29,
+      "demo01.webp",
+      "Do you have one?",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      62,
+      6.8,
+      146,
+      3.49,
       null,
       "Till",
       "2026-05-12"
     ],
     [
-      "demo02.webp",
-      "Do you have one?",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      55,
-      6.8,
-      149,
-      5.39
-    ],
-    [
       "demo09.webp",
-      "#Tuesday is the most productive day of the week!",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      56,
-      6.7,
-      146,
-      4.14
-    ],
-    [
-      "demo03.webp",
-      "Going forward",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      48,
-      6.6,
-      151,
-      5.4
-    ],
-    [
-      "demo08.webp",
-      "#Tuesday is the most productive day of the week!",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      47,
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      50,
       6.5,
-      127,
-      6.03
-    ],
-    [
-      "demo02.webp",
-      "Going forward",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      45,
-      6.4,
-      116,
-      6.75
-    ],
-    [
-      "demo10.webp",
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      69,
-      6.3,
-      169,
-      4.89
-    ],
-    [
-      "demo01.webp",
-      "Going forward",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      39,
-      6.2,
-      158,
-      4.38
-    ],
-    [
-      "demo03.webp",
-      "Client's expectations VS client's budget",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      37,
-      6.2,
-      171,
-      5.83
-    ],
-    [
-      "demo08.webp",
-      "Do you have one?",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      58,
-      6.2,
-      171,
-      4.37
-    ],
-    [
-      "demo10.webp",
-      "Going forward",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      60,
-      6.2,
-      143,
-      5.24
-    ],
-    [
-      "demo03.webp",
-      "#Tuesday is the most productive day of the week!",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      48,
-      6,
-      190,
-      3.78
-    ],
-    [
-      "demo03.webp",
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      52,
-      6,
-      153,
-      4.9
-    ],
-    [
-      "demo04.webp",
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      44,
-      6,
-      174,
-      5.09
-    ],
-    [
-      "demo05.webp",
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      64,
-      6,
-      156,
-      5.01
-    ],
-    [
-      "demo05.webp",
-      "Going forward",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      35,
-      6,
-      162,
-      3.72
-    ],
-    [
-      "demo06.webp",
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      50,
-      6,
-      120,
-      7.03
-    ],
-    [
-      "demo09.webp",
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      50,
-      6,
-      143,
-      7.15
-    ],
-    [
-      "demo01.webp",
-      "Client's expectations VS client's budget",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      44,
-      5.9,
-      114,
-      4.93
-    ],
-    [
-      "demo01.webp",
-      "When the boss wants to talk with me about very old project",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      47,
-      5.9,
-      149,
-      6.69
-    ],
-    [
-      "demo02.webp",
-      "Client's expectations VS client's budget",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      61,
-      5.9,
-      173,
-      4.18
-    ],
-    [
-      "demo09.webp",
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      62,
-      5.8,
-      130,
-      4.48
-    ],
-    [
-      "demo10.webp",
-      "When the boss wants to talk with me about very old project",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      48,
-      5.8,
-      159,
-      4.52
-    ],
-    [
-      "demo01.webp",
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      41,
-      5.7,
-      163,
-      5.68
-    ],
-    [
-      "demo09.webp",
-      "When the boss wants to talk with me about very old project",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      58,
-      5.7,
-      153,
-      4.51
-    ],
-    [
-      "demo03.webp",
-      "TI reached out to our clients asking what they thought of the reports and they loved them!",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      44,
-      5.5,
-      144,
-      4.52
-    ],
-    [
-      "demo08.webp",
-      "Client's expectations VS client's budget",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      50,
-      5.4,
-      171,
-      5.34
-    ],
-    [
-      "demo08.webp",
-      "TI reached out to our clients asking what they thought of the reports and they loved them!",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      64,
-      5.4,
-      135,
-      5.78
-    ],
-    [
-      "demo07.webp",
-      "Going forward",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      61,
-      5.3,
-      163,
-      5.93
-    ],
-    [
-      "demo02.webp",
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      57,
-      5.2,
-      155,
-      5.39
-    ],
-    [
-      "demo02.webp",
-      "#Tuesday is the most productive day of the week!",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      41,
-      5,
-      141,
-      5.1
-    ],
-    [
-      "demo06.webp",
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      57,
-      5,
-      158,
-      4.35
-    ],
-    [
-      "demo06.webp",
-      "When the boss wants to talk with me about very old project",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      31,
-      5,
-      138,
-      4.58
-    ],
-    [
-      "demo03.webp",
-      "Do you have one?",
-      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
-      50,
-      4.9,
-      158,
-      4.66
-    ],
-    [
-      "demo07.webp",
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      47,
-      4.9,
-      164,
-      4.69
-    ],
-    [
-      "demo10.webp",
-      "Do you have one?",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      62,
-      4.9,
-      164,
-      6.87
-    ],
-    [
-      "demo01.webp",
-      "TI reached out to our clients asking what they thought of the reports and they loved them!",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      50,
-      4.8,
-      175,
-      4.42
-    ],
-    [
-      "demo05.webp",
-      "Client's expectations VS client's budget",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      46,
-      4.8,
-      159,
-      5.13
-    ],
-    [
-      "demo07.webp",
-      "#Tuesday is the most productive day of the week!",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      49,
-      4.8,
       136,
-      3.19
-    ],
-    [
-      "demo07.webp",
-      "When the boss wants to talk with me about very old project",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      36,
-      4.8,
-      168,
-      5.07
-    ],
-    [
-      "demo08.webp",
-      "Going forward",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      44,
-      4.8,
-      170,
-      4.4
-    ],
-    [
-      "demo08.webp",
-      "When the boss wants to talk with me about very old project",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      39,
-      4.8,
-      143,
-      4.77
-    ],
-    [
-      "demo09.webp",
-      "Going forward",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      57,
-      4.8,
-      145,
-      3.31
-    ],
-    [
-      "demo06.webp",
-      "Do you have one?",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      57,
-      4.7,
-      168,
-      4.97
-    ],
-    [
-      "demo07.webp",
-      "TI reached out to our clients asking what they thought of the reports and they loved them!",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      47,
-      4.7,
-      142,
-      4.9
-    ],
-    [
-      "demo03.webp",
-      "When the boss wants to talk with me about very old project",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      62,
-      4.6,
-      143,
-      5.77
-    ],
-    [
-      "demo09.webp",
-      "Client's expectations VS client's budget",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      29,
-      4.6,
-      153,
-      2.69
-    ],
-    [
-      "demo09.webp",
-      "TI reached out to our clients asking what they thought of the reports and they loved them!",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      62,
-      4.6,
-      139,
-      5.21
-    ],
-    [
-      "demo10.webp",
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      36,
-      4.6,
-      153,
-      4.86
-    ],
-    [
-      "demo10.webp",
-      "TI reached out to our clients asking what they thought of the reports and they loved them!",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      40,
-      4.5,
-      166,
-      4.27
-    ],
-    [
-      "demo01.webp",
-      "#Tuesday is the most productive day of the week!",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      35,
-      4.4,
-      157,
-      3.3
-    ],
-    [
-      "demo05.webp",
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      74,
-      4.4,
-      128,
-      3.6
-    ],
-    [
-      "demo06.webp",
-      "TI reached out to our clients asking what they thought of the reports and they loved them!",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      73,
-      4.4,
-      162,
-      4.7
-    ],
-    [
-      "demo08.webp",
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      49,
-      4.4,
-      151,
       4.55
     ],
     [
-      "demo08.webp",
-      "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      60,
-      4.4,
-      159,
-      6.44
-    ],
-    [
-      "demo05.webp",
-      "When the boss wants to talk with me about very old project",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
-      49,
-      4.3,
-      150,
-      4.56
-    ],
-    [
-      "demo04.webp",
-      "TI reached out to our clients asking what they thought of the reports and they loved them!",
-      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      "demo01.webp",
+      "Going forward",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
       66,
-      4.2,
-      135,
-      4.96
+      6.4,
+      166,
+      5.65
     ],
     [
-      "demo06.webp",
-      "Going forward",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      57,
-      4.2,
-      181,
-      4.11
-    ],
-    [
-      "demo07.webp",
+      "demo03.webp",
       "Do you have one?",
-      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
-      70,
-      4.2,
-      129,
-      4.91
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      50,
+      6.3,
+      154,
+      4.15
     ],
     [
-      "demo04.webp",
-      "Going forward",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      49,
-      4.1,
-      193,
-      5.77
-    ],
-    [
-      "demo04.webp",
-      "When the boss wants to talk with me about very old project",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      47,
-      4.1,
-      165,
-      4.29
-    ],
-    [
-      "demo10.webp",
-      "Client's expectations VS client's budget",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      55,
-      4.1,
-      151,
-      5.12
-    ],
-    [
-      "demo01.webp",
-      "Do you have one?",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      58,
-      4,
-      163,
-      6.64
-    ],
-    [
-      "demo02.webp",
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      48,
-      4,
-      144,
-      5.22
-    ],
-    [
-      "demo04.webp",
-      "#Tuesday is the most productive day of the week!",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      44,
-      4,
-      144,
-      5.15
-    ],
-    [
-      "demo04.webp",
+      "demo05.webp",
       "Infographic guide on making the most of mobile vs. desktop statistics!",
-      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      60,
-      4,
-      156,
-      4.95
-    ],
-    [
-      "demo02.webp",
-      "TI reached out to our clients asking what they thought of the reports and they loved them!",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      68,
-      3.9,
-      167,
-      5.64
-    ],
-    [
-      "demo04.webp",
-      "Do you have one?",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      72,
-      3.9,
-      122,
-      4.36
-    ],
-    [
-      "demo07.webp",
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      38,
-      3.9,
-      121,
-      5.4
-    ],
-    [
-      "demo05.webp",
-      "#Tuesday is the most productive day of the week!",
-      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      39,
-      3.7,
-      168,
-      4.76
-    ],
-    [
-      "demo06.webp",
-      "#Tuesday is the most productive day of the week!",
-      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
-      47,
-      3.7,
-      141,
-      5.11
-    ],
-    [
-      "demo01.webp",
-      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      32,
-      3.6,
-      157,
-      5.77
-    ],
-    [
-      "demo04.webp",
-      "Client's expectations VS client's budget",
-      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      40,
-      3.5,
-      183,
-      4.42
-    ],
-    [
-      "demo02.webp",
-      "When the boss wants to talk with me about very old project",
-      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
-      44,
-      3.4,
-      197,
-      5.45
-    ],
-    [
-      "demo09.webp",
-      "Do you have one?",
-      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
-      61,
-      3.3,
-      128,
-      4.35
-    ],
-    [
-      "demo05.webp",
-      "Do you have one?",
-      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
-      67,
-      3.2,
-      150,
-      4.25
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      25,
+      6.3,
+      149,
+      4.2
     ],
     [
       "demo03.webp",
       "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
       "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
-      59,
-      2.9,
+      34,
+      6.2,
+      154,
+      5.1
+    ],
+    [
+      "demo10.webp",
+      "TI reached out to our clients asking what they thought of the reports and they loved them!",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      74,
+      6.2,
       173,
-      5.32
+      5.86
+    ],
+    [
+      "demo01.webp",
+      "When the boss wants to talk with me about very old project",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      51,
+      6.1,
+      147,
+      4.84
     ],
     [
       "demo06.webp",
-      "Client's expectations VS client's budget",
+      "Going forward",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      63,
+      6,
+      130,
+      5.31
+    ],
+    [
+      "demo03.webp",
+      "Going forward",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      47,
+      5.9,
+      160,
+      6
+    ],
+    [
+      "demo03.webp",
+      "When the boss wants to talk with me about very old project",
       "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
-      45,
-      2.7,
-      157,
-      3.57
+      41,
+      5.9,
+      121,
+      4.92
+    ],
+    [
+      "demo02.webp",
+      "Do you have one?",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      42,
+      5.8,
+      167,
+      4.62
+    ],
+    [
+      "demo03.webp",
+      "TI reached out to our clients asking what they thought of the reports and they loved them!",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      32,
+      5.8,
+      186,
+      4.73
     ],
     [
       "demo05.webp",
       "TI reached out to our clients asking what they thought of the reports and they loved them!",
       "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
-      39,
-      2,
+      51,
+      5.8,
+      157,
+      5.57
+    ],
+    [
+      "demo07.webp",
+      "Going forward",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      57,
+      5.8,
+      146,
+      5.43
+    ],
+    [
+      "demo10.webp",
+      "#Tuesday is the most productive day of the week!",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      58,
+      5.8,
+      184,
+      3.89
+    ],
+    [
+      "demo05.webp",
+      "#Tuesday is the most productive day of the week!",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      52,
+      5.7,
+      130,
+      3.49
+    ],
+    [
+      "demo08.webp",
+      "Going forward",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      41,
+      5.6,
+      168,
+      3.83
+    ],
+    [
+      "demo09.webp",
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      53,
+      5.6,
+      161,
+      4.99
+    ],
+    [
+      "demo06.webp",
+      "Client's expectations VS client's budget",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      51,
+      5.5,
+      172,
+      4.79
+    ],
+    [
+      "demo06.webp",
+      "TI reached out to our clients asking what they thought of the reports and they loved them!",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      50,
+      5.5,
+      161,
+      5.28
+    ],
+    [
+      "demo04.webp",
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      56,
+      5.4,
+      174,
+      5.39
+    ],
+    [
+      "demo06.webp",
+      "When the boss wants to talk with me about very old project",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      66,
+      5.4,
+      168,
+      5.66
+    ],
+    [
+      "demo02.webp",
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      65,
+      5.3,
+      144,
+      5.28
+    ],
+    [
+      "demo08.webp",
+      "When the boss wants to talk with me about very old project",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      37,
+      5.3,
+      150,
+      6.21
+    ],
+    [
+      "demo10.webp",
+      "Client's expectations VS client's budget",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      40,
+      5.3,
+      157,
+      4.33
+    ],
+    [
+      "demo01.webp",
+      "TI reached out to our clients asking what they thought of the reports and they loved them!",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      52,
+      5.2,
       156,
-      3.75
+      4.07
+    ],
+    [
+      "demo02.webp",
+      "Client's expectations VS client's budget",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      49,
+      5.2,
+      172,
+      4.74
+    ],
+    [
+      "demo03.webp",
+      "Client's expectations VS client's budget",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      64,
+      5.2,
+      162,
+      5.77
+    ],
+    [
+      "demo05.webp",
+      "Client's expectations VS client's budget",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      72,
+      5.2,
+      121,
+      4.21
+    ],
+    [
+      "demo07.webp",
+      "Do you have one?",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      53,
+      5.2,
+      162,
+      6.24
+    ],
+    [
+      "demo07.webp",
+      "When the boss wants to talk with me about very old project",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      54,
+      5.2,
+      169,
+      5.54
+    ],
+    [
+      "demo01.webp",
+      "#Tuesday is the most productive day of the week!",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      58,
+      5.1,
+      134,
+      4.93
+    ],
+    [
+      "demo04.webp",
+      "TI reached out to our clients asking what they thought of the reports and they loved them!",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      78,
+      5.1,
+      138,
+      5.38
+    ],
+    [
+      "demo07.webp",
+      "TI reached out to our clients asking what they thought of the reports and they loved them!",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      42,
+      5.1,
+      144,
+      3.85
+    ],
+    [
+      "demo09.webp",
+      "Client's expectations VS client's budget",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      65,
+      5.1,
+      152,
+      4.55
+    ],
+    [
+      "demo01.webp",
+      "Client's expectations VS client's budget",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      43,
+      5,
+      129,
+      4.12
+    ],
+    [
+      "demo03.webp",
+      "#Tuesday is the most productive day of the week!",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      44,
+      5,
+      171,
+      5.08
+    ],
+    [
+      "demo01.webp",
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      54,
+      4.9,
+      165,
+      4.37
+    ],
+    [
+      "demo01.webp",
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      38,
+      4.9,
+      146,
+      4.76
+    ],
+    [
+      "demo02.webp",
+      "When the boss wants to talk with me about very old project",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      35,
+      4.9,
+      128,
+      6.16
+    ],
+    [
+      "demo08.webp",
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      63,
+      4.9,
+      143,
+      6.05
+    ],
+    [
+      "demo10.webp",
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "https://cdn.live.whatagraph.com/sandbox/demo05.webp",
+      68,
+      4.9,
+      128,
+      4.69
+    ],
+    [
+      "demo05.webp",
+      "Do you have one?",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      68,
+      4.8,
+      130,
+      4.7
+    ],
+    [
+      "demo07.webp",
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      40,
+      4.8,
+      165,
+      4.86
+    ],
+    [
+      "demo09.webp",
+      "TI reached out to our clients asking what they thought of the reports and they loved them!",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      62,
+      4.8,
+      112,
+      6.19
+    ],
+    [
+      "demo05.webp",
+      "When the boss wants to talk with me about very old project",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      53,
+      4.7,
+      128,
+      5.41
+    ],
+    [
+      "demo06.webp",
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      61,
+      4.7,
+      164,
+      4.92
+    ],
+    [
+      "demo07.webp",
+      "#Tuesday is the most productive day of the week!",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      45,
+      4.7,
+      122,
+      4.93
+    ],
+    [
+      "demo05.webp",
+      "Going forward",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      42,
+      4.6,
+      167,
+      4.63
+    ],
+    [
+      "demo06.webp",
+      "#Tuesday is the most productive day of the week!",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      43,
+      4.6,
+      155,
+      5.44
+    ],
+    [
+      "demo10.webp",
+      "Do you have one?",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      42,
+      4.6,
+      135,
+      3.61
+    ],
+    [
+      "demo04.webp",
+      "#Tuesday is the most productive day of the week!",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      64,
+      4.5,
+      125,
+      6.01
+    ],
+    [
+      "demo04.webp",
+      "Do you have one?",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      47,
+      4.5,
+      149,
+      4.03
+    ],
+    [
+      "demo04.webp",
+      "Going forward",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      46,
+      4.4,
+      165,
+      5.33
+    ],
+    [
+      "demo10.webp",
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      26,
+      4.4,
+      113,
+      4.31
+    ],
+    [
+      "demo10.webp",
+      "Going forward",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      41,
+      4.4,
+      143,
+      5.11
+    ],
+    [
+      "demo02.webp",
+      "Going forward",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      45,
+      4.3,
+      135,
+      4.55
+    ],
+    [
+      "demo04.webp",
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      40,
+      4.3,
+      165,
+      4.16
+    ],
+    [
+      "demo07.webp",
+      "Client's expectations VS client's budget",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      53,
+      4.3,
+      145,
+      6.49
+    ],
+    [
+      "demo08.webp",
+      "#Tuesday is the most productive day of the week!",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      40,
+      4.3,
+      170,
+      5.03
+    ],
+    [
+      "demo09.webp",
+      "Do you have one?",
+      "https://cdn.live.whatagraph.com/sandbox/demo01.webp",
+      47,
+      4.3,
+      154,
+      5.17
+    ],
+    [
+      "demo10.webp",
+      "When the boss wants to talk with me about very old project",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      63,
+      4.3,
+      170,
+      5.96
+    ],
+    [
+      "demo02.webp",
+      "TI reached out to our clients asking what they thought of the reports and they loved them!",
+      "https://cdn.live.whatagraph.com/sandbox/demo04.webp",
+      35,
+      4.2,
+      144,
+      4.91
+    ],
+    [
+      "demo03.webp",
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      44,
+      4.2,
+      158,
+      6.73
+    ],
+    [
+      "demo08.webp",
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      63,
+      4.2,
+      153,
+      5.12
+    ],
+    [
+      "demo09.webp",
+      "#Tuesday is the most productive day of the week!",
+      "https://cdn.live.whatagraph.com/sandbox/demo06.webp",
+      49,
+      4.1,
+      150,
+      7.05
+    ],
+    [
+      "demo04.webp",
+      "Client's expectations VS client's budget",
+      "https://cdn.live.whatagraph.com/sandbox/demo08.webp",
+      63,
+      4,
+      163,
+      5.09
+    ],
+    [
+      "demo06.webp",
+      "Do you have one?",
+      "https://cdn.live.whatagraph.com/sandbox/demo07.webp",
+      53,
+      4,
+      183,
+      5.67
+    ],
+    [
+      "demo02.webp",
+      "#Tuesday is the most productive day of the week!",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      54,
+      3.9,
+      142,
+      4.68
+    ],
+    [
+      "demo05.webp",
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      68,
+      3.8,
+      149,
+      5.05
+    ],
+    [
+      "demo08.webp",
+      "Client's expectations VS client's budget",
+      "https://cdn.live.whatagraph.com/sandbox/demo10.webp",
+      53,
+      3.8,
+      164,
+      6.56
+    ],
+    [
+      "demo06.webp",
+      "Infographic guide on making the most of mobile vs. desktop statistics!",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      55,
+      3.6,
+      163,
+      4.65
+    ],
+    [
+      "demo09.webp",
+      "When the boss wants to talk with me about very old project",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      60,
+      3.6,
+      101,
+      3.78
+    ],
+    [
+      "demo08.webp",
+      "Do you have one?",
+      "https://cdn.live.whatagraph.com/sandbox/demo03.webp",
+      70,
+      3.5,
+      152,
+      4.44
+    ],
+    [
+      "demo07.webp",
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      41,
+      3.4,
+      159,
+      4.59
+    ],
+    [
+      "demo09.webp",
+      "Going forward",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      47,
+      3.4,
+      157,
+      4.3
+    ],
+    [
+      "demo02.webp",
+      "All you need to do is sign up with your Google Analytics account, and Whatagraph sifts through all..",
+      "https://cdn.live.whatagraph.com/sandbox/demo09.webp",
+      54,
+      3.2,
+      147,
+      3.41
+    ],
+    [
+      "demo08.webp",
+      "TI reached out to our clients asking what they thought of the reports and they loved them!",
+      "https://cdn.live.whatagraph.com/sandbox/demo02.webp",
+      65,
+      3.1,
+      140,
+      4.09
     ]
   ]
 }
