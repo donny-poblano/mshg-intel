@@ -1,0 +1,52 @@
+{
+  "date": "2026-06-12",
+  "week": "2026-W24",
+  "headline": "Founder-led educational content and Wisconsin-rooted paid messaging still look strongest, but the real blocker this week is still stale Whatagraph reporting rather than weak market response.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Meta’s best hooks are still crisp and believable: Straight From Wisconsin is still carrying 13,622 link clicks at $0.11 CPC, while Meet Real Dough Pizza Co. remains one of the most efficient ads at 4.67% CTR.",
+        "Founder/operator content still leads organic trust across platforms: Founder Pro Tips remains the strongest Instagram post and top Facebook reel, with small additional backfill again this week.",
+        "Brand demand still looks healthiest at the bottom of the funnel: Google branded search continues to deliver 5.68% CTR at $0.21 CPC while Instagram website clicks ticked up again to 1,273."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "The June 12 Whatagraph pull worked, but the trusted Meta/Google/Facebook/Instagram reporting window still stops at 2026-05-12. This is another verification week, not a true weekly close.",
+        "Competitor Google search is still the weakest paid pocket: $1,227.77 spent at $0.59 CPC versus branded search at $0.21 CPC.",
+        "The week-over-week movement that does appear is tiny and organic-led, which is a classic sign of late attribution/backfill rather than a fresh content-performance shift."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "REPORTING: Fix the Whatagraph freshness issue first so next Friday reflects a real post-May-12 performance window instead of backfill noise.",
+        "PAID + CREATIVE: Keep Straight From Wisconsin and founder-led ads as controls, then build the next batch around founder authority, fermentation/process proof, and practical dinner utility.",
+        "SEARCH: Cap or cut competitor terms unless conversion data clearly proves payback; branded and sourdough-intent traffic remain materially cleaner.",
+        "ORGANIC: Keep leaning into founder tips, process education, and dinner-solve messaging because that is still the clearest cross-platform pattern."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "Specific, founder-led, Wisconsin-rooted, and process-forward messaging still outperforms generic premium language. The best content blends sourdough credibility, operator voice, and an easy dinner outcome.",
+    "what_didnt": "Competitor search remains expensive, broad premium positioning is still too soft, and the stale reporting window makes false week-over-week conclusions easy.",
+    "recommendation": "Keep the creative system narrow and legible. Build the next round around founder education, fermentation/process proof, ingredient reassurance, and family-dinner utility.",
+    "competitive_context": "The category keeps rewarding sharper claims: craft process, cleaner ingredients, and retailer-ready execution. Real Dough should keep defending a tighter moat around authentic sourdough craft, Wisconsin credibility, and operational consistency."
+  },
+  "data_quality": {
+    "missing": [
+      "No usable review sentiment feed for Real Dough.",
+      "No current-week Real Dough operations data paired into this analysis."
+    ],
+    "stale": [
+      "The latest trustworthy analytics view is still YTD through 2026-05-12, not a clean current-week slice.",
+      "Week-over-week Meta and Google movement is effectively frozen because the source window did not advance."
+    ],
+    "anomalies": [
+      "YouTube and TikTok tabs in the current Whatagraph export are still returning sample/demo data.",
+      "Small Instagram and Facebook deltas versus last week appear to be late organic backfills inside the same reporting window, not new performance."
+    ]
+  }
+}
