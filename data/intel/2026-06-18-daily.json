@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-18",
+  "type": "daily",
+  "generated_at": "2026-06-18T13:14:14Z",
+  "competitors": [
+    {
+      "name": "Pur Pain",
+      "action": "Pur Pain is presenting Tapas Baguettes to grocery bakery and deli buyers as a premium, clean-label sourdough item built from a 40-year culture and slow fermentation. The product is par-baked, has a 30-day ambient shelf life, and is positioned for charcuterie, appetizers, sandwiches and prepared foods. For Real Dough, the signal is that artisan fermentation cues are being packaged with operator-friendly shelf life and cross-merchandising logic, not just sold as craft storytelling.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/pur-pain-tapas-baguettes",
+      "first_reported": "2026-06-18",
+      "status": "new"
+    },
+    {
+      "name": "Food CPG pricing",
+      "action": "Retail Brew reported that retailers and brands are increasingly using selective price cuts to rebuild unit velocity after several years of inflation-led price increases, with food CPGs including PepsiCo and General Mills cited among companies reducing some prices. The relevance for Real Dough is margin discipline: premium positioning still needs a clear volume and repeat-purchase argument as shoppers remain price-sensitive.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.retailbrew.com/stories/more-retailers-and-brands-are-evaluating-the-benefits-of-price-cuts",
+      "first_reported": "2026-06-18",
+      "status": "new"
+    },
+    {
+      "name": "Frozen pizza category",
+      "action": "Snack Food & Wholesale Bakery's 2026 pizza category review, citing Circana data for the 52 weeks ended April 19, 2026, put total U.S. frozen pizza sales at $7.3B, down 1.9%. The same review highlighted ongoing innovation around clean ingredients, protein, portion control, premium restaurant-quality positioning, regional styles and faster prep formats. The signal is mixed: the category is soft overall, but differentiation is shifting toward crust/process credibility and occasion fit.",
+      "category": "market_data",
+      "relevance_score": 9,
+      "source_url": "https://www.snackandbakery.com/articles/115906-state-of-the-industry-2026-pizza-innovation-heats-up",
+      "first_reported": "2026-06-18",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium bakery and frozen pizza differentiation is moving toward process credibility plus practical retail execution",
+      "direction": "up",
+      "magnitude": "Pur Pain is pairing 40-year sourdough culture and slow fermentation with 30-day ambient shelf life; frozen pizza brands are emphasizing clean ingredients, protein, portion control, regional styles and faster prep despite category softness.",
+      "context": "The useful pattern is not premium language by itself. Buyers are seeing products that combine artisan cues with operational benefits, while frozen pizza innovation is being forced to prove relevance in a $7.3B category that declined 1.9% in the latest measured year.",
+      "source_url": "https://www.snackandbakery.com/articles/115906-state-of-the-industry-2026-pizza-innovation-heats-up"
+    },
+    {
+      "topic": "Selective CPG price resets are becoming a response to weak unit sales",
+      "direction": "up",
+      "magnitude": "Retail Brew cited retailers and brands including Kroger, Walmart, PepsiCo and General Mills as lowering or evaluating lower prices after inflation-driven increases.",
+      "context": "For premium frozen and bakery brands, the shelf story needs to justify both price and velocity. Retailers are more likely to scrutinize trade-offs between margin, unit movement and loyalty.",
+      "source_url": "https://www.retailbrew.com/stories/more-retailers-and-brands-are-evaluating-the-benefits-of-price-cuts"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "U.S. frozen pizza category sales",
+      "value": "$7.3 billion",
+      "change": "Down 1.9% for the 52 weeks ended April 19, 2026, per Circana data cited by Snack Food & Wholesale Bakery",
+      "source_url": "https://www.snackandbakery.com/articles/115906-state-of-the-industry-2026-pizza-innovation-heats-up"
+    },
+    {
+      "metric": "Pur Pain Tapas Baguettes shelf-life and product cue",
+      "value": "30-day ambient shelf life",
+      "change": "Product is built around a 40-year sourdough culture and slow fermentation for bakery/deli cross-merchandising",
+      "source_url": "https://progressivegrocer.com/pur-pain-tapas-baguettes"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Frozen pizza remains a large but soft category; premium cues need to translate into concrete retail reasons to buy.",
+      "impact": "Today's three signals point in the same direction: category growth is not automatic, artisan fermentation claims are being paired with shelf-life and merchandising utility, and CPG pricing is under renewed pressure. Real Dough should keep product claims specific, operationally credible and velocity-aware.",
+      "source_url": "https://www.snackandbakery.com/articles/115906-state-of-the-industry-2026-pizza-innovation-heats-up",
+      "first_reported": "2026-06-18"
+    }
+  ]
+}
