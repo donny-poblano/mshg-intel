@@ -1,0 +1,55 @@
+{
+  "date": "2026-06-19",
+  "week": "2026-W25",
+  "headline": "Analytics are still stale, but the market signal is clear: Real Dough's strongest lane is specific sourdough/Wisconsin credibility plus value proof while private label, cleaner national brands, and format-led frozen competitors get sharper.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Paid controls still look efficient in the trusted YTD export: Meta 'Straight From Wisconsin' has 13,622 link clicks at $0.11 CPC, and 'Meet Real Dough Pizza Co.' remains at 4.67% CTR with $0.11 CPC.",
+        "Founder/process content remains the most defensible organic signal: Founder Pro Tips is still the top Instagram engagement item, and ingredient reassurance now leads the Facebook reel backfill by average view time.",
+        "Demand capture is strongest when intent is explicit: Google branded search is still at 5.68% CTR and $0.21 CPC, materially cleaner than competitor search at $0.59 CPC."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "The June 19 Whatagraph export succeeded, but trusted Meta, Google, Facebook, and Instagram data still stop at 2026-05-12. This is not a real June 13-19 performance read.",
+        "The frozen pizza category is large but soft: Circana data cited this week put U.S. frozen pizza at $7.3B, down 1.9% for the 52 weeks ended April 19, 2026.",
+        "Competitive pressure is moving in three directions at once: premium/process claims from Connie's, Di Fara, Zuppardi's and Pur Pain; private-label/co-op scale from Topco/AWG/Wakefern; and cleaner national-brand baselines as Nestle says it has removed artificial FD&C colors from its U.S. portfolio.",
+        "Price sensitivity is not theoretical: RELEX/Progressive Grocer reported 61% of shoppers changed food purchase volume because of higher prices, 47% switched to private label, and 51% stock up during promotions."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "REPORTING: Fix the Whatagraph freshness issue before the next weekly read; leadership should not make June optimization calls from a May 12 cutoff.",
+        "PAID + CREATIVE: Keep Wisconsin origin and founder/process proof as controls, then add sharper value proof: why Real Dough is worth trading up for versus private label or promotion-driven alternatives.",
+        "SEARCH: Keep branded and sourdough-intent traffic protected; cap competitor search unless downstream conversion data proves it can justify the higher CPC.",
+        "AGENCY BRIEF: Build the next creative batch around fermentation proof, ingredient reassurance, retailer availability, and fast family-dinner utility. Avoid generic 'premium' language without a concrete shelf reason to believe.",
+        "DATA COVERAGE: Stand up a usable Real Dough review feed and current operations snapshot so customer voice and retail execution are not blind spots."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "Specific beats broad. The strongest available signals are Wisconsin-rooted ads, founder/operator education, sourdough/process credibility, ingredient reassurance, branded search, and practical store/dinner utility.",
+    "what_didnt": "Generic premium positioning is not enough, competitor search remains the expensive paid pocket, and stale reporting makes week-over-week performance claims unsafe.",
+    "recommendation": "Keep the creative system tight: Wisconsin origin, authentic sourdough fermentation, founder credibility, recognizable ingredients, and easy dinner value. Add one explicit value-defense lane that explains why the product is worth the premium when shoppers are trading down or waiting for promotions.",
+    "competitive_context": "This week reinforced that the freezer set is getting more disciplined. The category is down 1.9% despite $7.3B in sales, scaled players are improving clean-label baselines, co-op/private-label programs are getting more capable, and restaurant-derived or process-forward brands are pushing format-specific claims. Real Dough should defend a narrower moat: real sourdough craft, Wisconsin credibility, clean ingredient proof, and retailer-ready velocity."
+  },
+  "data_quality": {
+    "missing": [
+      "No usable Real Dough review/sentiment feed. data/reviews.json still contains place-not-found errors for other MSHG brands, not Real Dough customer feedback.",
+      "No current-week Real Dough operations data. data/operations/ contains older Merriment snapshots from March/April, not Real Dough retail or operating inputs."
+    ],
+    "stale": [
+      "The trusted Whatagraph analytics period remains 2026-01-01 through 2026-05-12, despite the June 19 export succeeding.",
+      "Week-over-week paid, Instagram, and Facebook top-line movement cannot be inferred because the source reporting window did not advance."
+    ],
+    "anomalies": [
+      "YouTube and TikTok tabs in the Whatagraph export remain sample/demo data and are excluded from recommendations.",
+      "Facebook reel rows show 0 unique views while reporting average view time; use those rows only as directional content-theme evidence.",
+      "Several intel files from 2026-05-30 through 2026-06-17 are currently untracked in git; this summary used the available files but did not commit unrelated inputs."
+    ]
+  }
+}
