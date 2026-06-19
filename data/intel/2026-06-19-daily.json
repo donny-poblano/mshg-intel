@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-19",
+  "type": "daily",
+  "generated_at": "2026-06-19T13:06:40Z",
+  "competitors": [
+    {
+      "name": "Nestle USA",
+      "action": "Nestle USA said it has completed removal of all artificial FD&C colors from its U.S. food and beverage portfolio after accelerating the effort in June 2025. For Real Dough, the signal is that large CPG owners with frozen pizza exposure are moving clean-label work from future commitment to executed baseline, reducing the shelf advantage of broad 'no artificial' claims unless they are paired with a more specific product story.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/30502-nestle-usa-completes-removal-of-artificial-colors-from-portfolio",
+      "first_reported": "2026-06-19",
+      "status": "new"
+    },
+    {
+      "name": "Grocery co-op private label programs",
+      "action": "Progressive Grocer reported that co-ops including Topco, AWG and Wakefern are expanding private-label capabilities as independent and regional grocers seek scale against larger chains. Topco specifically cited Crav'n Flavor moving beyond frozen pizza into more categories because scale gives the brand more room to innovate with suppliers. The frozen-pizza signal is that co-op-backed store brands are getting stronger, more coordinated and less purely value-led.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/grocery-co-ops-evolve-meet-growing-private-label-demand",
+      "first_reported": "2026-06-19",
+      "status": "new"
+    },
+    {
+      "name": "U.S./U.K. grocery shoppers",
+      "action": "Progressive Grocer, citing RELEX Solutions consumer research, reported that 61% of shoppers have changed how much food they buy because of higher grocery prices; 47% have switched to private-label products, 40% shop more at discount retailers and 51% stock up during promotions. For Real Dough, the practical read is that premium frozen pizza needs a clear value proof at shelf, not just premium cues.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/61-shoppers-cut-back-grocery-prices-rise",
+      "first_reported": "2026-06-19",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Clean-label claims are becoming table stakes for scaled CPG",
+      "direction": "up",
+      "magnitude": "Nestle USA completed portfolio-wide removal of artificial FD&C colors ahead of the FDA's end-2026 phase-out goal.",
+      "context": "Clean-label positioning still matters, but national brands are closing the gap on basic artificial-ingredient claims. Real Dough's stronger differentiator is specific process credibility: sourdough fermentation, ingredient standards and product quality that shoppers can understand quickly.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30502-nestle-usa-completes-removal-of-artificial-colors-from-portfolio"
+    },
+    {
+      "topic": "Value pressure is pushing shoppers and grocers toward stronger private label",
+      "direction": "up",
+      "magnitude": "RELEX/Progressive Grocer reported 47% of shoppers switching to private label and 40% shopping more at discount retailers; Progressive Grocer separately reported co-ops strengthening private-label scale for regionals and independents.",
+      "context": "The risk for premium frozen pizza is not only a low-priced national brand. Better-coordinated co-op and retailer-owned programs can copy premium cues while retailers use them to defend price perception.",
+      "source_url": "https://progressivegrocer.com/61-shoppers-cut-back-grocery-prices-rise"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Shoppers changing food purchase volume because of higher prices",
+      "value": "61%",
+      "change": "RELEX Solutions survey cited by Progressive Grocer also found 47% switched to private label, 40% shop more at discount retailers and 51% stock up during promotions.",
+      "source_url": "https://progressivegrocer.com/61-shoppers-cut-back-grocery-prices-rise"
+    },
+    {
+      "metric": "Nestle USA artificial color removal",
+      "value": "100% of U.S. food and beverage portfolio free of artificial FD&C colors",
+      "change": "Company completed the removal effort after accelerating it in June 2025, when more than 90% of the portfolio was already free of synthetic colors.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30502-nestle-usa-completes-removal-of-artificial-colors-from-portfolio"
+    },
+    {
+      "metric": "Co-op private-label innovation signal",
+      "value": "Topco cited Crav'n Flavor expanding beyond frozen pizza into additional categories",
+      "change": "Progressive Grocer framed grocery co-ops as increasingly important for regional and independent grocers seeking private-label scale, supplier leverage and innovation access.",
+      "source_url": "https://progressivegrocer.com/grocery-co-ops-evolve-meet-growing-private-label-demand"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Premium frozen pizza has to defend against cleaner national brands and more capable private label at the same time.",
+      "impact": "Today's three signals all raise the bar for Real Dough's shelf proof: large CPG is normalizing clean-label execution, co-op private label is gaining innovation scale and shoppers remain price-sensitive enough to trade down or wait for promotions.",
+      "source_url": "https://progressivegrocer.com/grocery-co-ops-evolve-meet-growing-private-label-demand",
+      "first_reported": "2026-06-19"
+    }
+  ]
+}
