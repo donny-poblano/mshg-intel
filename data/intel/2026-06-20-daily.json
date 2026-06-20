@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-20",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kraft Heinz",
+      "action": "Kraft Heinz will reorganize into three global regions on July 1 and combine procurement and supply chain under one centralized function. The relevant CPG signal is that a major branded-food company is prioritizing volume-led growth, portfolio focus and supply-chain resilience at the same time retailers are scrutinizing value and reliability.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.foodbusinessnews.net/articles/30540-kraft-heinz-consolidates-global-operating-regions",
+      "first_reported": "2026-06-20",
+      "status": "new"
+    },
+    {
+      "name": "Rise Baking / Jimmy's Gourmet Bakery",
+      "action": "Rise Baking plans to acquire Jimmy's Gourmet Bakery, adding a Northeast wholesale bakery platform with frozen bread, par-baked bread, frozen cookie dough, private-label products, three New Jersey facilities and more than 350,000 square feet of production capacity. For Real Dough, the signal is that scaled bakery suppliers are still buying artisan and thaw-and-sell manufacturing depth tied to grocery and foodservice customers.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/30542-rise-baking-set-to-buy-jimmys-gourmet-bakery",
+      "first_reported": "2026-06-20",
+      "status": "new"
+    },
+    {
+      "name": "La Tortilla Factory / Joseph's Bakery / C.H. Guenther",
+      "action": "Food Business News' tortilla category review highlighted continued deal activity and format shifts: Joseph's Bakery using Tumaro's to expand better-for-you wraps, La Tortilla Factory moving from shelf-stable into refrigerated tortillas with protein and sourdough concepts, and C.H. Guenther buying Fresca and Mejicano to build foodservice and QSR tortilla capacity. The Real Dough takeaway is that adjacent flatbread categories are moving toward refrigerated, functional and sourdough-positioned formats while manufacturing scale consolidates.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/30537-m-and-a-activity-helps-propel-tortilla-category",
+      "first_reported": "2026-06-20",
+      "status": "new"
+    }
+  ],
+  "trends": [],
+  "market_data": [],
+  "breaking": []
+}
