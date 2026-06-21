@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-21",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kroger",
+      "action": "Kroger reported Q1 fiscal 2026 identical sales excluding fuel up 1%, with overall sales up about 2% to $46.1 billion. Digital sales rose 19% and e-commerce turned profitable for the first time, while CEO Greg Foran said roughly 60% of stores need performance improvement. For Real Dough, the signal is that large grocery accounts are tying growth to digital execution, private label, fresh and tighter store operations, not just more assortment.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/kroger-earnings-first-quarter-2026-ecommerce-pharmacy/823246/",
+      "first_reported": "2026-06-21",
+      "status": "new"
+    },
+    {
+      "name": "Ahold Delhaize USA",
+      "action": "Ahold Delhaize nominated former Amazon worldwide fresh executive Claire Peters as CEO of Ahold Delhaize USA, effective Sept. 8 pending approval. Peters will inherit U.S. banners with strong e-commerce momentum, outperforming private brands, Stop & Shop remodel work and price investments in New York and New Jersey. The relevant signal is that a major grocery operator is putting omnichannel fresh and private-brand execution at the center of U.S. leadership.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/ahold-delhaize-usa-ceo-nominee-former-amazon-fresh-veteran-claire-peters/823251/",
+      "first_reported": "2026-06-21",
+      "status": "new"
+    },
+    {
+      "name": "Hershey",
+      "action": "Hershey said its March 2026 One Hershey structure, combining sweet, salty and protein snacks under one commercial model, is improving retailer planning and merchandising. The company cited 20%-25% sales lift for confectionery-only end caps versus about 34% for combined sweet-and-salty end caps. For Real Dough, the CPG signal is that retailers are rewarding suppliers that bring cross-category occasion planning and measurable merchandising lift, not only individual SKU stories.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.fooddive.com/news/hersheys-combines-candy-snacking-units-paying-off-for-retailers/821217/",
+      "first_reported": "2026-06-21",
+      "status": "new"
+    }
+  ],
+  "trends": [],
+  "market_data": [],
+  "breaking": []
+}
