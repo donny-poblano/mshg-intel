@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-23",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Ahold Delhaize / Stop & Shop",
+      "action": "Stop & Shop expanded lower everyday prices to all 137 New York and New Jersey stores, covering thousands of national-brand and private-label items across departments. Grocery Dive reported examples with 9% to 28% reductions and noted the move brings the banner's lower-price initiative to more than 350 Northeast stores. For Real Dough, the signal is that large regional grocers are making visible affordability part of banner turnaround work, increasing pressure on premium items to justify shelf price and repeat velocity.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/stop-and-shop-price-investments-new-york-new-jersey-ahold-delhaize/820518/",
+      "first_reported": "2026-06-23",
+      "status": "new"
+    },
+    {
+      "name": "Albertsons / Amazon / Target / Dollar General",
+      "action": "Progressive Grocer reported that June has become a concentrated retail savings month, with Prime Day, Target Circle Deal Days, Albertsons for U Save Days and Dollar General's monthlong summer promotion overlapping. Albertsons' event spans about 4,000 products across more than 140 categories, including Signature Select frozen pizzas. For Real Dough, the signal is that freezer items are being pulled into broad loyalty-led savings events, so promotional readiness and digital offer fit matter even for premium frozen pizza.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/june-blockbuster-month-retail-savings",
+      "first_reported": "2026-06-23",
+      "status": "new"
+    },
+    {
+      "name": "NFRA Penguin Pitch winners",
+      "action": "NFRA named Folkland Foods Potato Tots its 2026 Penguin Pitch Emerging Brand of the Year, while Di Fara Pizza won Best Promotional Strategy and Frönen won Most Disruptive Product. The contest highlighted emerging frozen and refrigerated brands on product differentiation, samples and promotional materials, with the grand prize providing exposure to retailers at Café NFRA. For Real Dough, the signal is that buyer-facing freezer innovation is being judged on clean ingredients, distinct format, brand execution and in-store/social activation together.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.snackandbakery.com/articles/115904-nfra-announces-winners-of-2026-penguin-pitch-contest",
+      "first_reported": "2026-06-23",
+      "status": "new"
+    }
+  ],
+  "trends": [],
+  "market_data": [],
+  "breaking": []
+}
