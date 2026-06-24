@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-24",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "SpartanNash / Family Fare / VG's Grocery / Martin's Super Markets",
+      "action": "SpartanNash-owned banners launched a summer New Lower Prices campaign with 5% to 25% reductions on hundreds of products, explicitly including frozen pizza, easy dinners and grilling staples. Progressive Grocer reported the program is being merchandised with red shelf tags and curbside signs across Family Fare, VG's Grocery and Martin's Super Markets. For Real Dough, the signal is that regional grocers are pairing visible freezer-aisle value messaging with broader store-experience work, increasing the need for premium frozen pizza to show clear quality and occasion fit at shelf.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/why-3-spartannash-banners-are-ushering-summer-lower-prices",
+      "first_reported": "2026-06-24",
+      "status": "new"
+    },
+    {
+      "name": "Sam's Club / Member's Mark",
+      "action": "Sam's Club made its 16-inch Member's Mark Hot Baked Pizza available for delivery in the majority of clubs nationwide, with all clubs expected by month-end and Express delivery available in under three hours. The $8.98 café pizza comes in pepperoni, cheese and four-meat options. For Real Dough, the signal is not freezer competition but adjacent pizza occasion pressure: club retail is using low-price, hot, delivered pizza to blend value, convenience and prepared-food loyalty.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/sams-club-popular-cafe-pizza-now-available-delivery",
+      "first_reported": "2026-06-24",
+      "status": "new"
+    },
+    {
+      "name": "KANZEN MEAL / Nissin Foods Americas",
+      "action": "KANZEN MEAL announced national retail expansion across banners under Albertsons, Ahold Delhaize, Kroger, Meijer and Wegmans ahead of the 2026 Summer Fancy Food Show. The frozen meal line is positioned around functional comfort food, with up to 24g protein, up to 10g fiber and 33% or more DV of 27 vitamins and minerals at a $6.49 to $6.99 SRP. For Real Dough, the freezer signal is that major retailers are still making room for premium frozen products when the proposition combines convenience, bold flavor and specific nutrition claims.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.businesswire.com/news/home/20260623624106/en/KANZEN-MEAL-Expands-Into-Major-National-Retailers-Ahead-of-the-2026-Summer-Fancy-Food-Show",
+      "first_reported": "2026-06-24",
+      "status": "new"
+    }
+  ],
+  "trends": [],
+  "market_data": [],
+  "breaking": []
+}
