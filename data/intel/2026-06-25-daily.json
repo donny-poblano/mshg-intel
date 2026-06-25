@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-25",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Conagra Brands",
+      "action": "Conagra announced a broad summer innovation slate led by frozen brands, spanning new breakfast sandwiches, high-protein bowls, multi-serve meals, vegetable sides and restaurant-inspired skillet meals. The release explicitly frames taste, convenience, protein, value and modern flavors as the 2026 frozen-growth playbook, signaling that scaled incumbents are using portfolio breadth to defend freezer space beyond single-SKU launches.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.prnewswire.com/news-releases/conagra-brands-kicks-off-summer-with-exciting-new-introductions-302808575.html",
+      "first_reported": "2026-06-25",
+      "status": "new"
+    },
+    {
+      "name": "Albertsons Media Collective / Criteo",
+      "action": "Albertsons integrated sponsored product placement into its AI-powered conversational search tool, letting brands appear in product carousels while shoppers plan meals, search products and build baskets. For Real Dough, the signal is that grocery discovery and retail media are moving closer to the actual meal-planning moment, making digital shelf readiness and search relevance more important for premium frozen brands.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/albertsons-media-collective-criteo-ai-search-brand-ads-ecommerce-omnichannel/823557/",
+      "first_reported": "2026-06-25",
+      "status": "new"
+    },
+    {
+      "name": "Target",
+      "action": "Target plans to open 11 new U.S. stores in July as part of a 30-store 2026 expansion plan and a longer-term goal of 300 new locations by 2035. Grocery Dive reported that many of the new stores will be larger than Target's average footprint and include a food-forward fresh assortment, reinforcing Target's push to make grocery a bigger part of its store turnaround and traffic strategy.",
+      "category": "expansion",
+      "relevance_score": 6,
+      "source_url": "https://www.grocerydive.com/news/target-open-eleven-new-stores-july/823629/",
+      "first_reported": "2026-06-25",
+      "status": "new"
+    }
+  ],
+  "trends": [],
+  "market_data": [],
+  "breaking": []
+}
