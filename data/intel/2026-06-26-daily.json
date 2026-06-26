@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-26",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "UNFI",
+      "action": "UNFI's 2026 Holiday and Winter Selling Show drew more than 1,400 grocery retail representatives and 715 suppliers, with almost 70 new-to-market brands. Progressive Grocer reported UNFI's highlighted trend areas as private label for premium holiday entertaining, fresh produce as culinary inspiration, and functional wellness moving into seasonal occasions.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/unfi-highlights-top-industry-trends-innovations-recent-selling-show",
+      "first_reported": "2026-06-26",
+      "status": "new"
+    },
+    {
+      "name": "Kroger Precision Marketing / TikTok",
+      "action": "Kroger Precision Marketing partnered with TikTok so advertisers can target Kroger shoppers on TikTok using Kroger purchase data through TikTok's self-service ad platform. Grocery Dive reported Kroger's view that social content is increasingly tied to grocery purchase behavior, making social discovery and retail-media readiness more important for freezer and CPG brands.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/kroger-tiktok-retail-media-social-media-grocery-supermarkets-advertising/823589/",
+      "first_reported": "2026-06-26",
+      "status": "new"
+    },
+    {
+      "name": "PepsiCo / Coca-Cola / Keurig Dr Pepper",
+      "action": "Major beverage CPGs are adding QR-code links to ingredient information through the American Beverage Association's Good to Know initiative, with broader industry participation targeted by the end of 2027. Food Dive reported the move as a response to rising consumer scrutiny of ingredients and safety, reinforcing transparency as a CPG packaging expectation beyond beverages.",
+      "category": "campaign",
+      "relevance_score": 6,
+      "source_url": "https://www.fooddive.com/news/coca-cola-pepsico-keurig-ingredient-transparency-qr-codes/823802/",
+      "first_reported": "2026-06-26",
+      "status": "new"
+    }
+  ],
+  "trends": [],
+  "market_data": [],
+  "breaking": []
+}
