@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-26",
+  "week": "2026-W26",
+  "headline": "No new trustworthy performance read this week: analytics still stop at 2026-05-12, while market intel says retail pressure is shifting toward price, private label, retail media, and proof-backed freezer differentiation.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "The last trusted paid read still supports the control strategy: Meta delivered 65,757 clicks at $0.15 CPC and 2.95% CTR, with 'Straight From Wisconsin' leading creative at 13,622 link clicks and $0.11 CPC.",
+        "Branded demand remains the cleanest Google pocket in the available export: Real Dough branded search ran at 5.68% CTR and $0.21 CPC, materially better than competitor search at $0.59 CPC.",
+        "Creative direction remains defensible despite stale reporting: founder/process proof, Wisconsin origin, sourdough fermentation, ingredient reassurance, and store-availability utility are the strongest recurring signals in the latest Analyst file and Whatagraph backfill."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Reporting is now the main blocker. Whatagraph data still covers 2026-01-01 through 2026-05-12, and there is no 2026-06-26 Analyst weekly analysis file, so this is not a June 20-26 performance summary.",
+        "Retail value pressure intensified this week: Stop & Shop expanded lower everyday prices across NY/NJ stores, SpartanNash banners cut hundreds of items including frozen pizza by 5%-25%, and June retail savings events pulled Signature Select frozen pizzas into broad promotions.",
+        "Private-label and scaled freezer competition are getting sharper: Grocery Outlet is launching private label, UNFI highlighted premium private label for holiday occasions, and Conagra's summer frozen slate is built around taste, convenience, protein, value, and modern flavors.",
+        "Retail media is moving closer to meal planning and purchase behavior: Albertsons added sponsored products inside AI conversational search, and Kroger linked purchase-data targeting to TikTok. Real Dough needs digital shelf and retailer-search readiness, not just social creative."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "REPORTING: Fix or replace the Whatagraph feed before the next leadership read; do not use May 12 data to make late-June budget or creative optimization calls.",
+        "COMMERCIAL: Build a retailer-ready value defense: 24-hour sourdough, real ingredients, family dinner utility, and why Real Dough is worth the premium when frozen pizza is on promotion around it.",
+        "RETAIL MEDIA: Prepare retailer-specific search and sponsored-product copy for Kroger, Albertsons, and other accounts around 'sourdough frozen pizza', 'better frozen pizza', family dinner, and store availability.",
+        "AGENCY: Keep Wisconsin/founder/process content as the base, but add explicit ingredient-transparency and shelf-price justification angles. Avoid generic premium language without a concrete proof point.",
+        "DATA COVERAGE: Stand up a Real Dough review/customer voice source and a current operations/retail execution feed; both remain blind spots."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The best available performance evidence still favors specific proof: Wisconsin origin, founder/operator credibility, 24-hour sourdough fermentation, real ingredient reassurance, easy dinner utility, and clear store availability. Branded search remains efficient in the stale export.",
+    "what_didnt": "There is no defensible current-week performance read. Generic premium positioning is especially risky while retailers are expanding price cuts, promotions, private label, and value-led freezer messaging.",
+    "recommendation": "Build the next batch around proof-backed value: 'real sourdough, real ingredients, real dinner convenience' with Wisconsin credibility and retailer-specific availability. Pair organic/social creative with retail-media and digital-shelf language so the same claims can work when shoppers search, plan meals, or compare freezer options online.",
+    "competitive_context": "June 20-26 market intel points to a tougher shelf environment. Stop & Shop and SpartanNash are making lower prices visible, Albertsons and others are running broad savings events, Grocery Outlet and UNFI are leaning into private label, Conagra is refreshing frozen with value and protein claims, and Kroger/Albertsons are tying retail media to TikTok and AI search. Real Dough's defensible lane is not broad premium; it is specific sourdough craft, clean ingredient transparency, Wisconsin credibility, and a clear reason to trade up."
+  },
+  "data_quality": {
+    "missing": [
+      "No current-week Analyst output found for 2026-06-26; latest available analysis file is data/analysis/2026-06-19.json.",
+      "No usable Real Dough review/customer sentiment feed. data/reviews.json contains place-not-found errors for Merriment Social, Third Coast Provisions, Flourchild Pizza, and The Loon Room, not Real Dough reviews.",
+      "No current Real Dough operations or retail execution data. data/operations/ only contains 2026-03-27, 2026-03-29, 2026-04-04, and 2026-04-05 snapshots."
+    ],
+    "stale": [
+      "data/whatagraph-data.json still reports trusted Meta, Google, Facebook, and Instagram date ranges ending 2026-05-12.",
+      "The latest Analyst analysis dated 2026-06-19 also says the trusted report period is 2026-01-01 to 2026-05-12, so week-over-week paid/social movement cannot be inferred."
+    ],
+    "anomalies": [
+      "YouTube and TikTok sheets in Whatagraph remain sample/demo data per the latest Analyst file and are excluded from recommendations.",
+      "Facebook reel rows in the latest Analyst file include nonzero average-view-time rankings with 0 unique views; use them only as directional content-theme evidence.",
+      "Several older intel files from 2026-05-30 through 2026-06-17 are untracked in git; this summary used available current-week files and will not commit unrelated inputs."
+    ]
+  }
+}
