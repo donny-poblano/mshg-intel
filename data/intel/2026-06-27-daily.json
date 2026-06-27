@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-27",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kevin's Natural Foods",
+      "action": "Kevin's Natural Foods entered the frozen breakfast daypart with Scramble Starters, a four-SKU line of frozen vegetable, protein and sauce bases that shoppers finish by adding eggs. Progressive Grocer reported nationwide rollout at Target, Kroger, Harris Teeter and other retailers at a $9.99 SRP, reinforcing that clean-label frozen brands are extending into meal-building formats rather than only fully finished meals.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/kevins-natural-foods-scramble-starters",
+      "first_reported": "2026-06-27",
+      "status": "new"
+    },
+    {
+      "name": "Sedano's Supermarkets / Totino's",
+      "action": "Sedano's launched a World Cup-themed campaign, 'Where Superstitions Are Born,' with in-store fan events, food samples, giveaways and digital/social promotion across South Florida. Progressive Grocer listed Totino's among the featured campaign products, making this a useful retail-activation signal for frozen pizza and snack brands around sports-viewing occasions.",
+      "category": "campaign",
+      "relevance_score": 6,
+      "source_url": "https://progressivegrocer.com/sedanos-supermarkets-catches-world-cup-fever",
+      "first_reported": "2026-06-27",
+      "status": "new"
+    },
+    {
+      "name": "DoorDash",
+      "action": "DoorDash rolled out AI-powered conversational shopping tools that let customers describe meal or grocery needs in natural language, receive recommendations from nearby merchants and refine suggested carts before checkout. Supermarket News reported examples such as building 'a filling dinner for a family of four,' which raises the importance of product data, use-case language and digital shelf readiness for grocery CPG brands.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/grocery-technology/doordash-expands-ai-powered-shopping-tools",
+      "first_reported": "2026-06-27",
+      "status": "new"
+    }
+  ],
+  "trends": [],
+  "market_data": [],
+  "breaking": []
+}
