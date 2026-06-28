@@ -3,34 +3,52 @@
   "type": "daily",
   "competitors": [
     {
-      "name": "Totino's / General Mills",
-      "action": "Totino's is launching FaZe Clan Buffalo Style Chicken Pizza Rolls nationally in July, extending its multiyear esports partnership into a new 50-count frozen pizza-roll flavor at a $6.22 suggested retail price. The signal for Real Dough is that mass frozen pizza brands are still using entertainment partnerships and snackable formats to create freezer-aisle attention beyond traditional pizza SKUs.",
-      "category": "new_product",
-      "relevance_score": 6,
-      "source_url": "https://progressivegrocer.com/totinos-faze-clan-buffalo-style-chicken-pizza-rolls",
-      "first_reported": "2026-06-28",
-      "status": "new"
-    },
-    {
-      "name": "Natural Grocers",
-      "action": "Natural Grocers expanded its private-label freezer set with four made-in-Italy Organic Frozen Ravioli varieties, certified organic, 20 ounces and priced at $8.49. The launch is relevant because a natural/specialty retailer is using imported provenance, organic standards and convenience to make private label feel premium in the frozen Italian meal occasion.",
-      "category": "new_product",
-      "relevance_score": 7,
-      "source_url": "https://www.prnewswire.com/news-releases/natural-grocers-rolls-out-organic-frozen-ravioli-for-easy-elevated-meals-302710062.html",
-      "first_reported": "2026-06-28",
-      "status": "new"
-    },
-    {
-      "name": "Premier Protein / Hometown Food Co.",
-      "action": "Premier Protein and Hometown Food Co. added frozen protein waffles, chocolate-chip protein waffles and mini protein pancakes at select retailers including Walmart, with 13 to 15 grams of protein per serving and a $5.98 to $6.98 suggested retail range. The useful signal is that functional protein positioning keeps moving deeper into mainstream frozen convenience, raising shopper expectations for clear nutritional benefits in the freezer aisle.",
-      "category": "new_product",
-      "relevance_score": 6,
-      "source_url": "https://progressivegrocer.com/premier-protein-frozen-protein-waffles-and-mini-protein-pancakes",
+      "name": "Kroger",
+      "action": "Kroger expanded its loyalty program so shoppers can redeem points directly against grocery purchases in store or online, not only fuel. The new structure gives $1 off groceries for every 100 points redeemed, capped at $10 per day, and is paired with bonus-point promotions as Kroger works to simplify its value message under CEO Greg Foran.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/kroger-loyalty-program-grocery-savings-supermarkets/823885/",
       "first_reported": "2026-06-28",
       "status": "new"
     }
   ],
-  "trends": [],
-  "market_data": [],
-  "breaking": []
+  "trends": [
+    {
+      "topic": "GLP-1 adoption is moving from niche health trend to measurable grocery-demand pressure",
+      "direction": "up",
+      "magnitude": "Big Chalk Analytics projects GLP-1-related food-at-home sales pressure of 1.1% to 2.7% in 2026, equal to at least $9B and potentially more than $21B, with oral formats potentially lifting active users by up to 50% by 2027.",
+      "context": "For Real Dough, this reinforces the need for portion, protein, satiety, and clean-ingredient cues to be concrete rather than implied. Indulgent freezer products will keep facing pressure from shoppers eating less volume and evaluating smaller portions more carefully.",
+      "source_url": "https://www.supermarketnews.com/nonfood-pharmacy/glp-1-use-can-skyrocket-with-new-pill-form-stressing-grocery-industry",
+      "first_reported": "2026-06-28",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "U.S. frozen pizza and frozen pizza crust/dough category performance",
+      "value": "Frozen pizza: $7.335B and 1.394B units for the 52 weeks ending April 19, 2026, both down 2%; frozen pizza crusts/dough: $40.48M, down 6%, and 9.57M units, down 8%.",
+      "change": "Category softness is broad, but pockets remain: Palermo Villa grew frozen pizza dollar sales 8%, Champion Foods grew 20%, and private-label frozen crust/dough grew 12% in dollars and 14% in units.",
+      "source_url": "https://www.snackandbakery.com/articles/115906-state-of-the-industry-2026-pizza-innovation-heats-up"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "State of the Industry 2026: Pizza innovation heats up",
+      "impact": "The category is soft overall, but buyers are still rewarding distinct lanes: value, restaurant-quality cues, protein, portion control, regional styles, and cleaner labels. Real Dough should treat crust differentiation and a clear value-for-premium story as table stakes, not extras.",
+      "source_url": "https://www.snackandbakery.com/articles/115906-state-of-the-industry-2026-pizza-innovation-heats-up",
+      "first_reported": "2026-06-28"
+    },
+    {
+      "headline": "GLP-1 use can skyrocket with new pill form",
+      "impact": "Potential oral GLP-1 adoption raises the risk of lower grocery volumes and smaller package preferences. Frozen pizza brands need sharper reasons to fit smaller, more intentional eating occasions.",
+      "source_url": "https://www.supermarketnews.com/nonfood-pharmacy/glp-1-use-can-skyrocket-with-new-pill-form-stressing-grocery-industry",
+      "first_reported": "2026-06-28"
+    },
+    {
+      "headline": "Kroger lets shoppers redeem loyalty points for grocery savings",
+      "impact": "Kroger is making grocery savings more immediate and legible. Premium frozen brands will have to defend value at shelf as major retailers lean harder into loyalty-funded price perception.",
+      "source_url": "https://www.grocerydive.com/news/kroger-loyalty-program-grocery-savings-supermarkets/823885/",
+      "first_reported": "2026-06-28"
+    }
+  ]
 }
