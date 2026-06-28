@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-28",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Totino's / General Mills",
+      "action": "Totino's is launching FaZe Clan Buffalo Style Chicken Pizza Rolls nationally in July, extending its multiyear esports partnership into a new 50-count frozen pizza-roll flavor at a $6.22 suggested retail price. The signal for Real Dough is that mass frozen pizza brands are still using entertainment partnerships and snackable formats to create freezer-aisle attention beyond traditional pizza SKUs.",
+      "category": "new_product",
+      "relevance_score": 6,
+      "source_url": "https://progressivegrocer.com/totinos-faze-clan-buffalo-style-chicken-pizza-rolls",
+      "first_reported": "2026-06-28",
+      "status": "new"
+    },
+    {
+      "name": "Natural Grocers",
+      "action": "Natural Grocers expanded its private-label freezer set with four made-in-Italy Organic Frozen Ravioli varieties, certified organic, 20 ounces and priced at $8.49. The launch is relevant because a natural/specialty retailer is using imported provenance, organic standards and convenience to make private label feel premium in the frozen Italian meal occasion.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.prnewswire.com/news-releases/natural-grocers-rolls-out-organic-frozen-ravioli-for-easy-elevated-meals-302710062.html",
+      "first_reported": "2026-06-28",
+      "status": "new"
+    },
+    {
+      "name": "Premier Protein / Hometown Food Co.",
+      "action": "Premier Protein and Hometown Food Co. added frozen protein waffles, chocolate-chip protein waffles and mini protein pancakes at select retailers including Walmart, with 13 to 15 grams of protein per serving and a $5.98 to $6.98 suggested retail range. The useful signal is that functional protein positioning keeps moving deeper into mainstream frozen convenience, raising shopper expectations for clear nutritional benefits in the freezer aisle.",
+      "category": "new_product",
+      "relevance_score": 6,
+      "source_url": "https://progressivegrocer.com/premier-protein-frozen-protein-waffles-and-mini-protein-pancakes",
+      "first_reported": "2026-06-28",
+      "status": "new"
+    }
+  ],
+  "trends": [],
+  "market_data": [],
+  "breaking": []
+}
