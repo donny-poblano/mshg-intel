@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-29",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kroger",
+      "action": "Kroger's Columbus division is slated to replace paper price tags with electronic shelf labels across all 114 stores by the end of 2026. Progressive Grocer reported the rollout as part of its June 26 Friday 5 roundup, making this a near-term pricing-technology signal for brands that rely on shelf visibility, promo execution and fast price communication.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/friday-5-landmark-self-checkout-legislation-passes-potential-evidence-uncovered-albertsons-kroger",
+      "first_reported": "2026-06-29",
+      "status": "new"
+    },
+    {
+      "name": "Albertsons Media Collective / Procter & Gamble",
+      "action": "Albertsons Media Collective launched a short-form branded-entertainment retail media product with P&G, using first-party shopper insights to shape the 'Rico's Tacos' microdrama and distributing it through YouTube, social, in-store media and the Albertsons app with shop-the-series functionality. The signal for Real Dough is that retailer media is moving beyond sponsored placements into content that connects recipes, occasions and shoppable baskets.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/albertsons-new-retail-media-offering/823146/",
+      "first_reported": "2026-06-29",
+      "status": "new"
+    },
+    {
+      "name": "H Mart",
+      "action": "H Mart is preparing a second Austin, Texas store in a 23,125-square-foot former Bed Bath & Beyond location, with a food hall featuring Paik's Noodle, BBQ Chicken, Narrow Street and Tous Les Jours. The expansion reinforces that high-traffic grocery concepts are using prepared food, bakery and global cuisine experiences to differentiate stores beyond commodity grocery trips.",
+      "category": "expansion",
+      "relevance_score": 6,
+      "source_url": "https://progressivegrocer.com/h-mart-open-2nd-austin-store",
+      "first_reported": "2026-06-29",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Retail media is becoming more shoppable and occasion-led",
+      "direction": "up",
+      "magnitude": "Albertsons is pairing first-party shopper data with microdrama content, in-store screens and app-based shop-the-series commerce, while Kroger is expanding electronic shelf labels in a full division.",
+      "context": "For premium frozen brands, discovery is increasingly shaped by retailer-owned media, digital shelf content and real-time pricing infrastructure. Product data, occasion language and promo readiness need to be coordinated across physical and digital channels.",
+      "source_url": "https://www.grocerydive.com/news/albertsons-new-retail-media-offering/823146/",
+      "first_reported": "2026-06-29",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Kroger Columbus division ESL rollout footprint",
+      "value": "114 stores planned for electronic shelf labels by the end of 2026",
+      "change": "Raises the likelihood of faster shelf-price and promotion changes in a major regional division.",
+      "source_url": "https://progressivegrocer.com/friday-5-landmark-self-checkout-legislation-passes-potential-evidence-uncovered-albertsons-kroger"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "THE FRIDAY 5: Landmark Self-Checkout Legislation Passes; Potential Evidence Uncovered in Albertsons-Kroger Lawsuit",
+      "impact": "Kroger's division-wide ESL rollout points to faster pricing and promo execution in stores. Real Dough should expect retailer expectations for accurate digital product data and offer coordination to keep rising.",
+      "source_url": "https://progressivegrocer.com/friday-5-landmark-self-checkout-legislation-passes-potential-evidence-uncovered-albertsons-kroger",
+      "first_reported": "2026-06-29"
+    },
+    {
+      "headline": "Albertsons turns to microdramas for new retail media offering",
+      "impact": "Albertsons is testing shopper-data-led content that is both brand-building and shoppable. Premium freezer brands may need retailer-ready occasion stories, not just product-page ads.",
+      "source_url": "https://www.grocerydive.com/news/albertsons-new-retail-media-offering/823146/",
+      "first_reported": "2026-06-29"
+    },
+    {
+      "headline": "H Mart to Open 2nd Austin Store",
+      "impact": "H Mart's food hall-led expansion shows grocery trips competing on prepared-food experience and global flavor authority. Frozen pizza brands should watch how store experience and take-home meal occasions continue to blend.",
+      "source_url": "https://progressivegrocer.com/h-mart-open-2nd-austin-store",
+      "first_reported": "2026-06-29"
+    }
+  ]
+}
