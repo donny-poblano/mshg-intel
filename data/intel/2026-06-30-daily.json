@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-30",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Day Out Snacks / Target",
+      "action": "Day Out Snacks launched dessert-inspired protein balls in 2,000 Target stores and on Target.com beginning June 8, with roughly 800 stores receiving end-cap support from June 14 through July 25. The rollout gives a clean-label, plant-based functional snack brand its first permanent national retail placement and reinforces Target's appetite for ingredient-conscious CPG with clear functional cues.",
+      "category": "expansion",
+      "relevance_score": 6,
+      "source_url": "https://www.grocerydive.com/press-release/20260602-day-out-snacks-lands-nationwide-at-target/",
+      "first_reported": "2026-06-30",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Grocery retailers are investing in in-store artisan pizza capability",
+      "direction": "up",
+      "magnitude": "Whole Foods Market now has 121 graduates from its 12-week Pizzaioli Apprentice Program, which trains associates on dough preparation, artisan pizza-making, merchandising and customer experience at select U.S. and Canadian locations.",
+      "context": "For Real Dough, this is an adjacent pizza-occasion signal: premium grocers are building store-level pizza expertise and prepared-food theater, raising shopper expectations for authentic dough, visible craft and fresh-quality cues around pizza.",
+      "source_url": "https://progressivegrocer.com/121-whole-foods-market-employees-graduate-artisan-pizza-making-program",
+      "first_reported": "2026-06-30",
+      "status": "new"
+    },
+    {
+      "topic": "Private-label frozen innovation is moving into ingredient systems, not only meals",
+      "direction": "up",
+      "magnitude": "Kad Bnei Darom introduced Cuca, a private-label/foodservice line of scoopable frozen herbs and condiments using a plant-protein base and freezing-point-lowering technology so products remain usable directly from the freezer without added salt, sugar or fat.",
+      "context": "The launch is relevant beyond herbs: retailers and suppliers are using frozen technology to solve prep, waste and shelf-life problems in more premium ingredient formats. Pizza and artisan-food brands should expect freezer buyers to keep looking for convenience plus quality preservation, not convenience alone.",
+      "source_url": "https://www.grocerydive.com/press-release/20260622-kad-bnei-darom-introduces-soft-scoopable-frozen-herbs-and-condiments-for-p-1/",
+      "first_reported": "2026-06-30",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Whole Foods Market has 121 Pizzaioli Apprentice Program graduates",
+      "impact": "Premium grocery is treating artisan pizza as a trained, merchandised store capability rather than a generic prepared-food item.",
+      "source_url": "https://progressivegrocer.com/121-whole-foods-market-employees-graduate-artisan-pizza-making-program",
+      "first_reported": "2026-06-30"
+    },
+    {
+      "headline": "Kad Bnei Darom introduces scoopable frozen herbs and condiments for private label",
+      "impact": "Frozen private-label innovation is extending into higher-quality ingredient systems that reduce waste and prep friction.",
+      "source_url": "https://www.grocerydive.com/press-release/20260622-kad-bnei-darom-introduces-soft-scoopable-frozen-herbs-and-condiments-for-p-1/",
+      "first_reported": "2026-06-30"
+    },
+    {
+      "headline": "Day Out Snacks lands nationwide Target rollout",
+      "impact": "Target continues to back clean-label, functional CPG brands with national distribution and end-cap support when the proposition is simple and ingredient-led.",
+      "source_url": "https://www.grocerydive.com/press-release/20260602-day-out-snacks-lands-nationwide-at-target/",
+      "first_reported": "2026-06-30"
+    }
+  ]
+}
