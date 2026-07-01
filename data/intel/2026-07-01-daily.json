@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-01",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Meijer",
+      "action": "Meijer will open a 75,000-square-foot Meijer Grocery store in Livonia, Michigan, on Aug. 19, making it the fifth location for the smaller-format supermarket banner. The move shows a Midwestern mass merchant continuing to test grocery-focused formats built around convenience and neighborhood trips rather than full supercenter missions.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/meijer-grocery-store-livonia-michigan/824042/",
+      "first_reported": "2026-07-01",
+      "status": "new"
+    },
+    {
+      "name": "Balls Foods Stores / Afresh",
+      "action": "Balls Foods Stores selected Afresh for AI-driven production planning and full-store ordering across 25 Hen House Market, Price Chopper, Sun Fresh and Payless Discount Foods supermarkets. The deployment covers fresh departments plus grocery, frozen, dairy, alcohol and general merchandise, replacing manual ordering and legacy CAO systems with item-level demand and inventory tools.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/balls-foods-picks-afresh-production-planning-full-store-ordering",
+      "first_reported": "2026-07-01",
+      "status": "new"
+    },
+    {
+      "name": "Amazon",
+      "action": "Amazon will give Prime Access members a $5 grocery credit at the beginning of July, August and September on qualifying grocery orders of at least $25, while also promoting July Fourth grocery deals and 50% off ice cream and frozen treats at Whole Foods Market from July 1-7. The move keeps value pressure active in online and omnichannel grocery for lower-income households.",
+      "category": "pricing",
+      "relevance_score": 6,
+      "source_url": "https://progressivegrocer.com/amazon-offers-savings-groceries-prime-access-members-summer",
+      "first_reported": "2026-07-01",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Regional and digital grocery operators are tightening value, convenience and ordering discipline",
+      "direction": "up",
+      "magnitude": "Meijer is adding a fifth smaller-format grocery store, Balls Foods is moving full-store ordering onto Afresh AI across 25 stores, and Amazon is issuing monthly grocery credits to Prime Access members for the summer.",
+      "context": "For Real Dough, the retail environment is becoming more operationally disciplined and price-sensitive. Premium frozen pizza needs clear shelf value, reliable digital item data and readiness for grocers that are managing frozen inventory with more automated tools.",
+      "source_url": "https://www.grocerydive.com/news/meijer-grocery-store-livonia-michigan/824042/",
+      "first_reported": "2026-07-01",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Meijer Grocery banner expansion",
+      "value": "5 locations after the Livonia, Michigan, opening on Aug. 19, 2026",
+      "change": "The Livonia store is 75,000 square feet, far smaller than Meijer's 150,000- to 250,000-square-foot supercenters.",
+      "source_url": "https://www.grocerydive.com/news/meijer-grocery-store-livonia-michigan/824042/"
+    },
+    {
+      "metric": "Balls Foods Afresh rollout scope",
+      "value": "25 supermarkets across Hen House Market, Price Chopper, Sun Fresh and Payless Discount Foods",
+      "change": "Afresh ordering will cover fresh departments plus grocery, frozen, dairy, alcohol and general merchandise.",
+      "source_url": "https://progressivegrocer.com/balls-foods-picks-afresh-production-planning-full-store-ordering"
+    },
+    {
+      "metric": "Amazon Prime Access summer grocery credit",
+      "value": "$5 monthly credit in July, August and September on qualifying grocery orders of at least $25",
+      "change": "Eligible members can receive up to $15 in grocery savings over the summer.",
+      "source_url": "https://progressivegrocer.com/amazon-offers-savings-groceries-prime-access-members-summer"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Meijer prepares to open another smaller-format location",
+      "impact": "Midwestern grocery competition is shifting toward more convenient neighborhood formats, not only supercenters.",
+      "source_url": "https://www.grocerydive.com/news/meijer-grocery-store-livonia-michigan/824042/",
+      "first_reported": "2026-07-01"
+    },
+    {
+      "headline": "Balls Foods Picks Afresh for Production Planning, Full-Store Ordering",
+      "impact": "AI-assisted ordering is reaching frozen and center-store categories at regional grocers, raising the importance of clean item data and dependable replenishment performance.",
+      "source_url": "https://progressivegrocer.com/balls-foods-picks-afresh-production-planning-full-store-ordering",
+      "first_reported": "2026-07-01"
+    },
+    {
+      "headline": "Amazon Offers Savings on Groceries for Prime Access Members This Summer",
+      "impact": "Amazon is using targeted credits and frozen-treat deals to reinforce grocery value perception during the summer shopping period.",
+      "source_url": "https://progressivegrocer.com/amazon-offers-savings-groceries-prime-access-members-summer",
+      "first_reported": "2026-07-01"
+    }
+  ]
+}
