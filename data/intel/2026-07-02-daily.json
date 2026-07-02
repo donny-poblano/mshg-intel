@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-02",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Whole Foods Market",
+      "action": "Whole Foods opened applications for its 2026 Local and Emerging Accelerator Program, a 12-week retail-readiness track for local and emerging brands not yet sold on Whole Foods shelves. Selected brands receive mentorship, education, potential financial support and consideration for placement in stores in their home city or region.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/company-news/whole-foods-is-ready-for-leap-applications",
+      "first_reported": "2026-07-02",
+      "status": "new"
+    },
+    {
+      "name": "Canada TC Foods Inc.",
+      "action": "Progressive Grocer's Summer Fancy Food Show coverage highlighted Canada TC Foods' frozen Chinese Burger, a street-food-inspired golden pastry filled with seasoned meat. The signal is that freezer innovation is continuing to borrow from global street-food formats that are familiar enough for mainstream trial but differentiated from standard frozen meals and pizza.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/2026-summer-fancy-food-show-trends-action",
+      "first_reported": "2026-07-02",
+      "status": "new"
+    },
+    {
+      "name": "Large U.S. grocery retailers / Deloitte",
+      "action": "Progressive Grocer reported Deloitte survey findings from 100 senior U.S. grocery executives: 87% expect grocery marketing to become hyper-personalized, nearly half expect national CPG partnerships to become less important over time, and 66% expect reduced- or no-checkout experiences within five to 10 years.",
+      "category": "campaign",
+      "relevance_score": 6,
+      "source_url": "https://progressivegrocer.com/how-future-grocery-retail-shaping",
+      "first_reported": "2026-07-02",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Retail gatekeeping for emerging food brands is becoming more structured and data-driven",
+      "direction": "up",
+      "magnitude": "Whole Foods is again using LEAP to identify shelf-ready local brands, while Deloitte found 87% of large-grocer executives expect hyper-personalized marketing and nearly half expect national CPG partnerships to become less important.",
+      "context": "For Real Dough, buyer readiness increasingly means more than product quality: retailers are looking for brands that can support local-market traction, digital personalization, operational execution and clear differentiation against private label and national brands.",
+      "source_url": "https://www.supermarketnews.com/company-news/whole-foods-is-ready-for-leap-applications",
+      "first_reported": "2026-07-02",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Whole Foods LEAP early-growth pathway",
+      "value": "12-week educational curriculum with mentorship, potential financial support and possible regional shelf placement consideration",
+      "change": "2026 applications are open to local and emerging brands not currently sold at Whole Foods Market.",
+      "source_url": "https://www.supermarketnews.com/company-news/whole-foods-is-ready-for-leap-applications"
+    },
+    {
+      "metric": "Summer Fancy Food Show freezer innovation signal",
+      "value": "Canada TC Foods showed a frozen Chinese Burger in beef and black pepper, chicken and pork varieties",
+      "change": "Global street-food formats are showing up as frozen retail concepts at specialty-food trade shows.",
+      "source_url": "https://progressivegrocer.com/2026-summer-fancy-food-show-trends-action"
+    },
+    {
+      "metric": "Deloitte grocery executive survey",
+      "value": "100 senior executives at U.S. grocery retailers with more than 10,000 employees",
+      "change": "87% expect hyper-personalized grocery marketing; 66% expect reduced- or no-checkout experiences in the next five to 10 years.",
+      "source_url": "https://progressivegrocer.com/how-future-grocery-retail-shaping"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Whole Foods is ready for LEAP applications",
+      "impact": "Emerging food brands have a formal path to Whole Foods mentorship, funding consideration and possible regional shelf tests.",
+      "source_url": "https://www.supermarketnews.com/company-news/whole-foods-is-ready-for-leap-applications",
+      "first_reported": "2026-07-02"
+    },
+    {
+      "headline": "2026 Summer Fancy Food Show: Trends in Action",
+      "impact": "Specialty freezer innovation is leaning into global street-food formats and convenient premium products beyond standard frozen meals.",
+      "source_url": "https://progressivegrocer.com/2026-summer-fancy-food-show-trends-action",
+      "first_reported": "2026-07-02"
+    },
+    {
+      "headline": "How the Future of Grocery Retail Is Shaping Up",
+      "impact": "Large grocers expect more personalization, automation and private-label leverage, increasing the need for strong retail data and clear brand differentiation.",
+      "source_url": "https://progressivegrocer.com/how-future-grocery-retail-shaping",
+      "first_reported": "2026-07-02"
+    }
+  ]
+}
