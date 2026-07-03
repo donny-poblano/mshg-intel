@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-03",
+  "week": "2026-W27",
+  "headline": "No current performance read yet; this week’s defensible signal is market pressure: frozen pizza is soft, private label/value is gaining, and retailers want cleaner data, stronger shelf proof, and local discovery.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Current-week market intel is complete for 2026-06-27 through 2026-07-03, giving a usable external read even though owned analytics did not refresh.",
+        "The last trusted paid read still supports the control strategy: Meta delivered 65,757 clicks at $0.15 CPC and 2.95% CTR, with 'Straight From Wisconsin' leading at 13,622 link clicks and $0.11 CPC in the stale Whatagraph/Analyst export.",
+        "Real Dough's strongest existing creative lane still maps to this week's market signals: Wisconsin origin, real sourdough, ingredient reassurance, founder/process proof, and store-availability utility are specific enough to defend a premium freezer position."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Owned performance reporting remains blocked. data/whatagraph-data.json and the latest Analyst file still show trusted Meta, Google, Facebook, and Instagram data ending 2026-05-12, so there is no defensible June 27-July 3 KPI movement.",
+        "Frozen pizza/category pressure is real: the 2026 state-of-industry intel reports frozen pizza at $7.335B and 1.394B units for the 52 weeks ending 2026-04-19, both down 2%; frozen crust/dough was down 6% dollars and 8% units.",
+        "Private label and value pressure accelerated this week: Kroger expanded grocery-point redemption, Amazon issued Prime Access grocery credits, and club/supermarket private brands gained share while 43% of surveyed shoppers said they plan to buy private brands more.",
+        "Retailers are raising the execution bar: DoorDash and Albertsons/Kroger-style retail media signals point toward conversational search, hyper-personalized offers, AI ordering, and better item data; Whole Foods LEAP and Woodlake Market point toward local discovery and proof-led premium merchandising."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "REPORTING: Fix or replace the Whatagraph feed before making any paid/social optimization calls; current dashboard analytics still stop at 2026-05-12.",
+        "COMMERCIAL: Build a retailer-facing value defense that is concrete: 24-hour sourdough, Wisconsin origin, real ingredients, family dinner utility, and why Real Dough earns the premium versus private label or promo-priced frozen pizza.",
+        "RETAIL DATA: Audit digital shelf fields for retailer search and AI/conversational shopping: product title, ingredients, claims, store availability, use cases, images, and retailer-specific copy for 'sourdough frozen pizza' and 'better frozen pizza'.",
+        "AGENCY: Keep founder/process/Wisconsin content as the base, but add explicit private-label and value-context proof points. Avoid generic premium language that does not explain the trade-up.",
+        "SALES: Treat premium/local discovery channels as targeted opportunities: Whole Foods LEAP-style readiness, Wisconsin specialty grocers like Woodlake Market, and retailer programs that reward strong local stories plus clean execution."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The most defensible Real Dough message remains proof-led: Wisconsin origin, real sourdough fermentation, recognizable ingredients, founder/operator credibility, family dinner utility, and clear store availability. The last trusted paid export still favors this direction, especially 'Straight From Wisconsin'.",
+    "what_didnt": "There is still no current-week performance evidence. Do not claim that any June 27-July 3 creative, channel, or audience segment improved. Also avoid broad premium positioning without proof; this week’s intel shows shoppers and retailers are actively rewarding value, private label, health cues, and operational confidence.",
+    "recommendation": "Build the next creative and retailer copy around 'specific reasons to trade up': Wisconsin-made sourdough crust, ingredient transparency, satisfying family dinner, and retailer-specific availability. Pair social creative with digital-shelf and retail-media copy so the same proof points work in feeds, retailer search, AI shopping tools, and buyer conversations.",
+    "competitive_context": "The week’s market intel points to a tighter freezer environment. Frozen pizza dollars and units are down in the latest 52-week category read, while private brands are gaining share in clubs and supermarkets. Kroger and Amazon are making grocery savings more visible, Target and Meijer are leaning into food-forward formats, Whole Foods and Woodlake Market are elevating local/specialty discovery, and AI-assisted search/ordering is moving into grocery. Real Dough should compete on provable craft and local credibility, not vague premium claims."
+  },
+  "data_quality": {
+    "missing": [
+      "No current-week Analyst output found for 2026-07-03; latest available analysis file is data/analysis/2026-06-19.json.",
+      "No usable Real Dough review/customer sentiment feed. data/reviews.json contains place-not-found errors for Merriment Social, Third Coast Provisions, Flourchild Pizza, and The Loon Room, not Real Dough reviews.",
+      "No current Real Dough operations or retail execution data. data/operations/ only contains 2026-03-27, 2026-03-29, 2026-04-04, and 2026-04-05 snapshots."
+    ],
+    "stale": [
+      "data/whatagraph-data.json still reports the trusted YTD marketing window as 2026-01-01 through 2026-05-12.",
+      "The latest Analyst file, data/analysis/2026-06-19.json, also states the source export remains stale at 2026-05-12 and should be treated as a verification/backfill review, not a true weekly read."
+    ],
+    "anomalies": [
+      "YouTube and TikTok sheets in the Whatagraph export remain sample/demo data per the latest Analyst file and are excluded from recommendations.",
+      "Facebook reel rows in the latest Analyst file include nonzero average-view-time rankings with 0 unique views; use them only as directional content-theme evidence.",
+      "Several older intel files from 2026-05-30 through 2026-06-17 remain untracked in git; this run used the available current-week intel files and will not commit unrelated inputs."
+    ]
+  }
+}
