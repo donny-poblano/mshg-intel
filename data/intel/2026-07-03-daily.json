@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-03",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kroger / Giant Eagle",
+      "action": "Kroger agreed to acquire Giant Eagle for $1.65 billion, including $1.25 billion in cash and about $400 million of assumed liabilities, with closing expected in 2027 pending regulatory clearance. Giant Eagle adds roughly $9 billion in annual sales, 197 supermarkets and 11 standalone pharmacies across adjacent Midwestern and Mid-Atlantic markets.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/mergers-acquisitions/kroger-to-acquire-giant-eagle-for-1-65b",
+      "first_reported": "2026-07-03",
+      "status": "new"
+    },
+    {
+      "name": "Food Lion",
+      "action": "Food Lion expanded its private-label frozen assortment with 11 new convenience products: four breakfast sandwiches and seven snacks/appetizers, including Three Cheese Mini Pizza Bagels, Pepperoni Mini Pizza Bagels and 25-ounce Pepperoni Pizza Bites. The pizza-adjacent items are priced from $1.99 to $3.99, putting more value pressure on branded frozen snacks and pizza occasions.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/private-label/food-lion-launches-several-frozen-food-private-label-products",
+      "first_reported": "2026-07-03",
+      "status": "new"
+    },
+    {
+      "name": "Advantage Solutions / Daymon",
+      "action": "The Summer 2026 Private Brand Intelligence Report found that 71% of consumers choose their preferred retailer because of its private-brand program, 95% regularly purchase private brands and 89% buy products with seasonal flavors. The signal for Real Dough is that retailer-owned brands are now competing on loyalty, quality cues and seasonal discovery, not only low price.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/private-label/consumers-prefer-grocers-with-the-better-private-label-brand-report",
+      "first_reported": "2026-07-03",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Retailer-owned brands are strengthening in frozen and center-store categories",
+      "direction": "up",
+      "magnitude": "Food Lion added 11 frozen private-label items while Daymon reported 71% of consumers choose a preferred retailer because of its private-brand program.",
+      "context": "Frozen pizza and adjacent snack brands face a sharper private-label challenge when retailers can combine low prices, shopper data, loyalty programs and seasonal innovation under their own banners.",
+      "source_url": "https://www.supermarketnews.com/private-label/food-lion-launches-several-frozen-food-private-label-products",
+      "first_reported": "2026-07-03",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Kroger-Giant Eagle transaction value",
+      "value": "$1.65B",
+      "change": "$1.25B cash plus about $400M in assumed liabilities; expected close in 2027 subject to regulatory clearance.",
+      "source_url": "https://www.supermarketnews.com/mergers-acquisitions/kroger-to-acquire-giant-eagle-for-1-65b"
+    },
+    {
+      "metric": "Food Lion frozen private-label launch",
+      "value": "11 new frozen items",
+      "change": "Includes four breakfast sandwiches and seven snacks/appetizers, with pizza bagels at $1.99 and pepperoni pizza bites at $3.99.",
+      "source_url": "https://www.supermarketnews.com/private-label/food-lion-launches-several-frozen-food-private-label-products"
+    },
+    {
+      "metric": "Private-brand influence on retailer choice",
+      "value": "71%",
+      "change": "Share of consumers who choose their preferred retailer because of its private-brand program, according to Advantage Solutions/Daymon's Summer 2026 report.",
+      "source_url": "https://www.supermarketnews.com/private-label/consumers-prefer-grocers-with-the-better-private-label-brand-report"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Kroger to acquire Giant Eagle for $1.65B",
+      "impact": "A major grocery consolidator would gain stronger regional scale, loyalty data and private-label reach across markets relevant to Midwestern food brands.",
+      "source_url": "https://www.supermarketnews.com/mergers-acquisitions/kroger-to-acquire-giant-eagle-for-1-65b",
+      "first_reported": "2026-07-03"
+    },
+    {
+      "headline": "Food Lion launches several frozen food private label products",
+      "impact": "Value-priced private-label pizza snacks and frozen convenience items add pressure in freezer occasions adjacent to frozen pizza.",
+      "source_url": "https://www.supermarketnews.com/private-label/food-lion-launches-several-frozen-food-private-label-products",
+      "first_reported": "2026-07-03"
+    },
+    {
+      "headline": "Consumers prefer grocers with the better private label brand",
+      "impact": "Private brands are increasingly a retailer loyalty driver, raising the bar for branded CPG differentiation and proof of shopper pull.",
+      "source_url": "https://www.supermarketnews.com/private-label/consumers-prefer-grocers-with-the-better-private-label-brand-report",
+      "first_reported": "2026-07-03"
+    }
+  ]
+}
