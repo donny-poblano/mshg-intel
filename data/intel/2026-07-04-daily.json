@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-04",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kroger / Giant Eagle",
+      "action": "Kroger agreed to acquire Giant Eagle for $1.65 billion, including $1.25 billion in cash and $400 million in assumed liabilities. The deal would add nearly 200 supermarkets and is expected to close in 2027, with Kroger expecting limited store divestitures for regulatory approval.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/kroger-acquiring-giant-eagle-deal/824184/",
+      "first_reported": "2026-07-04",
+      "status": "new"
+    },
+    {
+      "name": "Albertsons",
+      "action": "Albertsons is scaling an AI-first merchandising intelligence platform built with Databricks for product, pricing, promotion and placement decisions, with a full merchant rollout targeted by the end of 2026. The platform is intended to consolidate merchandising tools and support natural-language retail data queries.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/albertsons-scale-merchandising-intelligence-platform/824110/",
+      "first_reported": "2026-07-04",
+      "status": "new"
+    },
+    {
+      "name": "Global Foods Market",
+      "action": "Grocery Dive profiled Global Foods Market's St. Louis model, which carries grocery, frozen, produce and beauty products from more than 30 countries and uses 50 to 60 distributors to support a differentiated multicultural assortment. The retailer frames supplier knowledge, community feedback and brand-specific cultural cachet as its advantage.",
+      "category": "expansion",
+      "relevance_score": 6,
+      "source_url": "https://www.grocerydive.com/news/global-foods-market-st-louis-international-grocery-multicultural-assortment-supply-chain/824034/",
+      "first_reported": "2026-07-04",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Grocery competition is tightening around scale, AI-assisted merchandising and differentiated assortment",
+      "direction": "up",
+      "magnitude": "Kroger is pursuing nearly 200 additional stores through Giant Eagle, Albertsons is targeting a 2026 rollout of AI merchant tools, and Global Foods Market is showing how specialty grocers compete through deep multicultural assortment complexity.",
+      "context": "For Real Dough, retailer conversations are likely to become more data-driven and assortment-specific. Premium frozen pizza needs clean item economics, clear role in the set, and a differentiated shopper reason that can survive both larger-chain consolidation and niche specialty competition.",
+      "source_url": "https://www.grocerydive.com/news/albertsons-scale-merchandising-intelligence-platform/824110/",
+      "first_reported": "2026-07-04",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Kroger-Giant Eagle deal size and store impact",
+      "value": "$1.65 billion transaction; nearly 200 supermarkets added if approved",
+      "change": "Expected to close in 2027, with Kroger anticipating limited divestitures.",
+      "source_url": "https://www.grocerydive.com/news/kroger-acquiring-giant-eagle-deal/824184/"
+    },
+    {
+      "metric": "Albertsons merchandising intelligence rollout",
+      "value": "Full merchant rollout targeted by end of 2026",
+      "change": "Platform is designed to support product, pricing, promotion and placement decisions using Databricks tools and natural-language querying.",
+      "source_url": "https://www.grocerydive.com/news/albertsons-scale-merchandising-intelligence-platform/824110/"
+    },
+    {
+      "metric": "Global Foods Market assortment model",
+      "value": "Products from more than 30 countries; typically 50 to 60 distributors",
+      "change": "The St. Louis grocer uses a broad supplier network to support grocery, frozen, produce and beauty assortment across many cultural communities.",
+      "source_url": "https://www.grocerydive.com/news/global-foods-market-st-louis-international-grocery-multicultural-assortment-supply-chain/824034/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Kroger to acquire Giant Eagle for $1.65B",
+      "impact": "A major regional grocer could be folded into Kroger's network, increasing consolidation pressure and strengthening Kroger's reach in adjacent markets where freezer and private-label strategy matter.",
+      "source_url": "https://www.grocerydive.com/news/kroger-acquiring-giant-eagle-deal/824184/",
+      "first_reported": "2026-07-04"
+    },
+    {
+      "headline": "Albertsons works to scale merchandising intelligence platform",
+      "impact": "AI-assisted assortment, pricing, promotion and placement decisions are moving closer to merchant workflow, raising the bar for supplier data quality and product-role clarity.",
+      "source_url": "https://www.grocerydive.com/news/albertsons-scale-merchandising-intelligence-platform/824110/",
+      "first_reported": "2026-07-04"
+    },
+    {
+      "headline": "How one grocer represents 30-plus countries on its shelves",
+      "impact": "Specialty grocers can compete through culturally specific, frozen-inclusive assortment rather than scale alone, reinforcing the value of clear shopper use case and community relevance.",
+      "source_url": "https://www.grocerydive.com/news/global-foods-market-st-louis-international-grocery-multicultural-assortment-supply-chain/824034/",
+      "first_reported": "2026-07-04"
+    }
+  ]
+}
