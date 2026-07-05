@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-05",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "UNFI / Independent and regional grocers",
+      "action": "Progressive Grocer reported that UNFI is urging independent and regional grocers to use private label, fresh, prepared foods and faster assortment testing as competitive levers. UNFI said private label now represents more than 20% of products purchased and has moved beyond value into accessible premium, innovation and margin support.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/exclusive-private-label-and-fresh-gain-traction-unfi-says-assortment-key-independent-regional",
+      "first_reported": "2026-07-05",
+      "status": "new"
+    },
+    {
+      "name": "Amazon",
+      "action": "Grocery Dive, citing Numerator, reported that only 16% of Prime Day 2026 shoppers bought groceries, down from 22% in 2025 and the category's lowest Prime Day share since 2022, despite Amazon promoting grocery deals, low-price offers and a grocery-focused sweepstakes.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/amazon-prime-day-2026-groceries-numerator-data/824147/",
+      "first_reported": "2026-07-05",
+      "status": "new"
+    },
+    {
+      "name": "Grocery retailers / third-party marketplaces",
+      "action": "Supermarket News reported that third-party marketplaces are becoming a larger part of grocery discovery and engagement, while NielsenIQ and FMI data showed online grocery accounted for nearly 75% of total grocery dollar growth in 2025. The practical signal is that grocery brands need to be findable and well-positioned across retailer-owned and marketplace shopping paths.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/the-expanding-grocery-ecosystem",
+      "first_reported": "2026-07-05",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Grocery growth is moving toward controlled assortment, owned-brand differentiation and multi-channel discovery",
+      "direction": "up",
+      "magnitude": "UNFI says private label is over 20% of products purchased; Numerator found Prime Day grocery participation fell to 16%; NielsenIQ/FMI said online grocery drove nearly 75% of 2025 grocery dollar growth.",
+      "context": "For Real Dough, the freezer pitch needs to work as both a retailer assortment role and a digital discovery item. Premium positioning has to carry clear value, item-level facts and use-case language, not only brand story.",
+      "source_url": "https://progressivegrocer.com/exclusive-private-label-and-fresh-gain-traction-unfi-says-assortment-key-independent-regional",
+      "first_reported": "2026-07-05",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Private-label share of products purchased",
+      "value": "More than 20%",
+      "change": "UNFI frames private label as value, innovation, accessible premium and retailer-margin support rather than only a low-cost alternative.",
+      "source_url": "https://progressivegrocer.com/exclusive-private-label-and-fresh-gain-traction-unfi-says-assortment-key-independent-regional"
+    },
+    {
+      "metric": "Prime Day 2026 grocery participation",
+      "value": "16% of Prime Day shoppers bought groceries",
+      "change": "Down from 22% in 2025 and the lowest share since 2022, according to Numerator data reported by Grocery Dive.",
+      "source_url": "https://www.grocerydive.com/news/amazon-prime-day-2026-groceries-numerator-data/824147/"
+    },
+    {
+      "metric": "Online grocery contribution to dollar growth",
+      "value": "Nearly 75% of total grocery dollar growth in 2025",
+      "change": "NielsenIQ and FMI data cited by Supermarket News show digital engagement remains central even as journeys fragment across retailer apps and third-party marketplaces.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/the-expanding-grocery-ecosystem"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "EXCLUSIVE: As Private Label and Fresh Gain Traction, UNFI Says Assortment Is Key for Independent, Regional Grocers",
+      "impact": "Independent and regional grocery accounts are being coached to test differentiated, premium-accessible assortment faster, which can create openings for freezer items with a clear role and margin story.",
+      "source_url": "https://progressivegrocer.com/exclusive-private-label-and-fresh-gain-traction-unfi-says-assortment-key-independent-regional",
+      "first_reported": "2026-07-05"
+    },
+    {
+      "headline": "How grocery sales fared during Prime Day",
+      "impact": "Amazon's grocery push did not translate into stronger Prime Day grocery participation, reinforcing that digital grocery conversion still depends on habitual shopping fit, not discounts alone.",
+      "source_url": "https://www.grocerydive.com/news/amazon-prime-day-2026-groceries-numerator-data/824147/",
+      "first_reported": "2026-07-05"
+    },
+    {
+      "headline": "The expanding grocery ecosystem",
+      "impact": "Marketplace discovery is becoming part of grocery behavior, so frozen brands need retailer-ready content, search terms and use-case clarity across owned and third-party channels.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/the-expanding-grocery-ecosystem",
+      "first_reported": "2026-07-05"
+    }
+  ]
+}
