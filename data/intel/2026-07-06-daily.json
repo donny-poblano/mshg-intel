@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-06",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "New Jersey grocery retailers / delivery platforms",
+      "action": "Supermarket News reported that New Jersey passed the Fair Price Protection Act, becoming the second state to ban surveillance pricing for essential food products. The law also places a one-year moratorium on installing new digital price tags, increasing regulatory scrutiny of individualized grocery pricing and electronic shelf-label rollouts.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/grocery-technology/new-jersey-becomes-second-state-to-ban-surveillance-pricing",
+      "first_reported": "2026-07-06",
+      "status": "new"
+    },
+    {
+      "name": "Supermarket operators / A2Z Cust2Mate",
+      "action": "Progressive Grocer reported A2Z Cust2Mate research showing physical supermarkets are underdelivering on shopper expectations for fast trips, transparent pricing, timely rewards and connected in-store experiences. The report found 68% of shoppers value real-time pricing, discounts and basket visibility, while 48% believe supermarkets deliver it effectively.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/supermarkets-falling-short-shopper-expectations-report",
+      "first_reported": "2026-07-06",
+      "status": "new"
+    },
+    {
+      "name": "So Good So You",
+      "action": "Progressive Grocer reported that So Good So You named Jennifer Jorgensen CEO after Bansk Group acquired a majority stake in the B Corp-certified wellness-shot and functional-beverage brand. Jorgensen previously spent 26 years at General Mills and led Back to Nature through distribution, innovation and margin expansion work.",
+      "category": "expansion",
+      "relevance_score": 6,
+      "source_url": "https://progressivegrocer.com/so-good-so-you-taps-cpg-expert-ceo",
+      "first_reported": "2026-07-06",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Grocery execution is tightening around pricing transparency, shopper trust and professionalized CPG scaling",
+      "direction": "up",
+      "magnitude": "New Jersey became the second state to ban surveillance pricing; A2Z Cust2Mate found a 20-point gap between shoppers wanting real-time price visibility and supermarkets delivering it; So Good So You installed a former General Mills and Back to Nature operator as CEO after majority investment.",
+      "context": "For Real Dough, premium freezer placement needs clear shelf pricing, promotion accuracy and disciplined retail execution. Emerging CPG brands are also bringing in large-company operators earlier as they move from founder-led growth to scaled distribution.",
+      "source_url": "https://www.supermarketnews.com/grocery-technology/new-jersey-becomes-second-state-to-ban-surveillance-pricing",
+      "first_reported": "2026-07-06",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "New Jersey surveillance-pricing regulation",
+      "value": "Second U.S. state to ban surveillance pricing for essential food products",
+      "change": "The law includes a one-year moratorium on new digital price tag installations and applies to grocery delivery platforms as well as retailers.",
+      "source_url": "https://www.supermarketnews.com/grocery-technology/new-jersey-becomes-second-state-to-ban-surveillance-pricing"
+    },
+    {
+      "metric": "Real-time supermarket pricing visibility gap",
+      "value": "68% of shoppers say it is important; 48% say supermarkets deliver it effectively",
+      "change": "A2Z Cust2Mate also found 45% skipped a purchase because pricing or discounts were unclear and 46% missed eligible promotions.",
+      "source_url": "https://progressivegrocer.com/supermarkets-falling-short-shopper-expectations-report"
+    },
+    {
+      "metric": "So Good So You leadership and ownership shift",
+      "value": "New CEO after Bansk Group majority investment",
+      "change": "The appointment follows a first-half 2026 growth push that included exclusive-to-Target Sparkling Energy and Sparkling Mood launches.",
+      "source_url": "https://progressivegrocer.com/so-good-so-you-taps-cpg-expert-ceo"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "New Jersey becomes second state to ban surveillance pricing",
+      "impact": "Pricing technology and personalization in grocery are facing more legal limits, making transparent item pricing and promotion mechanics more important for brands and retail partners.",
+      "source_url": "https://www.supermarketnews.com/grocery-technology/new-jersey-becomes-second-state-to-ban-surveillance-pricing",
+      "first_reported": "2026-07-06"
+    },
+    {
+      "headline": "Supermarkets Falling Short of Shopper Expectations: Report",
+      "impact": "Shopper friction around pricing visibility, missed promotions and checkout speed can weaken conversion for premium freezer items unless the value cue is simple and visible at shelf.",
+      "source_url": "https://progressivegrocer.com/supermarkets-falling-short-shopper-expectations-report",
+      "first_reported": "2026-07-06"
+    },
+    {
+      "headline": "So Good So You Taps CPG Expert as CEO",
+      "impact": "Investor-backed emerging food and beverage brands are adding big-CPG operators to manage distribution, innovation and margin discipline, raising the execution bar for challenger brands.",
+      "source_url": "https://progressivegrocer.com/so-good-so-you-taps-cpg-expert-ceo",
+      "first_reported": "2026-07-06"
+    }
+  ]
+}
