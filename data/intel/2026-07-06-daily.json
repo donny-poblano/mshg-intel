@@ -3,81 +3,81 @@
   "type": "daily",
   "competitors": [
     {
-      "name": "New Jersey grocery retailers / delivery platforms",
-      "action": "Supermarket News reported that New Jersey passed the Fair Price Protection Act, becoming the second state to ban surveillance pricing for essential food products. The law also places a one-year moratorium on installing new digital price tags, increasing regulatory scrutiny of individualized grocery pricing and electronic shelf-label rollouts.",
-      "category": "pricing",
+      "name": "PuraVida Foods / clean-label kids frozen meals",
+      "action": "Progressive Grocer reported that back-to-school grocery is shifting toward clean-label, kid-approved convenience, including PuraVida Foods' KidsLife frozen meal line using Disney characters to drive child appeal while parents evaluate clean ingredients, no artificial additives, protein, whole grains and portion size.",
+      "category": "new_product",
       "relevance_score": 7,
-      "source_url": "https://www.supermarketnews.com/grocery-technology/new-jersey-becomes-second-state-to-ban-surveillance-pricing",
+      "source_url": "https://progressivegrocer.com/how-clean-label-snacks-and-functional-hydration-are-redefining-lunchbox-aisle",
       "first_reported": "2026-07-06",
       "status": "new"
     },
     {
-      "name": "Supermarket operators / A2Z Cust2Mate",
-      "action": "Progressive Grocer reported A2Z Cust2Mate research showing physical supermarkets are underdelivering on shopper expectations for fast trips, transparent pricing, timely rewards and connected in-store experiences. The report found 68% of shoppers value real-time pricing, discounts and basket visibility, while 48% believe supermarkets deliver it effectively.",
-      "category": "campaign",
+      "name": "Natural Grocers",
+      "action": "Natural Grocers expanded private label in the freezer with four certified-organic, made-in-Italy frozen ravioli SKUs priced at $8.49 per 20-ounce bag. The line is positioned as convenient organic comfort food under the retailer's Always Affordable value platform and joins a private-label portfolio of more than 900 products.",
+      "category": "new_product",
       "relevance_score": 7,
-      "source_url": "https://progressivegrocer.com/supermarkets-falling-short-shopper-expectations-report",
+      "source_url": "https://www.prnewswire.com/news-releases/natural-grocers-rolls-out-organic-frozen-ravioli-for-easy-elevated-meals-302710062.html",
       "first_reported": "2026-07-06",
       "status": "new"
     },
     {
-      "name": "So Good So You",
-      "action": "Progressive Grocer reported that So Good So You named Jennifer Jorgensen CEO after Bansk Group acquired a majority stake in the B Corp-certified wellness-shot and functional-beverage brand. Jorgensen previously spent 26 years at General Mills and led Back to Nature through distribution, innovation and margin expansion work.",
+      "name": "FoodStory Brands / Paramount Consumer Products",
+      "action": "Progressive Grocer reported that the Yellowstone grocery line added refrigerated smoked meats, breakfast meats, baked beans and Cheesy Bacon Mac at select Walmart stores, extending a TV-franchise food platform from pantry items into refrigerated proteins and prepared comfort-food sides.",
       "category": "expansion",
       "relevance_score": 6,
-      "source_url": "https://progressivegrocer.com/so-good-so-you-taps-cpg-expert-ceo",
+      "source_url": "https://progressivegrocer.com/yellowstone-food-line-debuts-more-cowboy-inspired-products",
       "first_reported": "2026-07-06",
       "status": "new"
     }
   ],
   "trends": [
     {
-      "topic": "Grocery execution is tightening around pricing transparency, shopper trust and professionalized CPG scaling",
+      "topic": "Freezer and prepared-food innovation is leaning into clean-label convenience, branded trust and retailer-owned value",
       "direction": "up",
-      "magnitude": "New Jersey became the second state to ban surveillance pricing; A2Z Cust2Mate found a 20-point gap between shoppers wanting real-time price visibility and supermarkets delivering it; So Good So You installed a former General Mills and Back to Nature operator as CEO after majority investment.",
-      "context": "For Real Dough, premium freezer placement needs clear shelf pricing, promotion accuracy and disciplined retail execution. Emerging CPG brands are also bringing in large-company operators earlier as they move from founder-led growth to scaled distribution.",
-      "source_url": "https://www.supermarketnews.com/grocery-technology/new-jersey-becomes-second-state-to-ban-surveillance-pricing",
+      "magnitude": "Three signals: clean-label kids meals are using licensed characters to improve acceptance, Natural Grocers is adding organic imported frozen pasta at an $8.49 everyday-value price point, and Yellowstone is extending licensed comfort foods into Walmart refrigerated and prepared categories.",
+      "context": "For Real Dough, the shelf battle is not only frozen pizza versus frozen pizza. Adjacent freezer and prepared-meal brands are using trust cues, clean-label claims, licensing, convenience and value architecture to own easy meal occasions.",
+      "source_url": "https://progressivegrocer.com/how-clean-label-snacks-and-functional-hydration-are-redefining-lunchbox-aisle",
       "first_reported": "2026-07-06",
       "status": "new"
     }
   ],
   "market_data": [
     {
-      "metric": "New Jersey surveillance-pricing regulation",
-      "value": "Second U.S. state to ban surveillance pricing for essential food products",
-      "change": "The law includes a one-year moratorium on new digital price tag installations and applies to grocery delivery platforms as well as retailers.",
-      "source_url": "https://www.supermarketnews.com/grocery-technology/new-jersey-becomes-second-state-to-ban-surveillance-pricing"
+      "metric": "Importance of real-ingredients claims in snack purchases",
+      "value": "74% of consumers",
+      "change": "Kroger's 84.51 data cited by Progressive Grocer indicates parents and shoppers are scrutinizing ingredient claims as back-to-school food buying starts earlier and remains budget-sensitive.",
+      "source_url": "https://progressivegrocer.com/how-clean-label-snacks-and-functional-hydration-are-redefining-lunchbox-aisle"
     },
     {
-      "metric": "Real-time supermarket pricing visibility gap",
-      "value": "68% of shoppers say it is important; 48% say supermarkets deliver it effectively",
-      "change": "A2Z Cust2Mate also found 45% skipped a purchase because pricing or discounts were unclear and 46% missed eligible promotions.",
-      "source_url": "https://progressivegrocer.com/supermarkets-falling-short-shopper-expectations-report"
+      "metric": "Natural Grocers organic frozen ravioli price and assortment",
+      "value": "$8.49 per 20-ounce bag; four certified-organic varieties",
+      "change": "The retailer is using private label to offer imported, organic comfort food with convenience and affordability cues in frozen pasta.",
+      "source_url": "https://www.prnewswire.com/news-releases/natural-grocers-rolls-out-organic-frozen-ravioli-for-easy-elevated-meals-302710062.html"
     },
     {
-      "metric": "So Good So You leadership and ownership shift",
-      "value": "New CEO after Bansk Group majority investment",
-      "change": "The appointment follows a first-half 2026 growth push that included exclusive-to-Target Sparkling Energy and Sparkling Mood launches.",
-      "source_url": "https://progressivegrocer.com/so-good-so-you-taps-cpg-expert-ceo"
+      "metric": "Yellowstone grocery retail availability",
+      "value": "New refrigerated and prepared comfort-food products available at select Walmart stores",
+      "change": "The licensed grocery platform is broadening beyond coffee, seasonings, jerky and chili into multi-occasion refrigerated proteins, breakfast meats and sides.",
+      "source_url": "https://progressivegrocer.com/yellowstone-food-line-debuts-more-cowboy-inspired-products"
     }
   ],
   "breaking": [
     {
-      "headline": "New Jersey becomes second state to ban surveillance pricing",
-      "impact": "Pricing technology and personalization in grocery are facing more legal limits, making transparent item pricing and promotion mechanics more important for brands and retail partners.",
-      "source_url": "https://www.supermarketnews.com/grocery-technology/new-jersey-becomes-second-state-to-ban-surveillance-pricing",
+      "headline": "How Clean-Label Snacks and Functional Hydration Are Redefining the Lunchbox Aisle",
+      "impact": "Clean-label, kid-approved convenience is becoming a purchase screen for family freezer and snack items, raising the importance of ingredient clarity and usage occasion messaging.",
+      "source_url": "https://progressivegrocer.com/how-clean-label-snacks-and-functional-hydration-are-redefining-lunchbox-aisle",
       "first_reported": "2026-07-06"
     },
     {
-      "headline": "Supermarkets Falling Short of Shopper Expectations: Report",
-      "impact": "Shopper friction around pricing visibility, missed promotions and checkout speed can weaken conversion for premium freezer items unless the value cue is simple and visible at shelf.",
-      "source_url": "https://progressivegrocer.com/supermarkets-falling-short-shopper-expectations-report",
+      "headline": "Natural Grocers® Rolls Out Organic Frozen Ravioli for Easy, Elevated Meals",
+      "impact": "A natural/organic specialty retailer is using private label to compete in premium frozen comfort meals on both ingredient standards and price accessibility.",
+      "source_url": "https://www.prnewswire.com/news-releases/natural-grocers-rolls-out-organic-frozen-ravioli-for-easy-elevated-meals-302710062.html",
       "first_reported": "2026-07-06"
     },
     {
-      "headline": "So Good So You Taps CPG Expert as CEO",
-      "impact": "Investor-backed emerging food and beverage brands are adding big-CPG operators to manage distribution, innovation and margin discipline, raising the execution bar for challenger brands.",
-      "source_url": "https://progressivegrocer.com/so-good-so-you-taps-cpg-expert-ceo",
+      "headline": "'Yellowstone' Food Line Debuts More Cowboy-Inspired Products",
+      "impact": "Licensed lifestyle food lines are extending into refrigerated and prepared comfort foods at Walmart, adding another branded competitor for easy dinner and entertaining occasions.",
+      "source_url": "https://progressivegrocer.com/yellowstone-food-line-debuts-more-cowboy-inspired-products",
       "first_reported": "2026-07-06"
     }
   ]
