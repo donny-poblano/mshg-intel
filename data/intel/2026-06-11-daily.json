@@ -1,0 +1,69 @@
+{
+  "date": "2026-06-11",
+  "type": "daily",
+  "generated_at": "2026-06-11T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Red's All Natural",
+      "action": "Red's launched a new frozen 'Snackers' line exclusive to Kroger nationwide this month, entering the fast-growing frozen snack occasion with four protein-forward SKUs spanning mini burritos and biscuit sandwiches. The line was co-developed with Kroger and positions the brand beyond its core burrito and breakfast sandwich base into grab-and-go family snacking.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.nosh.com/pr/2026/06/10/reds-all-natural-launches-snackers-for-busy-mornings-afterschool-hunger-and-onthego-families",
+      "first_reported": "2026-06-11",
+      "status": "new"
+    },
+    {
+      "name": "Kodiak",
+      "action": "Kodiak added new frozen breakfast and snack items, with Food Business News describing the rollout as including granola bars and breakfast sandwiches. The move extends a protein-led pantry brand deeper into freezer convenience, reinforcing how mainstream CPG players keep using frozen as a high-protein expansion lane.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.foodbusinessnews.net/articles/30475-kodiak-adds-new-frozen-breakfast-snack-items",
+      "first_reported": "2026-06-11",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen food is being reframed as a planned, budget-smart meal system rather than a backup option",
+      "direction": "up",
+      "magnitude": "$87B annual U.S. frozen food sales; 77% of consumers buy frozen with a specific meal or day in mind",
+      "context": "The latest NFRA/Progressive Grocer reporting suggests frozen is winning on intentionality, not just convenience. That matters for Real Dough because premium frozen pizza has more room when shoppers are building planned weeknight meals instead of impulse fallback baskets.",
+      "source_url": "https://progressivegrocer.com/frozen-food-sales-hit-87b-consumers-pivot-meal-planning-staples-report"
+    },
+    {
+      "topic": "Social platforms are increasingly shaping frozen-food demand and upgrade behavior",
+      "direction": "up",
+      "magnitude": "50% of Gen Z use TikTok for food inspiration; 73% say frozen foods help them make affordable, tasty meals",
+      "context": "Progressive Grocer's NFRA coverage points to a freezer aisle where discovery increasingly happens through TikTok and YouTube. For Real Dough, that reinforces the value of product-demo, topping, and 'elevated freezer night' content rather than static brand messaging.",
+      "source_url": "https://progressivegrocer.com/tiktok-youtube-influence-frozen-food-purchases"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "U.S. frozen food category scale and planning behavior",
+      "value": "$87 billion in annual sales; 40% of shoppers use frozen foods daily or every few days; 77% buy frozen for a specific meal/day",
+      "change": "Category up $27.4 billion since 2019 according to the Progressive Grocer/NFRA summary surfaced in search",
+      "source_url": "https://progressivegrocer.com/frozen-food-sales-hit-87b-consumers-pivot-meal-planning-staples-report"
+    },
+    {
+      "metric": "Frozen/social discovery and nutrition trust",
+      "value": "50% of Gen Z use TikTok for food inspiration; 69% believe frozen foods can support healthy eating; 96% believe the aisle offers better-for-you options",
+      "change": "Signals stronger overlap between social discovery, wellness framing, and frozen purchase intent",
+      "source_url": "https://progressivegrocer.com/tiktok-youtube-influence-frozen-food-purchases"
+    },
+    {
+      "metric": "Red's Snackers retail strategy",
+      "value": "4 launch SKUs, Kroger exclusive, nationwide rollout beginning June 2026",
+      "change": "Moves Red's beyond core burritos/breakfast sandwiches into frozen snacking",
+      "source_url": "https://www.nosh.com/pr/2026/06/10/reds-all-natural-launches-snackers-for-busy-mornings-afterschool-hunger-and-onthego-families"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's cleanest signal is that freezer growth is clustering around planned meals, protein-forward convenience, and social-led discovery.",
+      "impact": "Red's and Kodiak are both pushing further into high-protein frozen convenience, while NFRA's latest data says shoppers are using frozen more intentionally and discovering ideas through TikTok/YouTube. Real Dough should keep leaning into premium weeknight-meal positioning and creator-friendly product content instead of acting like frozen is just a convenience fallback.",
+      "source_url": "https://progressivegrocer.com/frozen-food-sales-hit-87b-consumers-pivot-meal-planning-staples-report",
+      "first_reported": "2026-06-11"
+    }
+  ]
+}

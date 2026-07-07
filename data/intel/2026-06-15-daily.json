@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-15",
+  "type": "daily",
+  "generated_at": "2026-06-15T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Palermo Villa / Connie's",
+      "action": "Palermo rolled out a new Connie's wood-fired frozen pizza line built around 24-hour fermented dough, wood-fired baking, premium all-natural toppings, and a $10.99 price point. The high-signal takeaway for Real Dough is that a scaled incumbent is leaning harder into artisan process language and premium crust architecture rather than competing on value alone.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://www.bakingbusiness.com/articles/66223-palermos-rolls-out-wood-fired-frozen-pizzas",
+      "first_reported": "2026-05-15",
+      "status": "new"
+    },
+    {
+      "name": "One Planet Pizza / Asda",
+      "action": "One Planet Pizza passed £1 million in annualized retail sales, grew year over year sales by more than 100%, and added a third Asda line with a sourdough cheezy garlic flatbread. For Real Dough, this is a strong proof point that freezer buyers are still rewarding differentiated crust-led pizza brands when the product expands beyond a single core SKU.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://plantbasednews.org/lifestyle/food/one-planet-pizza-passes-million-sa/",
+      "first_reported": "2026-05-18",
+      "status": "new"
+    },
+    {
+      "name": "Veggies Made Great",
+      "action": "Veggies Made Great entered frozen pastries with Fruit Pockets rolling into Target, Hy-Vee, Giant, Stop & Shop, Harris Teeter, and later Publix at a $5.99 SRP. Even outside pizza, the move is a useful freezer-set signal: retailers are still opening space for better-for-you comfort formats that smuggle in vegetables while staying familiar and easy to shop.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.foodbusinessnews.net/articles/30493-veggie-focused-comfort-food-maker-enters-frozen-pastry-category",
+      "first_reported": "2026-06-12",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen comfort food premiumization is accelerating through artisan process cues and adjacency expansion",
+      "direction": "up",
+      "magnitude": "Palermo launched 4 wood-fired Connie's SKUs at $10.99 while One Planet added a third Asda line after surpassing £1M annualized retail sales",
+      "context": "The clearest daily signal is that frozen brands are winning with restaurant-quality cues like fermentation, wood-firing, sourdough, and premium toppings, then extending into adjacent freezer occasions once brand traction is proven.",
+      "source_url": "https://www.bakingbusiness.com/articles/66223-palermos-rolls-out-wood-fired-frozen-pizzas"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Connie's wood-fired frozen pizza launch",
+      "value": "4 SKUs at $10.99 SRP",
+      "change": "24-hour fermented dough and select Midwest retail rollout with broader distribution planned",
+      "source_url": "https://www.bakingbusiness.com/articles/66223-palermos-rolls-out-wood-fired-frozen-pizzas"
+    },
+    {
+      "metric": "One Planet Pizza retail momentum",
+      "value": "£1M annualized retail sales; 100%+ YoY growth; Peppernomi in 255 Co-op stores",
+      "change": "Asda added a third line, the Sourdough Cheezy Garlic Flatbread",
+      "source_url": "https://plantbasednews.org/lifestyle/food/one-planet-pizza-passes-million-sa/"
+    },
+    {
+      "metric": "Veggies Made Great Fruit Pockets pricing and rollout",
+      "value": "$5.99 per 6-count box",
+      "change": "Now in Target, Hy-Vee, Giant, Stop & Shop and Harris Teeter, with Publix planned later this summer",
+      "source_url": "https://www.foodbusinessnews.net/articles/30493-veggie-focused-comfort-food-maker-enters-frozen-pastry-category"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's strongest freezer signal: premium crust/process storytelling is still creating room to grow, and brands are using that momentum to branch into adjacent comfort formats.",
+      "impact": "Palermo's wood-fired Connie's launch and One Planet's sourdough-led retail momentum both reinforce that shoppers will pay attention to authentic at-home pizza cues, while Veggies Made Great shows the broader freezer set is still rewarding better-for-you comfort innovation.",
+      "source_url": "https://www.bakingbusiness.com/articles/66223-palermos-rolls-out-wood-fired-frozen-pizzas",
+      "first_reported": "2026-06-15"
+    }
+  ]
+}

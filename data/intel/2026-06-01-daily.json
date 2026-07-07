@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-01",
+  "type": "daily",
+  "generated_at": "2026-06-01T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Martha Stewart Grocery / Turpone Foods / Marquee Brands",
+      "action": "Martha Stewart Grocery launched a new pizza-and-pantry line spanning frozen artisanal pizzas, pinsas, frozen dough balls, pizza sauces, infused oils, honey drizzles, seasonings, and pizza flours. The line is live now at Longo's in Greater Toronto and Walmart locations nationwide in Canada, with a U.S. launch planned later this year. The signal for Real Dough is that premium pizza is being packaged as a broader branded kitchen system rather than a single frozen SKU.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/07/3290150/0/en/martha-stewart-announces-martha-stewart-grocery-a-new-collection-of-pizza-and-pantry-essentials.html",
+      "first_reported": "2026-06-01",
+      "status": "new"
+    },
+    {
+      "name": "One Planet Pizza",
+      "action": "One Planet Pizza secured a nationwide limited-time Aldi UK listing for its Margherita Sourdough Pizzetta across all 1,000 stores, which the company described as its largest retail placement and biggest single order to date. That matters because it shows a sourdough-based frozen pizza brand winning true scale through value retail, not just specialty channels.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://vegconomist.com/retail-e-commerce/aldi-uk-rolls-out-one-planet-pizza-1000-stores-limited-time/",
+      "first_reported": "2026-06-01",
+      "status": "new"
+    },
+    {
+      "name": "Clean Eatz Kitchen",
+      "action": "Clean Eatz Kitchen expanded its QVC frozen pizza assortment with three classic cauliflower-crust pizzas — cheese, Hawaiian, and pepperoni — each positioned at 22g protein and sold in six-count nationwide shipping packs. The useful signal is not just new flavors: it is frozen pizza distribution through TV commerce plus direct frozen fulfillment, aimed at health-forward mainstream households.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.prnewswire.com/news-releases/clean-eatz-kitchen-introduces-new-pizza-flavors-on-qvc-wednesday-302762190.html",
+      "first_reported": "2026-06-01",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza brands are increasingly scaling as multi-channel product systems instead of single-SKU freezer plays",
+      "direction": "up",
+      "magnitude": "Martha Stewart launched a full pizza-and-pantry platform, One Planet Pizza scaled into all 1,000 Aldi UK stores, and Clean Eatz is using QVC plus nationwide frozen shipping to widen reach beyond grocery shelves.",
+      "context": "For Real Dough, the takeaway is that premium crust quality still matters, but distribution creativity and adjacency are becoming just as important as the pizza itself. Winning brands are building ecosystems: pantry, retail, DTC, TV commerce, and better-for-you angles around the core pie.",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/07/3290150/0/en/martha-stewart-announces-martha-stewart-grocery-a-new-collection-of-pizza-and-pantry-essentials.html",
+      "first_reported": "2026-06-01",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "One Planet Pizza retail scale",
+      "value": "Nationwide limited-time listing in all 1,000 Aldi UK stores",
+      "change": "Largest retail placement and biggest single order in the brand's history",
+      "source_url": "https://vegconomist.com/retail-e-commerce/aldi-uk-rolls-out-one-planet-pizza-1000-stores-limited-time/"
+    },
+    {
+      "metric": "Clean Eatz Kitchen pizza pack format",
+      "value": "Six-count QVC assortment at $59.98 with free shipping; 22g protein per pizza",
+      "change": "Adds three classic flavors to broaden appeal beyond niche healthy-pizza buyers",
+      "source_url": "https://www.prnewswire.com/news-releases/clean-eatz-kitchen-introduces-new-pizza-flavors-on-qvc-wednesday-302762190.html"
+    },
+    {
+      "metric": "Martha Stewart Grocery launch footprint",
+      "value": "Live now at Longo's in Greater Toronto and Walmart locations nationwide in Canada, with U.S. launch planned later in 2026",
+      "change": "Moves pizza into a broader branded pantry-plus-freezer retail system",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/07/3290150/0/en/martha-stewart-announces-martha-stewart-grocery-a-new-collection-of-pizza-and-pantry-essentials.html"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's strongest frozen-pizza signal is channel expansion: premium pizza brands are no longer waiting for traditional grocery alone to scale.",
+      "impact": "Martha Stewart is bundling pizza with pantry and dough products, One Planet proved a sourdough frozen brand can land a 1,000-store discount-retail placement, and Clean Eatz is using QVC to sell frozen pizza nationally. For Real Dough, that argues for building a retailer-ready brand that can travel across channels and adjacent formats once the core product lands.",
+      "source_url": "https://vegconomist.com/retail-e-commerce/aldi-uk-rolls-out-one-planet-pizza-1000-stores-limited-time/",
+      "first_reported": "2026-06-01"
+    }
+  ]
+}

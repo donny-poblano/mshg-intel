@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-02",
+  "type": "daily",
+  "generated_at": "2026-06-02T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Champion Foods / Motor City Pizza Co. / Costco",
+      "action": "Champion Foods voluntarily recalled multiple batches of Motor City Pizza Co. 5 Cheese Bread sold at Costco after a California Dairies milk-powder recall cascaded into the seasoning blend used in the product's cheese sauce. The key signal is that the spring dairy contamination issue is still creating downstream frozen-pizza disruption at warehouse-club scale, not just isolated retailer clean-up.",
+      "category": "recall",
+      "relevance_score": 9,
+      "source_url": "https://www.silive.com/news/2026/06/costco-announces-recall-of-popular-frozen-food-for-health-risk.html",
+      "first_reported": "2026-06-02",
+      "status": "new"
+    },
+    {
+      "name": "Del Popolo",
+      "action": "Del Popolo's nationally acclaimed Bay Area pizza chef shut down the restaurant operation to focus on frozen pies, signaling that at least some premium operators now see frozen CPG as the more scalable path than brick-and-mortar alone. For Real Dough, that is another restaurant-to-freezer validation signal: premium pizza credibility is increasingly being monetized through retail formats.",
+      "category": "strategy",
+      "relevance_score": 8,
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEFWWDJaSGFEWDJQUUZVYlVqSUVPYmdZNk02WEVFWmMzTnI4MmJJTFJsTVF5RGNKb1gwdVh3MTd3TnpBVUtjb2hoQmVmbVBUWFE0U09mUXFsQmxUSHZFRkMyTmRra09qdkJ6aXBURmpLZi1KN284TW9UZkE0OEx2V2xCMXozdlJfd2VIUmxDZEZzN19RV1RTeA?oc=5",
+      "first_reported": "2026-06-02",
+      "status": "new"
+    },
+    {
+      "name": "Food Lion private label frozen assortment",
+      "action": "Food Lion launched several new private-label frozen items under its own assortment, a useful signal that value-oriented grocers are still actively investing in owned-brand freezer breadth rather than ceding the occasion entirely to national brands. Even when the item set is broader than pizza alone, it matters for Real Dough because freezer buyers keep balancing branded innovation against retailer-margin-friendly private label expansion.",
+      "category": "private_label",
+      "relevance_score": 7,
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmlUMHMxakhXcDVqVTlXTmwycU5HajM2SFRqWXlVTldrY25LVTJxMm1NUUNpcm0zajVDa3hHbzdVZElsc3VTSVRodlBlRU01ZjZ3T2ZUQk1DRHZlSE5RcjB4RGZTNlEtLVM3LS1CNlpnZnRJLUI1ajNJdl9ycnd0cEVRWEFJbmlSa3NpUXdFbzFNa2RvSnJVNVR5UUg3SEViVF9pR1RyT21oT0k?oc=5",
+      "first_reported": "2026-06-02",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza competition is tightening around three pressure points at once: supply-chain resilience, restaurant-to-retail migration, and retailer-owned freezer expansion",
+      "direction": "up",
+      "magnitude": "A Costco/Motor City recall extended the spring dairy contamination fallout, Del Popolo pivoted from restaurant operations toward frozen pies, and Food Lion kept expanding private-label frozen assortment depth.",
+      "context": "For Real Dough, the takeaway is practical: premium product alone is not enough. The category is rewarding brands that can survive ingredient shocks, tell a restaurant-grade story, and still earn shelf space against private-label economics.",
+      "source_url": "https://www.silive.com/news/2026/06/costco-announces-recall-of-popular-frozen-food-for-health-risk.html",
+      "first_reported": "2026-06-02",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Motor City Pizza Co. / Costco recall scope",
+      "value": "Affected Costco purchases from Feb. 6, 2026 through May 29, 2026 across the Midwest, Northwest, and South Dakota",
+      "change": "Eight sell-by dates were included in the Champion Foods recall tied to the California Dairies milk-powder issue",
+      "source_url": "https://www.silive.com/news/2026/06/costco-announces-recall-of-popular-frozen-food-for-health-risk.html"
+    },
+    {
+      "metric": "Del Popolo strategic direction",
+      "value": "Restaurant operation shut down to focus on frozen pies",
+      "change": "Shifts value creation from dine-in prestige toward scalable frozen CPG distribution",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEFWWDJaSGFEWDJQUUZVYlVqSUVPYmdZNk02WEVFWmMzTnI4MmJJTFJsTVF5RGNKb1gwdVh3MTd3TnpBVUtjb2hoQmVmbVBUWFE0U09mUXFsQmxUSHZFRkMyTmRra09qdkJ6aXBURmpLZi1KN284TW9UZkE0OEx2V2xCMXozdlJfd2VIUmxDZEZzN19RV1RTeA?oc=5"
+    },
+    {
+      "metric": "Food Lion freezer strategy",
+      "value": "Multiple new private-label frozen items launched in May 2026",
+      "change": "Reinforces continued retailer investment in owned-brand freezer assortment breadth",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmlUMHMxakhXcDVqVTlXTmwycU5HajM2SFRqWXlVTldrY25LVTJxMm1NUUNpcm0zajVDa3hHbzdVZElsc3VTSVRodlBlRU01ZjZ3T2ZUQk1DRHZlSE5RcjB4RGZTNlEtLVM3LS1CNlpnZnRJLUI1ajNJdl9ycnd0cEVRWEFJbmlSa3NpUXdFbzFNa2RvSnJVNVR5UUg3SEViVF9pR1RyT21oT0k?oc=5"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's strongest signal is that freezer competition is being shaped as much by operations and channel strategy as by flavor innovation.",
+      "impact": "A lingering dairy-linked recall is still hitting club-channel pizza products, a respected pizzeria operator is treating frozen as the smarter scale path, and Food Lion is still widening private-label freezer pressure. Real Dough should keep building retailer readiness and supply-chain discipline alongside brand storytelling.",
+      "source_url": "https://www.silive.com/news/2026/06/costco-announces-recall-of-popular-frozen-food-for-health-risk.html",
+      "first_reported": "2026-06-02"
+    }
+  ]
+}

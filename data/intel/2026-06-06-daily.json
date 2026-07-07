@@ -1,0 +1,82 @@
+{
+  "date": "2026-06-06",
+  "type": "daily",
+  "generated_at": "2026-06-06T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Aldi / Mama Cozzi's",
+      "action": "Aldi's June 2026 limited-time lineup added multiple pizza-adjacent freezer items at once, including Mama Cozzi's Pit Smoked Beef Brisket With Southern-style Cheese Sauce Flatbread Pizza and Mama Cozzi's Thin Crust Pizza in Buffalo Style Chicken and Bacon Cheeseburger flavors. That is a live value-retail signal that bold, indulgent toppings are still being used to create frozen-pizza novelty and urgency at shelf.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.snackandbakery.com/articles/115800-aldi-presents-lto-finds-lineup-for-june-2026",
+      "first_reported": "2026-06-06",
+      "status": "new"
+    },
+    {
+      "name": "CAULIPOWER",
+      "action": "CAULIPOWER is pairing its thin-and-crispy cauliflower crusts with creator-led summer grilling content, with a June 5 partnered Instagram reel showing BBQ chicken and pepperoni-hot-honey grill applications and prompting recipe DMs. That is a strong signal the brand is pushing pizza from freezer convenience into seasonal outdoor cooking occasions, not just diet/cauliflower positioning.",
+      "category": "social",
+      "relevance_score": 7,
+      "source_url": "https://www.instagram.com/imashleybreannn/reel/DZNxje5PSTU/",
+      "first_reported": "2026-06-06",
+      "status": "new"
+    },
+    {
+      "name": "Target",
+      "action": "Target said its newest and largest food distribution center in Thornton, Colorado is temperature-controlled, serves 129 stores across 11 states, and helps replenish locations up to two days faster while supporting more fresh and frozen assortment growth. For frozen pizza and adjacent CPG brands, that is a meaningful retail infrastructure signal: big-box grocery is still investing behind cold-chain reliability and freezer throughput.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://corporate.target.com/news-features/article/2026/06/thornton-food-distribution-center-opens",
+      "first_reported": "2026-06-06",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza growth is still being fought on occasion expansion, not just core taste claims",
+      "direction": "up",
+      "magnitude": "Aldi is using LTO flavor novelty while CAULIPOWER is pushing grill-season recipe occasions around frozen crusts",
+      "context": "The aisle is trying to create more reasons to use frozen pizza beyond a basic weeknight fallback. Real Dough should keep building around occasionable use cases, not just product quality language.",
+      "source_url": "https://www.snackandbakery.com/articles/115800-aldi-presents-lto-finds-lineup-for-june-2026",
+      "first_reported": "2026-06-06",
+      "status": "new"
+    },
+    {
+      "topic": "Cold-chain execution is becoming a more visible competitive advantage in grocery",
+      "direction": "up",
+      "magnitude": "Target's new facility serves 129 stores across 11 states and claims up to two-day-faster replenishment",
+      "context": "Shelf presence and in-stock consistency remain part of the competitive story. Brands that can support faster, more reliable frozen replenishment should have an edge with retail buyers.",
+      "source_url": "https://corporate.target.com/news-features/article/2026/06/thornton-food-distribution-center-opens",
+      "first_reported": "2026-06-06",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Target Thornton food distribution center footprint",
+      "value": "1.4 million square feet",
+      "change": null,
+      "source_url": "https://corporate.target.com/news-features/article/2026/06/thornton-food-distribution-center-opens"
+    },
+    {
+      "metric": "Target Thornton store coverage",
+      "value": "129 stores across 11 states",
+      "change": "Replenishment up to two days faster",
+      "source_url": "https://corporate.target.com/news-features/article/2026/06/thornton-food-distribution-center-opens"
+    },
+    {
+      "metric": "Target investment in Thornton food DC",
+      "value": "$367 million",
+      "change": null,
+      "source_url": "https://corporate.target.com/news-features/article/2026/06/thornton-food-distribution-center-opens"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's cleanest signals are value-retail flavor churn, creator-led pizza occasion expansion, and retail cold-chain investment",
+      "impact": "Aldi is proving indulgent frozen-pizza novelty still moves in value retail, CAULIPOWER is stretching frozen crust into grilling-season content, and Target is putting serious capital behind faster fresh/frozen replenishment. Real Dough should keep sharpening both its occasion story and its retailer-readiness story.",
+      "source_url": "https://www.snackandbakery.com/articles/115800-aldi-presents-lto-finds-lineup-for-june-2026",
+      "first_reported": "2026-06-06"
+    }
+  ]
+}

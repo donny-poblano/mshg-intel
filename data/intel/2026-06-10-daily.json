@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-10",
+  "type": "daily",
+  "generated_at": "2026-06-10T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Di Fara Pizza",
+      "action": "Di Fara launched a frozen Grandma-style pizza line in three SKUs (Classic, Vodka, Pepperoni), positioning it as the first Grandma-style frozen pizza in retail. The product is rolling out first at ShopRite and The Giant Company across NY, NJ, PA, and select CT/MD stores at a $12.99 price point, with national expansion planned for the second half of 2026.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://www.snackandbakery.com/articles/115861-di-fara-pizza-introduces-grandma-style-product",
+      "first_reported": "2026-06-10",
+      "status": "new"
+    },
+    {
+      "name": "Hero Bread",
+      "action": "Hero Bread expanded its Crafted Collection with a personal-size pizza crust built around low-carb/high-protein macros: 4g net carbs, 20g protein, and 22g fiber per crust. The launch reframes pizza night around functional nutrition and at-home customization rather than a finished frozen pie, with DTC packs of four priced at $29.99.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.snackandbakery.com/articles/115818-hero-bread-expands-crafted-collection-with-pizza-crust",
+      "first_reported": "2026-06-10",
+      "status": "new"
+    },
+    {
+      "name": "Veggies Made Great",
+      "action": "Veggies Made Great entered frozen breakfast pastry with Fruit Pockets, using butternut squash as the #1 crust ingredient and cauliflower-forward icing. The line is rolling into select Target, HyVee, Giant Food, The Giant Company, Stop & Shop, Wakefern, Harris Teeter and other accounts at a $5.99 suggested retail, signaling continued freezer-aisle demand for comfort formats with better-for-you ingredient stories.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.prnewswire.com/news-releases/veggies-made-great-enters-frozen-pastry-category-with-launch-of-fruit-pockets-marking-major-brand-expansion-302796682.html",
+      "first_reported": "2026-06-10",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium regional pizza styles are moving into frozen retail",
+      "direction": "up",
+      "magnitude": "Di Fara is taking a New York Grandma-style format into the freezer at $12.99 with second-half national expansion planned",
+      "context": "The frozen aisle is still rewarding brands that bring restaurant provenance and region-specific formats instead of competing only on mainstream round-pizza flavor line extensions.",
+      "source_url": "https://www.snackandbakery.com/articles/115861-di-fara-pizza-introduces-grandma-style-product"
+    },
+    {
+      "topic": "Better-for-you pizza adjacencies are getting more macro-explicit",
+      "direction": "up",
+      "magnitude": "Hero's new crust leads with 4g net carbs, 20g protein, and 22g fiber per crust",
+      "context": "Pizza is increasingly being sold as a nutrition-managed meal platform, which matters for Real Dough if we ever test functional messaging or protein-forward variants.",
+      "source_url": "https://www.snackandbakery.com/articles/115818-hero-bread-expands-crafted-collection-with-pizza-crust"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Di Fara frozen Grandma pizza price and door-growth target",
+      "value": "$12.99 SRP; brand says it is tracking from 2,000 stores at the start of 2026 to 10,000 doors by year-end",
+      "change": "More than 400% door-growth target in 2026",
+      "source_url": "https://www.snackandbakery.com/articles/115861-di-fara-pizza-introduces-grandma-style-product"
+    },
+    {
+      "metric": "Hero Pizza Crust nutrition and pack price",
+      "value": "4g net carbs, 20g protein, 22g fiber, 140 calories per crust; $29.99 per 4-pack",
+      "change": null,
+      "source_url": "https://www.snackandbakery.com/articles/115818-hero-bread-expands-crafted-collection-with-pizza-crust"
+    },
+    {
+      "metric": "Veggies Made Great Fruit Pockets retail and rollout",
+      "value": "$5.99 SRP per 6-count box; rollout includes Target, HyVee, Giant Food, The Giant Company, Stop & Shop, Wakefern, and Harris Teeter",
+      "change": "Brand expanded from frozen comfort-food base into frozen breakfast pastry",
+      "source_url": "https://www.prnewswire.com/news-releases/veggies-made-great-enters-frozen-pastry-category-with-launch-of-fruit-pockets-marking-major-brand-expansion-302796682.html"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today’s cleanest signal is that the frozen aisle keeps fragmenting into premium pizza provenance and functional-health positioning at the same time.",
+      "impact": "Di Fara is proving there is still room to premiumize around regional pizza identity, while Hero and Veggies Made Great show how aggressively freezer brands are packaging comfort foods in better-for-you language. Real Dough should keep watching where premium craft cues and nutrition-forward messaging start overlapping.",
+      "source_url": "https://www.snackandbakery.com/articles/115861-di-fara-pizza-introduces-grandma-style-product",
+      "first_reported": "2026-06-10"
+    }
+  ]
+}

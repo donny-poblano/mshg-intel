@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-31",
+  "type": "daily",
+  "generated_at": "2026-05-31T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Katie’s Pizza & Pasta",
+      "action": "Katie’s moved beyond its nationwide frozen pizza launch at Target into a broader freezer-and-pantry rollout: three frozen pasta bake entrées are now entering Target stores nationwide, with three shelf-stable sauces following in June. The meaningful signal for Real Dough is that once a premium pizza brand earns real retailer trust, the next move is often category expansion rather than more pizza-only SKUs. The article also says Katie’s is still holding a future Walmart launch until operations can support it.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.stlmag.com/dining/katies-grows-footprint-at-target-with-new-pasta-bake-entrees-and-sauces/",
+      "first_reported": "2026-04-14",
+      "status": "updated"
+    },
+    {
+      "name": "USDA / California Dairies-linked private-label frozen pizza supply chain",
+      "action": "The salmonella-linked powdered milk problem widened again by May 27, with more recalled food products added across retailers including Walmart, Aldi, Target, QVC, and Williams Sonoma. For frozen pizza, the notable new wrinkle is that the contamination chain is no longer just a couple of national private-label SKUs — it has expanded into additional pizza products, including taco pizzas distributed by independent regional companies. That keeps supply-chain resilience and ingredient traceability as a live competitive issue inside frozen pizza.",
+      "category": "updated",
+      "relevance_score": 9,
+      "source_url": "https://www.usatoday.com/story/money/food/2026/05/27/salmonella-recall-powdered-milk-products-list/90275721007/",
+      "first_reported": "2026-05-03",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza is increasingly acting like a platform category: winning brands are using pizza to open adjacent freezer and pantry shelf space while shoppers keep leaning into premium at-home pizza under economic pressure",
+      "direction": "up",
+      "magnitude": "Katie’s is broadening from frozen pizza into pasta bakes and sauces at Target, while Yahoo Shopping reported that frozen pizza sales — especially premium versions — have jumped and cited a $6.5B U.S. category in 2024.",
+      "context": "The practical takeaway for Real Dough is that premium pizza positioning still has room, but the stronger long-term play is building a retailer-ready brand that can own a small system of products, not just one pizza SKU. At the same time, the premium claim has to survive real shopper scrutiny because frozen pizza is becoming a more intentional at-home tradeoff purchase.",
+      "source_url": "https://shopping.yahoo.com/home/kitchen/article/sales-of-frozen-pizza-are-surging--here-are-the-5-best-according-to-our-tests-194034755.html",
+      "first_reported": "2026-05-31",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Katie’s Target retail scale",
+      "value": "Frozen pizzas launched in all 1,800 Target stores nationwide last fall; new frozen pasta bakes are rolling out now, with sauces following in June",
+      "change": "Shows a pizza-led retail relationship turning into broader shelf expansion",
+      "source_url": "https://www.stlmag.com/dining/katies-grows-footprint-at-target-with-new-pasta-bake-entrees-and-sauces/"
+    },
+    {
+      "metric": "May 27 recall expansion",
+      "value": "The rolling powdered-milk salmonella recall now spans products sold at Walmart, Aldi, Target, QVC, and Williams Sonoma, plus added taco pizza products from independent distributors",
+      "change": "Scope expanded again versus the earlier pizza-only framing",
+      "source_url": "https://www.usatoday.com/story/money/food/2026/05/27/salmonella-recall-powdered-milk-products-list/90275721007/"
+    },
+    {
+      "metric": "U.S. frozen pizza category demand signal",
+      "value": "$6.5 billion in 2024 U.S. frozen pizza industry revenue",
+      "change": "Yahoo Shopping said sales of frozen pies, especially premium versions, have jumped amid economic uncertainty",
+      "source_url": "https://shopping.yahoo.com/home/kitchen/article/sales-of-frozen-pizza-are-surging--here-are-the-5-best-according-to-our-tests-194034755.html"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The freezer aisle signal today is less about one breakout SKU and more about what happens after a brand wins trust: expansion outward if you are strong, or wider damage if your supply chain breaks.",
+      "impact": "Katie’s is using frozen pizza as a wedge into broader Target shelf space, the recall story shows how one upstream dairy issue can ripple across multiple retailers and pizza programs, and the premium-sales signal suggests shoppers are still willing to pay for a better at-home pie. For Real Dough, that argues for two priorities at once: obsessive operational trust and a brand architecture that can eventually extend beyond a single pizza box.",
+      "source_url": "https://www.stlmag.com/dining/katies-grows-footprint-at-target-with-new-pasta-bake-entrees-and-sauces/",
+      "first_reported": "2026-05-31"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-09",
+  "type": "daily",
+  "generated_at": "2026-06-09T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Palermo Villa / Connie's",
+      "action": "Palermo Villa introduced a new wood-fired frozen pizza line under its Connie's brand, positioning the range around 24-hour fermented dough, premium toppings, and restaurant-quality at-home eating. The line launched in four varieties, hit select Midwest retailers at a $10.99 suggested retail price, and has additional distribution planned in the coming months.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/30318-palermos-adds-frozen-pizza-innovation",
+      "first_reported": "2026-06-09",
+      "status": "new"
+    },
+    {
+      "name": "Zuppardi's Frozen Foods",
+      "action": "Zuppardi's Frozen Foods bought a 26,926-square-foot West Haven warehouse for $2.45 million to expand production. The company currently makes about 6,400 frozen pizzas a week, plans to devote roughly 16,000 square feet of the building to production, and said the move is aimed at accommodating future growth while meeting USDA requirements.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://hartfordbusiness.com/article/frozen-pizza-business-owner-buys-west-haven-warehouse-for-2-45m-to-accommodate-future-growth/",
+      "first_reported": "2026-06-09",
+      "status": "new"
+    },
+    {
+      "name": "Motor City Pizza Co. / Champion Foods",
+      "action": "Champion Foods recalled certain batches of Motor City Pizza Co. 5 Cheese Bread nationwide because a five-cheese sauce seasoning blend may have been exposed to salmonella risk via recalled milk powder. The shelf life on affected product stretches into April 2027, raising the odds that the item is still sitting in consumer freezers across major national chains.",
+      "category": "recall",
+      "relevance_score": 9,
+      "source_url": "https://www.foodsafetynews.com/2026/06/cheese-bread-sold-at-walmart-costco-and-other-stores-recalled-because-of-salmonella-risk/",
+      "first_reported": "2026-06-09",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Restaurant-quality frozen pizza cues keep moving deeper into mainstream retail",
+      "direction": "up",
+      "magnitude": "Palermo's new Connie's wood-fired line uses 24-hour fermented dough, premium toppings, and a $10.99 price point with more distribution already planned",
+      "context": "The category is still leaning premium: brands are selling frozen pizza on process, texture, and restaurant-style credentials rather than just flavor names or discount pricing.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30318-palermos-adds-frozen-pizza-innovation"
+    },
+    {
+      "topic": "Regional frozen pizza makers are still investing in physical capacity",
+      "direction": "up",
+      "magnitude": "Zuppardi's moved from about 1,000 square feet into a plan centered on 16,000 square feet of production space inside a newly acquired 26,926-square-foot warehouse",
+      "context": "That is a useful signal that smaller premium/regional pizza brands still see enough demand to justify owned manufacturing expansion instead of staying asset-light.",
+      "source_url": "https://hartfordbusiness.com/article/frozen-pizza-business-owner-buys-west-haven-warehouse-for-2-45m-to-accommodate-future-growth/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Connie's wood-fired frozen pizza price signal",
+      "value": "$10.99 suggested retail",
+      "change": null,
+      "source_url": "https://www.foodbusinessnews.net/articles/30318-palermos-adds-frozen-pizza-innovation"
+    },
+    {
+      "metric": "Zuppardi's current frozen pizza output",
+      "value": "About 6,400 frozen pizzas per week",
+      "change": "Company says production has doubled since launch",
+      "source_url": "https://hartfordbusiness.com/article/frozen-pizza-business-owner-buys-west-haven-warehouse-for-2-45m-to-accommodate-future-growth/"
+    },
+    {
+      "metric": "Motor City recall shelf-life risk",
+      "value": "Affected recalled product carries sell-by dates extending into April 2027",
+      "change": "Raises likelihood recalled inventory is still sitting in home freezers and broad retail channels",
+      "source_url": "https://www.foodsafetynews.com/2026/06/cheese-bread-sold-at-walmart-costco-and-other-stores-recalled-because-of-salmonella-risk/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's clearest signal is that premium frozen pizza keeps scaling up while recall exposure remains a real category risk.",
+      "impact": "Palermo is pushing harder into wood-fired premium frozen pizza, Zuppardi's is buying real production capacity to grow, and the Motor City recall is a reminder that one upstream ingredient issue can spread across national frozen distribution with a very long freezer-life tail. Real Dough should keep leaning into premium differentiation, but also treat manufacturing trust and supply-chain clarity as part of the brand story.",
+      "source_url": "https://www.foodsafetynews.com/2026/06/cheese-bread-sold-at-walmart-costco-and-other-stores-recalled-because-of-salmonella-risk/",
+      "first_reported": "2026-06-09"
+    }
+  ]
+}

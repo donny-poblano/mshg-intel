@@ -1,0 +1,82 @@
+{
+  "date": "2026-06-08",
+  "type": "daily",
+  "generated_at": "2026-06-08T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Aldi / Mama Cozzi's / Nation Pizza & Richelieu Foods",
+      "action": "Fresh consumer reporting surfaced the real supply chain behind Aldi's Mama Cozzi's pizza line: Nation Pizza & Foods and Richelieu Foods are the two Illinois manufacturers behind the brand, with Nation also tied to Nestlé and Richelieu also supplying multiple other store-brand pizza programs. For Real Dough, that is a high-signal private-label reminder that competing freezer-aisle brands often share manufacturing infrastructure, and that private-label pizza quality and recall risk can travel across banners faster than shoppers realize.",
+      "category": "private_label",
+      "relevance_score": 8,
+      "source_url": "https://www.mashed.com/2186494/who-makes-aldi-brand-mama-cozzi-pizza/",
+      "first_reported": "2026-06-08",
+      "status": "new"
+    },
+    {
+      "name": "Red Baron x bibigo",
+      "action": "Sporked's June 6 frozen-food roundup said the Red Baron x bibigo Korean BBQ-Style Classic Crust Pizza is no longer just a Kroger-owned-store play and is now also showing up at Walmart and Target. That matters because a retailer-exclusive flavor-collab appears to have earned broader national distribution, suggesting cross-category frozen pizza mashups can graduate from novelty into bigger-box scale when sell-through is strong enough.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://sporked.com/article/best-frozen-foods-2026-so-far/",
+      "first_reported": "2026-04-15",
+      "status": "updated"
+    },
+    {
+      "name": "Rich Products / Pizzeria Uno / Great Kitchens",
+      "action": "Rich Products used the opening of IDDBA 2026 to put its newly expanded pizza platform in front of retailers, marking the first trade-show outing for Pizzeria Uno under Rich's after the Great Kitchens acquisition. The company is explicitly presenting Detroit-style pizzas, Chicago deep dish, and handheld calzones while describing Great Kitchens as North America's largest private-label take-and-bake pizza manufacturer. That is a meaningful retail signal: Rich is turning its January acquisition into an active buyer-facing pizza growth push, not just a back-end portfolio addition.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://perishablenews.com/deli/from-natural-colors-to-robust-pizza-creations-rich-products-puts-innovation-on-display-at-iddba/",
+      "first_reported": "2026-04-27",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Private-label frozen pizza remains less differentiated operationally than it appears on shelf",
+      "direction": "up",
+      "magnitude": "New Mama Cozzi's reporting says Aldi relies on the same manufacturing ecosystem that also touches Nestlé-linked and other major store-brand pizza programs",
+      "context": "For Real Dough, this reinforces a useful strategic angle: provenance, ingredient story, and manufacturing trust can still matter when many value-tier freezer competitors are structurally more interchangeable than their packaging suggests.",
+      "source_url": "https://www.mashed.com/2186494/who-makes-aldi-brand-mama-cozzi-pizza/",
+      "first_reported": "2026-06-08",
+      "status": "new"
+    },
+    {
+      "topic": "Frozen pizza winners keep extending beyond a single SKU into broader platform plays",
+      "direction": "up",
+      "magnitude": "Red Baron x bibigo appears to have widened beyond Kroger into Walmart and Target, while Rich is showing retailers a multi-format pizza platform spanning deep dish, Detroit-style, calzones, and private-label take-and-bake",
+      "context": "The category signal is not just launch-new-pizza; it is build expandable retail programs that can travel across banners, dayparts, and form factors once traction shows up.",
+      "source_url": "https://sporked.com/article/best-frozen-foods-2026-so-far/",
+      "first_reported": "2026-06-08",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Private-label supplier overlap",
+      "value": "A 2023 Journal of Marketing study cited by Mashed said more than 70% of private-label suppliers also produced name-brand items",
+      "change": null,
+      "source_url": "https://www.mashed.com/2186494/who-makes-aldi-brand-mama-cozzi-pizza/"
+    },
+    {
+      "metric": "Red Baron x bibigo retail footprint signal",
+      "value": "Sporked reports the Korean BBQ-style pizza was originally Kroger-only but is now also available at Walmart and Target",
+      "change": "Suggests broader distribution after initial exclusive launch",
+      "source_url": "https://sporked.com/article/best-frozen-foods-2026-so-far/"
+    },
+    {
+      "metric": "Great Kitchens scale under Rich Products",
+      "value": "Rich describes Great Kitchens as North America's largest manufacturer of private-label take-and-bake pizzas",
+      "change": null,
+      "source_url": "https://perishablenews.com/deli/from-natural-colors-to-robust-pizza-creations-rich-products-puts-innovation-on-display-at-iddba/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's cleanest signal is that scale pizza players are widening platforms while private label remains structurally shared behind the scenes.",
+      "impact": "Aldi's Mama Cozzi's sourcing story highlights how much private-label pizza manufacturing is shared across banners, Red Baron x bibigo looks to be graduating from retailer-exclusive novelty into broader mass distribution, and Rich is actively merchandising its Pizzeria Uno/Great Kitchens platform to buyers at IDDBA. Real Dough should keep sharpening the parts mass players cannot fake easily: provenance, trust, and a more ownable brand story.",
+      "source_url": "https://perishablenews.com/deli/from-natural-colors-to-robust-pizza-creations-rich-products-puts-innovation-on-display-at-iddba/",
+      "first_reported": "2026-06-08"
+    }
+  ]
+}

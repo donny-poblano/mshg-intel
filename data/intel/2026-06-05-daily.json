@@ -1,0 +1,82 @@
+{
+  "date": "2026-06-05",
+  "type": "daily",
+  "generated_at": "2026-06-05T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Zuppardi's Frozen Foods",
+      "action": "Zuppardi's Frozen Foods bought a 26,926-square-foot West Haven warehouse for $2.45 million to expand production capacity. The company said it currently makes about 6,400 frozen pizzas per week, has doubled production since launch, and plans to dedicate roughly 16,000 square feet of the new building to frozen-pizza manufacturing once approvals and equipment installation are complete.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://hartfordbusiness.com/article/frozen-pizza-business-owner-buys-west-haven-warehouse-for-2-45m-to-accommodate-future-growth/",
+      "first_reported": "2026-06-05",
+      "status": "new"
+    },
+    {
+      "name": "CAULIPOWER",
+      "action": "CAULIPOWER is now foregrounding 'NEW High-Protein Single-Serve Meals' in its brand bio while recent June 2-3 Instagram content leaned hard into freezer convenience and grocery-cart meal occasions. That is a useful signal that a pizza-adjacent frozen brand is broadening beyond crust differentiation into protein-forward, single-serve meal territory while keeping pizza/snacks in the portfolio.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.instagram.com/caulipower/",
+      "first_reported": "2026-06-05",
+      "status": "new"
+    },
+    {
+      "name": "Grupo Bimbo",
+      "action": "Grupo Bimbo said it will eliminate artificial colors from its entire global portfolio by the end of 2026, with 99% of its daily-consumption products already free from artificial flavors and colorants and more than 70% of U.S. sales already in those cleaner-label categories. Even though this is broader than pizza, it is a strong CPG signal that cleaner-label expectations are still rising across center-store and frozen-adjacent packaged foods.",
+      "category": "strategy",
+      "relevance_score": 7,
+      "source_url": "https://www.snackandbakery.com/articles/114190-grupo-bimbo-to-eliminate-artificial-colors-by-end-of-2026",
+      "first_reported": "2026-06-05",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen and frozen-adjacent brands are still investing in capacity and infrastructure instead of treating the category as a short-term spike",
+      "direction": "up",
+      "magnitude": "Zuppardi's is moving from roughly 1,000 square feet into a facility where about 16,000 square feet will support frozen-pizza production",
+      "context": "That matters for Real Dough because regional premium players are still building for scale, not just testing the freezer aisle. Manufacturing readiness is becoming part of the competitive story.",
+      "source_url": "https://hartfordbusiness.com/article/frozen-pizza-business-owner-buys-west-haven-warehouse-for-2-45m-to-accommodate-future-growth/",
+      "first_reported": "2026-06-05",
+      "status": "new"
+    },
+    {
+      "topic": "Freezer competition is tightening around protein, convenience, and cleaner-label trust cues at the same time",
+      "direction": "up",
+      "magnitude": "CAULIPOWER is pushing high-protein single-serve meals while Grupo Bimbo is making a portfolio-wide artificial-color removal commitment by end of 2026",
+      "context": "Real Dough's sourdough/craft story still matters, but the broader aisle is getting more explicit about functional nutrition and ingredient simplicity. Premium alone is not a moat if the claim stack stays thin.",
+      "source_url": "https://www.instagram.com/caulipower/",
+      "first_reported": "2026-06-05",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Zuppardi's current frozen-pizza output",
+      "value": "About 6,400 frozen pizzas per week",
+      "change": "Company said production has doubled since launch",
+      "source_url": "https://hartfordbusiness.com/article/frozen-pizza-business-owner-buys-west-haven-warehouse-for-2-45m-to-accommodate-future-growth/"
+    },
+    {
+      "metric": "Zuppardi's planned production footprint",
+      "value": "~16,000 square feet of a 26,926-square-foot warehouse",
+      "change": "Up from roughly 1,000 square feet in its current space",
+      "source_url": "https://hartfordbusiness.com/article/frozen-pizza-business-owner-buys-west-haven-warehouse-for-2-45m-to-accommodate-future-growth/"
+    },
+    {
+      "metric": "Grupo Bimbo clean-label progress",
+      "value": "99% of daily-consumption products already free from artificial flavors and colorants; more than 70% of U.S. sales in those categories",
+      "change": "Company says all products will be free from artificial colorants by end of 2026",
+      "source_url": "https://www.snackandbakery.com/articles/114190-grupo-bimbo-to-eliminate-artificial-colors-by-end-of-2026"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's strongest signals are scale-building, protein-forward freezer expansion, and cleaner-label escalation",
+      "impact": "Zuppardi's is building manufacturing headroom, CAULIPOWER is widening its freezer proposition beyond pizza into high-protein single-serve meals, and Grupo Bimbo is raising the floor on ingredient expectations. Real Dough should keep sharpening its sourdough craft story, but the aisle is also moving toward operational scale and cleaner, more functional claim stacks.",
+      "source_url": "https://hartfordbusiness.com/article/frozen-pizza-business-owner-buys-west-haven-warehouse-for-2-45m-to-accommodate-future-growth/",
+      "first_reported": "2026-06-05"
+    }
+  ]
+}

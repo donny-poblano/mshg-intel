@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-14",
+  "type": "daily",
+  "generated_at": "2026-06-14T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Nestl\u00e9 USA",
+      "action": "Nestl\u00e9 signaled that frozen is a major future growth bet for its U.S. food business, with Food Dive reporting the company is doubling down on frozen meals and pizzas and explicitly framing the category as a 'huge opportunity.' For Real Dough, that matters because the biggest scaled player in the aisle is still investing harder in freezer relevance rather than treating frozen as a mature hold-only business.",
+      "category": "strategy",
+      "relevance_score": 8,
+      "source_url": "https://www.fooddive.com/news/why-nestle-is-betting-on-huge-opportunity-in-frozen-food/814264/",
+      "first_reported": "2026-03-18",
+      "status": "ongoing"
+    },
+    {
+      "name": "Katie's Pizza & Pasta / Target",
+      "action": "Katie's expanded its Target presence beyond frozen pizza with national Pasta Bake Entr\u00e9e rollout and sauces going into roughly 1,800 stores in late May and June. The high-signal takeaway is that a premium restaurant-rooted pizza brand is using frozen pizza as the wedge product, then extending into adjacent Italian meal occasions once retail velocity is proven.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.prnewswire.com/news-releases/katies-expands-at-target-with-new-pasta-bakes-and-sauces-302782958.html",
+      "first_reported": "2026-05-27",
+      "status": "updated"
+    },
+    {
+      "name": "Champion Foods / Motor City Pizza Co.",
+      "action": "Champion Foods recalled frozen Motor City Co. 5 Cheese Bread sold through national retailers including Walmart and Costco over potential salmonella risk. Even though the recalled item is a bread/side extension rather than a core round pizza, it is still an important freezer-set signal: adjacent pizza-branded products can win shelf space fast, but one food-safety event can put retailer trust and household repeat purchase at risk immediately.",
+      "category": "quality",
+      "relevance_score": 9,
+      "source_url": "https://www.mysanantonio.com/food/article/frozen-pizza-recall-22285783.php",
+      "first_reported": "2026-06-01",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza brands are pushing into broader meal-platform territory while category leaders keep investing and quality failures remain costly",
+      "direction": "up",
+      "magnitude": "Katie's expanded from pizza into pasta bakes and sauces at ~1,800 Target stores while Nestl\u00e9 kept emphasizing frozen as a major growth priority; Motor City showed how fast quality issues can undermine adjacent freezer expansion",
+      "context": "The clearest signal is that frozen pizza is no longer just a single-SKU game. Winning brands are stretching into sides, sauces, and full Italian meal occasions, while large incumbents are still leaning in. That raises the bar for Real Dough: stronger brand architecture and airtight execution matter as much as the pizza itself.",
+      "source_url": "https://www.prnewswire.com/news-releases/katies-expands-at-target-with-new-pasta-bakes-and-sauces-302782958.html"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Katie's Target distribution expansion",
+      "value": "~1,800 Target stores",
+      "change": "Brand moved beyond frozen pizza into national pasta bake and sauce rollout in spring/summer 2026",
+      "source_url": "https://www.stlmag.com/dining/katies-grows-footprint-at-target-with-new-pasta-bake-entrees-and-sauces/"
+    },
+    {
+      "metric": "Motor City recall scope",
+      "value": "National retail distribution including Walmart and Costco",
+      "change": "Recall tied to possible salmonella risk in Motor City Co. 5 Cheese Bread",
+      "source_url": "https://www.mysanantonio.com/food/article/frozen-pizza-recall-22285783.php"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Best current signal: the freezer aisle is rewarding brands that extend beyond core pizza, but execution risk is unforgiving.",
+      "impact": "Katie's is using frozen pizza as a launchpad into broader Italian meal occasions, and Nestl\u00e9 is still treating frozen as a growth engine rather than a defensive category. At the same time, the Motor City recall is a reminder that one quality miss can quickly erase momentum in pizza-adjacent freezer products.",
+      "source_url": "https://www.fooddive.com/news/why-nestle-is-betting-on-huge-opportunity-in-frozen-food/814264/",
+      "first_reported": "2026-06-14"
+    }
+  ]
+}

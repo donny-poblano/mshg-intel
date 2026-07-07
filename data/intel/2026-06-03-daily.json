@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-03",
+  "type": "daily",
+  "generated_at": "2026-06-03T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Birrittella's Pizza Dough / Walmart",
+      "action": "Birrittella's said Walmart will become the first major retailer to carry its new Protein Rich Pizza Dough, alongside its traditional dough, starting in June across select stores in New York, New Jersey, and Pennsylvania. The signal for Real Dough is that better-for-you pizza formats are not staying in specialty channels; mass retail is willing to test differentiated dough platforms when the story is clear enough.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.instagram.com/birrittellasdough/reel/DYQIpdWxhHw/",
+      "first_reported": "2026-06-03",
+      "status": "new"
+    },
+    {
+      "name": "Ready Dough Pizza / Walmart",
+      "action": "Ready Dough Pizza officially landed its frozen Miami-style pizza in five Walmart Supercenters across South Florida, framing the move as its first meaningful big-box retail step with more locations planned. For Real Dough, this is a useful proof point that highly regional pizza identities can still win freezer placement when the retailer story is specific and local demand is legible.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.instagram.com/p/DYNdyuaj4dl/",
+      "first_reported": "2026-06-03",
+      "status": "new"
+    },
+    {
+      "name": "Champion Foods / Motor City Pizza Co.",
+      "action": "The Motor City Pizza Co. 5 Cheese Bread recall widened into a clearly national multi-banner event on FDA's June 1 posting, listing distribution across Costco, Walmart, Target, Kroger, Meijer, Publix, Giant Landover, Hy-Vee-linked channels, and multiple wholesalers. That shifts the story from a club-retail incident to a broad channel-risk signal: one ingredient problem can now hit frozen-pizza-adjacent products across nearly every major retail format at once.",
+      "category": "recall",
+      "relevance_score": 9,
+      "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/champion-foods-recalls-some-batches-motor-city-pizza-co-5-cheese-bread-because-possible-health-risk",
+      "first_reported": "2026-06-02",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Mass retail is still creating freezer and dough-shelf openings for regionally distinctive pizza brands, but the cost of operational failure is rising because recalls now travel across banners fast",
+      "direction": "up",
+      "magnitude": "Two niche pizza/dough brands used Walmart as a breakout retail door in May while the Motor City recall expanded into a nationwide multi-retailer event by June 1.",
+      "context": "The category is rewarding clear positioning — high-protein dough, Miami-style identity, local authenticity — but it is also punishing supply-chain weakness at scale. Real Dough should keep its product story sharp while treating ingredient traceability and retailer readiness as part of the brand, not back-office details.",
+      "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/champion-foods-recalls-some-batches-motor-city-pizza-co-5-cheese-bread-because-possible-health-risk",
+      "first_reported": "2026-06-03",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Birrittella's Walmart rollout",
+      "value": "Traditional and Protein Rich Pizza Dough launching June 2026 in select Walmart stores across NY, NJ, and PA",
+      "change": "Walmart is positioned as the first major retailer to carry Birrittella's Protein Rich Pizza Dough",
+      "source_url": "https://www.instagram.com/birrittellasdough/reel/DYQIpdWxhHw/"
+    },
+    {
+      "metric": "Ready Dough Pizza initial Walmart footprint",
+      "value": "5 Walmart Supercenters across South Florida at launch",
+      "change": "Brand said more locations are planned after the first Florida rollout",
+      "source_url": "https://www.instagram.com/p/DYNdyuaj4dl/"
+    },
+    {
+      "metric": "Champion Foods recall channel breadth",
+      "value": "FDA-listed distribution spanned Costco, Walmart, Target, Kroger, Meijer, Publix, Giant Landover, Grocery Outlet, Jewel, Schnucks, Food City, and multiple wholesale/distribution networks nationwide",
+      "change": "Scope is broader than the earlier Costco-centered framing and now reads as a multi-channel national event",
+      "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/champion-foods-recalls-some-batches-motor-city-pizza-co-5-cheese-bread-because-possible-health-risk"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's cleanest signal is that Walmart remains a real launch pad for niche pizza CPG plays, while the Motor City recall shows how unforgiving broad retail exposure becomes once a supplier issue hits.",
+      "impact": "Birrittella's and Ready Dough both used Walmart to validate differentiated pizza formats, but Champion's expanded recall is the reminder that national-scale distribution amplifies operational risk just as fast as it amplifies reach. Real Dough should keep pursuing a distinct shelf story while building the boring reliability that protects it once distribution grows.",
+      "source_url": "https://www.instagram.com/p/DYNdyuaj4dl/",
+      "first_reported": "2026-06-03"
+    }
+  ]
+}

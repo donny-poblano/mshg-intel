@@ -1,0 +1,63 @@
+{
+  "date": "2026-06-04",
+  "type": "daily",
+  "generated_at": "2026-06-04T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Motor City Pizza Co. / Champion Foods",
+      "action": "Champion Foods recalled certain Motor City Pizza Co. 5 Cheese Bread single and 2-pack SKUs after California Dairies milk powder used in a seasoning blend raised salmonella contamination concerns, creating a fresh food-safety and retailer-trust issue across major national grocery accounts.",
+      "category": "campaign",
+      "relevance_score": 9,
+      "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/champion-foods-recalls-some-batches-motor-city-pizza-co-5-cheese-bread-because-possible-health-risk",
+      "first_reported": "2026-06-04",
+      "status": "new"
+    },
+    {
+      "name": "Palermo's / Connie's",
+      "action": "Palermo Villa launched a premium Connie's wood-fired frozen pizza line with 24-hour slowly fermented dough, all-natural toppings, and a $10.99 suggested retail price, rolling into select Midwest retailers and pushing harder into premium texture-led frozen pizza.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/30318-palermos-adds-frozen-pizza-innovation",
+      "first_reported": "2026-06-04",
+      "status": "new"
+    },
+    {
+      "name": "Yough / Founders Row / Target",
+      "action": "Yough secured a strategic investment from Founders Row as its Greek-yogurt-crust frozen pizzas expanded into nearly 2,000 Target stores nationwide, bringing a high-protein, cleaner-label challenger into mainstream mass retail at $9.99 per pie.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.prnewswire.com/news-releases/founders-row-invests-in-yough-as-greek-yogurt-powered-frozen-pizza-launches-nationwide-at-target-302715868.html",
+      "first_reported": "2026-06-04",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza competition is splitting between premium craft cues and functional nutrition claims",
+      "direction": "up",
+      "magnitude": "Palermo's is leaning into wood-fired fermentation and Yough is leaning into 40-50g protein Greek-yogurt crusts at national Target scale",
+      "context": "The category is not converging on one winning lane. Premium texture/story and measurable nutrition are both getting shelf space, which means Real Dough still needs a sharper ownable sourdough craft story instead of generic premium positioning.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30318-palermos-adds-frozen-pizza-innovation",
+      "first_reported": "2026-06-04",
+      "status": "new"
+    },
+    {
+      "topic": "Food-safety risk is still a live category vulnerability in frozen pizza and adjacent bread products",
+      "direction": "down",
+      "magnitude": "Motor City Pizza Co. recall reached major national retailers after a contaminated dairy ingredient entered the seasoning supply chain",
+      "context": "Operational credibility matters as much as branding. A quality event can instantly undercut shelf trust across multiple retailers, which makes manufacturing discipline a competitive advantage, not just a back-end requirement.",
+      "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/champion-foods-recalls-some-batches-motor-city-pizza-co-5-cheese-bread-because-possible-health-risk",
+      "first_reported": "2026-06-04",
+      "status": "new"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "This week's strongest frozen-pizza signals are premium texture, protein positioning, and safety execution",
+      "impact": "Palermo's is upgrading the premium frozen playbook, Yough is proving functional frozen pizza can land in mass retail, and the Motor City recall is a reminder that one supplier issue can become a national trust problem fast.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30318-palermos-adds-frozen-pizza-innovation",
+      "first_reported": "2026-06-04"
+    }
+  ]
+}

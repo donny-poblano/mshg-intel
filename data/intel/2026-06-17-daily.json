@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-17",
+  "type": "daily",
+  "generated_at": "2026-06-17T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Zuppardi's Frozen Foods",
+      "action": "Zuppardi's is making a serious scale move in frozen pizza, expanding into a 26,926-square-foot West Haven facility after outgrowing its current plant. Roughly 17,000 square feet will be redeveloped for frozen pizza production, backed by a planned $4.2 million investment in the building, interior upgrades and equipment. The big signal for Real Dough is that a regional restaurant-rooted pizza brand is betting real capital on grocery distribution, not treating frozen as a side business anymore.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.wtnh.com/news/connecticut/new-haven/zuppardis-frozen-foods-to-expand-production-in-west-haven/",
+      "first_reported": "2026-06-17",
+      "status": "new"
+    },
+    {
+      "name": "Di Fara Pizza",
+      "action": "Di Fara brought its New York Grandma Pizza format into grocery with what it calls the first and only grandma-style pizza in the frozen set. The line uses hand-stretched dough baked in an olive-oil-coated pan, comes in Classic, Vodka and Pepperoni, carries a $12.99 SRP, and launched regionally at ShopRite, The Giant Co., plus select stores in Connecticut and Maryland. For Real Dough, the signal is strong: frozen pizza innovation is shifting from toppings alone toward highly specific regional format storytelling.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/di-fara-grandma-pizza",
+      "first_reported": "2026-06-17",
+      "status": "new"
+    },
+    {
+      "name": "Martha Stewart / Martha Stewart Kitchen",
+      "action": "Martha Stewart expanded further into pizza-adjacent frozen CPG with New York-style and Neapolitan-style pizza flour and frozen pizza dough balls, available nationwide at Walmart Canada with a U.S. rollout planned. That matters because a mass-premium lifestyle brand is now trying to own the at-home pizza-making occasion itself, not just adjacent pantry items. It is another sign that the pizza aisle opportunity includes freezer-ready dough and kit behavior, not only finished pies.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.foodbusinessnews.net/articles/30323-martha-stewart-expands-portfolio",
+      "first_reported": "2026-06-17",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Restaurant-origin pizza brands are moving deeper into grocery through format differentiation and production scale",
+      "direction": "up",
+      "magnitude": "Zuppardi's is investing $4.2M in frozen production capacity, Di Fara launched a grandma-style frozen line at $12.99, and Martha Stewart pushed frozen dough formats into mass retail",
+      "context": "The cleanest signal today is that the next freezer winners are not just adding new flavors. They are translating restaurant credibility or lifestyle authority into specific pizza formats like grandma pies and dough balls, while also building the production footprint needed to support broader retail distribution.",
+      "source_url": "https://www.wtnh.com/news/connecticut/new-haven/zuppardis-frozen-foods-to-expand-production-in-west-haven/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Zuppardi's frozen expansion scope",
+      "value": "$4.2 million investment tied to a 26,926-square-foot facility",
+      "change": "About 17,000 square feet will be redeveloped for frozen pizza production, with up to five full-time jobs created and distribution expected to expand beyond New England",
+      "source_url": "https://www.wtnh.com/news/connecticut/new-haven/zuppardis-frozen-foods-to-expand-production-in-west-haven/"
+    },
+    {
+      "metric": "Di Fara Grandma Pizza pricing and launch footprint",
+      "value": "$12.99 SRP across three SKUs",
+      "change": "Regional rollout began at ShopRite and The Giant Co. in NY/NJ/PA plus select stores in Connecticut and Maryland",
+      "source_url": "https://progressivegrocer.com/di-fara-grandma-pizza"
+    },
+    {
+      "metric": "Martha Stewart pizza dough retail expansion",
+      "value": "Frozen pizza dough balls and pizza flour available nationwide at Walmart Canada",
+      "change": "U.S. rollout is planned, showing continued interest in freezer-friendly pizza-making formats beyond finished frozen pizzas",
+      "source_url": "https://www.foodbusinessnews.net/articles/30323-martha-stewart-expands-portfolio"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's clearest frozen pizza signal: the aisle is getting more format-specific and more restaurant-derived at the same time.",
+      "impact": "Zuppardi's is scaling production, Di Fara is bringing a distinctly regional grandma format to freezer doors, and Martha Stewart is pushing dough-based pizza occasions into mass retail. Real Dough should keep treating crust, format and at-home pizza ritual as strategic product territory, not just packaging copy.",
+      "source_url": "https://www.wtnh.com/news/connecticut/new-haven/zuppardis-frozen-foods-to-expand-production-in-west-haven/",
+      "first_reported": "2026-06-17"
+    }
+  ]
+}

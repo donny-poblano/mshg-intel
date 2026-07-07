@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-30",
+  "type": "daily",
+  "generated_at": "2026-05-30T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Nestlé USA / DiGiorno / Tombstone / Vital Pursuit",
+      "action": "Nestlé said it is doubling down on frozen meals and pizza as a core U.S. growth engine, with two higher-protein Vital Pursuit pizzas launching next month and leadership explicitly framing frozen as a strategically important business. The sharper pizza signal is that the DiGiorno and Tombstone owner says it already controls just under a third of the U.S. frozen pizza market and is still pushing new format and nutrition-led innovation.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.fooddive.com/news/why-nestle-is-betting-on-huge-opportunity-in-frozen-food/814264/",
+      "first_reported": "2026-05-30",
+      "status": "new"
+    },
+    {
+      "name": "Palermo Villa",
+      "action": "Palermo Villa was reported to be using a new $100 million facility to push into the fast-growing wood-fired frozen pizza segment. That matters because it suggests a scaled incumbent is not just adding capacity, but using new manufacturing investment to chase a more premium, restaurant-adjacent subcategory where crust/process cues matter more.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdnVTMDE5TlpOMlhad2VNLW85ZHdZOGJ0UGhpZGs2TlBPTU50b1pmVXQyVnVtaFIzd3lzekE4M1pLTVRHaExZQUY5VzNTcW9TSkR4dVdOZldnN3FNMDJiNWRrZm13XzRpd09fbVF2QlEwa1ROSzRUVHVBZWRFR2x2amlBOVZ3SkRJYTVmSE1aSm5faEFQVVl3d3VmdXRMMm9BOWVTdjVseWtiY3M?oc=5",
+      "first_reported": "2026-05-30",
+      "status": "new"
+    },
+    {
+      "name": "Katie’s Pizza & Pasta",
+      "action": "Katie’s expanded its Target footprint with new pasta bake entrées and sauces, extending a restaurant-origin frozen pizza brand into adjacent CPG categories at mass retail. Even though this is not a new pizza SKU, it is a meaningful competitive signal: once a premium frozen pizza brand earns Target placement, the next move is often broader freezer-and-pantry shelf capture.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdm05V2dqY3JqblZ1RVZsS2hXNWdOUC1Wb3JGSkFRc3hNQkhvUzN6SUw5aWxwSk5MWXJjTDFoeV9XYkhyeHRnVFBkTmJWY1dyWE1Fb1Y0UlpQSDRnT0VNRUFYVkhDTTVudFRMQkhlWkJFdWJxYWZMOTlPTGw0RmpzTGo5dWl2SEYwa0FzU0prRnNwOEh2Y1JFbXdWVWxwZ0g1Zmtxcg?oc=5",
+      "first_reported": "2026-04-14",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Scaled frozen pizza players are competing on premiumization through process, nutrition, and adjacency rather than only flavor launches",
+      "direction": "up",
+      "magnitude": "Nestlé is adding protein-forward pizzas, Palermo is using new capacity to target wood-fired premium pizza, and Katie’s is widening from frozen pizza into adjacent mass-retail CPG shelves.",
+      "context": "The useful takeaway for Real Dough is that the premium freezer fight is broadening. Winning brands are pairing a strong product story with either operational scale, health-forward claims, or the ability to expand into adjacent categories once retail trust is earned.",
+      "source_url": "https://www.fooddive.com/news/why-nestle-is-betting-on-huge-opportunity-in-frozen-food/814264/",
+      "first_reported": "2026-05-30",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Nestlé frozen pizza market position",
+      "value": "Nestlé says DiGiorno and Tombstone together control just under one-third of the U.S. frozen pizza market",
+      "change": "Nestlé is also launching two new Vital Pursuit pizzas next month with 33g protein and 17g fiber each",
+      "source_url": "https://www.fooddive.com/news/why-nestle-is-betting-on-huge-opportunity-in-frozen-food/814264/"
+    },
+    {
+      "metric": "Palermo facility scale",
+      "value": "$100 million new facility tied to expansion into wood-fired frozen pizza",
+      "change": null,
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdnVTMDE5TlpOMlhad2VNLW85ZHdZOGJ0UGhpZGs2TlBPTU50b1pmVXQyVnVtaFIzd3lzekE4M1pLTVRHaExZQUY5VzNTcW9TSkR4dVdOZldnN3FNMDJiNWRrZm13XzRpd09fbVF2QlEwa1ROSzRUVHVBZWRFR2x2amlBOVZ3SkRJYTVmSE1aSm5faEFQVVl3d3VmdXRMMm9BOWVTdjVseWtiY3M?oc=5"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The freezer aisle is getting more competitive from both ends: scaled incumbents are pushing premium formats harder while restaurant-origin brands widen into adjacent CPG shelves once mass retail opens up.",
+      "impact": "For Real Dough, the implication is pretty direct: protect the sourdough/process differentiation, but also keep building a retailer-ready platform that can support adjacent extensions later instead of treating pizza as the only shelf outcome.",
+      "source_url": "https://www.fooddive.com/news/why-nestle-is-betting-on-huge-opportunity-in-frozen-food/814264/",
+      "first_reported": "2026-05-30"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-16",
+  "type": "daily",
+  "generated_at": "2026-06-16T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Feel Good Foods",
+      "action": "Feel Good Foods said its mainstream freezer push is working: after major expansion across Target, Publix and Kroger, the brand now sits in 25,000 doors, expects 60% year-over-year growth in 2026, and says only 25% of its shoppers are strictly gluten-free. The important signal for Real Dough is that freezer brands built on dietary credentials are winning broader grocery audiences by leading with craveability, convenience and sharper packaging rather than health language alone.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.modernretail.co/marketing/why-more-better-for-you-brands-are-leading-with-taste-over-health-claims/",
+      "first_reported": "2026-04-10",
+      "status": "updated"
+    },
+    {
+      "name": "Great Kitchens / Pizzeria Uno / Rich Products",
+      "action": "Brynwood agreed to sell Great Kitchens Food Company to Rich Products, moving a major private-label take-and-bake pizza platform plus the Pizzeria Uno frozen business into a scaled strategic owner. Great Kitchens said it distributes nationally across retail, foodservice and e-commerce, and Rich framed the deal as a way to strengthen its pizza and flatbread platform across deli and frozen. That is a strong category signal: strategic buyers still want manufacturing scale and branded pizza assets together, not separately.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.marketsgroup.org/news/pe-firm-brynwood-sells-frozen-pizza-maker-uno",
+      "first_reported": "2026-06-16",
+      "status": "new"
+    },
+    {
+      "name": "Green Giant / Seneca Foods / B&G Foods",
+      "action": "Seneca Foods bought the Green Giant U.S. frozen business from B&G Foods, acquiring the brand IP, frozen inventory and the Yuma, Arizona manufacturing operation while also signing a supply agreement for certain products from B&G's Mexico facility. B&G explicitly positioned the sale as another step in divesting non-core lines to sharpen focus and reduce debt. For Real Dough, it is a meaningful freezer-set signal that established food companies are still reorganizing around scale, manufacturing control and cleaner category focus.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.senecafoods.com/press-release/seneca-foods-announces-purchase-green-giant-us-frozen-business",
+      "first_reported": "2026-06-16",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen food growth is favoring brands and owners that combine mainstream positioning with scaled manufacturing control",
+      "direction": "up",
+      "magnitude": "Feel Good Foods reached 25,000 doors and expects 60% YoY growth, while Rich Products and Seneca both used acquisitions to add frozen manufacturing and portfolio depth",
+      "context": "Today's cleanest read is that the frozen aisle is rewarding two things at once: consumer-facing brands that feel more craveable and less niche, and operators or owners that can consolidate supply, production and distribution behind those brands.",
+      "source_url": "https://www.modernretail.co/marketing/why-more-better-for-you-brands-are-leading-with-taste-over-health-claims/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Feel Good Foods retail reach and growth outlook",
+      "value": "25,000 doors; 60% expected YoY growth in 2026",
+      "change": "Only 25% of shoppers are strictly gluten-free, signaling broader mainstream pull beyond the original dietary niche",
+      "source_url": "https://www.modernretail.co/marketing/why-more-better-for-you-brands-are-leading-with-taste-over-health-claims/"
+    },
+    {
+      "metric": "Seneca Green Giant frozen acquisition scope",
+      "value": "Brand IP, frozen inventory and Yuma, Arizona manufacturing operations",
+      "change": "Also adds a supply agreement for certain Green Giant frozen products made by B&G Foods in Irapuato, Mexico",
+      "source_url": "https://www.senecafoods.com/press-release/seneca-foods-announces-purchase-green-giant-us-frozen-business"
+    },
+    {
+      "metric": "Great Kitchens platform profile",
+      "value": "National distribution across retail, foodservice and e-commerce with private-label take-and-bake plus Pizzeria Uno branded frozen products",
+      "change": "Rich Products says the deal expands its pizza and flatbread platform across deli and frozen formats",
+      "source_url": "https://www.marketsgroup.org/news/pe-firm-brynwood-sells-frozen-pizza-maker-uno"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's strongest signal: frozen growth is being captured by brands that feel less niche and by owners that keep buying manufacturing-heavy freezer platforms.",
+      "impact": "Feel Good Foods shows how a once-specialty frozen brand can go mainstream with better packaging and broader retail, while Rich Products and Seneca show that scale players still see frozen manufacturing and brand ownership as worth consolidating. Real Dough should keep balancing craveable consumer positioning with retailer-ready operating depth.",
+      "source_url": "https://www.modernretail.co/marketing/why-more-better-for-you-brands-are-leading-with-taste-over-health-claims/",
+      "first_reported": "2026-06-16"
+    }
+  ]
+}

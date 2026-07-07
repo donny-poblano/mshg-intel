@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-12",
+  "type": "daily",
+  "generated_at": "2026-06-12T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Hot Pockets / Nestlé USA",
+      "action": "Hot Pockets introduced 'Snack Breaks,' a new bite-sized frozen snack line built around two tear-apart squares per pack in five flavors, extending the brand from meal-style handholds into all-day snacking. The July aisle launch includes 4-ounce singles at a suggested $1.79 and 16-ounce 4-count packs at $5.49, which is a clean signal that legacy frozen brands are chasing smaller-format snack occasions instead of only full-meal occasions.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/hot-pockets-snack-breaks",
+      "first_reported": "2026-06-12",
+      "status": "new"
+    },
+    {
+      "name": "David",
+      "action": "David entered frozen with a high-protein dessert line and sold out its June 1 online launch in 28 minutes, showing how aggressively protein-first challenger brands are moving into indulgent freezer categories. The initial lineup includes four pint flavors, each with 30 grams of protein, 210 to 260 calories, and less than 1 to 2 grams of sugar per pint.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.prnewswire.com/news-releases/david-launches-high-protein-frozen-dessert-302789109.html",
+      "first_reported": "2026-06-12",
+      "status": "new"
+    },
+    {
+      "name": "Farm Rich",
+      "action": "Farm Rich expanded its frozen snack lineup with Snack-Sized Ranch Mini Mozzarella Sticks and Snack-Sized Loaded Potato Tots, launched at Publix in May with broader retail rollout planned for this summer. The move reinforces that frozen appetizer brands are leaning into smaller, mix-and-match formats designed for flexible snacking and casual at-home occasions.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.prnewswire.com/news-releases/farm-rich-rolls-out-snack-sized-favorites-for-easy-summer-snacking-302790513.html",
+      "first_reported": "2026-06-12",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen innovation is tilting toward snackable formats and protein-forward indulgence",
+      "direction": "up",
+      "magnitude": "Hot Pockets moved into bite-sized snack packs, Farm Rich pushed snack-sized appetizers, and David sold out a high-protein frozen dessert launch in 28 minutes",
+      "context": "The clearest daily signal is that freezer innovation is clustering around flexible snacking and nutritionally optimized indulgence rather than only traditional center-of-plate meals. For Real Dough, that suggests opportunity in portable portions, occasion-based bundles, and stronger messaging around premium freezer-night versatility.",
+      "source_url": "https://www.prnewswire.com/news-releases/david-launches-high-protein-frozen-dessert-302789109.html"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "David frozen dessert nutrition and launch velocity",
+      "value": "Sold out in 28 minutes; 30g protein per pint; 210-260 calories; less than 1-2g sugar per pint",
+      "change": "Marks a fast-moving entry into frozen dessert from a protein-first challenger brand",
+      "source_url": "https://www.prnewswire.com/news-releases/david-launches-high-protein-frozen-dessert-302789109.html"
+    },
+    {
+      "metric": "Hot Pockets Snack Breaks retail format",
+      "value": "5 launch flavors; 4-ounce single packs at $1.79 SRP and 16-ounce 4-count packs at $5.49 SRP; July frozen-aisle arrival",
+      "change": "Shows legacy frozen brands adapting pack size and price architecture for snack occasions",
+      "source_url": "https://progressivegrocer.com/hot-pockets-snack-breaks"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's strongest signal is that frozen CPG players are pushing harder into snack-sized and protein-forward formats.",
+      "impact": "Hot Pockets, Farm Rich, and David are all expanding freezer demand beyond classic meal occasions, either through smaller grab-and-go formats or higher-protein indulgence. Real Dough should keep watching how premium frozen consumers respond to portion flexibility, snackable formats, and stronger functional positioning.",
+      "source_url": "https://progressivegrocer.com/hot-pockets-snack-breaks",
+      "first_reported": "2026-06-12"
+    }
+  ]
+}

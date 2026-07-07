@@ -1,0 +1,82 @@
+{
+  "date": "2026-06-07",
+  "type": "daily",
+  "generated_at": "2026-06-07T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Walmart / bettergoods",
+      "action": "Southern Living published a June 6 review positioning Walmart's bettergoods wood-fired frozen pizzas as takeout-level quality at a sub-$7 price point, specifically calling out the Italian Wood-Fired Prosciutto and Arugula pizza and noting multiple other SKUs won strong repeat-buy interest. For Real Dough, that is a meaningful private-label signal: value retail is getting more credible at premium-adjacent frozen pizza execution, not just basic commodity pies.",
+      "category": "private_label",
+      "relevance_score": 8,
+      "source_url": "https://www.southernliving.com/better-goods-pizza-review-11988339",
+      "first_reported": "2026-06-07",
+      "status": "new"
+    },
+    {
+      "name": "Dawn Foods",
+      "action": "Dawn Foods expanded its frozen cake portfolio with six new thaw-and-decorate products, and BakeryAndSnacks framed the move as part of a broader shift where frozen bakery is being used for premium seasonal merchandising, labor relief, and faster customization rather than only back-of-house convenience. That matters to Real Dough because adjacent frozen bakery players are openly using frozen formats as a strategic growth lever, not a compromise.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.bakeryandsnacks.com/Article/2026/05/28/how-bakers-can-capitalise-on-frozen-bakery-growth-and-celebration-trends/",
+      "first_reported": "2026-06-07",
+      "status": "new"
+    },
+    {
+      "name": "National Frozen & Refrigerated Foods Association",
+      "action": "NFRA's June Dairy Month push said the refrigerated aisle is being reshaped by protein, convenience, globally inspired flavors, ready-to-bake doughs, snack packs, and functional discovery. It is not pizza-specific, but it is a useful CPG demand signal: shoppers are increasingly rewarding easy, flavor-forward, routine-fit formats, which is exactly the environment premium frozen pizza has to win inside.",
+      "category": "market_signal",
+      "relevance_score": 7,
+      "source_url": "https://www.prnewswire.com/news-releases/dairy-staples-convenience-and-innovation-are-reshaping-the-refrigerated-aisle-302788928.html",
+      "first_reported": "2026-06-07",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium cues are moving deeper into value and private-label frozen pizza",
+      "direction": "up",
+      "magnitude": "Walmart's bettergoods line is being praised for wood-fired formats, premium toppings, and restaurant-like quality while staying below $7",
+      "context": "The premium frozen-pizza fight is no longer only branded. Retailer-owned lines can now attack on both value and perceived quality, which raises the bar for Real Dough's differentiation story.",
+      "source_url": "https://www.southernliving.com/better-goods-pizza-review-11988339",
+      "first_reported": "2026-06-07",
+      "status": "new"
+    },
+    {
+      "topic": "Frozen and refrigerated convenience formats are being repositioned as strategic, not second-best",
+      "direction": "up",
+      "magnitude": "Dawn is expanding frozen bakery for customization and labor relief while NFRA says protein, convenience, ready-to-bake doughs, and flavor discovery are driving aisle evolution",
+      "context": "For Real Dough, the macro read is encouraging: consumers and operators are getting more comfortable with premium, convenient, frozen-adjacent formats when the product still feels elevated and occasion-worthy.",
+      "source_url": "https://www.bakeryandsnacks.com/Article/2026/05/28/how-bakers-can-capitalise-on-frozen-bakery-growth-and-celebration-trends/",
+      "first_reported": "2026-06-07",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "bettergoods frozen pizza price signal",
+      "value": "Less than $7 per pizza at Walmart",
+      "change": null,
+      "source_url": "https://www.southernliving.com/better-goods-pizza-review-11988339"
+    },
+    {
+      "metric": "Operator labor pressure in bakery",
+      "value": "74% of operators say managing labor costs is one of their biggest challenges in 2026",
+      "change": null,
+      "source_url": "https://www.bakeryandsnacks.com/Article/2026/05/28/how-bakers-can-capitalise-on-frozen-bakery-growth-and-celebration-trends/"
+    },
+    {
+      "metric": "Graduation-season bakery demand lift",
+      "value": "Standard cupcake sales +18%, decorated cake sales +17%, brownies +38% in the two weeks before graduation season",
+      "change": null,
+      "source_url": "https://www.bakeryandsnacks.com/Article/2026/05/28/how-bakers-can-capitalise-on-frozen-bakery-growth-and-celebration-trends/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Today's clearest signal is that premium perception is spreading across frozen convenience, from Walmart private label to broader thaw-and-finish CPG formats.",
+      "impact": "Walmart's bettergoods line shows value retail can now credibly play in premium-adjacent frozen pizza, while Dawn and NFRA both reinforce a wider category truth: convenience formats are winning when they still feel elevated, customizable, and protein/value aligned. Real Dough should keep sharpening its premium story, but also respect how fast retailer and adjacent CPG players are closing the quality gap.",
+      "source_url": "https://www.southernliving.com/better-goods-pizza-review-11988339",
+      "first_reported": "2026-06-07"
+    }
+  ]
+}

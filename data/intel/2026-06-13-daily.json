@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-13",
+  "type": "daily",
+  "generated_at": "2026-06-13T13:00:00Z",
+  "competitors": [
+    {
+      "name": "Ajinomoto / Whole Foods Market",
+      "action": "Ajinomoto Foods North America launched a new frozen ramen line into select Whole Foods Market locations nationwide on June 9, bringing three Japanese-inspired bowl varieties into the premium freezer set at a $7.99 suggested retail. The move matters because it pushes frozen competition further toward globally flavored, restaurant-style meal experiences rather than plain convenience alone.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.prnewswire.com/news-releases/ajinomoto-foods-north-america-introduces-new-frozen-ramen-line-at-whole-foods-market-302794788.html",
+      "first_reported": "2026-04-24",
+      "status": "updated"
+    },
+    {
+      "name": "Bronco / Target",
+      "action": "Bronco announced a nationwide frozen rollout at Target, using endcap placement to launch two high-protein breakfast bagel sandwiches positioned around no-seed-oil ingredients, real cheese, and fast prep. This is a strong signal that freezer innovation is still attracting shelf space when brands combine protein-forward messaging with a cleaner-ingredient story and a familiar comfort format.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.prnewswire.com/news-releases/bronco-announces-nationwide-rollout-in-target-bringing-a-modern-take-on-the-classic-breakfast-bagel-302651755.html",
+      "first_reported": "2026-06-13",
+      "status": "new"
+    },
+    {
+      "name": "Farm Rich",
+      "action": "Farm Rich was hit by a recall covering 6,408 cases, or more than 160,000 pounds, of Pizza Cheese Crunchers across 21 states because of possible metal contamination. That is a meaningful competitive signal because frozen snack growth is still strong, but quality-control failures can quickly turn a convenience-driven freezer brand into a trust problem at national scale.",
+      "category": "quality",
+      "relevance_score": 8,
+      "source_url": "https://www.foxbusiness.com/retail/frozen-pizza-snack-recall-hits-21-states-possible-metal-contamination-product",
+      "first_reported": "2026-06-12",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen CPG competition is widening through premium global meals and protein-forward breakfast formats",
+      "direction": "up",
+      "magnitude": "Ajinomoto added 3 ramen varieties at Whole Foods while Bronco secured a nationwide Target freezer rollout with 15g-21g protein breakfast bagels",
+      "context": "The freshest signal is that brands are still finding room in frozen by pairing convenience with a sharper point of view: either culturally specific restaurant-style meals or familiar handheld formats rebuilt around protein and ingredient claims. For Real Dough, that reinforces the need to keep product positioning distinctive instead of competing on convenience alone.",
+      "source_url": "https://www.prnewswire.com/news-releases/ajinomoto-foods-north-america-introduces-new-frozen-ramen-line-at-whole-foods-market-302794788.html"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Farm Rich Pizza Cheese Crunchers recall scope",
+      "value": "6,408 cases / more than 160,000 pounds across 21 states",
+      "change": "Class II recall tied to possible metal contamination",
+      "source_url": "https://www.foxbusiness.com/retail/frozen-pizza-snack-recall-hits-21-states-possible-metal-contamination-product"
+    },
+    {
+      "metric": "Ajinomoto frozen ramen launch details",
+      "value": "3 varieties at $7.99 SRP",
+      "change": "Nationwide debut at select Whole Foods Market locations",
+      "source_url": "https://www.prnewswire.com/news-releases/ajinomoto-foods-north-america-introduces-new-frozen-ramen-line-at-whole-foods-market-302794788.html"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The clearest daily signal is that frozen brands are still winning space with differentiated positioning, but product quality risk remains brutal.",
+      "impact": "Ajinomoto and Bronco both show that retailers will still back freezer launches when the story is specific enough, whether that is Japanese ramen at Whole Foods or protein-first breakfast bagels at Target. At the same time, Farm Rich's multi-state recall is a reminder that execution and trust matter just as much as innovation once a product scales.",
+      "source_url": "https://www.foxbusiness.com/retail/frozen-pizza-snack-recall-hits-21-states-possible-metal-contamination-product",
+      "first_reported": "2026-06-13"
+    }
+  ]
+}
