@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-07",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kroger / Giant Eagle",
+      "action": "Progressive Grocer reported fresh antitrust pushback to Kroger's planned $1.65 billion Giant Eagle acquisition. NGA is urging a detailed local-market review and wants any required divested stores prioritized for independent grocers, while Progressive Grocer cited Farm Action data that Walmart, Kroger, Costco and Albertsons control 69% of U.S. grocery sales.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/trade-news-tuesday-krogers-giant-eagle-deal-faces-antitrust-pushback-industry-orgs-ohio-grocers-get",
+      "first_reported": "2026-07-07",
+      "status": "updated"
+    },
+    {
+      "name": "U.S. grocery retailers / McKinsey",
+      "action": "Supermarket News reported McKinsey's 2026 grocery outlook: 2025 U.S. grocery sales rose 1.2%, but pricing contributed 2.2% while volume fell 1%. McKinsey says advantage is moving from isolated tactics to connected systems across value, private brands, fresh, ecommerce, retail media and AI.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/7-themes-are-reshaping-grocery-in-the-u-s-report",
+      "first_reported": "2026-07-07",
+      "status": "new"
+    },
+    {
+      "name": "Independent and regional grocers / refrigeration policy",
+      "action": "Supermarket News reported that grocery industry groups welcomed EPA moves to delay HFC refrigeration phaseout deadlines and exempt road transport refrigeration from new leak rules. FMI said the combined rules could impose nearly $144 billion in costs, while NGA framed the rules as especially burdensome for independent grocers operating on thin margins.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/frozen/grocery-industry-cheers-changes-to-controversial-refrigeration-regs",
+      "first_reported": "2026-07-07",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Grocery competition is concentrating around local-market power, connected retail systems and cost-to-serve discipline",
+      "direction": "up",
+      "magnitude": "Three signals: antitrust groups are challenging Kroger-Giant Eagle at the local-market level; McKinsey says 2025 grocery dollar growth came from price rather than volume; refrigeration-rule changes are being framed by industry groups as a major cost-pressure issue.",
+      "context": "For Real Dough, retailer buyers are likely to keep evaluating premium freezer items through a tighter lens: differentiated role in the set, credible value, operational reliability and fit with each retailer's broader system rather than standalone product story.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/7-themes-are-reshaping-grocery-in-the-u-s-report",
+      "first_reported": "2026-07-07",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Top-four U.S. grocery sales concentration cited in Kroger-Giant Eagle pushback",
+      "value": "69% of all U.S. grocery sales",
+      "change": "Progressive Grocer cited Farm Action data in coverage of NGA and American Economic Liberties Project concerns about Kroger's planned Giant Eagle acquisition.",
+      "source_url": "https://progressivegrocer.com/trade-news-tuesday-krogers-giant-eagle-deal-faces-antitrust-pushback-industry-orgs-ohio-grocers-get"
+    },
+    {
+      "metric": "2025 U.S. grocery growth mix",
+      "value": "Sales +1.2%; price +2.2%; volume -1%",
+      "change": "McKinsey data reported by Supermarket News indicates dollar growth was price-led while unit volume declined, reinforcing ongoing value pressure.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/7-themes-are-reshaping-grocery-in-the-u-s-report"
+    },
+    {
+      "metric": "Estimated cost exposure from contested HFC refrigeration rules",
+      "value": "Nearly $144 billion",
+      "change": "FMI said the combined Technology Transitions Rule and Management Rule could impose this cost on American businesses and consumers; EPA changes would delay or exempt parts of the requirements.",
+      "source_url": "https://www.supermarketnews.com/frozen/grocery-industry-cheers-changes-to-controversial-refrigeration-regs"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "TRADE NEWS TUESDAY: Kroger’s Giant Eagle Deal Faces Antitrust Pushback From Industry Orgs; Ohio Grocers Get Midwest Support",
+      "impact": "The deal is moving from acquisition announcement to regulatory and local-market scrutiny, which could affect store divestitures, regional competition and independent-grocer openings.",
+      "source_url": "https://progressivegrocer.com/trade-news-tuesday-krogers-giant-eagle-deal-faces-antitrust-pushback-industry-orgs-ohio-grocers-get",
+      "first_reported": "2026-07-07"
+    },
+    {
+      "headline": "7 themes are reshaping grocery in the U.S.: report",
+      "impact": "Value pressure, private brands, fresh, ecommerce, retail media and AI are being evaluated as connected operating systems, raising the bar for supplier clarity and retailer-specific fit.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/7-themes-are-reshaping-grocery-in-the-u-s-report",
+      "first_reported": "2026-07-07"
+    },
+    {
+      "headline": "Grocery industry cheers changes to controversial refrigeration regs",
+      "impact": "Cold-chain regulation is a direct freezer economics issue; delayed HFC compliance could preserve grocer capital for price, labor and assortment investments in the near term.",
+      "source_url": "https://www.supermarketnews.com/frozen/grocery-industry-cheers-changes-to-controversial-refrigeration-regs",
+      "first_reported": "2026-07-07"
+    }
+  ]
+}
