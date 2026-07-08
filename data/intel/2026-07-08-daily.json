@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-08",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Amazon / Walmart / Target",
+      "action": "Progressive Grocer reported that the early-July deal window has become a major retail promotion cycle, with Amazon Prime Day running July 8-11, Walmart Deals July 8-13 and Target Circle Week July 6-12. Grocery and everyday essentials are part of the events, and Target is promoting buy-one-get-one-50%-off offers on select grocery items including frozen meals.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/retailers-are-dropping-best-deals-summer",
+      "first_reported": "2026-07-08",
+      "status": "new"
+    },
+    {
+      "name": "Publix / GreenWise private label",
+      "action": "Supermarket News reported a recall of Frozen Greenwise Organic IQF Blueberries sold by Publix after a vendor, Frutas y Hortalizas del Sur, flagged potential E. coli contamination. The affected lot is 60401 with a Feb. 9, 2028 best-by date; 12 illnesses were reported across eight Southeastern states.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/recalls/publix-recalls-frozen-organic-product",
+      "first_reported": "2026-07-08",
+      "status": "new"
+    },
+    {
+      "name": "Balls Foods Stores / Afresh",
+      "action": "Progressive Grocer reported that Kansas City-based Balls Foods Stores selected Afresh for AI-driven production planning and full-store ordering across fresh departments, grocery, frozen, dairy, alcohol and general merchandise. The deployment replaces manual ordering and legacy systems with item-specific perishability, real-time inventory and store-specific demand forecasting.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/balls-foods-picks-afresh-production-planning-full-store-ordering",
+      "first_reported": "2026-07-08",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Retailer freezer decisions are being shaped by promotion intensity, food-safety trust and inventory technology",
+      "direction": "up",
+      "magnitude": "Three current signals: national retailers are folding groceries and frozen meals into July deal events; Publix's private-label frozen recall shows frozen quality risk remains visible; Balls Foods is extending AI ordering into frozen and center store.",
+      "context": "For Real Dough, premium frozen pizza needs to be ready for sharper promotional comparison, stronger safety and traceability questions, and more data-driven replenishment expectations from regional grocery partners.",
+      "source_url": "https://progressivegrocer.com/retailers-are-dropping-best-deals-summer",
+      "first_reported": "2026-07-08",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "July 2026 major retail deal-event dates",
+      "value": "Amazon Prime Day July 8-11; Walmart Deals July 8-13; Target Circle Week July 6-12",
+      "change": "Progressive Grocer frames the first two weeks of July as a concentrated promotional period spanning summer essentials, back-to-school and grocery/everyday essentials.",
+      "source_url": "https://progressivegrocer.com/retailers-are-dropping-best-deals-summer"
+    },
+    {
+      "metric": "Publix GreenWise frozen blueberry recall scope",
+      "value": "Lot 60401; best-by Feb. 9, 2028; 12 illnesses reported in eight states",
+      "change": "The recall links a frozen organic private-label item to potential E. coli contamination, reinforcing buyer sensitivity to frozen supply-chain controls.",
+      "source_url": "https://www.supermarketnews.com/recalls/publix-recalls-frozen-organic-product"
+    },
+    {
+      "metric": "Balls Foods Afresh deployment scope",
+      "value": "25 supermarkets; full-store ordering across grocery, frozen, dairy, alcohol, general merchandise and fresh departments",
+      "change": "Regional grocers are moving inventory and replenishment decisions from manual systems toward AI-driven demand and perishability models.",
+      "source_url": "https://progressivegrocer.com/balls-foods-picks-afresh-production-planning-full-store-ordering"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Retailers Are Dropping Best Deals of the Summer",
+      "impact": "Large retailers are putting grocery and frozen-meal offers into major July promotional events, increasing short-term price comparison pressure in the freezer aisle.",
+      "source_url": "https://progressivegrocer.com/retailers-are-dropping-best-deals-summer",
+      "first_reported": "2026-07-08"
+    },
+    {
+      "headline": "Publix recalls frozen organic product",
+      "impact": "A private-label frozen organic recall tied to reported illnesses raises the bar for supplier traceability, documentation and quality-control confidence.",
+      "source_url": "https://www.supermarketnews.com/recalls/publix-recalls-frozen-organic-product",
+      "first_reported": "2026-07-08"
+    },
+    {
+      "headline": "Balls Foods Picks Afresh for Production Planning, Full-Store Ordering",
+      "impact": "A Midwest regional grocer is applying AI ordering to frozen and center store, a sign that item-level performance and forecastability will matter more in retailer conversations.",
+      "source_url": "https://progressivegrocer.com/balls-foods-picks-afresh-production-planning-full-store-ordering",
+      "first_reported": "2026-07-08"
+    }
+  ]
+}
