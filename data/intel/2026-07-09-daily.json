@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-09",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Marley Spoon / ShopRite",
+      "action": "Progressive Grocer reported that Marley Spoon entered physical retail for the first time, launching Balance by Marley Spoon ready-to-eat prepared meals in every ShopRite location across six Northeast and Mid-Atlantic states. The four refrigerated SKUs carry a $7.99 suggested retail price and are positioned around quick workday lunches and easy dinners.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/marley-spoon-meal-kits-enter-retail",
+      "first_reported": "2026-07-09",
+      "status": "new"
+    },
+    {
+      "name": "Private label grocery brands",
+      "action": "Progressive Grocer reported PLMA/Circana midyear data showing store-brand unit sales up 0.2% in the first half of 2026 while national-brand units fell 0.5%. Store-brand unit market share reached a record 23.8%, with unit gains cited as a stronger indicator of consumer choice than dollar sales distorted by price moves.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/store-brands-keep-gaining-unit-sales-market-share",
+      "first_reported": "2026-07-09",
+      "status": "new"
+    },
+    {
+      "name": "Walmart / Sam's Club",
+      "action": "Supermarket News reported that Walmart and Sam's Club cut prices on thousands of items, including summer grocery staples, snacks, beverages, household essentials and frozen treats. Examples include Walmart's Great Value 48-ounce ice cream reduced from $2.97 to $2.50 and national-brand 24-pack sodas reduced to $9.97.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/company-news/walmart-sam-s-club-cut-prices-on-thousands-of-items",
+      "first_reported": "2026-07-09",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Value pressure is expanding from shelf price to channel strategy and brand architecture",
+      "direction": "up",
+      "magnitude": "Three current signals: Marley Spoon is moving DTC meal kits into ShopRite's prepared-food aisle; store brands hit a record 23.8% unit share; Walmart and Sam's Club are cutting prices across thousands of everyday and seasonal items.",
+      "context": "For Real Dough, retailer conversations should assume buyers are balancing premium differentiation against measurable value, private-label substitution risk and strong national price activity in adjacent meal and freezer categories.",
+      "source_url": "https://progressivegrocer.com/store-brands-keep-gaining-unit-sales-market-share",
+      "first_reported": "2026-07-09",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Balance by Marley Spoon retail launch",
+      "value": "Four ready-to-eat SKUs at $7.99 SRP in every ShopRite location across NJ, NY, PA, MD, CT and DE",
+      "change": "Marley Spoon is extending from DTC meal kits into refrigerated retail prepared meals through Wakefern's ShopRite banner.",
+      "source_url": "https://progressivegrocer.com/marley-spoon-meal-kits-enter-retail"
+    },
+    {
+      "metric": "Store-brand unit market share",
+      "value": "23.8% in first half 2026, an all-time high",
+      "change": "Store-brand units rose 0.2% while national-brand units declined 0.5%, according to PLMA/Circana data reported by Progressive Grocer.",
+      "source_url": "https://progressivegrocer.com/store-brands-keep-gaining-unit-sales-market-share"
+    },
+    {
+      "metric": "Walmart/Sam's Club summer price cuts",
+      "value": "Thousands of items reduced, spanning meat, produce, snacks, beverages, household essentials and frozen treats",
+      "change": "Walmart highlighted reductions including Great Value ice cream from $2.97 to $2.50 and multiple 24-pack soda offers down to $9.97.",
+      "source_url": "https://www.supermarketnews.com/company-news/walmart-sam-s-club-cut-prices-on-thousands-of-items"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Marley Spoon Meal Kits Enter Retail",
+      "impact": "A DTC meal-kit brand is using ShopRite to compete for quick lunch and easy-dinner occasions in the prepared-food aisle, adding another ready-meal alternative to frozen pizza occasions.",
+      "source_url": "https://progressivegrocer.com/marley-spoon-meal-kits-enter-retail",
+      "first_reported": "2026-07-09"
+    },
+    {
+      "headline": "Store Brands Keep Gaining Unit Sales, Market Share",
+      "impact": "Record private-label unit share raises the burden on premium branded products to prove differentiation, velocity and value rather than relying on brand preference alone.",
+      "source_url": "https://progressivegrocer.com/store-brands-keep-gaining-unit-sales-market-share",
+      "first_reported": "2026-07-09"
+    },
+    {
+      "headline": "Walmart, Sam's Club cut prices on thousands of items",
+      "impact": "Large-format retailers are making broad visible price cuts across grocery and seasonal categories, reinforcing near-term value pressure on premium food brands.",
+      "source_url": "https://www.supermarketnews.com/company-news/walmart-sam-s-club-cut-prices-on-thousands-of-items",
+      "first_reported": "2026-07-09"
+    }
+  ]
+}
