@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-10",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Large packaged food companies / UPF exposure",
+      "action": "Food Business News reported BNP Paribas analysis showing major packaged food companies have high exposure to ultra-processed food concerns, with Kraft Heinz, Mondelez, Conagra, General Mills and Campbell's deriving at least 77% of U.S. retail sales from products classified as Nova 4. In mixed categories including frozen meals and vegetables, minimally processed products outpaced ultra-processed products by roughly 7 percentage points.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/30598-the-companies-most-exposed-to-consumer-upf-concerns",
+      "first_reported": "2026-07-10",
+      "status": "new"
+    },
+    {
+      "name": "Walmart emerging brand merchandising",
+      "action": "Food Business News reported Walmart buyer guidance from the Summer Fancy Food Show: emerging food brands can test in as few as 50 stores, must manage digital presence as carefully as shelf execution, and will be judged on unit velocity, week-to-week sales trends and online presentation. Walmart also called out better-for-you and global flavors as current hot spots while saying premium and value can coexist if the value is clear.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/30588-what-walmart-wants-from-food-entrepreneurs",
+      "first_reported": "2026-07-10",
+      "status": "new"
+    },
+    {
+      "name": "U.S. grocery retailers / FMI",
+      "action": "Supermarket News summarized FMI's 2026 Food Retailing Industry Speaks report, saying grocers are sustaining investments in technology, store modernization, private brands, omnichannel and health-focused merchandising despite inflation, tariffs and thin margins. The report cited 2.1% average industry profit margins in 2025, 80% of food retailers offering online grocery and 82% testing or implementing in-store customer-experience technology.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/fmi-report-grocers-double-down-on-technology-health-and-value-as-economic-pressures-persist",
+      "first_reported": "2026-07-10",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Retailer and consumer scrutiny is tightening around processing level, value proof and digital execution",
+      "direction": "up",
+      "magnitude": "Three current signals: BNP Paribas found minimally processed products outpacing ultra-processed products in mixed tracked categories; Walmart says emerging brands need strong digital and weekly velocity discipline; FMI says grocers are still investing in tech, private brands, omnichannel and health under 2.1% average margins.",
+      "context": "For Real Dough, the useful read is that a premium sourdough freezer pitch should be measurable and operational: simple ingredient/process proof, clear value versus private label, strong digital shelf assets and readiness for data-driven retail tests.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30598-the-companies-most-exposed-to-consumer-upf-concerns",
+      "first_reported": "2026-07-10",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "UPF exposure among major packaged food companies",
+      "value": "At least 77% of U.S. retail sales for Kraft Heinz, Mondelez, Conagra, General Mills and Campbell's were classified as Nova 4 in BNP Paribas coverage",
+      "change": "Food Business News reported BNP Paribas' view that UPF exposure could worsen pressure on large packaged-food portfolios as shoppers scrutinize ingredient lists and processing levels.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30598-the-companies-most-exposed-to-consumer-upf-concerns"
+    },
+    {
+      "metric": "Walmart emerging-brand test scale",
+      "value": "Tests can be as small as 50 stores; Walmart has about 4,600 U.S. stores and one in three customers currently shops online",
+      "change": "Walmart merchants told food entrepreneurs that digital presentation, unit velocity and weekly sales trends are central to launch decisions and optimization.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30588-what-walmart-wants-from-food-entrepreneurs"
+    },
+    {
+      "metric": "FMI 2026 grocery operating indicators",
+      "value": "2.1% average profit margin; 80% of retailers offer online grocery; 82% are testing or implementing in-store customer-experience technology",
+      "change": "Supermarket News reported grocers are still investing in technology, omnichannel, private brands and health-focused merchandising despite tariffs, inflation and supply-chain pressure.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/fmi-report-grocers-double-down-on-technology-health-and-value-as-economic-pressures-persist"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The companies most exposed to consumer UPF concerns",
+      "impact": "Processing-level scrutiny is becoming a measurable CPG risk, especially for frozen and center-store incumbents; cleaner ingredient and fermentation proof can become a stronger shelf differentiator.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30598-the-companies-most-exposed-to-consumer-upf-concerns",
+      "first_reported": "2026-07-10"
+    },
+    {
+      "headline": "What Walmart wants from food entrepreneurs",
+      "impact": "Walmart is signaling that premium challenger brands can enter selectively, but only with tight digital execution, velocity data and a clear role in the set.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30588-what-walmart-wants-from-food-entrepreneurs",
+      "first_reported": "2026-07-10"
+    },
+    {
+      "headline": "FMI report: Grocers double down on technology, health and value as economic pressures persist",
+      "impact": "Grocers are balancing low margins with tech, private-brand, health and omnichannel investment, raising expectations for suppliers to prove both differentiation and operational fit.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/fmi-report-grocers-double-down-on-technology-health-and-value-as-economic-pressures-persist",
+      "first_reported": "2026-07-10"
+    }
+  ]
+}
