@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-10",
+  "week": "2026-W28",
+  "headline": "No current owned-performance read; this week’s defensible signal is retail pressure: private label/value is up, deal intensity is high, and buyers want clean-label proof, velocity data, and digital-shelf execution.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Current-week market intel is available for 2026-07-06 through 2026-07-10, giving a usable external read for retail/category planning.",
+        "Real Dough’s core proof points fit the week’s strongest demand signals: clean ingredients, sourdough/process proof, family dinner convenience, and a credible alternative to ultra-processed freezer incumbents.",
+        "Walmart’s emerging-brand guidance creates a clear sales target: selective tests can start around 50 stores, but buyers will judge unit velocity, week-to-week sales trends, digital presence, and online presentation."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Owned paid/social analytics are not currently wired into this repo. Do not use obsolete reporting exports as current performance evidence or make week-over-week optimization claims from them.",
+        "Value pressure is getting louder: PLMA/Circana data reported store-brand unit share at a record 23.8% in H1 2026, while Walmart/Sam’s Club cut prices on thousands of items and July deal events included grocery and frozen meals.",
+        "Retail buyers are tightening the execution bar: McKinsey coverage shows 2025 grocery sales up 1.2% while volume fell 1%, FMI reported 2.1% average industry margins, and regional grocers are deploying AI ordering across frozen and center store.",
+        "Food-safety and frozen supply-chain credibility remain buyer issues: Publix recalled GreenWise frozen organic blueberries tied to potential E. coli contamination and 12 reported illnesses across eight states."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "REPORTING: Wire the current Real Dough paid/social analytics source into the repo; until then, keep weekly performance claims out of the executive summary.",
+        "SALES: Build a Walmart/retailer test packet around 50-store readiness: velocity goals, digital shelf assets, item data, online images, claims support, and weekly sales-review cadence.",
+        "AGENCY: Shift creative from generic premium language to proof-led trade-up reasons: Wisconsin sourdough, fermentation/process, recognizable ingredients, family dinner utility, and where to buy.",
+        "COMMERCIAL: Prepare a value defense versus private label and promo-priced national brands; explain why Real Dough earns the premium in shopper language, not internal brand language.",
+        "OPERATIONS/QA: Keep frozen supply-chain and ingredient documentation buyer-ready, including traceability, food-safety controls, and claim substantiation."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The best supportable message is specific proof: sourdough fermentation, clean/recognizable ingredients, Wisconsin origin, easy family dinner, and retailer-specific availability. This week’s market intel favors brands that can show value and ingredient/process credibility, not vague premium positioning.",
+    "what_didnt": "There is no current owned-channel performance read in the repo. Do not cite obsolete reporting exports, sample social tabs, or stale Analyst outputs as evidence that a current creative, channel, or audience segment improved this week.",
+    "recommendation": "Build the next content and retail-copy cycle around a clean-label/value defense: why Real Dough is worth the trade-up versus private label, why the sourdough/process matters, and how shoppers can find it quickly online and in store. Pair social assets with digital-shelf copy and retailer search terms so the same proof points work for consumers and buyers.",
+    "competitive_context": "The freezer and easy-meal set is getting more competitive. Natural Grocers added organic private-label frozen ravioli at $8.49, Marley Spoon moved ready-to-eat meals into ShopRite at $7.99, private labels reached record unit share, and Walmart/Sam’s Club are making broad price cuts. At the same time, UPF scrutiny is pressuring large packaged-food incumbents, which gives Real Dough a lane if the brand can prove ingredient quality, velocity, and operational reliability."
+  },
+  "data_quality": {
+    "missing": [
+      "No current Real Dough paid/social analytics source is wired into this repo for 2026-W28; current KPI movement is unavailable.",
+      "No usable Real Dough review/customer sentiment feed. data/reviews.json contains place-not-found errors for Merriment Social, Third Coast Provisions, Flourchild Pizza, and The Loon Room, not Real Dough review data.",
+      "No current Real Dough operations or retail execution feed. data/operations/ only contains snapshots from 2026-03-27, 2026-03-29, 2026-04-04, and 2026-04-05."
+    ],
+    "stale": [
+      "Latest available Analyst file is data/analysis/2026-06-19.json and is not a current-week read.",
+      "Latest available operations data is more than three months old relative to 2026-07-10."
+    ],
+    "anomalies": [
+      "data/reviews.json appears configured for other restaurant entities rather than Real Dough.",
+      "Whatagraph files are obsolete/decommissioned for Real Dough and were intentionally excluded as source evidence; their age is not treated as a freshness bug.",
+      "Current-week intel is external market/category evidence only; it does not prove Real Dough sales, ad, social, review, or operations movement."
+    ]
+  }
+}
