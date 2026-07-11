@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-11",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Giant Eagle",
+      "action": "Grocery Dive reported Giant Eagle launched summer price cuts on more than 300 frequently purchased items across departments, averaging 10% and running through Labor Day. The chain framed the move as a value-perception campaign after a prior fall pricing effort engaged nearly 2 million households.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/giant-eagle-temporarily-lowers-prices-on-300-items/824899/",
+      "first_reported": "2026-07-11",
+      "status": "new"
+    },
+    {
+      "name": "Amazon / Whole Foods Market",
+      "action": "Supermarket News reported San Francisco's proposed Affordable Groceries Act will not appear on the November ballot after opposition from Amazon and local officials. The measure would have taxed empty grocery and pharmacy storefronts held by chains and used proceeds and incentives to support grocery access; Amazon sought an exemption for a vacant Whole Foods site on Market Street.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/food-accessibility/amazon-interferes-with-san-francisco-s-attempt-at-grocery-revival",
+      "first_reported": "2026-07-11",
+      "status": "new"
+    },
+    {
+      "name": "Daymon / U.S. private brands",
+      "action": "Food Business News summarized Daymon's Summer 2026 Private Brand Intelligence Report: 95% of consumers buy private labels, 69% buy them on most or every shopping trip, and frozen foods tied salty snacks as the top category where shoppers are open to trying new private-label products at 59%.",
+      "category": "pricing",
+      "relevance_score": 9,
+      "source_url": "https://www.foodbusinessnews.net/articles/30589-consumers-seek-out-private-brands",
+      "first_reported": "2026-07-11",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Value pressure is tightening while private brands keep gaining permission to compete in frozen",
+      "direction": "up",
+      "magnitude": "Three current signals: Giant Eagle cut prices on 300+ items, Daymon found 59% openness to trying new private-label frozen foods, and San Francisco's stalled grocery-access measure shows how retail real-estate decisions remain politically visible.",
+      "context": "For Real Dough, the practical read is that premium frozen pizza needs clear value proof and retailer-fit discipline, not just quality claims. Private-label frozen acceptance is rising, and grocers are using price, access and store-positioning levers to defend shopper loyalty.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30589-consumers-seek-out-private-brands",
+      "first_reported": "2026-07-11",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Giant Eagle summer price-cut scope",
+      "value": "More than 300 frequently purchased items reduced by an average of 10% through Labor Day",
+      "change": "Builds on a prior seasonal pricing campaign that Giant Eagle said engaged nearly 2 million households.",
+      "source_url": "https://www.grocerydive.com/news/giant-eagle-temporarily-lowers-prices-on-300-items/824899/"
+    },
+    {
+      "metric": "Private-label frozen trial openness",
+      "value": "59% of consumers are open to trying new or different private-label frozen foods",
+      "change": "Daymon reported frozen foods tied salty snacks as the highest-interest category for private-brand trial.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30589-consumers-seek-out-private-brands"
+    },
+    {
+      "metric": "Private-label shopping penetration",
+      "value": "95% of consumers buy private labels; 69% buy them on most or every shopping trip",
+      "change": "Daymon's Summer 2026 report shows store brands are now routine purchases rather than occasional trade-downs.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30589-consumers-seek-out-private-brands"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Giant Eagle temporarily lowers prices on 300 items",
+      "impact": "Regional grocers are leaning into visible, time-bound value campaigns. Premium frozen brands should expect buyers to ask how the product justifies shelf price while shoppers are primed for savings.",
+      "source_url": "https://www.grocerydive.com/news/giant-eagle-temporarily-lowers-prices-on-300-items/824899/",
+      "first_reported": "2026-07-11"
+    },
+    {
+      "headline": "Amazon interferes with San Francisco's attempt at grocery revival",
+      "impact": "Grocery access and vacant-store policy are becoming part of the retail operating environment, which can affect where premium food brands find viable neighborhood freezer doors.",
+      "source_url": "https://www.supermarketnews.com/food-accessibility/amazon-interferes-with-san-francisco-s-attempt-at-grocery-revival",
+      "first_reported": "2026-07-11"
+    },
+    {
+      "headline": "Consumers seek out private brands",
+      "impact": "Private-label pressure is now directly relevant to frozen: shoppers are highly willing to try retailer-owned frozen products, raising the bar for branded differentiation and velocity.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30589-consumers-seek-out-private-brands",
+      "first_reported": "2026-07-11"
+    }
+  ]
+}
