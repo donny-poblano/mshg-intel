@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-12",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "General Mills",
+      "action": "Progressive Grocer reported that General Mills is launching a global transformation program aimed at faster innovation, more packaging flexibility, stronger omnichannel execution and better consumer value. The company said its supply chain was built for a different time and is targeting at least $750 million in fiscal 2027 savings while redesigning end-to-end processes around agility and profitable growth.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/general-mills-overhaul-supply-chain-built-different-time",
+      "first_reported": "2026-07-12",
+      "status": "new"
+    },
+    {
+      "name": "U.S. online grocery retailers / rapid delivery platforms",
+      "action": "Grocery Dive reported Coresight Research findings that rapid grocery delivery has become a mainstream fulfillment option: 37.9% of surveyed online grocery shoppers used same-day or under-two-hour delivery for most, almost all or all of their digital grocery shopping in the last year. Coresight advised retailers to position rapid delivery as a full-basket shopping option, not just an emergency trip replacement.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/rapid-delivery-usage-grows-coresight-research/824773/",
+      "first_reported": "2026-07-12",
+      "status": "new"
+    },
+    {
+      "name": "Stop & Shop",
+      "action": "Progressive Grocer reported Stop & Shop launched a four-week Dollar Deals summer event running July 10 through Aug. 16, with hundreds of items priced at or under $1 across nearly every aisle and shoppable both in store and online. The chain also tied the push to a free 1.5-quart Stop & Shop brand ice cream offer around National Ice Cream Day.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/stop-shop-launches-1-deals-hundreds-items",
+      "first_reported": "2026-07-12",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Grocery competition is tightening around value, speed and operational agility",
+      "direction": "up",
+      "magnitude": "Three current signals: General Mills is rebuilding supply-chain and innovation processes for agility, Coresight says 37.9% of online grocery shoppers now use rapid delivery for most or nearly all digital grocery trips, and Stop & Shop is running a broad $1-or-less summer promotion.",
+      "context": "For Real Dough, premium frozen pizza needs to fit a retail environment where buyers are asking for faster execution, stronger omnichannel readiness and clear value communication. Product quality still matters, but channel fit and promo discipline are becoming harder to separate from the product story.",
+      "source_url": "https://progressivegrocer.com/general-mills-overhaul-supply-chain-built-different-time",
+      "first_reported": "2026-07-12",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "General Mills transformation savings target",
+      "value": "At least $750 million in total savings targeted for fiscal 2027",
+      "change": "The program is intended to improve supply-chain agility, packaging flexibility, innovation, brand communication, omnichannel execution and consumer value.",
+      "source_url": "https://progressivegrocer.com/general-mills-overhaul-supply-chain-built-different-time"
+    },
+    {
+      "metric": "Rapid grocery delivery usage",
+      "value": "37.9% of surveyed online grocery shoppers used rapid delivery for most, almost all or all online grocery shopping in the past year",
+      "change": "Coresight said rapid delivery should now be treated as a mainstream full-basket grocery option.",
+      "source_url": "https://www.grocerydive.com/news/rapid-delivery-usage-grows-coresight-research/824773/"
+    },
+    {
+      "metric": "Stop & Shop Dollar Deals timing and scope",
+      "value": "Hundreds of items at or under $1 from July 10 through Aug. 16",
+      "change": "The chain is pairing in-store and online value merchandising with a free private-label ice cream offer around National Ice Cream Day.",
+      "source_url": "https://progressivegrocer.com/stop-shop-launches-1-deals-hundreds-items"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "General Mills to Overhaul Supply Chain 'Built for a Different Time'",
+      "impact": "Large CPGs are reorganizing around faster innovation, flexible packaging and value execution; smaller premium brands should expect buyers to compare not only product quality but operational readiness.",
+      "source_url": "https://progressivegrocer.com/general-mills-overhaul-supply-chain-built-different-time",
+      "first_reported": "2026-07-12"
+    },
+    {
+      "headline": "Rapid delivery cements itself as a ‘mainstream’ grocery option, report says",
+      "impact": "Freezer brands increasingly need digital shelf accuracy and rapid-fulfillment compatibility because online grocery is becoming a routine full-basket channel, not a side case.",
+      "source_url": "https://www.grocerydive.com/news/rapid-delivery-usage-grows-coresight-research/824773/",
+      "first_reported": "2026-07-12"
+    },
+    {
+      "headline": "Stop & Shop Launches $1 Deals on Hundreds of Items",
+      "impact": "Regional grocers are widening explicit value campaigns across nearly every aisle, increasing pressure on premium frozen products to justify price and promo participation during seasonal shopping periods.",
+      "source_url": "https://progressivegrocer.com/stop-shop-launches-1-deals-hundreds-items",
+      "first_reported": "2026-07-12"
+    }
+  ]
+}
