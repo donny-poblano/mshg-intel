@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-13",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Dairy, deli and bakery suppliers at IDDBA 2026",
+      "action": "Progressive Grocer reported that IDDBA 2026 suppliers are leaning into premium and permissible indulgence, including brioche and sourdough replacing standard breads in sandwiches and burgers, while also pushing global flavors, texture, color, grab-and-go formats, protein, fiber and clean sourcing.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/iddba-2026-trends-reshaping-dairy-deli-and-bakery-aisle",
+      "first_reported": "2026-07-13",
+      "status": "new"
+    },
+    {
+      "name": "Campbell's",
+      "action": "Progressive Grocer highlighted Campbell's Protein Soups, a five-SKU line with 20 grams of protein and 5 to 13 grams of fiber per 16.1-ounce can. The soups are available on Amazon and rolling out nationwide at a suggested $3.19, extending protein-and-fiber positioning into mainstream comfort food.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/campbells-protein-soups",
+      "first_reported": "2026-07-13",
+      "status": "new"
+    },
+    {
+      "name": "U.S. food retailers",
+      "action": "Grocery Dive reported FMI findings that 68% of food retailers surveyed in February 2026 use artificial intelligence, up from 47% in 2025. Retailers allocated nearly 2% of sales to technology spending in 2025, double the prior year, and 71% expect to spend more on technology in 2026.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/grocers-artificial-intelligence-technology-spending-fmi/824777/",
+      "first_reported": "2026-07-13",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium food cues are converging with function, convenience and data readiness",
+      "direction": "up",
+      "magnitude": "Three current signals: IDDBA suppliers are elevating bakery and deli with sourdough, brioche, global flavors and protein; Campbell's is taking 20g-protein comfort soup national; and FMI says retailer AI adoption rose to 68% from 47% in one year.",
+      "context": "For Real Dough, the relevant bar is broader than artisan crust. Premium frozen pizza needs clear ingredient and process cues, functional or portion-aware value where credible, and product data that is ready for retailer systems, online grocery and AI-assisted shopping paths.",
+      "source_url": "https://progressivegrocer.com/iddba-2026-trends-reshaping-dairy-deli-and-bakery-aisle",
+      "first_reported": "2026-07-13",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Consumer willingness to trade up for premium food",
+      "value": "92% of consumers said they are willing to spend a little more under the right circumstances",
+      "change": "Progressive Grocer cited 210 Analytics data from IDDBA 2026, with brand loyalty, special occasions and holidays among the leading reasons to trade up.",
+      "source_url": "https://progressivegrocer.com/iddba-2026-trends-reshaping-dairy-deli-and-bakery-aisle"
+    },
+    {
+      "metric": "Campbell's Protein Soup nutrition and price point",
+      "value": "20g protein and 5g to 13g fiber per 16.1-ounce can; suggested retail price $3.19",
+      "change": "The five-variety line is available on Amazon and rolling out at retailers nationwide.",
+      "source_url": "https://progressivegrocer.com/campbells-protein-soups"
+    },
+    {
+      "metric": "Food retailer AI adoption",
+      "value": "68% of surveyed food retailers used AI in early 2026, versus 47% in 2025",
+      "change": "FMI also found average technology spending reached nearly 2% of total sales in 2025, double 2024, and 71% of retailers expect higher tech spending in 2026.",
+      "source_url": "https://www.grocerydive.com/news/grocers-artificial-intelligence-technology-spending-fmi/824777/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "IDDBA 2026: Trends Reshaping the Dairy, Deli and Bakery Aisle",
+      "impact": "Retailer-facing premium cues are shifting toward sourdough, brioche, global flavors, grab-and-go convenience, protein, fiber and clean sourcing rather than indulgence alone.",
+      "source_url": "https://progressivegrocer.com/iddba-2026-trends-reshaping-dairy-deli-and-bakery-aisle",
+      "first_reported": "2026-07-13"
+    },
+    {
+      "headline": "Campbell’s Protein Soups",
+      "impact": "A mainstream CPG brand is putting protein and fiber into familiar comfort-food formats, reinforcing that functional claims are moving into conventional center-store meals.",
+      "source_url": "https://progressivegrocer.com/campbells-protein-soups",
+      "first_reported": "2026-07-13"
+    },
+    {
+      "headline": "Grocers are quickly embracing AI, research shows",
+      "impact": "Retailer technology investment is accelerating, making clean product data, digital shelf accuracy and AI-readable merchandising more important for emerging food brands.",
+      "source_url": "https://www.grocerydive.com/news/grocers-artificial-intelligence-technology-spending-fmi/824777/",
+      "first_reported": "2026-07-13"
+    }
+  ]
+}
