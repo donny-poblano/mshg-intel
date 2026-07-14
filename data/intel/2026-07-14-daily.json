@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-14",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "U.S. food and beverage CPG market",
+      "action": "Supermarket News reported Circana Compass findings that U.S. retail food and beverage grew 2.2% in the first half of 2026, with flat volume and 2.3% price/mix growth. Circana expects volume to remain flat through the rest of 2026 and projects 2027 growth to settle into a 2% to 3% range as shoppers optimize spending.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/food-beverage-sales-to-return-to-pre-pandemic-levels",
+      "first_reported": "2026-07-14",
+      "status": "new"
+    },
+    {
+      "name": "Everyday household goods / grocery shoppers",
+      "action": "Supermarket News reported Numerator's June 2026 Consumer Goods Price Index: everyday household purchase prices rose 0.70% in June after gains of 0.51% in May and 0.44% in April, leaving prices up 3.4% versus a year ago. Numerator said low-income and Gen Z consumers continue to experience higher cumulative inflation than the national average.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/three-straight-months-of-rising-costs-for-everyday-household-goods-numerator",
+      "first_reported": "2026-07-14",
+      "status": "new"
+    },
+    {
+      "name": "UNFI",
+      "action": "Grocery Dive reported United Natural Foods is reshuffling its C-suite, promoting Giorgio Matteo Tarditi to president and chief operating officer, naming Alfredo Luchini CFO and keeping Louis Martin focused on chief commercial officer duties. The changes take effect in early August and are tied to UNFI's value creation strategy across supplier, customer, supply-chain and technology work.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/unfi-cfo-chief-operating-officer-chief-commercial-officer-executive-changes-distributor-wholesaler/824813/",
+      "first_reported": "2026-07-14",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Retail food growth is becoming more selective while operating partners reorganize",
+      "direction": "up",
+      "magnitude": "Circana says first-half 2026 retail food and beverage growth was 2.2% with flat volume; Numerator says everyday goods prices rose for a third straight month and are up 3.4% YoY; UNFI is reorganizing senior leadership around value creation, operations, supplier and customer work.",
+      "context": "For Real Dough, the near-term retail environment rewards products that can defend premium pricing with a clear role in the freezer set, reliable economics and clean execution through distributors and retailer systems. Price sensitivity is rising, but buyers are still looking for differentiated items that fit disciplined assortment logic.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/food-beverage-sales-to-return-to-pre-pandemic-levels",
+      "first_reported": "2026-07-14",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "U.S. retail food and beverage first-half 2026 growth",
+      "value": "2.2% dollar growth; flat volume growth",
+      "change": "Circana said price/mix grew 2.3%, with packaged food price/mix up 3.7% and fresh food price/mix up 0.4% versus a year ago.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/food-beverage-sales-to-return-to-pre-pandemic-levels"
+    },
+    {
+      "metric": "Everyday household goods inflation",
+      "value": "+3.4% year over year in June 2026",
+      "change": "Numerator reported sequential monthly increases of 0.44% in April, 0.51% in May and 0.70% in June.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/three-straight-months-of-rising-costs-for-everyday-household-goods-numerator"
+    },
+    {
+      "metric": "UNFI leadership change timing",
+      "value": "New president/COO, CFO and CCO role changes effective in early August 2026",
+      "change": "UNFI said the structure is meant to align leadership with its next phase of value creation, including product sales, enterprise customer relationships, supply chain, technology and lean implementation.",
+      "source_url": "https://www.grocerydive.com/news/unfi-cfo-chief-operating-officer-chief-commercial-officer-executive-changes-distributor-wholesaler/824813/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Food, beverage sales to return to pre-pandemic levels",
+      "impact": "Flat volumes and normalized 2% to 3% growth expectations raise the bar for premium frozen products to show why they deserve shelf space beyond broad category tailwinds.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/food-beverage-sales-to-return-to-pre-pandemic-levels",
+      "first_reported": "2026-07-14"
+    },
+    {
+      "headline": "Three straight months of rising costs for everyday household goods: Numerator",
+      "impact": "Shoppers remain price-sensitive, especially lower-income and younger consumers, so premium pizza needs clear value framing alongside ingredient and process differentiation.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/three-straight-months-of-rising-costs-for-everyday-household-goods-numerator",
+      "first_reported": "2026-07-14"
+    },
+    {
+      "headline": "UNFI names new COO as it shakes up C-suite",
+      "impact": "A major natural and specialty distributor is reorganizing around operations, supplier relationships and customer execution; emerging brands should watch for changes in onboarding, service expectations and category priorities.",
+      "source_url": "https://www.grocerydive.com/news/unfi-cfo-chief-operating-officer-chief-commercial-officer-executive-changes-distributor-wholesaler/824813/",
+      "first_reported": "2026-07-14"
+    }
+  ]
+}
