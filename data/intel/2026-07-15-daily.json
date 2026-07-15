@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-15",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "H-E-B / Joe V's Smart Shop",
+      "action": "Progressive Grocer reported that H-E-B's Joe V's Smart Shop will add two 57,000-square-foot Houston-area stores near City Park and Humble in 2027. The locations will be the first Joe V's stores to carry H-E-B's South Flo pizza, prepared in-house daily and sold as a quick grab-and-go option.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/h-e-b-brings-south-flo-pizza-upcoming-joe-vs-smart-shops-houston",
+      "first_reported": "2026-07-15",
+      "status": "new"
+    },
+    {
+      "name": "Raybern's",
+      "action": "Progressive Grocer highlighted Raybern's new frozen sliders line: Cheeseburger Smashed Sliders, Birria Sliders and Ham & Swiss Sliders. The 9.6-ounce four-packs are launching nationally at Walmart at a suggested $4.68, alongside Raybern's existing Philly Cheesesteak sandwich.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/rayberns-frozen-sliders",
+      "first_reported": "2026-07-15",
+      "status": "new"
+    },
+    {
+      "name": "DoorDash / Shopify",
+      "action": "Progressive Grocer reported that DoorDash is now a native sales channel in Shopify's App Store, letting U.S. brick-and-mortar Shopify merchants add product catalogs to DoorDash without separate onboarding or manual catalog uploads. DoorDash said setup time can move from weeks to days and inventory stays synced automatically.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/doordash-adds-shopify-integration-connect-independent-retailers-demand-delivery",
+      "first_reported": "2026-07-15",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Prepared pizza, frozen handhelds and local delivery are moving toward convenience-led retail execution",
+      "direction": "up",
+      "magnitude": "Three current signals: H-E-B is adding in-house South Flo pizza to Joe V's discount stores; Raybern's is taking frozen sliders national at Walmart at $4.68 per four-pack; DoorDash is reducing onboarding friction for independent Shopify retailers with synced same-day marketplace catalogs.",
+      "context": "For Real Dough, retail differentiation has to work beyond product quality: buyers are seeing more meal-solution competition from in-store prepared pizza, frozen handheld formats and faster digital distribution paths for local retailers.",
+      "source_url": "https://progressivegrocer.com/h-e-b-brings-south-flo-pizza-upcoming-joe-vs-smart-shops-houston",
+      "first_reported": "2026-07-15",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Joe V's Smart Shop planned Houston-area expansion",
+      "value": "2 new 57,000-square-foot stores opening in 2027; each expected to employ more than 200 workers",
+      "change": "The new stores will be the first Joe V's Smart Shops to sell H-E-B's South Flo pizza as an in-house daily prepared grab-and-go option.",
+      "source_url": "https://progressivegrocer.com/h-e-b-brings-south-flo-pizza-upcoming-joe-vs-smart-shops-houston"
+    },
+    {
+      "metric": "Raybern's frozen sliders launch",
+      "value": "3 varieties; 9g protein each; 9.60-ounce four-pack suggested at $4.68",
+      "change": "The line is launching at Walmart stores nationwide and expands Raybern's deli-style frozen sandwich platform into smaller meal and snack formats.",
+      "source_url": "https://progressivegrocer.com/rayberns-frozen-sliders"
+    },
+    {
+      "metric": "DoorDash-Shopify retail integration",
+      "value": "Native Shopify sales channel for U.S. merchants with brick-and-mortar presence",
+      "change": "DoorDash says self-serve onboarding can reduce setup from weeks to days while product and inventory data stay automatically synced.",
+      "source_url": "https://progressivegrocer.com/doordash-adds-shopify-integration-connect-independent-retailers-demand-delivery"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "H-E-B Brings South Flo Pizza to Upcoming Joe V's Smart Shops in Houston",
+      "impact": "A major Texas retailer is extending a prepared pizza concept into its discount banner, increasing meal-solution competition in value-oriented grocery trips.",
+      "source_url": "https://progressivegrocer.com/h-e-b-brings-south-flo-pizza-upcoming-joe-vs-smart-shops-houston",
+      "first_reported": "2026-07-15"
+    },
+    {
+      "headline": "Raybern's Frozen Sliders",
+      "impact": "Frozen handheld meals are gaining another national Walmart-backed format at a sub-$5 price point, adding freezer competition around quick meals and shareable snacks.",
+      "source_url": "https://progressivegrocer.com/rayberns-frozen-sliders",
+      "first_reported": "2026-07-15"
+    },
+    {
+      "headline": "DoorDash Adds Shopify Integration to Connect Independent Retailers With On-Demand Delivery",
+      "impact": "Independent retailers can more easily make grocery and specialty food catalogs available for same-day delivery, raising digital-shelf and fulfillment expectations for smaller brands and stores.",
+      "source_url": "https://progressivegrocer.com/doordash-adds-shopify-integration-connect-independent-retailers-demand-delivery",
+      "first_reported": "2026-07-15"
+    }
+  ]
+}
