@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-16",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Walmart / General Mills / ADM",
+      "action": "Progressive Grocer reported that Walmart, General Mills and ADM are expanding regenerative agriculture practices across 40,000 wheat acres in Illinois, Indiana and Missouri. The program targets wheat-growing regions where General Mills sources from ADM for products sold through Walmart and Sam's Club, with farmer technical assistance and financial incentives tied to soil health, water quality and carbon sequestration practices.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/walmart-teams-general-mills-adm-regenerative-agriculture-initiative",
+      "first_reported": "2026-07-16",
+      "status": "new"
+    },
+    {
+      "name": "Mass retailers vs. traditional grocers",
+      "action": "Progressive Grocer reported Coresight findings that back-to-school shoppers are shifting more spend to mass retailers: Walmart is expected to capture 59% of BTS shoppers, Target 39% and Amazon 38%, while supermarket retailers fell to 22.4% from 31.2% last year. The report cited fewer trips, one-stop shopping and trade-down behavior as consumers respond to inflation.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/shoppers-choose-mass-retailers-over-traditional-grocers-bts-supplies-report",
+      "first_reported": "2026-07-16",
+      "status": "new"
+    },
+    {
+      "name": "Sweet Loren's",
+      "action": "Progressive Grocer highlighted Sweet Loren's expansion beyond refrigerated cookie dough into ready-to-bake Oatmeal Bars and Scones. The products bake in 15 minutes, are gluten-free, dairy-free and free from the top nine allergens, and are rolling out nationally at Target, Wegmans, Harris Teeter, Whole Foods Market and other retailers at a suggested $6.59.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/sweet-lorens-ready-bake-oatmeal-bars-and-scones",
+      "first_reported": "2026-07-16",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Grocery and bakery competition is tightening around supply-chain provenance, value-driven channel choice and at-home bakery convenience",
+      "direction": "up",
+      "magnitude": "Three current signals: 40,000 regenerative wheat acres linked to Walmart/General Mills/ADM; supermarket BTS shopping share down to 22.4% from 31.2%; Sweet Loren's refrigerated ready-to-bake breakfast products rolling out nationally at $6.59.",
+      "context": "For Real Dough, buyers are seeing more pressure to prove ingredient sourcing, defend against mass-retail trip consolidation and compete with refrigerated dough brands that sell warm, bakery-style convenience at home.",
+      "source_url": "https://progressivegrocer.com/walmart-teams-general-mills-adm-regenerative-agriculture-initiative",
+      "first_reported": "2026-07-16",
+      "status": "new"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Walmart/General Mills/ADM regenerative wheat acreage",
+      "value": "40,000 wheat acres in Illinois, Indiana and Missouri",
+      "change": "Part of Walmart and General Mills' 2023 commitment to advance regenerative agriculture across 600,000 shared acres by 2030; programs already cover more than 560,000 U.S. wheat acres.",
+      "source_url": "https://progressivegrocer.com/walmart-teams-general-mills-adm-regenerative-agriculture-initiative"
+    },
+    {
+      "metric": "Back-to-school channel shift away from supermarkets",
+      "value": "Supermarket retailers expected to draw 22.4% of BTS shoppers in 2026, down from 31.2% in 2025",
+      "change": "Walmart is expected to capture 59% of BTS shoppers, with 48.8% of gas-cost-sensitive shoppers saying they will consolidate purchases at one-stop retailers such as Walmart, Target or Amazon.",
+      "source_url": "https://progressivegrocer.com/shoppers-choose-mass-retailers-over-traditional-grocers-bts-supplies-report"
+    },
+    {
+      "metric": "Sweet Loren's ready-to-bake breakfast launch",
+      "value": "$6.59 suggested retail; 15-minute bake time; Target, Wegmans, Harris Teeter, Whole Foods Market and other national retailers",
+      "change": "The brand is extending from refrigerated cookie dough into breakfast bars and scones while refreshing portfolio packaging with clearer claims and stronger brand blocking.",
+      "source_url": "https://progressivegrocer.com/sweet-lorens-ready-bake-oatmeal-bars-and-scones"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Walmart Teams With General Mills, ADM on Regenerative Agriculture Initiative",
+      "impact": "A large retailer and major CPG supplier are making wheat sourcing more visible, which raises the bar for provenance and resilience claims in dough- and grain-based categories.",
+      "source_url": "https://progressivegrocer.com/walmart-teams-general-mills-adm-regenerative-agriculture-initiative",
+      "first_reported": "2026-07-16"
+    },
+    {
+      "headline": "Shoppers Choose Mass Retailers Over Traditional Grocers for BTS Supplies: Report",
+      "impact": "Trip consolidation and trade-down behavior are shifting seasonal shopping toward mass retail, reinforcing the need for premium frozen and artisan products to justify basket space beyond traditional grocery trips.",
+      "source_url": "https://progressivegrocer.com/shoppers-choose-mass-retailers-over-traditional-grocers-bts-supplies-report",
+      "first_reported": "2026-07-16"
+    },
+    {
+      "headline": "Sweet Loren's Ready-to-Bake Oatmeal Bars and Scones",
+      "impact": "A leading natural refrigerated dough brand is extending bakery-style convenience into breakfast across national retailers, adding adjacent competition around warm-at-home premium dough occasions.",
+      "source_url": "https://progressivegrocer.com/sweet-lorens-ready-bake-oatmeal-bars-and-scones",
+      "first_reported": "2026-07-16"
+    }
+  ]
+}
