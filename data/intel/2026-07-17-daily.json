@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-17",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "U.S. grocery retail",
+      "action": "Supermarket News reported Bain and NielsenIQ findings that U.S. grocery units fell 1.8% year over year in June after dropping about 2% in most months since February. Bain said 80% of Americans are trying to cut spending, with grocery retailers now competing in a share game where value, promotions and private brands matter more.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/grocery-unit-sales-reach-a-low-point-report",
+      "first_reported": "2026-07-17",
+      "status": "new"
+    },
+    {
+      "name": "U.S. grocers and frozen aisle",
+      "action": "Grocery Dive reported that June Circana data showed shoppers reduced fresh produce purchases while buying more frozen fruits and vegetables; fresh produce prices rose nearly 5% year over year while frozen fruits and vegetables rose 2%. The signal is that value pressure is pushing some demand toward frozen formats.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/grocery-inflation-energy-costs-supermarkets/825357/",
+      "first_reported": "2026-07-17",
+      "status": "new"
+    },
+    {
+      "name": "Wakefern Food Corp.",
+      "action": "Supermarket News reported that Wakefern will remove synthetic dyes and additional ingredients from Bowl & Basket food and beverage products by January 2027 across banners including ShopRite, Price Rite Marketplace and The Fresh Grocer. The move extends clean-label pressure deeper into mainstream private label.",
+      "category": "private_label",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/company-news/wakefern-will-eliminate-synthetic-dyes-from-bowl-basket-products",
+      "first_reported": "2026-07-17",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Value-led grocery volume contraction",
+      "direction": "up",
+      "magnitude": "U.S. grocery units down 1.8% YoY in June",
+      "context": "Shoppers are buying fewer items and trading down, making velocity, credible value and private-brand pressure more important for premium frozen and CPG brands.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/grocery-unit-sales-reach-a-low-point-report"
+    },
+    {
+      "topic": "Frozen as a trade-down format",
+      "direction": "up",
+      "magnitude": "Fresh produce prices +~5% YoY vs. frozen fruits/vegetables +2% YoY",
+      "context": "Inflation is creating relative price advantage for freezer items, which can help frozen-food traffic but also raises scrutiny on price/value at shelf.",
+      "source_url": "https://www.grocerydive.com/news/grocery-inflation-energy-costs-supermarkets/825357/"
+    },
+    {
+      "topic": "Clean-label private label",
+      "direction": "up",
+      "magnitude": "Bowl & Basket synthetic dye removal targeted by January 2027",
+      "context": "Retailer-owned brands are using ingredient standards to close the trust gap with national and premium brands.",
+      "source_url": "https://www.supermarketnews.com/company-news/wakefern-will-eliminate-synthetic-dyes-from-bowl-basket-products"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "U.S. grocery unit sales",
+      "value": "Down 1.8% year over year in June 2026",
+      "change": "Nearly two-percentage-point deterioration in one year",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/grocery-unit-sales-reach-a-low-point-report"
+    },
+    {
+      "metric": "Frozen vs. fresh produce price movement",
+      "value": "Fresh produce +~5% YoY; frozen fruits and vegetables +2% YoY",
+      "change": "June 2026 Circana data cited by Grocery Dive",
+      "source_url": "https://www.grocerydive.com/news/grocery-inflation-energy-costs-supermarkets/825357/"
+    },
+    {
+      "metric": "Wakefern private-label clean-label deadline",
+      "value": "Synthetic dyes and additional ingredients removed from Bowl & Basket by January 2027",
+      "change": null,
+      "source_url": "https://www.supermarketnews.com/company-news/wakefern-will-eliminate-synthetic-dyes-from-bowl-basket-products"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Grocery unit sales reach a low point: report",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/grocery-unit-sales-reach-a-low-point-report"
+    },
+    {
+      "headline": "Number Sense: Grocers are facing a new reality when it comes to inflation",
+      "source_url": "https://www.grocerydive.com/news/grocery-inflation-energy-costs-supermarkets/825357/"
+    },
+    {
+      "headline": "Wakefern will eliminate synthetic dyes from Bowl & Basket products",
+      "source_url": "https://www.supermarketnews.com/company-news/wakefern-will-eliminate-synthetic-dyes-from-bowl-basket-products"
+    }
+  ]
+}
