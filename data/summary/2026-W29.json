@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-17",
+  "week": "2026-W29",
+  "headline": "No current owned-performance read; this week’s clear signal is value pressure in frozen and grocery: units are down, private label is improving, and buyers will reward proof on price, clean label, digital shelf, and execution.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Current-week market intel is complete for 2026-07-11 through 2026-07-17, giving a usable external read for category and retail planning.",
+        "Frozen has a defensive opening: June Circana data cited by Grocery Dive shows fresh produce prices up nearly 5% YoY versus frozen fruits/vegetables up 2%, supporting freezer traffic under value pressure.",
+        "Real Dough’s strongest supportable messages still fit the market: sourdough/process proof, recognizable ingredients, Wisconsin origin, easy family dinner, and retailer-specific availability."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Owned paid/social analytics are not currently wired into this repo. Do not use obsolete Whatagraph exports or stale Analyst files as current Real Dough performance evidence.",
+        "Value pressure intensified: Bain/NielsenIQ reported U.S. grocery units down 1.8% YoY in June and 80% of Americans trying to cut spending; Daymon reported 59% of consumers open to trying private-label frozen foods.",
+        "Private label is closing the trust gap: Wakefern will remove synthetic dyes and other ingredients from Bowl & Basket by January 2027, while 95% of consumers now buy private labels and 69% buy them on most or every trip.",
+        "Retail execution bar is rising: food retailer AI adoption reached 68%, rapid delivery is mainstream for 37.9% of online grocery shoppers, and DoorDash/Shopify catalog sync cuts independent-retailer onboarding from weeks to days.",
+        "Meal-solution competition is broadening: H-E-B is adding South Flo pizza to Joe V’s discount stores, Raybern’s frozen sliders are launching at Walmart at $4.68, and Sweet Loren’s ready-to-bake products are rolling out nationally at $6.59."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "REPORTING: Wire the current Real Dough paid/social analytics source into the repo; keep weekly KPI, creative, audience, and channel claims out of the summary until that is fixed.",
+        "SALES: Update buyer materials for a value-led shelf conversation: unit velocity goals, premium justification, private-label defense, promo guardrails, and proof that Real Dough earns freezer space when units are contracting.",
+        "AGENCY: Build the next content cycle around proof, not adjectives: sourdough fermentation, clean/recognizable ingredients, Wisconsin origin, quick family dinner, where-to-buy, and why it beats trade-down options.",
+        "DIGITAL SHELF: Audit retailer listings, imagery, item data, claims, search terms, and availability copy so Real Dough is ready for AI-assisted retail systems, rapid delivery, and marketplace catalog sync.",
+        "QA/OPS: Keep ingredient, sourcing, allergen, traceability, and frozen supply-chain documentation buyer-ready as clean-label private label raises the category standard."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The supportable message this week is proof-led value: sourdough fermentation, recognizable ingredients, Wisconsin origin, family dinner utility, and clear where-to-buy execution. Frozen formats may benefit from shopper trade-down pressure, but only if the premium is justified simply.",
+    "what_didnt": "There is no current owned-channel performance read in the repo. Do not cite current Meta, Google, Instagram, Facebook, TikTok, YouTube, review, or operations movement from this dataset. Obsolete Whatagraph files are intentionally excluded from evidence.",
+    "recommendation": "Shift creative and retail copy toward a defensible trade-up story: Real Dough is not cheap frozen pizza, so explain why the sourdough/process, ingredients, taste, and family-dinner convenience are worth the shelf price. Pair every brand proof point with practical shopping cues: retailer, freezer aisle, online listing, and meal occasion.",
+    "competitive_context": "The week’s external read is harsher than last week: grocery units are down, 80% of shoppers are trying to cut spending, private-label frozen trial openness is high, and retailers are cleaning up private-label ingredient standards. At the same time, prepared pizza, frozen handhelds, and ready-to-bake dough brands are adding convenient meal options at sharp price points. Real Dough’s lane is still viable, but it has to be proven through velocity, clean-label credibility, digital-shelf readiness, and clear value defense."
+  },
+  "data_quality": {
+    "missing": [
+      "No current Real Dough paid/social analytics source is wired into this repo for 2026-W29; current KPI movement, channel performance, and creative performance are unavailable.",
+      "No usable Real Dough review/customer sentiment feed. data/reviews.json contains place-not-found errors for Merriment Social, Third Coast Provisions, Flourchild Pizza, and The Loon Room, not Real Dough review data.",
+      "No current Real Dough operations or retail execution feed. data/operations/ only contains snapshots from 2026-03-27, 2026-03-29, 2026-04-04, and 2026-04-05."
+    ],
+    "stale": [
+      "Latest available Analyst file is data/analysis/2026-06-19.json and is not a current-week read; it was not used for current performance claims.",
+      "Latest available operations data is more than three months old relative to 2026-07-17."
+    ],
+    "anomalies": [
+      "data/reviews.json appears configured for other restaurant entities rather than Real Dough.",
+      "Whatagraph files are obsolete/decommissioned for Real Dough and were intentionally excluded as source evidence; their age is not treated as a freshness bug.",
+      "Current-week intel is external market/category evidence only; it does not prove Real Dough sales, ad, social, review, or operations movement."
+    ]
+  }
+}
