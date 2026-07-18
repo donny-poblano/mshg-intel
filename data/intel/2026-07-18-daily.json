@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-18",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Frozen pizza category / Circana",
+      "action": "Supermarket News reported Circana MULO+ data showing U.S. grocery unit sales down 1.1% in June 2026 while dollar sales rose 1.4%. Frozen meals fell 2.2% in units, frozen pizza dropped 3.3%, frozen breakfast fell 2.8% and frozen side dishes fell 4.7%. For Real Dough, the signal is that the frozen pizza set is still under unit pressure even as shoppers trade selectively across frozen, so premium items need a clear velocity case.",
+      "category": "pricing",
+      "relevance_score": 9,
+      "source_url": "https://www.supermarketnews.com/grocery-categories/grocery-unit-sales-show-mixed-results-in-june",
+      "first_reported": "2026-07-18",
+      "status": "new"
+    },
+    {
+      "name": "Target / Walmart / Amazon Prime Day retail events",
+      "action": "Progressive Grocer reported Placer.ai findings that Amazon's June 23-26 Prime Day event lifted traffic at competing mass retailers, with Target traffic up 16.3% versus the year-to-date weekday average on day one and Walmart up 4.7%. The signal for Real Dough is that deal events are now cross-channel traffic drivers for grocery and essentials, making event-based promotional readiness more important for freezer brands.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/amazons-prime-day-sales-event-buoyed-traffic-target-walmart-report",
+      "first_reported": "2026-07-18",
+      "status": "new"
+    },
+    {
+      "name": "New Jersey grocery pricing regulation",
+      "action": "Progressive Grocer reported that New Jersey legislators passed the Fair Price Protection Act, which would ban grocery stores and third-party grocery delivery platforms from using AI and consumer surveillance data to charge different shoppers different prices for the same items and would place a moratorium on electronic shelf labels in grocery stores. The signal is that pricing technology and loyalty-data use are becoming regulatory issues, not just retailer operating choices.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/new-jersey-passes-bill-banning-surveillance-pricing-pausing-esls-grocery-stores",
+      "first_reported": "2026-07-18",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza unit pressure",
+      "direction": "down",
+      "magnitude": "Frozen pizza units -3.3% in June 2026",
+      "context": "Circana data cited by Supermarket News shows frozen pizza underperforming total grocery unit movement, increasing the importance of retail velocity, price architecture and clear reasons to trade up.",
+      "source_url": "https://www.supermarketnews.com/grocery-categories/grocery-unit-sales-show-mixed-results-in-june"
+    },
+    {
+      "topic": "Deal-event grocery traffic",
+      "direction": "up",
+      "magnitude": "Target +16.3% and Walmart +4.7% traffic versus weekday average on Prime Day day one",
+      "context": "Mass retailers captured extra trips during Amazon's deal window, showing that broad promotional events can pull grocery and essentials traffic across banners.",
+      "source_url": "https://progressivegrocer.com/amazons-prime-day-sales-event-buoyed-traffic-target-walmart-report"
+    },
+    {
+      "topic": "Scrutiny of AI pricing and electronic shelf labels",
+      "direction": "up",
+      "magnitude": "New Jersey bill passed; governor expected to sign",
+      "context": "State-level action against surveillance pricing and ESLs could shape how retailers deploy personalized offers, dynamic pricing tools and loyalty-data monetization.",
+      "source_url": "https://progressivegrocer.com/new-jersey-passes-bill-banning-surveillance-pricing-pausing-esls-grocery-stores"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "June 2026 U.S. grocery unit and dollar movement",
+      "value": "Units -1.1%; dollar sales +1.4%",
+      "change": "Frozen pizza units -3.3%",
+      "source_url": "https://www.supermarketnews.com/grocery-categories/grocery-unit-sales-show-mixed-results-in-june"
+    },
+    {
+      "metric": "Prime Day competitor traffic lift",
+      "value": "Target +16.3%; Walmart +4.7% versus year-to-date weekday average on June 23",
+      "change": "Target +10.3% year over year on day one",
+      "source_url": "https://progressivegrocer.com/amazons-prime-day-sales-event-buoyed-traffic-target-walmart-report"
+    },
+    {
+      "metric": "New Jersey grocery pricing-tech legislation",
+      "value": "Fair Price Protection Act passed legislature; would ban surveillance pricing and pause grocery ESLs",
+      "change": "65% poll support cited for banning the technology in grocery stores",
+      "source_url": "https://progressivegrocer.com/new-jersey-passes-bill-banning-surveillance-pricing-pausing-esls-grocery-stores"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Grocery unit sales show mixed results in June",
+      "source_url": "https://www.supermarketnews.com/grocery-categories/grocery-unit-sales-show-mixed-results-in-june"
+    },
+    {
+      "headline": "Amazon's Prime Day Sales Event Buoyed Traffic at Target, Walmart: Report",
+      "source_url": "https://progressivegrocer.com/amazons-prime-day-sales-event-buoyed-traffic-target-walmart-report"
+    },
+    {
+      "headline": "New Jersey Passes Bill Banning Surveillance Pricing, Pausing ESLs in Grocery Stores",
+      "source_url": "https://progressivegrocer.com/new-jersey-passes-bill-banning-surveillance-pricing-pausing-esls-grocery-stores"
+    }
+  ]
+}
