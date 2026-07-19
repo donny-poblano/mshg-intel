@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-19",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Conagra Brands",
+      "action": "New CEO John Brase said Conagra is preparing portfolio-simplification moves, SKU reductions and possible brand divestitures after FY2026 net sales of $11.3B; he specifically cited underinvestment in on-trend snacks and frozen offerings.",
+      "category": "strategy",
+      "relevance_score": 8,
+      "source_url": "https://www.fooddive.com/news/conagra-ceo-sales-snacking-inflation-slimjim-smucker/825313/",
+      "first_reported": "2026-07-19",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "GLP-1 shoppers reshaping grocery baskets",
+      "direction": "up",
+      "magnitude": "23% of U.S. households now using GLP-1 medications; projected to represent 35% of food and beverage units sold by 2030",
+      "context": "Progressive Grocer reported that GLP-1 adoption is already changing basket composition toward protein, fiber and healthy fats and away from high-carbohydrate and high-sugar products, with retail and CPG leaders organizing around assortment and innovation implications.",
+      "source_url": "https://progressivegrocer.com/ensembleiq-launches-1st-its-kind-glp-1-shopper-summit"
+    },
+    {
+      "topic": "Grocer price-cut programs becoming a core traffic strategy",
+      "direction": "up",
+      "magnitude": "Multiple recent programs, including Giant Eagle averaging 10% cuts on 300 items and Walmart cutting prices on staples such as ground beef, produce and snacks",
+      "context": "Grocery Dive reported that retailers are making visible price investments, loyalty and promotions a top priority as shoppers remain pressured by gas prices and food inflation; premium frozen and artisan items need a clearer value/velocity case in this environment.",
+      "source_url": "https://www.grocerydive.com/news/grocery-price-investments-promotions-supermarkets/825271/"
+    }
+  ],
+  "market_data": [],
+  "breaking": []
+}
