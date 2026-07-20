@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-20",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Walmart",
+      "action": "Walmart is extending value messaging into back-to-school grocery, keeping its lunch basket under $2 per lunch, adding a grocery-focused college basket under $35, and running more than 1,300 additional rollbacks versus last year. The signal for Real Dough is that mass retail is anchoring seasonal traffic with explicit food-value bundles, raising pressure on premium freezer brands to show affordable-meal logic, not only quality cues.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/walmarts-touts-low-pricing-back-to-school-assortment/825532/",
+      "first_reported": "2026-07-20",
+      "status": "new"
+    },
+    {
+      "name": "Instacart / Arpalus",
+      "action": "Instacart acquired Arpalus, an AI shelf-scanning startup whose computer-vision system lets workers record store-level product availability by smartphone and identifies items with 95% average accuracy. For Real Dough, the retailer-facing signal is that digital shelf accuracy and in-stock visibility are becoming more measurable at item level, making operational reliability a larger part of the freezer sales story.",
+      "category": "technology",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/instacart-acquires-arpalus-ai-inventory-computer-vision-ecommerce/825494/",
+      "first_reported": "2026-07-20",
+      "status": "new"
+    },
+    {
+      "name": "General Mills",
+      "action": "General Mills said it is increasing innovation and renovation across major North America Retail brands after fiscal 2026 net sales fell 5% to $18.42B and NAR sales dropped 11% to $10.57B. Management called out protein, fiber, clean label, bold flavors and fun/indulgent products as priority demand spaces, while noting Totino's was one of two businesses that drove outsized fiscal-year pressure.",
+      "category": "strategy",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/30621-general-mills-prioritizing-functional-experiential-innovation",
+      "first_reported": "2026-07-20",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Seasonal grocery value bundles",
+      "direction": "up",
+      "magnitude": "Walmart lunch basket under $2 per lunch; college grocery basket under $35; 1,300+ more rollbacks than last year",
+      "context": "Mass retailers are using food baskets and rollbacks to pull seasonal trips, which can make premium frozen products work harder to justify price within family and student meal planning.",
+      "source_url": "https://www.grocerydive.com/news/walmarts-touts-low-pricing-back-to-school-assortment/825532/"
+    },
+    {
+      "topic": "Real-time shelf intelligence",
+      "direction": "up",
+      "magnitude": "Arpalus system identifies shelf items with 95% average accuracy; Instacart workers visit large-format retail locations more than 15 times per day on average",
+      "context": "As grocery platforms connect shelf scanning, fulfillment data and smart-cart imagery, out-of-stock and availability performance may become more visible to retailers and suppliers.",
+      "source_url": "https://www.grocerydive.com/news/instacart-acquires-arpalus-ai-inventory-computer-vision-ecommerce/825494/"
+    },
+    {
+      "topic": "Functional and experiential CPG renovation",
+      "direction": "up",
+      "magnitude": "General Mills cited protein, fiber, clean label, bold flavors and indulgence as demand spaces worth hundreds of billions in retail sales",
+      "context": "Large CPG players are rebuilding growth plans around benefit-led and experience-led product claims, including in meal and snack adjacencies that influence freezer expectations.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30621-general-mills-prioritizing-functional-experiential-innovation"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Walmart back-to-school food value basket",
+      "value": "Average cost under $2 per lunch; grocery-focused college basket under $35",
+      "change": "More than 1,300 additional rollbacks versus last year",
+      "source_url": "https://www.grocerydive.com/news/walmarts-touts-low-pricing-back-to-school-assortment/825532/"
+    },
+    {
+      "metric": "Instacart shelf-scanning capability",
+      "value": "Arpalus computer-vision item identification averages 95% accuracy",
+      "change": "Instacart plans to combine Arpalus data with shopper-collected in-store availability data and Caper Cart imagery",
+      "source_url": "https://www.grocerydive.com/news/instacart-acquires-arpalus-ai-inventory-computer-vision-ecommerce/825494/"
+    },
+    {
+      "metric": "General Mills fiscal 2026 sales pressure",
+      "value": "Company net sales down 5% to $18.42B; North America Retail net sales down 11% to $10.57B",
+      "change": "Totino's identified as one of two businesses causing outsized fiscal-year pressure; Annie's Super Mac retail sales grew over 80%",
+      "source_url": "https://www.foodbusinessnews.net/articles/30621-general-mills-prioritizing-functional-experiential-innovation"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Walmart touts some of its lowest back-to-school pricing since 2019",
+      "source_url": "https://www.grocerydive.com/news/walmarts-touts-low-pricing-back-to-school-assortment/825532/"
+    },
+    {
+      "headline": "Instacart acquires shelf-scanning technology startup",
+      "source_url": "https://www.grocerydive.com/news/instacart-acquires-arpalus-ai-inventory-computer-vision-ecommerce/825494/"
+    },
+    {
+      "headline": "General Mills prioritizing functional, experiential innovation",
+      "source_url": "https://www.foodbusinessnews.net/articles/30621-general-mills-prioritizing-functional-experiential-innovation"
+    }
+  ]
+}
