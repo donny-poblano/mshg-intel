@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-21",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "LDWW / grocery AI platforms",
+      "action": "Progressive Grocer reported LDWW survey findings that 70% of U.S. shoppers already use AI to shop for products and services, 71% expect to use it more, and 30% have used AI to purchase products or services. The signal for Real Dough is that brand facts, claims and product availability need to be legible to AI-assisted shopping paths, not only to in-store shoppers.",
+      "category": "technology",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/70-us-shoppers-already-use-ai-shop-and-plan-use-it-more-report",
+      "first_reported": "2026-07-21",
+      "status": "new"
+    },
+    {
+      "name": "IFIC / packaged food brands",
+      "action": "Food Business News reported that IFIC's 2026 Food & Health Survey found consumer familiarity with ultra-processed foods rose to 52%, up from 44% last year and 32% two years ago. Ingredient lists and Nutrition Facts panels are the top ways shoppers judge whether a food is ultra-processed, increasing pressure on packaged-food brands to make processing and ingredient cues clear.",
+      "category": "strategy",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/30695-consumers-developing-their-own-definition-of-ultra-processed",
+      "first_reported": "2026-07-21",
+      "status": "new"
+    },
+    {
+      "name": "FGF Brands / Metro Première Moisson",
+      "action": "Food Business News reported that FGF Brands plans to acquire Metro's Première Moisson wholesale bakery for C$90 million while Metro keeps the brand, 25 Quebec retail bakeries and in-store artisanal production. FGF will bake and distribute Première Moisson products for retail stores, using its scale across breads, flatbreads, pizza crusts, sourdough and other bakery formats.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.foodbusinessnews.net/articles/30694-fgf-to-acquire-premiere-moisson-wholesale-bakery",
+      "first_reported": "2026-07-21",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "AI-mediated grocery shopping",
+      "direction": "up",
+      "magnitude": "70% of U.S. shoppers already use AI to shop; 71% expect to increase use",
+      "context": "AI tools are becoming part of product discovery and decision-making, so item data, claims and source citations matter more for grocery brands.",
+      "source_url": "https://progressivegrocer.com/70-us-shoppers-already-use-ai-shop-and-plan-use-it-more-report"
+    },
+    {
+      "topic": "Consumer scrutiny of processing level",
+      "direction": "up",
+      "magnitude": "52% familiar with ultra-processed food, up from 44% last year and 32% two years ago",
+      "context": "Shoppers are using ingredient lists and nutrition panels to define processing for themselves, which favors clear ingredient and process narratives over vague better-for-you language.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30695-consumers-developing-their-own-definition-of-ultra-processed"
+    },
+    {
+      "topic": "Scaled artisan bakery manufacturing",
+      "direction": "up",
+      "magnitude": "C$90 million planned sale of Première Moisson wholesale bakery to FGF Brands",
+      "context": "Retailers and bakery manufacturers are separating artisan brand equity from scaled manufacturing, including in sourdough, flatbread and pizza-crust-adjacent formats.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30694-fgf-to-acquire-premiere-moisson-wholesale-bakery"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "AI influence on shopping decisions",
+      "value": "Nearly two-thirds of U.S. shoppers said AI influenced a recent purchase or decision",
+      "change": "30% have used AI to purchase products or services",
+      "source_url": "https://progressivegrocer.com/70-us-shoppers-already-use-ai-shop-and-plan-use-it-more-report"
+    },
+    {
+      "metric": "Ultra-processed food familiarity",
+      "value": "52% of consumers familiar with the term ultra-processed food",
+      "change": "Up from 44% last year and 32% two years ago",
+      "source_url": "https://www.foodbusinessnews.net/articles/30695-consumers-developing-their-own-definition-of-ultra-processed"
+    },
+    {
+      "metric": "Première Moisson wholesale bakery transaction",
+      "value": "FGF Brands agreed to acquire the Baie-D'Urfé commercial production plant for C$90 million ($64.2 million)",
+      "change": "Expected to close in Metro's fiscal Q4 ending Sept. 26, 2026",
+      "source_url": "https://www.foodbusinessnews.net/articles/30694-fgf-to-acquire-premiere-moisson-wholesale-bakery"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "70% of U.S. Shoppers Already Use AI to Shop and Plan to Use It More: Report",
+      "source_url": "https://progressivegrocer.com/70-us-shoppers-already-use-ai-shop-and-plan-use-it-more-report"
+    },
+    {
+      "headline": "Consumers developing their own definition of ultra processed",
+      "source_url": "https://www.foodbusinessnews.net/articles/30695-consumers-developing-their-own-definition-of-ultra-processed"
+    },
+    {
+      "headline": "FGF to acquire Première Moisson wholesale bakery",
+      "source_url": "https://www.foodbusinessnews.net/articles/30694-fgf-to-acquire-premiere-moisson-wholesale-bakery"
+    }
+  ]
+}
