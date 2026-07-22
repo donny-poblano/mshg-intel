@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-22",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "General Mills / Totino's",
+      "action": "Food Business News reported that General Mills launched Totino's Blasted Pizza Rolls nationwide. The line adds seasoned crusts in garlic Parmesan, spicy nacho and chili-lime profiles, extending a major frozen pizza-snack brand into bolder flavor and texture cues.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://www.foodbusinessnews.net/articles/30704-general-mills-launches-blasted-pizza-rolls",
+      "first_reported": "2026-07-22",
+      "status": "new"
+    },
+    {
+      "name": "Wakefern / Wholesome Pantry",
+      "action": "Progressive Grocer reported Wakefern is rolling out refreshed Wholesome Pantry Organic and free-from packaging across frozen, grocery, produce, meat and dairy items. The redesign highlights clean ingredients, everyday value and shelf navigation, while the line remains free from 233 ingredients including artificial preservatives, colors, flavors and sweeteners.",
+      "category": "private_label",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/wakefern-updating-wholesome-pantry-packaging",
+      "first_reported": "2026-07-22",
+      "status": "new"
+    },
+    {
+      "name": "Schnucks Springboard",
+      "action": "Progressive Grocer reported Schnucks selected 10 Midwest CPG makers for the third class of its Springboard Emerging Business Accelerator. Participants receive business development support, $5,000 in equity-free funding and, if they clear food safety and certification hurdles, a spring 2027 trial at select Schnucks stores.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/schnucks-adds-10-midwest-makers-springboard-accelerators-3rd-class",
+      "first_reported": "2026-07-22",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza snacks using bolder seasoning systems",
+      "direction": "up",
+      "magnitude": "Three Totino's Blasted Pizza Rolls varieties launched nationwide",
+      "context": "Large frozen-pizza-adjacent brands are adding exterior seasoning and sharper flavor cues, raising the flavor-intensity bar in the freezer aisle.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30704-general-mills-launches-blasted-pizza-rolls"
+    },
+    {
+      "topic": "Private-label clean-ingredient shelf communication",
+      "direction": "up",
+      "magnitude": "Wakefern is updating Wholesome Pantry packaging across multiple categories by year-end",
+      "context": "Retailers are making own-brand ingredient standards and value cues more visible at shelf, including in frozen and grocery categories.",
+      "source_url": "https://progressivegrocer.com/wakefern-updating-wholesome-pantry-packaging"
+    },
+    {
+      "topic": "Regional grocers incubating small CPG brands",
+      "direction": "up",
+      "magnitude": "10 Midwest makers selected for Schnucks' third Springboard cohort",
+      "context": "Midwest grocers are using accelerator programs to source differentiated local brands while testing retail readiness before broader placement.",
+      "source_url": "https://progressivegrocer.com/schnucks-adds-10-midwest-makers-springboard-accelerators-3rd-class"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Totino's Blasted Pizza Rolls launch scope",
+      "value": "Three varieties: garlic Parmesan, nacho boom and zesty limon",
+      "change": "Available at retailers nationwide",
+      "source_url": "https://www.foodbusinessnews.net/articles/30704-general-mills-launches-blasted-pizza-rolls"
+    },
+    {
+      "metric": "Wholesome Pantry ingredient exclusion standard",
+      "value": "Free from 233 ingredients, including artificial preservatives, colors, flavors and sweeteners",
+      "change": "Modernized packaging rolling out to select items now and full line by year-end",
+      "source_url": "https://progressivegrocer.com/wakefern-updating-wholesome-pantry-packaging"
+    },
+    {
+      "metric": "Schnucks Springboard cohort support",
+      "value": "10 selected Midwest CPG businesses receive $5,000 each in equity-free funding",
+      "change": "Qualified products may enter select-store trials in spring 2027",
+      "source_url": "https://progressivegrocer.com/schnucks-adds-10-midwest-makers-springboard-accelerators-3rd-class"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "General Mills launches ‘blasted’ pizza rolls",
+      "source_url": "https://www.foodbusinessnews.net/articles/30704-general-mills-launches-blasted-pizza-rolls"
+    },
+    {
+      "headline": "Wakefern Updating Wholesome Pantry Packaging",
+      "source_url": "https://progressivegrocer.com/wakefern-updating-wholesome-pantry-packaging"
+    },
+    {
+      "headline": "Schnucks Adds 10 Midwest Makers to Springboard Accelerator’s 3rd Class",
+      "source_url": "https://progressivegrocer.com/schnucks-adds-10-midwest-makers-springboard-accelerators-3rd-class"
+    }
+  ]
+}
