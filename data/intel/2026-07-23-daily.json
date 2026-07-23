@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-23",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Walmart / Bettergoods",
+      "action": "Allrecipes reported Walmart's Bettergoods private brand added five frozen pizza offerings: four single-serve wood-fired crust pizzas and one full-size ultra-thin Butter Chicken pizza. The move extends Walmart's premium private-label frozen pizza set into bolder global and single-serve formats.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://www.allrecipes.com/bettergoods-new-frozen-pizzas-july-2026-12021632",
+      "first_reported": "2026-07-23",
+      "status": "new"
+    },
+    {
+      "name": "Albertsons Own Brands",
+      "action": "Progressive Grocer reported Albertsons' Own Brands generated $16.9 billion in fiscal 2025 retail sales across more than 14,000 exclusive products and 2,244 stores. Albertsons is using 19 company-owned manufacturing facilities to move faster in private-label frozen and beverage innovation, including limited-time flavor launches.",
+      "category": "private_label",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/albertsons-own-brands-inside-169b-private-label-business-fueling-its-frozen-and-beverage-push",
+      "first_reported": "2026-07-23",
+      "status": "new"
+    },
+    {
+      "name": "Amazon / Whole Foods Market",
+      "action": "Progressive Grocer reported Numerator Q2 2026 data showing Amazon and Whole Foods are 0.1 CPG share points behind Costco for the No. 2 U.S. CPG retailer position. Amazon and Whole Foods added 1.0 CPG share point year over year, representing more than $16 billion in spending, and posted the steepest food-and-beverage share gain among tracked retailers.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/amazon-closes-costco-2nd-largest-cpg-retailer",
+      "first_reported": "2026-07-23",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium private-label frozen pizza formats",
+      "direction": "up",
+      "magnitude": "Walmart Bettergoods added five frozen pizza SKUs, including four single-serve wood-fired varieties",
+      "context": "Mass retailers are using private label to test restaurant-style crusts, global flavors and smaller eating occasions in frozen pizza.",
+      "source_url": "https://www.allrecipes.com/bettergoods-new-frozen-pizzas-july-2026-12021632"
+    },
+    {
+      "topic": "Retailer-controlled CPG manufacturing",
+      "direction": "up",
+      "magnitude": "Albertsons Own Brands: $16.9B fiscal 2025 retail sales; 19 company-owned manufacturing facilities",
+      "context": "Large grocers are using private-label scale and vertical integration to speed flavor and format innovation, increasing pressure on emerging brands to justify differentiated shelf space.",
+      "source_url": "https://progressivegrocer.com/albertsons-own-brands-inside-169b-private-label-business-fueling-its-frozen-and-beverage-push"
+    },
+    {
+      "topic": "Amazon's share of CPG and food-and-beverage spending",
+      "direction": "up",
+      "magnitude": "+1.0 CPG share point year over year for Amazon plus Whole Foods; more than $16B in added spending",
+      "context": "CPG discovery and replenishment are shifting further into Amazon's ecosystem, making marketplace readiness and digital availability more relevant for grocery brands.",
+      "source_url": "https://progressivegrocer.com/amazon-closes-costco-2nd-largest-cpg-retailer"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Bettergoods frozen pizza launch count",
+      "value": "Five new offerings: four single-serve wood-fired pizzas plus one full-size Butter Chicken ultra-thin pizza",
+      "change": "New spotted at Walmart in July 2026",
+      "source_url": "https://www.allrecipes.com/bettergoods-new-frozen-pizzas-july-2026-12021632"
+    },
+    {
+      "metric": "Albertsons Own Brands fiscal 2025 scale",
+      "value": "$16.9B in retail sales across more than 14,000 exclusive products",
+      "change": "Own Brands supported by 19 company-owned manufacturing facilities",
+      "source_url": "https://progressivegrocer.com/albertsons-own-brands-inside-169b-private-label-business-fueling-its-frozen-and-beverage-push"
+    },
+    {
+      "metric": "Amazon and Whole Foods CPG share gain",
+      "value": "+1.0 share point year over year, worth more than $16B in spending",
+      "change": "Now 0.1 CPG share points behind Costco for No. 2 among U.S. CPG retailers tracked by Numerator",
+      "source_url": "https://progressivegrocer.com/amazon-closes-costco-2nd-largest-cpg-retailer"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "This ‘Better Than Takeout’ Frozen Pizza Line Just Added 5 New Offerings",
+      "source_url": "https://www.allrecipes.com/bettergoods-new-frozen-pizzas-july-2026-12021632"
+    },
+    {
+      "headline": "Albertsons Own Brands: Inside the $16.9B Private-Label Business Fueling Its Frozen and Beverage Push",
+      "source_url": "https://progressivegrocer.com/albertsons-own-brands-inside-169b-private-label-business-fueling-its-frozen-and-beverage-push"
+    },
+    {
+      "headline": "Amazon Closes in on Costco as 2nd-Largest CPG Retailer",
+      "source_url": "https://progressivegrocer.com/amazon-closes-costco-2nd-largest-cpg-retailer"
+    }
+  ]
+}
