@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-24",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kroger / Private Selection",
+      "action": "Supermarket News reported Kroger expanded its Private Selection line with more than 20 prepared-meal items spanning frozen entrees, refrigerated deli meals and roasted chicken. Examples include Korean-inspired beef bulgogi, ready-to-cook chicken parmesan, Italian-imported gnocchi alla sorrentina and Chinese-inspired mandarin orange chicken.",
+      "category": "private_label",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/private-label/kroger-expands-private-label-brand-with-more-than-20-new-meals",
+      "first_reported": "2026-07-24",
+      "status": "new"
+    },
+    {
+      "name": "UNFI Brands+",
+      "action": "Supermarket News reported UNFI is debuting nearly 50 new private-label products across Essential Everyday, Woodstock and other Brands+ lines, including Woodstock frozen fruit bars, chocolate-dipped fruit bites, frozen breakfast bowls and sandwiches, and frozen protein waffles. UNFI said its private brands program exceeds 4,400 SKUs and is being positioned for renewed innovation.",
+      "category": "private_label",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/private-label/unfi-unveils-dozens-of-new-private-label-items",
+      "first_reported": "2026-07-24",
+      "status": "new"
+    },
+    {
+      "name": "Grocery retailers and CPG manufacturers",
+      "action": "Retail Brew reported Bain/NielsenIQ analysis showing U.S. grocery unit sales down nearly 2% year over year in most months from February through June, with June down 1.8%. Bain said 80% of consumers are trying to spend less, 28% are cutting grocery spend, and retailers need a credible value story built around assortment, promotion and private label rather than broad price cuts alone.",
+      "category": "pricing",
+      "relevance_score": 9,
+      "source_url": "https://www.retailbrew.com/stories/grocery-unit-sales-sink-for-five-straight-months",
+      "first_reported": "2026-07-24",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Prepared-meal private label",
+      "direction": "up",
+      "magnitude": "Kroger added 20+ Private Selection meals across frozen entrees, deli meals and roasted chicken",
+      "context": "Major grocers are extending premium private label from center-store and freezer SKUs into complete meal solutions, tightening competition for any frozen brand positioned as an easy dinner trade-down from restaurants.",
+      "source_url": "https://www.supermarketnews.com/private-label/kroger-expands-private-label-brand-with-more-than-20-new-meals"
+    },
+    {
+      "topic": "Wholesale-led private-label frozen innovation",
+      "direction": "up",
+      "magnitude": "UNFI is debuting nearly 50 new private-label products; Brands+ spans 4,400+ SKUs",
+      "context": "Distributor-owned brands are adding frozen and better-for-you items that can reach independent and natural-channel retailers, increasing store-brand competition outside the largest national chains.",
+      "source_url": "https://www.supermarketnews.com/private-label/unfi-unveils-dozens-of-new-private-label-items"
+    },
+    {
+      "topic": "Grocery unit pressure and value seeking",
+      "direction": "down",
+      "magnitude": "U.S. grocery units down nearly 2% YoY in most months from February through June; June down 1.8%",
+      "context": "Unit softness raises the bar for premium frozen products: retailers will need velocity confidence, a clear value story and promotion discipline before adding or expanding slower-turning specialty items.",
+      "source_url": "https://www.retailbrew.com/stories/grocery-unit-sales-sink-for-five-straight-months"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Kroger Private Selection meal expansion",
+      "value": "More than 20 new meals",
+      "change": "Expansion spans frozen entrees, refrigerated deli meals and roasted chicken",
+      "source_url": "https://www.supermarketnews.com/private-label/kroger-expands-private-label-brand-with-more-than-20-new-meals"
+    },
+    {
+      "metric": "UNFI Brands+ innovation count",
+      "value": "Nearly 50 new private-label products; more than 4,400 SKUs across eight core brands",
+      "change": "New frozen examples include fruit bars, chocolate-dipped fruit bites, breakfast bowls, sandwiches and protein waffles",
+      "source_url": "https://www.supermarketnews.com/private-label/unfi-unveils-dozens-of-new-private-label-items"
+    },
+    {
+      "metric": "U.S. grocery unit sales trend",
+      "value": "Nearly -2% YoY in most months from February through June 2026; June -1.8%",
+      "change": "80% of consumers say they are trying to spend less; 28% are cutting grocery spend",
+      "source_url": "https://www.retailbrew.com/stories/grocery-unit-sales-sink-for-five-straight-months"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Kroger expands private-label brand with more than 20 new meals",
+      "source_url": "https://www.supermarketnews.com/private-label/kroger-expands-private-label-brand-with-more-than-20-new-meals"
+    },
+    {
+      "headline": "UNFI unveils dozens of new private-label items",
+      "source_url": "https://www.supermarketnews.com/private-label/unfi-unveils-dozens-of-new-private-label-items"
+    },
+    {
+      "headline": "Grocery unit sales sink for five straight months",
+      "source_url": "https://www.retailbrew.com/stories/grocery-unit-sales-sink-for-five-straight-months"
+    }
+  ]
+}
