@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-24",
+  "week": "2026-W30",
+  "headline": "No current owned-performance read; week-to-date market intel says premium frozen has to defend value, private label is accelerating, and digital shelf accuracy is becoming retailer table stakes.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Current-week market intel is available for 2026-07-20 through 2026-07-24, giving a usable external read for category, retailer, and buyer planning.",
+        "Real Dough's strongest supportable lane still fits the market: sourdough/process proof, clean ingredient communication, Wisconsin origin, and easy family dinner utility.",
+        "Regional/emerging-brand doors remain possible: Schnucks selected 10 Midwest CPG makers for its Springboard accelerator, with qualified products eligible for select-store trials in spring 2027."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Owned paid/social analytics are not currently wired into this repo. Do not use obsolete Whatagraph exports or stale Analyst files as current Real Dough performance evidence.",
+        "Value pressure is still the top buyer objection: Walmart is advertising back-to-school lunches under $2 per lunch and 1,300+ more rollbacks than last year; Bain/NielsenIQ data cited by Retail Brew shows June grocery units down 1.8% YoY and 80% of consumers trying to spend less.",
+        "Private label moved directly into Real Dough's dinner territory: Walmart Bettergoods added five frozen pizza SKUs, Kroger added 20+ Private Selection meal items, Albertsons Own Brands is a $16.9B platform, and UNFI Brands+ is debuting nearly 50 new private-label products.",
+        "Clean-label comparison is getting sharper: IFIC reported ultra-processed-food familiarity at 52%, while Wakefern is refreshing Wholesome Pantry packaging around clean ingredients, everyday value, and 233 excluded ingredients.",
+        "Retail execution is becoming more measurable: Instacart acquired Arpalus for shelf scanning with 95% average item-identification accuracy, and shopper AI use is now reported at 70%. Item data, in-stock reliability, and claim clarity matter more."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "REPORTING: Wire the current Real Dough paid/social analytics source into the repo; keep KPI, channel, creative, and audience movement out of weekly summaries until this is fixed.",
+        "SALES: Rework buyer materials around a defensible premium-value case: why sourdough/process, ingredients, taste, and family-dinner utility earn freezer space while units are contracting.",
+        "AGENCY: Build the next content cycle around proof-led claims: ingredient-label confidence, fermentation/process, Wisconsin origin, quick dinner math, retailer availability, and why Real Dough beats private-label trade-downs.",
+        "DIGITAL SHELF: Audit retailer listings, item data, images, claims, search terms, and availability copy so Real Dough is legible to AI-assisted shopping and retailer shelf-intelligence systems.",
+        "SALES/OPS: Prepare a private-label defense sheet covering price pack architecture, promo guardrails, velocity goals, clean-label proof, and supply reliability."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The supportable message this week is proof-led value: naturally fermented sourdough, recognizable ingredients, Wisconsin origin, and an easy family dinner that still feels better than commodity frozen. Market intel supports this direction, but the repo does not contain current Real Dough owned-channel results.",
+    "what_didnt": "There is no current owned-channel performance read in the repo. Do not cite current Meta, Google, Instagram, Facebook, TikTok, YouTube, review, sales, or operations movement from this dataset. Obsolete Whatagraph files are intentionally excluded from evidence.",
+    "recommendation": "Treat private label as the main competitive frame for the next cycle. Creative should make the trade-up reason obvious in one beat: sourdough/process proof, ingredient confidence, Wisconsin credibility, dinner convenience, and where to buy. Pair brand claims with practical shopping cues and avoid generic premium language.",
+    "competitive_context": "The week-to-date external read is concentrated and consistent: Walmart is pushing explicit food-value bundles, grocery units remain down, and major retailers are expanding premium/private-label frozen, prepared meals, and clean-label packaging. Walmart Bettergoods is in frozen pizza now, Kroger and UNFI are adding frozen/prepared meal options, and Albertsons has the private-label scale to move quickly. Real Dough can still win, but only if the shelf story is tight: clear differentiation, buyer-ready velocity logic, clean-label proof, and reliable digital/in-stock execution."
+  },
+  "data_quality": {
+    "missing": [
+      "No current Real Dough paid/social analytics source is wired into this repo for 2026-W30; current KPI movement, channel performance, creative performance, and audience performance are unavailable.",
+      "No usable Real Dough review/customer sentiment feed. data/reviews.json contains place-not-found errors for Merriment Social, Third Coast Provisions, Flourchild Pizza, and The Loon Room, not Real Dough review data.",
+      "No current Real Dough operations or retail execution feed. data/operations/ only contains snapshots from 2026-03-27, 2026-03-29, 2026-04-04, and 2026-04-05.",
+      "Current ISO week is incomplete in the repo because 2026-07-25 and 2026-07-26 have not occurred yet; this summary uses available week-to-date intel through 2026-07-24."
+    ],
+    "stale": [
+      "Latest available Analyst file is data/analysis/2026-06-19.json, covering a report period ending 2026-05-12; it was not used for current performance claims.",
+      "Latest available operations data is data/operations/2026-04-05.json and is not a current Real Dough operations read."
+    ],
+    "anomalies": [
+      "data/reviews.json appears configured for other restaurant entities rather than Real Dough.",
+      "Whatagraph files are obsolete/decommissioned for Real Dough and were intentionally excluded as source evidence; their age is not treated as a freshness bug.",
+      "Current-week intel is external market/category evidence only; it does not prove Real Dough sales, ad, social, review, or operations movement."
+    ]
+  }
+}
