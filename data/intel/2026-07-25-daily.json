@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-25",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Albertsons",
+      "action": "Grocery Dive reported Albertsons is targeting lower-income shopper leakage to Walmart, Amazon and Aldi with selective price locks, personalized deals and loyalty offers after a weak quarter. CEO Susan Morris said the retailer will make price cuts surgically by market and decision area rather than broad discounting.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/albertsons-lower-income-shoppers-grocery-supermarkets/826131/",
+      "first_reported": "2026-07-25",
+      "status": "new"
+    },
+    {
+      "name": "Albertsons",
+      "action": "Supermarket News reported Albertsons launched ACI Edge, consolidating 11 divisions into four regions and centralizing center-store merchandising through Merch United. The move follows a 0.8% identical-sales decline, a lowered fiscal outlook and stated need for sharper value, fresh differentiation and faster merchandising decisions.",
+      "category": "retail_operations",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/finance/albertsons-launches-aci-edge-to-reverse-sales-decline-cuts-annual-forecast",
+      "first_reported": "2026-07-25",
+      "status": "new"
+    },
+    {
+      "name": "National Confectioners Association / GLP-1 shoppers",
+      "action": "Progressive Grocer reported NCA research showing GLP-1 users are not exiting indulgence categories; they are shifting toward smaller portions, premium products, better-for-you options, ingredient transparency and lower-sugar choices. NCA said broader economic pressure is affecting confectionery consumption more than GLP-1 medication use.",
+      "category": "consumer_behavior",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/glp-1-consumers-still-indulge-chocolate-and-candy-research",
+      "first_reported": "2026-07-25",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Targeted grocery value programs",
+      "direction": "up",
+      "magnitude": "Albertsons is using selective price locks, personalized deals and loyalty offers rather than broad price cuts",
+      "context": "Premium frozen pizza will face tighter buyer scrutiny as major grocers protect price-sensitive shoppers with surgical value programs. Real Dough needs a clear role in baskets where value is defined by meal quality, portion and repeat purchase, not only low price.",
+      "source_url": "https://www.grocerydive.com/news/albertsons-lower-income-shoppers-grocery-supermarkets/826131/"
+    },
+    {
+      "topic": "Centralized center-store merchandising",
+      "direction": "up",
+      "magnitude": "Albertsons is consolidating 11 divisions into four regions and centralizing center-store merchandising",
+      "context": "Regional nuance still matters, but large chains are moving more assortment, supplier and pricing decisions into centralized systems. Emerging frozen brands need sharper sell-in data and chain-level category logic before regional stories can scale.",
+      "source_url": "https://www.supermarketnews.com/finance/albertsons-launches-aci-edge-to-reverse-sales-decline-cuts-annual-forecast"
+    },
+    {
+      "topic": "GLP-1 intentional indulgence",
+      "direction": "up",
+      "magnitude": "GLP-1 users remain engaged with treats but favor smaller portions, premium products and better-for-you options",
+      "context": "The GLP-1 impact is not a simple retreat from indulgent foods. For Real Dough, the better response is concrete portion, quality and ingredient cues that let shoppers justify a premium pizza occasion more intentionally.",
+      "source_url": "https://progressivegrocer.com/glp-1-consumers-still-indulge-chocolate-and-candy-research"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Albertsons lower-income shopper leakage targets",
+      "value": "Walmart, Amazon and Aldi",
+      "change": "Albertsons plans targeted price locks, personalized deals and loyalty offers to reduce defection",
+      "source_url": "https://www.grocerydive.com/news/albertsons-lower-income-shoppers-grocery-supermarkets/826131/"
+    },
+    {
+      "metric": "Albertsons ACI Edge restructuring scope",
+      "value": "11 divisions consolidated into four regions",
+      "change": "Center-store merchandising centralized under Merch United after identical sales fell 0.8% in Q1",
+      "source_url": "https://www.supermarketnews.com/finance/albertsons-launches-aci-edge-to-reverse-sales-decline-cuts-annual-forecast"
+    },
+    {
+      "metric": "U.S. confectionery baseline cited by NCA",
+      "value": "Chocolate and candy consumed two to three times per week on average",
+      "change": "GLP-1 users are shifting toward intentional, smaller-format and premium indulgence rather than eliminating the category",
+      "source_url": "https://progressivegrocer.com/glp-1-consumers-still-indulge-chocolate-and-candy-research"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Albertsons looks to keep lower-income shoppers from defecting to discounters",
+      "source_url": "https://www.grocerydive.com/news/albertsons-lower-income-shoppers-grocery-supermarkets/826131/"
+    },
+    {
+      "headline": "Albertsons launches ACI Edge to reverse sales decline, cuts annual forecast",
+      "source_url": "https://www.supermarketnews.com/finance/albertsons-launches-aci-edge-to-reverse-sales-decline-cuts-annual-forecast"
+    },
+    {
+      "headline": "GLP-1 Consumers Still Indulge in Chocolate and Candy: Research",
+      "source_url": "https://progressivegrocer.com/glp-1-consumers-still-indulge-chocolate-and-candy-research"
+    }
+  ]
+}
