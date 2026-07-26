@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-26",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Associated Wholesale Grocers / Crav'n Flavor",
+      "action": "AWG Family of Brands said its Q2 2026 private-brand expansion adds 64 items, including 16 Crav'n Flavor frozen pizzas across rising, thin and stuffed-crust varieties. AWG said the items are available to member retailers now and will appear on shelves through the summer.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://awginc.com/bold-flavors-better-choices-awg-family-of-brands-unveils-q2-new-item-lineup/",
+      "first_reported": "2026-07-26",
+      "status": "new"
+    },
+    {
+      "name": "Food manufacturers / GLP-1 shoppers",
+      "action": "Food Business News reported IFT FIRST panelists saying GLP-1 adoption is pushing manufacturers to renovate familiar products around benefit stacking, especially protein and fiber, while keeping taste and smaller portions central to repeat purchase.",
+      "category": "consumer_behavior",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/30680-glp-1-users-spark-product-revamps",
+      "first_reported": "2026-07-26",
+      "status": "new"
+    },
+    {
+      "name": "U.S. grocery retailers and CPG brands",
+      "action": "Supermarket News reported Acosta Group's new Affordability Tracker showing grocery purchasing power has improved since 2023, but price scrutiny, promotion seeking and value comparison remain durable shopper behaviors after inflation.",
+      "category": "consumer_behavior",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/grocery-affordability-improves-but-inflation-has-changed-consumer-behavior-for-good",
+      "first_reported": "2026-07-26",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Co-op private-label frozen pizza breadth",
+      "direction": "up",
+      "magnitude": "AWG added 16 Crav'n Flavor frozen pizza SKUs in Q2 2026",
+      "context": "Independent and regional grocers are getting more store-brand frozen pizza options from scaled wholesalers, increasing pressure on emerging premium brands to prove velocity and distinctiveness against value-led private label.",
+      "source_url": "https://awginc.com/bold-flavors-better-choices-awg-family-of-brands-unveils-q2-new-item-lineup/"
+    },
+    {
+      "topic": "GLP-1 product renovation",
+      "direction": "up",
+      "magnitude": "Circana cited 15% of Americans now on a GLP-1 drug; Morgan Stanley projects 55M U.S. users by 2035",
+      "context": "Frozen and bakery-adjacent brands should expect more buyer attention on protein, fiber, portion size and taste credibility. Real Dough's quality cues need to coexist with a practical nutrition and serving-size story.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30680-glp-1-users-spark-product-revamps"
+    },
+    {
+      "topic": "Durable grocery value behavior",
+      "direction": "up",
+      "magnitude": "Acosta's 84-item typical stock-up trip costs more than $366, about 27% above 2020",
+      "context": "Even as purchasing power improves, shoppers are still comparing alternatives and chasing promotions. Premium frozen pizza sell-in should emphasize clear meal value, repeat purchase and promotion discipline rather than relying on category recovery alone.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/grocery-affordability-improves-but-inflation-has-changed-consumer-behavior-for-good"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "AWG Q2 2026 private-brand launch count",
+      "value": "64 new items, including 16 Crav'n Flavor frozen pizzas",
+      "change": "Private-brand frozen pizza assortment widened across rising, thin and stuffed-crust formats",
+      "source_url": "https://awginc.com/bold-flavors-better-choices-awg-family-of-brands-unveils-q2-new-item-lineup/"
+    },
+    {
+      "metric": "GLP-1 adoption cited by Food Business News",
+      "value": "15% of Americans now on a GLP-1 drug; 55M projected by 2035",
+      "change": "Manufacturers are renovating familiar products around protein, fiber and smaller portions",
+      "source_url": "https://www.foodbusinessnews.net/articles/30680-glp-1-users-spark-product-revamps"
+    },
+    {
+      "metric": "Acosta typical grocery stock-up trip",
+      "value": ">$366 for an 84-item basket",
+      "change": "Approximately 27% higher than a comparable 2020 basket; value behaviors remain elevated",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/grocery-affordability-improves-but-inflation-has-changed-consumer-behavior-for-good"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Bold Flavors, Better Choices: AWG Family of Brands Unveils Q2 New Item Lineup",
+      "source_url": "https://awginc.com/bold-flavors-better-choices-awg-family-of-brands-unveils-q2-new-item-lineup/"
+    },
+    {
+      "headline": "GLP-1 users spark product revamps",
+      "source_url": "https://www.foodbusinessnews.net/articles/30680-glp-1-users-spark-product-revamps"
+    },
+    {
+      "headline": "Grocery affordability improves but inflation has changed consumer behavior for good",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/grocery-affordability-improves-but-inflation-has-changed-consumer-behavior-for-good"
+    }
+  ]
+}
