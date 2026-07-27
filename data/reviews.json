@@ -1,18 +1,198 @@
 {
   "merriment-social": {
-    "error": "Place not found",
-    "query": "Merriment Social Milwaukee"
+    "name": "Merriment Social",
+    "placeId": "ChIJTcyxrKQZBYgR39Ydj-fWyG8",
+    "rating": 4.4,
+    "totalRatings": 903,
+    "reviews": [
+      {
+        "author": "Michael Kraig Beeck",
+        "rating": 5,
+        "text": "Friendly, courteous, and attentive staff during brunch service this past weekend. Thoroughly enjoyed their rendition of avocado toast, with a poached egg, on House sourdough. Atmosphere is certainly a vibe.",
+        "time": 1780937634,
+        "relativeTime": "a month ago",
+        "language": "en"
+      },
+      {
+        "author": "Dannise Hobson-Scott",
+        "rating": 5,
+        "text": "Forgive me if I get the name of the waitress wrong, but I believe our waitress was Ava. We didn't hear anyone say \"Welcome to Merriment,\" as we're use to in TN, but Ava made her way to our table and greeted as she her way to our table. She made us feel welcomed and answered all our questions since we were visiting Milwaukee. The food was nothing short of delicious! Everything we had tasted like it was made by someone who wants people to enjoy their food. We will definitely stop by again if we visit Milwaukee in the future! Thanks!",
+        "time": 1781851863,
+        "relativeTime": "a month ago",
+        "language": "en"
+      },
+      {
+        "author": "Becky Frankenfeld",
+        "rating": 5,
+        "text": "Really enjoyed our food and drinks here. We will be back. Loved we could make reservations on OpenTable as well.",
+        "time": 1776095509,
+        "relativeTime": "3 months ago",
+        "language": "en"
+      },
+      {
+        "author": "Meesh",
+        "rating": 4,
+        "text": "Great food and cocktails! Fun and energetic atmosphere. Friendly, quick service. I really enjoyed the whipped feta dip appetizer and the bowl options on the menu. The avocado bowl with chicken was delicious and full of flavor.",
+        "time": 1742771948,
+        "relativeTime": "a year ago",
+        "language": "en"
+      },
+      {
+        "author": "Andy Wesson",
+        "rating": 3,
+        "text": "Cute place.\nWe went during dining week. Downtown.\n\nParking was easy.  2 hours free on street.\n\nOur dessert choices were poor.  The chocolate rice crispy bar was hard as a brick and not edible, and the cheese cake was nothing special.\n\nBest dish was the roasted brussel sprouts.",
+        "time": 1780415473,
+        "relativeTime": "a month ago",
+        "language": "en"
+      }
+    ],
+    "fetchedAt": "2026-07-27T17:00:04.632Z"
   },
   "third-coast": {
-    "error": "Place not found",
-    "query": "Third Coast Provisions Milwaukee"
+    "name": "Third Coast Provisions",
+    "placeId": "ChIJy7ywKwgZBYgRZYReh5Sd9hA",
+    "rating": 4.5,
+    "totalRatings": 519,
+    "reviews": [
+      {
+        "author": "Arialis Aranda",
+        "rating": 5,
+        "text": "Stopped in for downtown dining week and had the best experience! Every single thing we ate from the downtown dining menu was delicious. We both got the lobster mac and cheese and loved it. We ordered drinks and an appetizer off the regular menu as well and those were great too! Restaurant had a nice ambiance. Food came out fast and service was super attentive even though it was busy. Make sure to stop in the Loon Room cocktail lounge in the basement, their cocktail menu is amazing and super creative. Good music and good vibes while we were there. Definitely will be back!",
+        "time": 1780253757,
+        "relativeTime": "a month ago",
+        "language": "en"
+      },
+      {
+        "author": "Pov Ai",
+        "rating": 4,
+        "text": "The host was pretty welcoming.  It was me and my partners first time. We traveled 3 hours to try this place and for the very most part didn't disappoint. The environment was clean and welcoming. Perfect lighting.  Our bartender had some decent customer service, not the best. b\nBut the food made up for everything.  We got oysters,  house fries, and the happy hour burger and it was all amazing.  From presentation to taste, definitely met my standards. Would recommend.",
+        "time": 1774375326,
+        "relativeTime": "4 months ago",
+        "language": "en"
+      },
+      {
+        "author": "A R",
+        "rating": 5,
+        "text": "Four of us went in for the Monday night special and had such a great time. The server was excellent and clearly knew his stuff. The food and drinks were delicious. Looking forward to returning!",
+        "time": 1778875191,
+        "relativeTime": "2 months ago",
+        "language": "en"
+      },
+      {
+        "author": "Eric Higginson",
+        "rating": 5,
+        "text": "Sam the owner is a great guy and our chefs made an amazing pairing of dishes and drinks for our 20th anniversary.  Can't wait to make another night of it!",
+        "time": 1780183194,
+        "relativeTime": "a month ago",
+        "language": "en"
+      },
+      {
+        "author": "Korinne Mack",
+        "rating": 2,
+        "text": "Overrated. I had been in before for a drink but decided to come in for happy hour and maybe an appetizer on the dinner menu. I got the HH specialty cocktail which was good. The shrimp cocktail was nothing to write home about (It was an \"elevated version\" of a regular shrimp cocktail. I could've taken a regular version honestly). I decided to get the potholes on the dinner menu too. Very rich but incredibly salty. Nearly inedible so I couldn't eat it.\n\nI think the thing that bothered me the most was that the bartender checked on all of the couples at the bar multiple times except for me (prior to the dinner rush so it's not like it was super busy). Basically ignored me for 45 min. Didn't say a word to me until he saw my coat on and I was standing up. Yes, I could have said something if I really wanted to but at a certain point, I'm jw how long it will take to acknowledge me. All the other couples got prompt service. I get I'm a solo diner, but I'd still like good service. Definitely won't be back. There are other seafood spots.",
+        "time": 1770827052,
+        "relativeTime": "5 months ago",
+        "language": "en"
+      }
+    ],
+    "fetchedAt": "2026-07-27T17:00:04.632Z"
   },
   "flourchild": {
-    "error": "Place not found",
-    "query": "Flourchild Pizza Milwaukee"
+    "name": "Flourchild Pizza",
+    "placeId": "ChIJzwvIMxwZBYgRuw71mYG5rsw",
+    "rating": 4.5,
+    "totalRatings": 312,
+    "reviews": [
+      {
+        "author": "Mandy K",
+        "rating": 5,
+        "text": "Atmosphere is super fun and eclectic. The non alcoholic aperol spritz was delicious and the Paloma slushie was refreshing. Mac n cheese bites were incredible with a super tasty marinara sauce. But then we got to the tavern style pizza and it was mind bendingly delicious! So glad we stopped in! I\u2019m confident we would not have found a better pizza while visiting. The tavern style is truly unlike anything we have had before in the best way.",
+        "time": 1774824414,
+        "relativeTime": "3 months ago",
+        "language": "en"
+      },
+      {
+        "author": "V Yadiki",
+        "rating": 4,
+        "text": "It is located away from the happening places in the city and there were a total of three tables  while we were there for lunch on a Saturday.\n\nThe service was better than the food. The drinks menu was pretty good.",
+        "time": 1779582682,
+        "relativeTime": "2 months ago",
+        "language": "en"
+      },
+      {
+        "author": "Nikki Kaegi",
+        "rating": 5,
+        "text": "Good drinks and pizza! Standouts were Stacy's mom and Green Machine with a ranch flight. Also loved the cheese breadsticks and Jojo fries. We were a larger group of 7 people, and we were well taken care of. Two appetizers and four pizzas were plenty for us. Good price for lots of food. Ninja turtle shot flight was also delicious and fun. Highly recommend!",
+        "time": 1783896781,
+        "relativeTime": "2 weeks ago",
+        "language": "en"
+      },
+      {
+        "author": "Jim Whitaker",
+        "rating": 2,
+        "text": "I will start with the Pros. The atmosphere was awesome! Great vibe and awesome music selection. The building was super clean including the bathrooms. Waitress and hostess were very kind. The menu had some really cool items and loved the specialty pizza ideas. The Cons! The pizza was below mid grade. The crust is extremely dry and stale tasting. Sauce lacked flavor and overall tasted like an old Pizza Hut pizza. I did enjoy the crab spring rolls  and enjoyed the spice. Overall for the price and lack of good pizza I would not recommend.",
+        "time": 1756593571,
+        "relativeTime": "11 months ago",
+        "language": "en"
+      },
+      {
+        "author": "Tasha",
+        "rating": 5,
+        "text": "Very friendly host and server. Great food recommendations! Fairly quick and tasty! Mac & cheese bites were good!",
+        "time": 1780976546,
+        "relativeTime": "a month ago",
+        "language": "en"
+      }
+    ],
+    "fetchedAt": "2026-07-27T17:00:04.632Z"
   },
   "loon-room": {
-    "error": "Place not found",
-    "query": "The Loon Room Milwaukee"
+    "name": "The Loon Room",
+    "placeId": "ChIJiwGSPgAZBYgR1xSyPNhhXNk",
+    "rating": 4.7,
+    "totalRatings": 39,
+    "reviews": [
+      {
+        "author": "Arria Chinn",
+        "rating": 5,
+        "text": "The food at the restaurant upstairs was pretty good, then the drinks downstairs were phenomenal. The speakeasy vive was truly amazing and the drinks were even better. Bartenders were friendly and not pushy, which helped make our experience over the top. Having a mixologist make your drink makes a world of a difference!",
+        "time": 1774009509,
+        "relativeTime": "4 months ago",
+        "language": "en"
+      },
+      {
+        "author": "Nick Wolf",
+        "rating": 4,
+        "text": "We were here for their Valentine's Day special. Their ambiance and service is really nice. The welcome cocktail was pretty good, maybe a little sweet but good. The charcuterie plate was a bit \"pedestrian\" and reminded us of a Lunchable with Ritz crackers, cubed cheese, and lunch meat. I'm wondering if they went over budget on this prepaid special and that's where they cut costs. The main pasta entree with sausage was delicious. However, for some reason we could not each get a different entree (there were two options), we had to get the same entree, which was not disclosed at purchase. The chocolate fondue dessert was also good. The sharing plates they used didn't fit the atmosphere and reminded me of a cafeteria or diner, but that's a minor detail if the food is good. Improve the charcuterie offering and let each person choose their entree and this would be a 5/5.",
+        "time": 1771123349,
+        "relativeTime": "5 months ago",
+        "language": "en"
+      },
+      {
+        "author": "Jessica",
+        "rating": 2,
+        "text": "I came with a large group for dinner. A friend recommended we arrive early to check out their speakeasy, so we did\u2014and it was a treat. At first glance, both the dining area and the downstairs bar are beautiful. The spaces are cozy without feeling stuffy. The drinks were great, the bartender was very friendly and on top of our drink orders, and the cocktails were uniquely and artfully presented. We were especially excited to see $2 PBRs\u2014you can\u2019t find that anywhere these days.\n\nWe had a few rounds while we waited. When we decided to close our tab and head upstairs for dinner, we noticed there were two different totals, which seemed odd. We asked the server for clarification, but she didn\u2019t even look at the check and just told us it was correct. To our surprise, we ended up closing out a $40 tab for a party of seven.\n\nOf course, that turned out to be a mistake. The manager later approached us to explain there had been an error and that our bill was actually higher\u2014which was fine in itself. What bothered me was that the bill included an automatic gratuity even though we had already tipped, and that our server hadn\u2019t taken a moment to review the check when we ASKED. There were only two other guests besides our party, so it\u2019s not like the place was slammed.\n\nDinner itself was timely, delicious, and overall very good, though the portions could have been better. All in all, we had a nice experience, but if you come here, I\u2019d recommend double- or even TRIPLE-checking your bill.",
+        "time": 1773771617,
+        "relativeTime": "4 months ago",
+        "language": "en"
+      },
+      {
+        "author": "Henry Schellhorn",
+        "rating": 5,
+        "text": "Considered a \"speakeasy\" but really just a cocktail bar underneath the restaurant. The cocktail menu is rotating. We ended up being there on a night where they had a special bottle of potato-infused gin that they were making cocktails with. All the drinks we tried were really good. Ethan is quite the bartender-he will ask what type of cocktail you like and make one custom for you. Check this place out for some unique, fun, and delicious cocktails.",
+        "time": 1734303896,
+        "relativeTime": "a year ago",
+        "language": "en"
+      },
+      {
+        "author": "J Y",
+        "rating": 5,
+        "text": "Came a few weeks ago and service was great! Unique cocktails and Mahir is very knowledgeable, personable and friendly. Food was, meh. Server was slow to put in orders and serve.\n\nLook forward to coming back for cocktail hour!",
+        "time": 1773276300,
+        "relativeTime": "4 months ago",
+        "language": "en"
+      }
+    ],
+    "fetchedAt": "2026-07-27T17:00:04.632Z"
   }
 }
