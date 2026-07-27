@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-27",
+  "type": "daily",
+  "generated_at": "2026-07-27T08:03:48-05:00",
+  "competitors": [
+    {
+      "name": "California Pizza Kitchen / Nestle",
+      "action": "CPK announced a major expansion of its consumer packaged goods business: new U.S. frozen appetizers and entrees are in development for a planned nationwide grocery rollout in early 2027, while Nestle will expand CPK frozen pizza distribution across Latin America and the Caribbean and new retail distribution is planned in Asia.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.fsrmagazine.com/industry-news/california-pizza-kitchen-announces-major-expansion-of-cpg-business/",
+      "first_reported": "2026-07-27",
+      "status": "new"
+    },
+    {
+      "name": "The Campbell's Company / Chunky",
+      "action": "Campbell's is moving Chunky into frozen meals for the first time with eight Chunky Frozen Bowls, each carrying up to 28 grams of protein and built from established soup flavors. The launch uses a known shelf-stable brand to compete in protein-led frozen meals.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.fooddive.com/news/campbells-chunky-soup-expands-into-frozen-meals/825880/",
+      "first_reported": "2026-07-27",
+      "status": "new"
+    },
+    {
+      "name": "General Mills / Pillsbury",
+      "action": "Florida's attorney general issued a civil subpoena to General Mills as part of an investigation into potassium bromate in breadmaking. The inquiry requests product, disclosure and safety documentation tied to the additive, which is banned in California and several countries.",
+      "category": "regulatory",
+      "relevance_score": 7,
+      "source_url": "https://www.fooddive.com/news/florida-ingredients-investigation-general-mills-potassium-bromate/825656/",
+      "first_reported": "2026-07-27",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen and bakery-adjacent CPG competition is shifting toward scaled brand extension, protein claims and ingredient scrutiny",
+      "direction": "up",
+      "magnitude": "Three current signals: CPK broadening premium restaurant CPG, Campbell's putting a legacy brand into protein-forward frozen meals, and Florida investigating a dough-strengthening additive used in baked goods.",
+      "context": "Real Dough's freezer-set competition is not only pizza brands. Large CPG players are using known brands to enter frozen occasions while regulators and consumers keep raising the bar on ingredient transparency in bread and dough categories.",
+      "source_url": "https://www.fooddive.com/news/campbells-chunky-soup-expands-into-frozen-meals/825880/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "CPK CPG expansion scope",
+      "value": "U.S. frozen appetizers and entrees planned for early 2027; frozen pizza expansion planned across Mexico, Central America, South America, the Caribbean and Asia",
+      "change": "Moves CPK beyond signature frozen pizzas for the first time since 1999",
+      "source_url": "https://www.fsrmagazine.com/industry-news/california-pizza-kitchen-announces-major-expansion-of-cpg-business/"
+    },
+    {
+      "metric": "Chunky Frozen Bowls launch",
+      "value": "Eight frozen bowl SKUs with up to 28g protein per item",
+      "change": "First entry of Campbell's Chunky into the frozen aisle",
+      "source_url": "https://www.fooddive.com/news/campbells-chunky-soup-expands-into-frozen-meals/825880/"
+    },
+    {
+      "metric": "Potassium bromate regulatory threshold cited by Food Dive",
+      "value": "FDA allows 0.0075 parts potassium bromate per 100 parts flour by weight",
+      "change": "Florida investigation follows California's 2027 ban and a New York bill to ban the additive",
+      "source_url": "https://www.fooddive.com/news/florida-ingredients-investigation-general-mills-potassium-bromate/825656/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "California Pizza Kitchen Announces Major Expansion of CPG Business",
+      "impact": "Premium restaurant-branded frozen pizza competitors are broadening into adjacent frozen categories and international retail, increasing competition for premium freezer space and restaurant-authenticity claims.",
+      "source_url": "https://www.fsrmagazine.com/industry-news/california-pizza-kitchen-announces-major-expansion-of-cpg-business/",
+      "first_reported": "2026-07-27"
+    },
+    {
+      "headline": "Campbell's Chunky Soup expands into frozen meals",
+      "impact": "Large center-store brands are entering frozen with protein-led claims, reinforcing protein as a practical purchase driver across convenient meal occasions.",
+      "source_url": "https://www.fooddive.com/news/campbells-chunky-soup-expands-into-frozen-meals/825880/",
+      "first_reported": "2026-07-27"
+    },
+    {
+      "headline": "General Mills subpoenaed in Florida ingredients investigation",
+      "impact": "Ingredient scrutiny around bread and dough additives is becoming a live regulatory issue, making clean dough/process transparency more valuable for artisan-positioned frozen pizza.",
+      "source_url": "https://www.fooddive.com/news/florida-ingredients-investigation-general-mills-potassium-bromate/825656/",
+      "first_reported": "2026-07-27"
+    }
+  ]
+}
