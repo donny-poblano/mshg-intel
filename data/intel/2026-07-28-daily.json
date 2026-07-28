@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-28",
+  "type": "daily",
+  "generated_at": "2026-07-28T08:00:00-05:00",
+  "competitors": [
+    {
+      "name": "Mason Dixie Foods / Costco",
+      "action": "Progressive Grocer highlighted Mason Dixie Foods' Chicken Biscuit Sandwich rollout as a Costco-exclusive frozen item in the Northeast, Bay Area and San Diego. The clean-ingredient frozen comfort-food SKU is sold in an eight-count box at a $15.99 suggested retail price and is positioned as a three-minute meal or snack with 11 grams of protein per sandwich.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/mason-dixie-chicken-biscuit-sandwich",
+      "first_reported": "2026-07-28",
+      "status": "new"
+    },
+    {
+      "name": "Dollar Tree / DoorDash",
+      "action": "Dollar Tree stores that are SNAP-eligible on DoorDash now accept SNAP/EBT payments for more than 1,000 grocery items, with delivery averaging less than an hour. DoorDash said more than 4.5 million consumers have added SNAP cards to the platform, which now includes more than 57,000 SNAP/EBT-accepting stores.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/dollar-tree-stores-accept-snapebt-payments-doordash",
+      "first_reported": "2026-07-28",
+      "status": "new"
+    },
+    {
+      "name": "Fairlife / Coca-Cola",
+      "action": "Coca-Cola said fairlife resumed the majority of production at its four U.S. facilities after a ransomware event temporarily suspended operations. The company said retail availability was largely unaffected because of existing inventory and that product quality and safety were not compromised.",
+      "category": "operations",
+      "relevance_score": 6,
+      "source_url": "https://progressivegrocer.com/majority-fairlife-operations-restored-after-cyberattack",
+      "first_reported": "2026-07-28",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen and grocery competition is being shaped by club-channel frozen innovation, value-channel delivery access and operational resilience",
+      "direction": "up",
+      "magnitude": "Three current signals: Mason Dixie added a clean-label frozen Costco item, Dollar Tree expanded SNAP/EBT grocery delivery through DoorDash, and fairlife restarted most production after a cyberattack.",
+      "context": "For Real Dough, the freezer set is not isolated from broader grocery pressures. Club retailers are still testing premium frozen convenience, value retailers are making grocery delivery more accessible, and CPG supply continuity remains a retailer trust issue.",
+      "source_url": "https://progressivegrocer.com/mason-dixie-chicken-biscuit-sandwich"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Mason Dixie Chicken Biscuit Sandwich Costco format",
+      "value": "$15.99 suggested retail for a 30.8-ounce eight-count box",
+      "change": "Exclusive rollout at Costco locations in the Northeast, Bay Area and San Diego",
+      "source_url": "https://progressivegrocer.com/mason-dixie-chicken-biscuit-sandwich"
+    },
+    {
+      "metric": "DoorDash SNAP/EBT grocery delivery scale",
+      "value": "More than 4.5 million SNAP cards added; more than 57,000 SNAP/EBT-accepting stores on platform",
+      "change": "Dollar Tree adds SNAP/EBT payment capability for more than 1,000 grocery items on DoorDash",
+      "source_url": "https://progressivegrocer.com/dollar-tree-stores-accept-snapebt-payments-doordash"
+    },
+    {
+      "metric": "fairlife production recovery",
+      "value": "Majority of production resumed across four U.S. facilities",
+      "change": "Production had been temporarily suspended after unauthorized systems access and data theft",
+      "source_url": "https://progressivegrocer.com/majority-fairlife-operations-restored-after-cyberattack"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Mason Dixie Chicken Biscuit Sandwich",
+      "impact": "Costco continues to be a launch venue for clean-label frozen convenience, creating more high-quality frozen meal competition around quick at-home occasions.",
+      "source_url": "https://progressivegrocer.com/mason-dixie-chicken-biscuit-sandwich",
+      "first_reported": "2026-07-28"
+    },
+    {
+      "headline": "Dollar Tree Stores Accept SNAP/EBT Payments via DoorDash",
+      "impact": "Value grocery is moving further into on-demand delivery, raising shopper expectations for price access and digital availability even outside traditional supermarkets.",
+      "source_url": "https://progressivegrocer.com/dollar-tree-stores-accept-snapebt-payments-doordash",
+      "first_reported": "2026-07-28"
+    },
+    {
+      "headline": "Majority of Fairlife Operations Restored After Cyberattack",
+      "impact": "Retailers and CPG brands are exposed to cyber-driven production interruptions; inventory buffers and clear quality communication are part of operational credibility.",
+      "source_url": "https://progressivegrocer.com/majority-fairlife-operations-restored-after-cyberattack",
+      "first_reported": "2026-07-28"
+    }
+  ]
+}
