@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-29",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "C&S Wholesale Grocers",
+      "action": "C&S Wholesale Grocers cut retail prices on thousands of items at Midwest banners including Family Fare, VG's Grocery, Martin's Super Markets and Piggly Wiggly. Grocery Dive reported the reductions began rolling out in May, range from 6% to 15%, and focus on items including fresh produce, meat, condiments and household staples across eight Midwestern states including Wisconsin.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/cs-price-reductions-grocery-supermarkets/826307/",
+      "first_reported": "2026-07-29",
+      "status": "new"
+    },
+    {
+      "name": "Amazon/Whole Foods, Costco, Walmart, Kroger and Albertsons",
+      "action": "Grocery Dive reported Numerator data showing Amazon and Whole Foods gained just over 0.5 grocery-share points for the 12 months ended June 30, Costco gained 0.4 points and Walmart gained 0.3 points, while Kroger fell 0.1 points and Albertsons fell 0.2 points. Numerator said a Kroger-Giant Eagle deal would move Kroger's food-and-beverage share from 8.3% to 8.7% if approved.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/kroger-albertsons-grocery-market-share-contract-numerator/826197/",
+      "first_reported": "2026-07-29",
+      "status": "new"
+    },
+    {
+      "name": "Schnuck Markets",
+      "action": "Schnuck Markets plans to launch a VitalityIP-powered agentic AI shopping assistant on its app and website later this summer. The tool will use customer and store inventory data to provide nutrition guidance, meal ideas and product recommendations tied to goals such as weight management, healthy aging, recovery and family wellness.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/schnucks-agentic-ai-shopping-assistant/825966/",
+      "first_reported": "2026-07-29",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Grocery competition moving through price investment, channel share shifts and AI-mediated shopping",
+      "direction": "up",
+      "magnitude": "3 new retailer developments reported July 23-28",
+      "context": "Midwest grocers are using targeted price reductions to defend value perception, Amazon/Whole Foods and club/mass retailers are gaining grocery share, and regional grocers are adding AI shopping tools that could influence product discovery and meal planning.",
+      "source_url": "https://www.grocerydive.com/news/cs-price-reductions-grocery-supermarkets/826307/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "C&S Midwest price reductions",
+      "value": "6% to 15% cuts on thousands of items",
+      "change": "Rolled out starting May 2026",
+      "source_url": "https://www.grocerydive.com/news/cs-price-reductions-grocery-supermarkets/826307/"
+    },
+    {
+      "metric": "12-month grocery market share movement",
+      "value": "Amazon/Whole Foods +0.6 points; Costco +0.4; Walmart +0.3; Kroger -0.1; Albertsons -0.2",
+      "change": "12 months ended June 30 versus prior year",
+      "source_url": "https://www.grocerydive.com/news/kroger-albertsons-grocery-market-share-contract-numerator/826197/"
+    },
+    {
+      "metric": "Schnucks AI shopping assistant data base",
+      "value": "More than 6 billion lines of shopping, health and nutrition data",
+      "change": "Planned app and website launch later summer 2026",
+      "source_url": "https://www.grocerydive.com/news/schnucks-agentic-ai-shopping-assistant/825966/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "C&S Wholesale Grocers cuts retail prices on 'thousands' of items",
+      "source_url": "https://www.grocerydive.com/news/cs-price-reductions-grocery-supermarkets/826307/"
+    },
+    {
+      "headline": "Kroger and Albertsons continue to see their market share contract",
+      "source_url": "https://www.grocerydive.com/news/kroger-albertsons-grocery-market-share-contract-numerator/826197/"
+    },
+    {
+      "headline": "Schnucks turns to agentic AI shopping assistant",
+      "source_url": "https://www.grocerydive.com/news/schnucks-agentic-ai-shopping-assistant/825966/"
+    }
+  ]
+}
