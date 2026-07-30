@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-30",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Conagra Brands",
+      "action": "Food Dive reported Conagra plans an incremental $125 million fiscal 2027 investment to strengthen supply-chain resilience, move more production in-house, maintain service levels and reduce inventory. Management also said it is reevaluating roughly 5,500 SKUs so each item earns its place in the portfolio.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.fooddive.com/news/conagra-to-invest-125m-in-supply-chain-resilience/826184/",
+      "first_reported": "2026-07-30",
+      "status": "new"
+    },
+    {
+      "name": "New Jersey grocery retailers",
+      "action": "Grocery Dive reported New Jersey signed the Fair Price Protection Act, banning individualized prices based on consumer data and pausing new electronic shelf label adoption for one year while the state studies the technology. Loyalty-program prices and broadly defined group discounts are excluded.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/new-jersey-bans-dynamic-pricing/826093/",
+      "first_reported": "2026-07-30",
+      "status": "new"
+    },
+    {
+      "name": "Wakefern Food Corp.",
+      "action": "Grocery Dive reported Wakefern is rolling out redesigned packaging for Wholesome Pantry Organic and Wholesome Pantry Free-From, starting with select items including frozen shrimp before expanding across produce, meat, dairy, frozen and grocery categories this summer. Wakefern plans to transition the full portfolio by the end of 2026.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/wakefern-redesigns-packaging-wholesome-pantry-brand/825823/",
+      "first_reported": "2026-07-30",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Operational simplification and private-brand clarity are becoming table stakes while price-tech scrutiny rises",
+      "direction": "up",
+      "magnitude": "3 new developments reported July 22-29",
+      "context": "Large CPGs are investing in supply resilience and SKU discipline, regulators are limiting individualized grocery pricing tools, and regional retailers are making private labels easier to identify and shop across frozen and center store.",
+      "source_url": "https://www.fooddive.com/news/conagra-to-invest-125m-in-supply-chain-resilience/826184/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Conagra incremental supply-chain investment",
+      "value": "$125 million in fiscal 2027",
+      "change": "Part of higher investment in brands and supply chain resilience",
+      "source_url": "https://www.fooddive.com/news/conagra-to-invest-125m-in-supply-chain-resilience/826184/"
+    },
+    {
+      "metric": "Conagra portfolio review scope",
+      "value": "Approximately 5,500 SKUs",
+      "change": "Management said each SKU needs to earn its keep under simplification efforts",
+      "source_url": "https://www.fooddive.com/news/conagra-to-invest-125m-in-supply-chain-resilience/826184/"
+    },
+    {
+      "metric": "Wakefern Wholesome Pantry standard",
+      "value": "Free from 233 ingredients",
+      "change": "Packaging refresh highlights attributes across organic and free-from lines",
+      "source_url": "https://www.grocerydive.com/news/wakefern-redesigns-packaging-wholesome-pantry-brand/825823/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Conagra to invest $125M in supply chain resilience",
+      "source_url": "https://www.fooddive.com/news/conagra-to-invest-125m-in-supply-chain-resilience/826184/"
+    },
+    {
+      "headline": "New Jersey bans dynamic pricing",
+      "source_url": "https://www.grocerydive.com/news/new-jersey-bans-dynamic-pricing/826093/"
+    },
+    {
+      "headline": "Wakefern redesigns packaging for Wholesome Pantry brand",
+      "source_url": "https://www.grocerydive.com/news/wakefern-redesigns-packaging-wholesome-pantry-brand/825823/"
+    }
+  ]
+}
