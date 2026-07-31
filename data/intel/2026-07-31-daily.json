@@ -1,0 +1,70 @@
+{
+  "date": "2026-07-31",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kroger",
+      "action": "Supermarket News reported Kroger released its AI Shopping Assistant across Kroger Family of Companies websites and apps. The assistant can plan weekly meals, build carts around budget and dietary needs, convert a photo or recipe URL into a cart, and make occasion-based product suggestions.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-technology/kroger-releases-ai-shopping-assistant-storewide",
+      "first_reported": "2026-07-31",
+      "status": "new"
+    },
+    {
+      "name": "Sargento Foods / La Terra Fina",
+      "action": "Progressive Grocer reported Plymouth, Wisconsin-based Sargento signed a definitive agreement to acquire La Terra Fina, a producer of premium dips, spreads and quiches. La Terra Fina has about 250 employees, and the sale is expected to close in late September; financial terms were not disclosed.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/sargento-cheese-acquire-la-terra-fina-dips",
+      "first_reported": "2026-07-31",
+      "status": "new"
+    },
+    {
+      "name": "Grocery TV / Esri",
+      "action": "Progressive Grocer reported Grocery TV added more than 3,500 behavioral and psychographic audience attributes through an Esri partnership. The in-store retail media network spans more than 6,700 stores, more than 120 retail partners and 95 million unique shoppers, and can build store lists around behaviors such as prioritizing organic food.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/grocery-tv-adds-3500-audience-attributes-through-new-partnership-esri",
+      "first_reported": "2026-07-31",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Grocery competition is moving toward AI-mediated meal planning, premium adjacent-category M&A and more granular in-store retail media",
+      "direction": "up",
+      "magnitude": "3 new developments reported July 30",
+      "context": "Retailers and CPG partners are tightening control over product discovery, basket-building and in-store audience targeting while established food brands acquire premium refrigerated platforms for growth.",
+      "source_url": "https://www.supermarketnews.com/grocery-technology/kroger-releases-ai-shopping-assistant-storewide"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Grocery TV retail media network scale",
+      "value": "More than 6,700 stores, 120 retail partners and 95 million unique shoppers",
+      "change": "Added 3,500+ Esri audience attributes for behavioral and psychographic targeting",
+      "source_url": "https://progressivegrocer.com/grocery-tv-adds-3500-audience-attributes-through-new-partnership-esri"
+    },
+    {
+      "metric": "Sargento size before La Terra Fina acquisition",
+      "value": "More than 2,500 employees and $1.7 billion in net sales",
+      "change": "Definitive agreement signed; expected close in late September 2026",
+      "source_url": "https://progressivegrocer.com/sargento-cheese-acquire-la-terra-fina-dips"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Kroger releases AI Shopping Assistant storewide",
+      "source_url": "https://www.supermarketnews.com/grocery-technology/kroger-releases-ai-shopping-assistant-storewide"
+    },
+    {
+      "headline": "Sargento Cheese to Acquire La Terra Fina Dips",
+      "source_url": "https://progressivegrocer.com/sargento-cheese-acquire-la-terra-fina-dips"
+    },
+    {
+      "headline": "Grocery TV Adds 3,500 Audience Attributes Through New Partnership With Esri",
+      "source_url": "https://progressivegrocer.com/grocery-tv-adds-3500-audience-attributes-through-new-partnership-esri"
+    }
+  ]
+}
