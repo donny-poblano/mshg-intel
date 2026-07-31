@@ -1,0 +1,55 @@
+{
+  "date": "2026-07-31",
+  "week": "2026-W31",
+  "headline": "Frozen competition is tightening around restaurant brands, protein claims and AI-led grocery discovery; Real Dough has no current paid/social analytics feed wired into this repo.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Market intel feed is current through 2026-07-31 with five daily reports for ISO week 31.",
+        "Ingredient scrutiny is moving toward Real Dough territory: Florida subpoenaed General Mills over potassium bromate while California and New York pressure additive use in breadmaking.",
+        "Hospitality reputation signal remains healthy across the Merriment Social group: listed Google ratings are 4.4 Merriment, 4.5 Third Coast, 4.5 Flourchild and 4.7 Loon Room."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Premium frozen is getting more crowded: CPK/Nestle is expanding CPK consumer packaged goods into U.S. frozen appetizers and entrees for early 2027.",
+        "Large brands are pushing protein-led frozen meals: Campbell's Chunky is entering frozen bowls with eight SKUs and up to 28g protein.",
+        "Grocery product discovery is shifting upstream: Kroger and Schnucks both advanced AI shopping assistants for meal planning, nutrition goals and basket-building.",
+        "Midwest value pressure is active: C&S cut prices 6% to 15% on thousands of items across banners including Wisconsin Piggly Wiggly."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "Ask agency to reinforce original Wisconsin sourdough / clean dough transparency; this is defensible against additive scrutiny and private-label clarity moves.",
+        "Pressure-test PDP, Instacart/retailer copy and search terms for AI grocery assistants: sourdough, clean ingredients, Wisconsin, premium frozen pizza and quick meal occasions.",
+        "Do not rely on stale Whatagraph. Wire the current paid/social/content analytics source into the repo before making performance claims.",
+        "Monitor pricing response in Midwest accounts where C&S/Piggly Wiggly value resets may make premium frozen trade-up messaging harder."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The strongest available story this week is positioning, not performance: clean sourdough process, Wisconsin origin and premium frozen convenience line up with current market pressure around additives, private-label clarity and AI-driven meal planning.",
+    "what_didnt": "No current paid, organic social or content-performance feed is wired into this repo, so there is no defensible basis here to name winning creative, channels or spend efficiency for the week.",
+    "recommendation": "Build next week's messaging around “original Wisconsin sourdough” and clean dough transparency; make retailer/marketplace copy explicit enough for AI shopping assistants and search-driven grocery baskets.",
+    "competitive_context": "CPK/Nestle and Campbell's are expanding branded frozen meals, Mason Dixie is using Costco for clean-label frozen convenience, and grocers are testing AI assistants that can redirect meal planning before shoppers reach the freezer door."
+  },
+  "data_quality": {
+    "missing": [
+      "Current paid/social/content analytics source is not wired into this repo; no weekly campaign-performance claims were made.",
+      "No current Real Dough operations feed is available from the approved sources for this run; decommissioned data/operations was intentionally not used."
+    ],
+    "stale": [],
+    "anomalies": []
+  },
+  "sources": [
+    "data/reviews.json",
+    "data/intel/2026-07-27-daily.json",
+    "data/intel/2026-07-28-daily.json",
+    "data/intel/2026-07-29-daily.json",
+    "data/intel/2026-07-30-daily.json",
+    "data/intel/2026-07-31-daily.json"
+  ]
+}
