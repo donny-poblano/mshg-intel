@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-01",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Amazon / Whole Foods Market",
+      "action": "Supermarket News reported Amazon now offers same-day perishables delivery in 2,300 U.S. cities. Amazon said monthly active perishable customers are up 50% since the start of the year, same-day orders with perishables average three times more units per order, and perishables now account for six of Amazon.com's 20 top-selling items.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/finance/amazon-cites-growth-in-same-day-perishables-delivery",
+      "first_reported": "2026-08-01",
+      "status": "new"
+    },
+    {
+      "name": "Ahold Delhaize USA / Pear Commerce",
+      "action": "Grocery Dive reported Ahold Delhaize USA partnered with Pear Commerce so shoppers can add products to ADUSA digital carts from non-ADUSA websites, including CPG recipe pages, brand product pages and store locator tools. The integration is available across all five ADUSA U.S. banners and gives AD Retail Media another path to connect content exposure to cart action.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/ahold-delhaizes-omnichannel-shopping-capability-pear-commerce-adusa/826702/",
+      "first_reported": "2026-08-01",
+      "status": "new"
+    },
+    {
+      "name": "Publix / GreenWise",
+      "action": "Supermarket News reported Publix expanded its GreenWise frozen fruit recall to all GreenWise Organic Whole Blueberries and Whole Mixed Berries after FDA linked frozen blueberries to a multistate E. coli outbreak. The recall covers eight southeastern states, with 12 illnesses and four hospitalizations reported.",
+      "category": "recall",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/recalls/publix-pulls-all-greenwise-frozen-blueberries",
+      "first_reported": "2026-08-01",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Grocery discovery and fulfillment are moving closer to immediate cart conversion",
+      "direction": "up",
+      "magnitude": "Amazon same-day perishables in 2,300 cities; ADUSA click-to-cart integration across five banners",
+      "context": "Retailers are reducing friction between product inspiration, basket building and rapid fulfillment. Frozen and premium CPG brands need accurate digital content, recipe/cart compatibility and availability discipline, not just shelf placement.",
+      "source_url": "https://www.grocerydive.com/news/ahold-delhaizes-omnichannel-shopping-capability-pear-commerce-adusa/826702/"
+    },
+    {
+      "topic": "Frozen private-label recall risk remains visible",
+      "direction": "up",
+      "magnitude": "Eight-state Publix GreenWise frozen fruit recall tied to 12 illnesses and four hospitalizations",
+      "context": "The expanded GreenWise recall is not pizza-specific, but it keeps frozen supply-chain safety and retailer-owned brand risk in the public eye.",
+      "source_url": "https://www.supermarketnews.com/recalls/publix-pulls-all-greenwise-frozen-blueberries"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Amazon same-day perishables reach",
+      "value": "2,300 U.S. cities",
+      "change": "Monthly active perishable customers up 50% since the start of 2026; same-day orders with perishables average 3x more units per order",
+      "source_url": "https://www.supermarketnews.com/finance/amazon-cites-growth-in-same-day-perishables-delivery"
+    },
+    {
+      "metric": "Publix GreenWise frozen fruit recall scope",
+      "value": "All GreenWise Organic Whole Blueberries and Whole Mixed Berries in 10-ounce and 48-ounce sizes",
+      "change": "Recall expanded across eight states after FDA linked frozen blueberries to multistate E. coli outbreak",
+      "source_url": "https://www.supermarketnews.com/recalls/publix-pulls-all-greenwise-frozen-blueberries"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Amazon cites growth in same-day perishables delivery",
+      "source_url": "https://www.supermarketnews.com/finance/amazon-cites-growth-in-same-day-perishables-delivery"
+    },
+    {
+      "headline": "Ahold Delhaize USA details latest omnichannel shopping capability",
+      "source_url": "https://www.grocerydive.com/news/ahold-delhaizes-omnichannel-shopping-capability-pear-commerce-adusa/826702/"
+    },
+    {
+      "headline": "Publix pulls all GreenWise frozen blueberries",
+      "source_url": "https://www.supermarketnews.com/recalls/publix-pulls-all-greenwise-frozen-blueberries"
+    }
+  ]
+}
