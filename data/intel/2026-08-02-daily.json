@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-02",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Trader Joe's",
+      "action": "Grocery Dive reported that Trader Joe's has the highest loyalty among U.S. grocers despite having no loyalty program, relying instead on private-label products, service and everyday low prices. The article noted that more than 80% of Trader Joe's products were private label as of early 2023.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/Trader-Joes-loyalty-programs/826453/",
+      "first_reported": "2026-08-02",
+      "status": "new"
+    },
+    {
+      "name": "Loblaw / T&T Supermarket",
+      "action": "Supermarket News reported Loblaw's first California T&T Supermarket, opened in San Jose in June, set the highest first-week sales record for any Loblaw store. Loblaw plans two more California T&T locations this year and said discount banners outperformed overall grocery in Q2.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/finance/loblaw-s-first-t-t-supermarket-in-california-sets-sales-record",
+      "first_reported": "2026-08-02",
+      "status": "new"
+    },
+    {
+      "name": "FMI / beverage CPG retailers",
+      "action": "Supermarket News covered FMI's inaugural Power of Beverage 2026 report, which found shoppers spent nearly $295 billion on retail beverages in 2025 and are increasingly buying around functions such as hydration, energy, protein, digestive health and mood support rather than only traditional beverage categories.",
+      "category": "campaign",
+      "relevance_score": 6,
+      "source_url": "https://www.supermarketnews.com/beverages/function-is-becoming-primary-beverage-purchase-driver-report",
+      "first_reported": "2026-08-02",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Retail differentiation is leaning on proprietary assortment and occasion-based merchandising",
+      "direction": "up",
+      "magnitude": "Three new developments reported July 29-31",
+      "context": "Trader Joe's loyalty model, T&T's California launch performance and FMI's functional beverage findings point to shoppers responding to differentiated product sets, clear value and need-state merchandising. For premium frozen and artisan food brands, retailer fit and use occasion remain as important as single-SKU novelty.",
+      "source_url": "https://www.grocerydive.com/news/Trader-Joes-loyalty-programs/826453/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Trader Joe's private-label mix",
+      "value": "More than 80% of products as of early 2023",
+      "change": null,
+      "source_url": "https://www.grocerydive.com/news/Trader-Joes-loyalty-programs/826453/"
+    },
+    {
+      "metric": "Loblaw Q2 retail sales",
+      "value": "About $10.7 billion U.S.",
+      "change": "Total retail sales up 4.1%; food retail sales up 3.3%; ecommerce sales up 19.3%",
+      "source_url": "https://www.supermarketnews.com/finance/loblaw-s-first-t-t-supermarket-in-california-sets-sales-record"
+    },
+    {
+      "metric": "Retail beverage spending",
+      "value": "Nearly $295 billion in 2025",
+      "change": "FMI says function is becoming a primary beverage purchase driver",
+      "source_url": "https://www.supermarketnews.com/beverages/function-is-becoming-primary-beverage-purchase-driver-report"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "If loyalty programs are so important, why doesn’t Trader Joe’s have one?",
+      "source_url": "https://www.grocerydive.com/news/Trader-Joes-loyalty-programs/826453/"
+    },
+    {
+      "headline": "Loblaw’s first T&T Supermarket in California sets sales record",
+      "source_url": "https://www.supermarketnews.com/finance/loblaw-s-first-t-t-supermarket-in-california-sets-sales-record"
+    },
+    {
+      "headline": "Function is becoming primary beverage purchase driver: report",
+      "source_url": "https://www.supermarketnews.com/beverages/function-is-becoming-primary-beverage-purchase-driver-report"
+    }
+  ]
+}
