@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-03",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "My Better Batch",
+      "action": "Retail Brew reported that My Better Batch grew retail distribution from 79 stores in Q2 2025 to 3,544 stores in Q2 2026, with recent placements at Kroger, Albertsons, H-E-B, Giant Food and Hy-Vee. The cookie mix brand is positioning around clean, pantry-style ingredients and retail-first shelf presence rather than DTC scale.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.retailbrew.com/stories/how-my-better-batch-cookie-mix-is-stirring-up-the-baking-aisle",
+      "first_reported": "2026-08-03",
+      "status": "new"
+    },
+    {
+      "name": "Natural Grocers",
+      "action": "Supermarket News reported that Natural Grocers added organic private-label breads, including English muffins, Hawaiian rolls and hamburger and hot dog buns in white and whole grain options. The products are non-GMO, kosher and made without synthetic colors or hydrogenated fats, extending a 2026 private-label push that has already included frozen fruit, smoothie blends and seafood.",
+      "category": "new_product",
+      "relevance_score": 6,
+      "source_url": "https://www.supermarketnews.com/private-label/natural-grocers-private-label-line-rises-with-bread-additions",
+      "first_reported": "2026-08-03",
+      "status": "new"
+    },
+    {
+      "name": "Butterfield Market / Meadow Lane / Citarella / Murray's Cheese",
+      "action": "Retail Brew covered a Summer Fancy Food Show panel on New York's premium grocery momentum, with operators citing affordable luxury, ingredient transparency, curation, staff education and viral prepared foods as traffic drivers. The signal is that specialty grocery is using trust and product editing to justify premium pricing even as shoppers remain value-aware.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.retailbrew.com/stories/a-look-inside-nycs-luxury-grocery-boom",
+      "first_reported": "2026-08-03",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium food retail is rewarding clean-label products with clear shelf and curation stories",
+      "direction": "up",
+      "magnitude": "Three recent developments across CPG distribution, private-label bread and specialty grocery curation",
+      "context": "My Better Batch's rapid retail expansion, Natural Grocers' organic bread additions and NYC specialty grocers' emphasis on ingredient trust all point to a premium lane that still needs practical value cues: clean labels, credible retail fit, and visible in-store differentiation.",
+      "source_url": "https://www.retailbrew.com/stories/how-my-better-batch-cookie-mix-is-stirring-up-the-baking-aisle"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "My Better Batch retail distribution",
+      "value": "3,544 store locations in Q2 2026",
+      "change": "Up from 79 store locations in Q2 2025; +4,386% year over year",
+      "source_url": "https://www.retailbrew.com/stories/how-my-better-batch-cookie-mix-is-stirring-up-the-baking-aisle"
+    },
+    {
+      "metric": "Natural Grocers organic private-label bread pricing",
+      "value": "$4.49 to $5.99 depending on count",
+      "change": "New line added in July 2026",
+      "source_url": "https://www.supermarketnews.com/private-label/natural-grocers-private-label-line-rises-with-bread-additions"
+    },
+    {
+      "metric": "Premium grocery positioning signal",
+      "value": "Retail Brew panelists described premium grocery as affordable luxury built on ingredients, sourcing, curation and staff-led product education",
+      "change": null,
+      "source_url": "https://www.retailbrew.com/stories/a-look-inside-nycs-luxury-grocery-boom"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "How My Better Batch cookie mix is stirring up the baking aisle",
+      "source_url": "https://www.retailbrew.com/stories/how-my-better-batch-cookie-mix-is-stirring-up-the-baking-aisle"
+    },
+    {
+      "headline": "Natural Grocers’ private-label line rises with bread additions",
+      "source_url": "https://www.supermarketnews.com/private-label/natural-grocers-private-label-line-rises-with-bread-additions"
+    },
+    {
+      "headline": "A look inside NYC’s luxury grocery boom",
+      "source_url": "https://www.retailbrew.com/stories/a-look-inside-nycs-luxury-grocery-boom"
+    }
+  ]
+}
