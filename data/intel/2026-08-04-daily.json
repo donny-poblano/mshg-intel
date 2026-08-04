@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-04",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Non-GMO Project / Non-UPF Verified",
+      "action": "Progressive Grocer reported that the Non-GMO Project's Non-UPF Verified program now has nearly 300 verified products across 19 brands, with dozens more in verification. The group cited consumer research that 72% of shoppers are actively trying to avoid ultraprocessed foods and 57% say processing level is now their top purchase driver.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/exclusive-ultraprocessed-foods-where-industry-now",
+      "first_reported": "2026-08-04",
+      "status": "new"
+    },
+    {
+      "name": "Ahold Delhaize USA / Americold",
+      "action": "Supermarket News reported that Ahold Delhaize USA plans to wind down operations at an automated cold distribution center in Mountville, Pennsylvania, by year-end and will not transition operations to a planned automated cold facility in Plainville, Connecticut. The two sites were originally expected to add about 500,000 square feet of frozen distribution capacity for banners including Giant Food, Giant Co., Food Lion, Stop & Shop and Hannaford.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-operations/ahold-delhaize-winds-down-pa-frozen-warehouse-operations",
+      "first_reported": "2026-08-04",
+      "status": "new"
+    },
+    {
+      "name": "NFRA / frozen treats category",
+      "action": "Progressive Grocer reported new NFRA research showing frozen treats are becoming routine freezer staples as affordable at-home indulgences. Nearly three in four adults said stocking ice cream or novelties feels cheaper than buying dessert out, while 64% said better aisle visibility helps them notice new products and 65% said a familiar brand name makes trial easier.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/trade-news-tuesday-nga-study-finds-independents-outpacing-headwinds-nfra-sees-frozen-treats-become",
+      "first_reported": "2026-08-04",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen and clean-label competition is tightening around trust signals and execution reliability",
+      "direction": "up",
+      "magnitude": "Three new signals across Non-UPF verification, frozen distribution infrastructure and NFRA frozen-treat shopper research",
+      "context": "Processing transparency is becoming more measurable at shelf, frozen supply-chain automation plans are being revised by major grocers, and frozen indulgence is moving from occasional splurge to routine at-home category. Real Dough's relevant lane is credible ingredient/process proof plus dependable freezer availability and clear in-aisle discoverability.",
+      "source_url": "https://progressivegrocer.com/exclusive-ultraprocessed-foods-where-industry-now"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Non-UPF Verified program scale",
+      "value": "Nearly 300 verified products across 19 brands",
+      "change": "Dozens more products actively engaged in verification",
+      "source_url": "https://progressivegrocer.com/exclusive-ultraprocessed-foods-where-industry-now"
+    },
+    {
+      "metric": "Ahold Delhaize frozen distribution capacity affected",
+      "value": "About 500,000 square feet of planned automated frozen warehouse capacity",
+      "change": "Mountville, Pa., operations to wind down by year-end; Plainville, Conn., transition canceled",
+      "source_url": "https://www.supermarketnews.com/grocery-operations/ahold-delhaize-winds-down-pa-frozen-warehouse-operations"
+    },
+    {
+      "metric": "Frozen treat purchase drivers",
+      "value": "64% say better aisle visibility helps them notice new products; 65% say a familiar brand name increases trial openness",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/trade-news-tuesday-nga-study-finds-independents-outpacing-headwinds-nfra-sees-frozen-treats-become"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "EXCLUSIVE: Ultraprocessed Foods: Where Is the Industry Now?",
+      "source_url": "https://progressivegrocer.com/exclusive-ultraprocessed-foods-where-industry-now"
+    },
+    {
+      "headline": "Ahold Delhaize winds down Pa. frozen warehouse operations",
+      "source_url": "https://www.supermarketnews.com/grocery-operations/ahold-delhaize-winds-down-pa-frozen-warehouse-operations"
+    },
+    {
+      "headline": "TRADE NEWS TUESDAY: NGA Study Finds Independents Outpacing Headwinds; NFRA Sees Frozen Treats Become Household Staples",
+      "source_url": "https://progressivegrocer.com/trade-news-tuesday-nga-study-finds-independents-outpacing-headwinds-nfra-sees-frozen-treats-become"
+    }
+  ]
+}
