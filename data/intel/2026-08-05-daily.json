@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-05",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "PORTA / Target",
+      "action": "PORTA announced a nationwide Target and Target.com launch for four Roman-style frozen pizzas at a $11.99 SRP, bringing the brand's North American footprint to 4,500 retail doors. The company said the Target placement follows category-leading velocity and evidence that PORTA brings new shoppers into frozen pizza.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.prnewswire.com/news-releases/porta-brings-a-taste-of-italy-to-target-stores-nationwide-302842092.html",
+      "first_reported": "2026-08-05",
+      "status": "new"
+    },
+    {
+      "name": "Amazon / Whole Foods Market",
+      "action": "Grocery Dive reported that combined Amazon and Whole Foods grocery market share rose 0.6 percentage points to 4% over the 12 months ended June 30, the largest gain among measured grocers. The gain was tied mainly to Amazon's same-day perishables expansion, with CEO Andy Jassy saying monthly active perishable customers are up 50% since the start of the year.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/the-friday-checkout-amazon-grocery-delivery-expansion-market-share/826642/",
+      "first_reported": "2026-08-05",
+      "status": "new"
+    },
+    {
+      "name": "Publix",
+      "action": "Grocery Dive reported Publix Q2 sales grew 1% to $15.7 billion while comparable-store sales fell 0.5%, marking a fourth consecutive quarter of slowing sales growth. Publix cited pharmacy reimbursement changes and economic conditions affecting consumer spending, even as it opened 16 stores and remodeled 56 during the first half of the fiscal year.",
+      "category": "pricing",
+      "relevance_score": 6,
+      "source_url": "https://www.grocerydive.com/news/publix-sales-growth-slows-second-quarter-2026/826881/",
+      "first_reported": "2026-08-05",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium frozen growth is colliding with value-sensitive grocery traffic",
+      "direction": "up",
+      "magnitude": "Three new signals: PORTA reached 4,500 doors via Target, Amazon/Whole Foods gained 0.6 share points through perishables convenience, and Publix comps turned negative in Q2",
+      "context": "Retailers are still rewarding high-velocity premium freezer products that add shoppers to the aisle, but broader grocery demand remains constrained. Real Dough's strongest lane is a clearly differentiated premium pizza that can prove velocity, incrementality and everyday convenience without relying only on premium claims.",
+      "source_url": "https://www.prnewswire.com/news-releases/porta-brings-a-taste-of-italy-to-target-stores-nationwide-302842092.html"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "PORTA North American retail footprint after Target launch",
+      "value": "4,500 retail doors",
+      "change": "Target nationwide and Target.com added Aug. 4, 2026",
+      "source_url": "https://www.prnewswire.com/news-releases/porta-brings-a-taste-of-italy-to-target-stores-nationwide-302842092.html"
+    },
+    {
+      "metric": "Amazon + Whole Foods grocery market share",
+      "value": "4% for the 12 months ended June 30, 2026",
+      "change": "+0.6 percentage points year over year; largest gain among measured grocers in Numerator data cited by Grocery Dive",
+      "source_url": "https://www.grocerydive.com/news/the-friday-checkout-amazon-grocery-delivery-expansion-market-share/826642/"
+    },
+    {
+      "metric": "Publix Q2 comparable-store sales",
+      "value": "-0.5%",
+      "change": "Total Q2 sales up 1% to $15.7 billion; fourth consecutive quarter of slowing sales growth",
+      "source_url": "https://www.grocerydive.com/news/publix-sales-growth-slows-second-quarter-2026/826881/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "PORTA Brings A Taste Of Italy To Target Stores Nationwide",
+      "source_url": "https://www.prnewswire.com/news-releases/porta-brings-a-taste-of-italy-to-target-stores-nationwide-302842092.html"
+    },
+    {
+      "headline": "The Friday Checkout: Amazon finally moves the needle in grocery",
+      "source_url": "https://www.grocerydive.com/news/the-friday-checkout-amazon-grocery-delivery-expansion-market-share/826642/"
+    },
+    {
+      "headline": "Publix’s sales growth continues to slow",
+      "source_url": "https://www.grocerydive.com/news/publix-sales-growth-slows-second-quarter-2026/826881/"
+    }
+  ]
+}
