@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-06",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Albertsons / Safeway",
+      "action": "Supermarket News reported that Albertsons launched a Safeway plugin in ChatGPT that lets shoppers use natural-language requests to discover products, reorder favorites, shop from recipes or lists, build a cart and then check out through Safeway. For Real Dough, the signal is that grocery discovery is moving into AI-assisted meal planning, making complete product data and use-case language more important for premium frozen items.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-technology/albertsons-offers-chatgpt-plugin-to-enhance-grocery-shopping",
+      "first_reported": "2026-08-06",
+      "status": "new"
+    },
+    {
+      "name": "Sprouts Farmers Market",
+      "action": "Sprouts said its first-half affordability test improved unit movement but produced a slower traffic response than expected, and management is refining assortment, price and personalization tactics for the second half. Healthy meal solutions and private-label healthy essentials are gaining traction, including seed oil-free potatoes that management described as a top category seller.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/grocery-operations/sprouts-left-confused-about-shopping-behaviors",
+      "first_reported": "2026-08-06",
+      "status": "new"
+    },
+    {
+      "name": "Grocery retailers / GLP-1 shoppers",
+      "action": "Supermarket News cited Numerator data showing 22% of U.S. households now have a current GLP-1 user, double the October 2023 adoption rate, and that GLP-1 households account for more than $660 billion in CPG, general merchandise and quick-service restaurant spending. After one year, grocery spending among comparable GLP-1 households was down 3.8%, with baskets shifting away from carb-centric center-store items toward fresh protein, seafood, functional nutrition and intentional snacking.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/nonfood-pharmacy/glp-1-users-double-per-household",
+      "first_reported": "2026-08-06",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "AI-assisted grocery discovery",
+      "direction": "up",
+      "magnitude": "Albertsons launched a Safeway plugin in ChatGPT for product discovery, cart building and checkout handoff",
+      "context": "Premium frozen brands need product pages and retailer feeds that can answer meal-use, dietary, availability and value questions without a human browsing the aisle.",
+      "source_url": "https://www.supermarketnews.com/grocery-technology/albertsons-offers-chatgpt-plugin-to-enhance-grocery-shopping"
+    },
+    {
+      "topic": "Value pressure in natural and specialty grocery",
+      "direction": "up",
+      "magnitude": "Sprouts said affordability actions improved units but traffic response has been slower than expected",
+      "context": "The natural-channel shopper is still responsive to healthy meal solutions, but retailers are testing harder on price, promotion and personalization before assuming premium traffic will hold.",
+      "source_url": "https://www.supermarketnews.com/grocery-operations/sprouts-left-confused-about-shopping-behaviors"
+    },
+    {
+      "topic": "GLP-1-driven basket reshaping",
+      "direction": "up",
+      "magnitude": "22% of U.S. households have a current GLP-1 user; comparable grocery spending down 3.8% after one year",
+      "context": "Carb-centric categories face a stronger nutrition and portion-control filter as GLP-1 adoption widens; pizza brands need a clearer role in intentional meals, not only indulgence.",
+      "source_url": "https://www.supermarketnews.com/nonfood-pharmacy/glp-1-users-double-per-household"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "U.S. households with a current GLP-1 user",
+      "value": "22%",
+      "change": "Double the adoption rate since October 2023",
+      "source_url": "https://www.supermarketnews.com/nonfood-pharmacy/glp-1-users-double-per-household"
+    },
+    {
+      "metric": "GLP-1 household grocery spending after one year",
+      "value": "-3.8% versus similar non-user households",
+      "change": "Baskets shifting away from pantry staples and carb-centric items toward fresh protein, seafood, functional nutrition and intentional snacking",
+      "source_url": "https://www.supermarketnews.com/nonfood-pharmacy/glp-1-users-double-per-household"
+    },
+    {
+      "metric": "Sprouts affordability test response",
+      "value": "Better unit movement; slower traffic response",
+      "change": "Second-half refinement focused on assortment, price/promotion and personalization",
+      "source_url": "https://www.supermarketnews.com/grocery-operations/sprouts-left-confused-about-shopping-behaviors"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Albertsons offers ChatGPT plugin to enhance grocery shopping",
+      "source_url": "https://www.supermarketnews.com/grocery-technology/albertsons-offers-chatgpt-plugin-to-enhance-grocery-shopping"
+    },
+    {
+      "headline": "Sprouts left confused about shopping behaviors",
+      "source_url": "https://www.supermarketnews.com/grocery-operations/sprouts-left-confused-about-shopping-behaviors"
+    },
+    {
+      "headline": "GLP-1 users double per household",
+      "source_url": "https://www.supermarketnews.com/nonfood-pharmacy/glp-1-users-double-per-household"
+    }
+  ]
+}
