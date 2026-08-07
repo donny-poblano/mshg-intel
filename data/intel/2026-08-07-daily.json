@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-07",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "7-Eleven / Speedway",
+      "action": "C-Store Dive reported that 7-Eleven named Ibotta its exclusive third-party provider of CPG digital offers across the 7-Eleven, 7Now and Speedway apps, excluding age-restricted items. The partnership is expected to go live in the fall and gives CPG brands access to more than 100 million loyalty members with grocery-style offer accountability.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.cstoredive.com/news/7-eleven-announces-new-promotions-partnership/827087/",
+      "first_reported": "2026-08-07",
+      "status": "new"
+    },
+    {
+      "name": "Grocery retailers / FMI",
+      "action": "Grocery Dive reported FMI's first Power of Beverage report showing food-retail beverage sales reached $295 billion in 2025, up 3%, with nonalcoholic drinks up 5% to $221 billion. FMI said retailers should merchandise around need states such as hydration, protein, digestive support and relaxation rather than only traditional beverage segments.",
+      "category": "campaign",
+      "relevance_score": 6,
+      "source_url": "https://www.grocerydive.com/news/fmi-beverage-nonalcoholic-drinks-report/827149/",
+      "first_reported": "2026-08-07",
+      "status": "new"
+    },
+    {
+      "name": "Save A Lot",
+      "action": "Grocery Dive reported that Save A Lot opened its second Save A Lot y Mas Hispanic-format store in St. Louis, operated by Leevers Supermarkets. The format emphasizes fresh Hispanic produce, specialty meats, ready-to-cook marinated options, local bakery items, Spanish-language promotions and a value positioning tailored to multicultural grocery demand.",
+      "category": "expansion",
+      "relevance_score": 6,
+      "source_url": "https://www.grocerydive.com/news/save-a-lot-opens-second-store-under-hispanic-banner/826994/",
+      "first_reported": "2026-08-07",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "C-store CPG promotions becoming more grocery-like",
+      "direction": "up",
+      "magnitude": "7-Eleven/Ibotta will reach more than 100 million 7-Eleven and Speedway loyalty members",
+      "context": "Convenience retailers are adding manufacturer-funded digital offers and measurement standards that resemble grocery and delivery. Frozen and prepared-food brands should expect more retail-media and offer discipline even outside supermarkets.",
+      "source_url": "https://www.cstoredive.com/news/7-eleven-announces-new-promotions-partnership/827087/"
+    },
+    {
+      "topic": "Need-state merchandising",
+      "direction": "up",
+      "magnitude": "FMI reported food-retail beverage sales of $295B in 2025, with nonalcoholic drinks up 5% to $221B",
+      "context": "Retailers are testing category organization around functional outcomes instead of legacy shelf sets. The same logic can affect premium frozen: product pages and shelf tags need clear occasion, nutrition and preparation cues.",
+      "source_url": "https://www.grocerydive.com/news/fmi-beverage-nonalcoholic-drinks-report/827149/"
+    },
+    {
+      "topic": "Multicultural value grocery formats",
+      "direction": "up",
+      "magnitude": "Save A Lot opened a second Save A Lot y Mas store roughly one year after the first location",
+      "context": "Discount grocers are using localized assortment, language and prepared-food cues to court specific communities. Regional brands should treat cultural relevance and neighborhood fit as retail execution issues, not just marketing themes.",
+      "source_url": "https://www.grocerydive.com/news/save-a-lot-opens-second-store-under-hispanic-banner/826994/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "7-Eleven and Speedway loyalty audience available through Ibotta offers",
+      "value": "More than 100 million loyalty members",
+      "change": "Partnership expected to go live in fall 2026",
+      "source_url": "https://www.cstoredive.com/news/7-eleven-announces-new-promotions-partnership/827087/"
+    },
+    {
+      "metric": "Food-retail beverage sales",
+      "value": "$295 billion in 2025",
+      "change": "+3% year over year; nonalcoholic beverages +5% to $221 billion",
+      "source_url": "https://www.grocerydive.com/news/fmi-beverage-nonalcoholic-drinks-report/827149/"
+    },
+    {
+      "metric": "Save A Lot store footprint",
+      "value": "Approximately 650 stores in 29 states",
+      "change": "Second Save A Lot y Mas Hispanic-format store opened in St. Louis",
+      "source_url": "https://www.grocerydive.com/news/save-a-lot-opens-second-store-under-hispanic-banner/826994/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "7-Eleven announces new promotions partnership",
+      "source_url": "https://www.cstoredive.com/news/7-eleven-announces-new-promotions-partnership/827087/"
+    },
+    {
+      "headline": "Should grocers try reclassifying their beverage aisles?",
+      "source_url": "https://www.grocerydive.com/news/fmi-beverage-nonalcoholic-drinks-report/827149/"
+    },
+    {
+      "headline": "Save A Lot opens second store under Hispanic banner",
+      "source_url": "https://www.grocerydive.com/news/save-a-lot-opens-second-store-under-hispanic-banner/826994/"
+    }
+  ]
+}
