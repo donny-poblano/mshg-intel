@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-07",
+  "week": "2026-W32",
+  "headline": "Premium frozen is moving toward cleaner proof, AI/cart-ready discovery and sharper value tests; Real Dough still lacks a wired current paid/social analytics feed in this repo.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Market intel feed is current through 2026-08-07 with seven daily reports for ISO week 32.",
+        "Real Dough's clean sourdough lane is increasingly relevant: Non-GMO Project's Non-UPF Verified program has nearly 300 products across 19 brands, and reported shopper avoidance of ultraprocessed foods remains high.",
+        "Hospitality reputation signal remains healthy across the Merriment Social group: Google ratings listed in data/reviews.json are 4.4 Merriment Social, 4.5 Third Coast Provisions, 4.5 Flourchild Pizza and 4.7 The Loon Room."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "PORTA launched four Roman-style frozen pizzas nationally at Target and Target.com at $11.99 SRP, bringing its North American footprint to 4,500 retail doors.",
+        "Grocery discovery is moving closer to automated cart-building: Albertsons launched a Safeway ChatGPT plugin, while Ahold Delhaize added Pear Commerce click-to-cart paths from external content.",
+        "Value pressure is active in premium/natural grocery: Sprouts reported better unit movement from affordability work but slower traffic response, and Publix comps were down 0.5% in Q2.",
+        "GLP-1 adoption is now material in grocery planning: Numerator data cited in the intel says 22% of U.S. households have a current user and comparable grocery spend was down 3.8% after one year."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "Pressure-test Real Dough's retailer/PDP copy for AI shopping: sourdough proof, Wisconsin origin, clean ingredients, freezer availability, prep time and dinner occasion language need to be explicit.",
+        "Benchmark price/value communication against PORTA's $11.99 Target launch before assuming premium pizza shoppers will trade up without a clear reason.",
+        "Ask agency to frame content around clean sourdough process and intentional meal occasions, not generic indulgence; this is the defensible answer to Non-UPF scrutiny and GLP-1 basket shifts.",
+        "Wire the current paid/social/content analytics source into the repo; do not use retired Whatagraph files or make campaign-performance claims until a current feed exists."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The defensible story is market-position fit: clean sourdough, Wisconsin origin and premium frozen convenience are aligned with this week's signals around Non-UPF scrutiny, AI-assisted grocery discovery and retailer need-state merchandising.",
+    "what_didnt": "No current paid, organic social or content-performance feed is wired into this repo, so there is no defensible basis here to identify winning creative, channel efficiency or spend performance for the week.",
+    "recommendation": "Make Real Dough easier for both humans and AI shopping tools to understand: tighten retailer copy around sourdough proof, clean ingredients, prep convenience, dinner occasions and value rationale versus other premium frozen pizzas.",
+    "competitive_context": "PORTA's Target expansion raises the bar for premium frozen pizza scale, while Albertsons/Safeway, Ahold Delhaize and Amazon/Whole Foods are reducing friction from discovery to cart. Retailers are rewarding products that prove incrementality, clean-label relevance and dependable freezer execution."
+  },
+  "data_quality": {
+    "missing": [
+      "Current paid/social/content analytics source is not wired into this repo; no weekly campaign-performance claims were made.",
+      "No current Real Dough sales or velocity feed is available from the approved sources for this run."
+    ],
+    "stale": [],
+    "anomalies": []
+  },
+  "sources": [
+    "data/reviews.json",
+    "data/intel/2026-08-01-daily.json",
+    "data/intel/2026-08-02-daily.json",
+    "data/intel/2026-08-03-daily.json",
+    "data/intel/2026-08-04-daily.json",
+    "data/intel/2026-08-05-daily.json",
+    "data/intel/2026-08-06-daily.json",
+    "data/intel/2026-08-07-daily.json"
+  ]
+}
