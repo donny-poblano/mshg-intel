@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-08",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Instacart",
+      "action": "Supermarket News reported Instacart's Q2 gross transaction value rose 14% to $10.35 billion and orders rose 9% to 90.3 million as the company expanded retailer AI, ads and in-store technology. New activity includes retailer adoption of Agentic Analytics and white-label AI shopping assistants, Google Gemini grocery-cart integration, Immersive Feed shoppable video and more retailers removing marketplace markups.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/finance/instacart-sales-climb-14-as-grocery-platform-expands-ai-retail-technology",
+      "first_reported": "2026-08-08",
+      "status": "new"
+    },
+    {
+      "name": "Ahold Delhaize USA",
+      "action": "Supermarket News reported Ahold Delhaize said SNAP benefit cuts reduced U.S. sales growth by 40 basis points in Q2 and are expected to reduce full-year sales growth by 60 to 80 basis points. The company also said U.S. online sales grew 14.5%, Food Lion online sales grew 20%, and private-label penetration exceeded 40% for the first time after rising 0.7 percentage points.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/finance/ahold-says-snap-cuts-are-slowing-u-s-sales-growth",
+      "first_reported": "2026-08-08",
+      "status": "new"
+    },
+    {
+      "name": "Grocery retailers / pricing technology",
+      "action": "Grocery Dive reported a Senate subcommittee hearing on AI-powered surveillance pricing, with proposed federal bills and state restrictions increasing scrutiny of personalized pricing, loyalty-data use and electronic shelf label deployments. FMI responded that maintaining consumer trust remains paramount as retailers use loyalty and pricing technology.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/the-friday-checkout-senate-hearing-artificial-intelligence-surveillance-pr/827315/",
+      "first_reported": "2026-08-08",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "AI-assisted grocery discovery and cart building",
+      "direction": "up",
+      "magnitude": "Instacart Q2 GTV +14% to $10.35B; orders +9% to 90.3M; AI-assisted orders were larger than its $115 average order value",
+      "context": "Grocery platforms are moving discovery, recipes, deal finding and cart creation into AI interfaces. Frozen brands need clean product data, searchable use cases and reliable availability for retailer and platform algorithms.",
+      "source_url": "https://www.supermarketnews.com/finance/instacart-sales-climb-14-as-grocery-platform-expands-ai-retail-technology"
+    },
+    {
+      "topic": "Value pressure shifting retailer mix toward private label and online execution",
+      "direction": "up",
+      "magnitude": "Ahold Delhaize private-label penetration passed 40%; SNAP cuts expected to reduce 2026 U.S. sales growth by 60-80 bps",
+      "context": "Retailers are pairing price investments with private-label growth and faster ecommerce. Premium frozen pizza needs a clear value-for-quality rationale as banners push store brands and measurable affordability.",
+      "source_url": "https://www.supermarketnews.com/finance/ahold-says-snap-cuts-are-slowing-u-s-sales-growth"
+    },
+    {
+      "topic": "Pricing-tech trust risk",
+      "direction": "up",
+      "magnitude": "Senate hearing plus multiple proposed federal pricing bills; states already restricting personalized pricing practices",
+      "context": "Retail-media, loyalty and shelf-label tools are drawing political and consumer-trust scrutiny. Promotional strategy should be transparent and easy to explain, especially for premium products that already face price sensitivity.",
+      "source_url": "https://www.grocerydive.com/news/the-friday-checkout-senate-hearing-artificial-intelligence-surveillance-pr/827315/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Instacart Q2 2026 gross transaction value",
+      "value": "$10.35 billion",
+      "change": "+14% year over year; orders +9% to 90.3 million",
+      "source_url": "https://www.supermarketnews.com/finance/instacart-sales-climb-14-as-grocery-platform-expands-ai-retail-technology"
+    },
+    {
+      "metric": "Ahold Delhaize USA SNAP sales impact",
+      "value": "40 basis points of Q2 U.S. sales-growth drag",
+      "change": "Expected 60-80 basis points full-year 2026 impact; SNAP is 5.3% of U.S. sales",
+      "source_url": "https://www.supermarketnews.com/finance/ahold-says-snap-cuts-are-slowing-u-s-sales-growth"
+    },
+    {
+      "metric": "Ahold Delhaize U.S. private-label penetration",
+      "value": "More than 40%",
+      "change": "+0.7 percentage points in Q2 2026",
+      "source_url": "https://www.supermarketnews.com/finance/ahold-says-snap-cuts-are-slowing-u-s-sales-growth"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Instacart sales climb 14% as grocery platform expands AI, retail technology",
+      "source_url": "https://www.supermarketnews.com/finance/instacart-sales-climb-14-as-grocery-platform-expands-ai-retail-technology"
+    },
+    {
+      "headline": "Ahold says SNAP cuts are slowing U.S. sales growth",
+      "source_url": "https://www.supermarketnews.com/finance/ahold-says-snap-cuts-are-slowing-u-s-sales-growth"
+    },
+    {
+      "headline": "The Friday Checkout: Federal scrutiny of pricing practices ramps up",
+      "source_url": "https://www.grocerydive.com/news/the-friday-checkout-senate-hearing-artificial-intelligence-surveillance-pr/827315/"
+    }
+  ]
+}
