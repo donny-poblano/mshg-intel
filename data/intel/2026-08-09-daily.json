@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-09",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "WK Kellogg Co",
+      "action": "Progressive Grocer reported WK Kellogg will remove artificial colors and the preservative BHT from its full cereal portfolio and packaging by the end of 2026, a year ahead of schedule. Production of updated recipes, including Froot Loops and Apple Jacks, starts later this year, with product shipping to retailers before year-end.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/wk-kellogg-eliminate-artificial-colors-all-its-cereals-end-2026",
+      "first_reported": "2026-08-09",
+      "status": "new"
+    },
+    {
+      "name": "Bitchin' Sauce",
+      "action": "Progressive Grocer reported Bitchin' Sauce expanded beyond refrigerated dips into three new lines: Totally Nuts! almond-based sauces, Smoky Chipotle Bitchin' Bean Dip, and Bitchin' Chips, its first salty-snack product. The company is using deli placement, cross-merchandising with chips, front-facing labels and sampling to drive trial.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/bitchin-sauce-enters-salty-snack-segment",
+      "first_reported": "2026-08-09",
+      "status": "new"
+    },
+    {
+      "name": "Albertsons Own Brands",
+      "action": "Progressive Grocer reported Albertsons' Own Brands generated $16.9 billion in fiscal 2025 retail sales across more than 14,000 exclusive products and 2,244 stores. The company highlighted 19 owned manufacturing facilities and a private-label frozen and beverage push built around faster flavor testing, limited-edition ice cream and value-priced indulgence.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/albertsons-own-brands-inside-169b-private-label-business-fueling-its-frozen-and-beverage-push",
+      "first_reported": "2026-08-09",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Artificial-ingredient removal moving into mainstream CPG",
+      "direction": "up",
+      "magnitude": "WK Kellogg says full cereal portfolio will remove artificial colors and BHT by end of 2026, one year ahead of its prior timeline",
+      "context": "Clean-label expectations are being normalized by large center-store brands. For Real Dough, natural fermentation and ingredient simplicity should be stated as concrete product facts, not treated as premium background language.",
+      "source_url": "https://progressivegrocer.com/wk-kellogg-eliminate-artificial-colors-all-its-cereals-end-2026"
+    },
+    {
+      "topic": "Condiment, snack and meal-builder boundaries are blurring",
+      "direction": "up",
+      "magnitude": "Bitchin' Sauce moved from refrigerated dips into sauces, bean dip and its first tortilla chip line",
+      "context": "Retailers are rewarding brands that can anchor more occasions through cross-merchandising and sampling. Pizza-adjacent brands can use sauce, dip and snack pairings to increase visibility beyond a single freezer-door decision.",
+      "source_url": "https://progressivegrocer.com/bitchin-sauce-enters-salty-snack-segment"
+    },
+    {
+      "topic": "Retailer-owned brands are pushing harder into frozen innovation",
+      "direction": "up",
+      "magnitude": "Albertsons Own Brands reported $16.9B in fiscal 2025 retail sales and more than 14,000 exclusive products",
+      "context": "Private label is no longer only a value alternative. It is using owned manufacturing, limited-time flavors and frozen indulgence to compete on discovery and price at the same time, raising the bar for branded premium frozen pizza to prove distinctiveness.",
+      "source_url": "https://progressivegrocer.com/albertsons-own-brands-inside-169b-private-label-business-fueling-its-frozen-and-beverage-push"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "WK Kellogg artificial-color/BHT removal timeline",
+      "value": "End of 2026",
+      "change": "One year ahead of schedule; updated recipes start production later in 2026 and ship to retailers before year-end",
+      "source_url": "https://progressivegrocer.com/wk-kellogg-eliminate-artificial-colors-all-its-cereals-end-2026"
+    },
+    {
+      "metric": "Bitchin' Sauce category expansion",
+      "value": "3 new product lines",
+      "change": "Totally Nuts! sauces, Smoky Chipotle bean dip and first salty-snack line, Bitchin' Chips",
+      "source_url": "https://progressivegrocer.com/bitchin-sauce-enters-salty-snack-segment"
+    },
+    {
+      "metric": "Albertsons Own Brands fiscal 2025 retail sales",
+      "value": "$16.9 billion",
+      "change": "More than 14,000 exclusive products across roughly 2,244 stores in 35 states",
+      "source_url": "https://progressivegrocer.com/albertsons-own-brands-inside-169b-private-label-business-fueling-its-frozen-and-beverage-push"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "WK Kellogg to Eliminate Artificial Colors in All of Its Cereals by End of 2026",
+      "source_url": "https://progressivegrocer.com/wk-kellogg-eliminate-artificial-colors-all-its-cereals-end-2026"
+    },
+    {
+      "headline": "Bitchin’ Sauce Enters Salty Snack Segment",
+      "source_url": "https://progressivegrocer.com/bitchin-sauce-enters-salty-snack-segment"
+    },
+    {
+      "headline": "Albertsons Own Brands: Inside the $16.9B Private-Label Business Fueling Its Frozen and Beverage Push",
+      "source_url": "https://progressivegrocer.com/albertsons-own-brands-inside-169b-private-label-business-fueling-its-frozen-and-beverage-push"
+    }
+  ]
+}
