@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-10",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Crafty Ramen",
+      "action": "Progressive Grocer reported Canadian restaurant brand Crafty Ramen is entering the U.S. frozen aisle at scale after building 2,700-plus Canadian retail doors and selling 2 million bowls. Its layered frozen ramen pucks are arriving on more than 4,000 U.S. shelves, including Sprouts Farmers Market and Schnucks, at a suggested $7.99 per 14.6-ounce package.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/crafty-ramen",
+      "first_reported": "2026-08-10",
+      "status": "new"
+    },
+    {
+      "name": "JusRol",
+      "action": "FoodBevy reported JusRol added more than 2,900 U.S. retail placements across Walmart and Wegmans for refrigerated dough products, including pizza dough and turnover kits. At Walmart, Family Size Pizza Crust expanded from 1,624 to 2,106 stores and Snap Pizza Dough expanded from 350 to 476 stores, while puff pastry and pie crust lines added Wegmans distribution in July.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbevy.com/this-week-in-cpg-08-03-2026/",
+      "first_reported": "2026-08-10",
+      "status": "new"
+    },
+    {
+      "name": "MasPanadas",
+      "action": "FoodBevy reported MasPanadas expanded its Latin American street-food products into 200 Hy-Vee freezer aisles across the Midwest. The brand produces from its Rockville, Maryland facility, making the move a relevant regional freezer-set signal for handheld, culturally specific meal formats in Hy-Vee territory.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.foodbevy.com/this-week-in-cpg-08-03-2026/",
+      "first_reported": "2026-08-10",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Restaurant-origin frozen meals scaling through mainstream grocery",
+      "direction": "up",
+      "magnitude": "Crafty Ramen reports 2,700-plus Canadian retail doors, 2 million bowls sold and entry onto more than 4,000 U.S. shelves",
+      "context": "Freezer buyers are still testing restaurant-quality products when the prep format is clear and the brand can show operational scale. This raises the bar for Real Dough to prove both craft cues and repeatable retail execution.",
+      "source_url": "https://progressivegrocer.com/crafty-ramen"
+    },
+    {
+      "topic": "Retailers expanding pizza-making dough occasions",
+      "direction": "up",
+      "magnitude": "JusRol added 2,900-plus placements; Walmart Family Size Pizza Crust grew from 1,624 to 2,106 stores and Snap Pizza Dough from 350 to 476 stores",
+      "context": "Pizza competition is extending beyond finished frozen pies into dough, crust and kit behavior. Real Dough should track whether shoppers are being pulled toward bake-at-home pizza formats at mass retail.",
+      "source_url": "https://www.foodbevy.com/this-week-in-cpg-08-03-2026/"
+    },
+    {
+      "topic": "Midwest freezer sets opening to handheld global comfort foods",
+      "direction": "up",
+      "magnitude": "MasPanadas reached 200 Hy-Vee freezer aisles across the Midwest",
+      "context": "Hy-Vee is adding culturally specific frozen meal formats with regional scale. For Real Dough, the signal is that Midwestern freezer doors can support differentiated comfort foods when the format is familiar and easy to prepare.",
+      "source_url": "https://www.foodbevy.com/this-week-in-cpg-08-03-2026/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Crafty Ramen U.S. frozen retail entry",
+      "value": "More than 4,000 U.S. shelves",
+      "change": "Built from 2,700-plus Canadian retail doors and 2 million bowls sold; current U.S. retailers include Sprouts Farmers Market and Schnucks",
+      "source_url": "https://progressivegrocer.com/crafty-ramen"
+    },
+    {
+      "metric": "JusRol Walmart pizza dough distribution",
+      "value": "Family Size Pizza Crust: 2,106 stores; Snap Pizza Dough: 476 stores",
+      "change": "Family Size Pizza Crust increased from 1,624 stores; Snap Pizza Dough increased from 350 stores",
+      "source_url": "https://www.foodbevy.com/this-week-in-cpg-08-03-2026/"
+    },
+    {
+      "metric": "MasPanadas Hy-Vee freezer placement",
+      "value": "200 Hy-Vee stores",
+      "change": "Expanded Latin American street-food products into Midwest freezer aisles",
+      "source_url": "https://www.foodbevy.com/this-week-in-cpg-08-03-2026/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Crafty Ramen",
+      "source_url": "https://progressivegrocer.com/crafty-ramen"
+    },
+    {
+      "headline": "JusRol Adds Thousands of Retail Placements",
+      "source_url": "https://www.foodbevy.com/this-week-in-cpg-08-03-2026/"
+    },
+    {
+      "headline": "MasPanadas Reaches 200 Hy-Vee Stores",
+      "source_url": "https://www.foodbevy.com/this-week-in-cpg-08-03-2026/"
+    }
+  ]
+}
