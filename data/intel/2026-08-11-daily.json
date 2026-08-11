@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-11",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Food manufacturers / FDA GRAS process",
+      "action": "Food Dive reported the FDA proposed mandatory notifications for ingredients that companies self-affirm as Generally Recognized as Safe. The proposal would require safety information for new self-affirmed GRAS ingredients and a streamlined submission pathway for existing self-affirmed ingredients, creating more transparency around additives and processing inputs.",
+      "category": "regulatory",
+      "relevance_score": 8,
+      "source_url": "https://www.fooddive.com/news/fda-gras-loophole-food-policy-ingredients-maha/827441/",
+      "first_reported": "2026-08-11",
+      "status": "new"
+    },
+    {
+      "name": "Kraft Heinz",
+      "action": "Food Dive reported Kraft Heinz is adding nearly $100 million to its turnaround plan, with most of the incremental spend directed to marketing and innovation. The company said marketing will represent at least 6% of net sales in 2026 as it concentrates dollars with fewer, higher-impact media partners and pursues product, pricing, sales and R&D improvements.",
+      "category": "campaign",
+      "relevance_score": 6,
+      "source_url": "https://www.fooddive.com/news/kraft-heinz-zeroes-in-on-marketing-as-it-pours-another-100m-into-turnaroun/827216/",
+      "first_reported": "2026-08-11",
+      "status": "new"
+    },
+    {
+      "name": "Tostitos / PepsiCo",
+      "action": "Progressive Grocer reported Tostitos is entering the refrigerated aisle for the first time with Chunky Guacamole Mild and Medium Hint of Lime dips. The products launch at Kroger and Walmart nationwide beginning Aug. 15 in three pack sizes, giving PepsiCo another chip-and-dip occasion timed to NFL kickoff.",
+      "category": "new_product",
+      "relevance_score": 6,
+      "source_url": "https://progressivegrocer.com/tostitos-chunky-guacamole",
+      "first_reported": "2026-08-11",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Ingredient scrutiny moving from voluntary disclosure toward mandatory documentation",
+      "direction": "up",
+      "magnitude": "FDA proposal would require companies to notify the agency for self-affirmed GRAS ingredients and submit safety rationales",
+      "context": "Clean-label and simple-ingredient claims will face a more technical compliance backdrop. Real Dough should keep ingredient documentation and supplier records ready for retailer quality reviews.",
+      "source_url": "https://www.fooddive.com/news/fda-gras-loophole-food-policy-ingredients-maha/827441/"
+    },
+    {
+      "topic": "Large CPGs increasing spend to restart volume and brand growth",
+      "direction": "up",
+      "magnitude": "Kraft Heinz added nearly $100 million of incremental turnaround spend; marketing expected to reach at least 6% of net sales in 2026",
+      "context": "Large food brands are responding to softer demand with heavier marketing, fewer media partners and innovation investment. Smaller premium brands should expect louder national-brand activity around value and brand trust.",
+      "source_url": "https://www.fooddive.com/news/kraft-heinz-zeroes-in-on-marketing-as-it-pours-another-100m-into-turnaroun/827216/"
+    },
+    {
+      "topic": "Shelf-stable snack brands extending into refrigerated fresh adjacencies",
+      "direction": "up",
+      "magnitude": "Tostitos is launching refrigerated guacamole at Kroger and Walmart nationwide on Aug. 15",
+      "context": "Major CPGs are using trusted brands to cross into fresh and refrigerated occasions. For Real Dough, this is a reminder that freezer and fresh adjacencies can attract established brands with strong retailer relationships.",
+      "source_url": "https://progressivegrocer.com/tostitos-chunky-guacamole"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Proposed FDA GRAS notification requirement",
+      "value": "Mandatory notification and safety rationale for self-affirmed GRAS ingredients",
+      "change": "Would replace a voluntary disclosure structure for many ingredients entering the food supply",
+      "source_url": "https://www.fooddive.com/news/fda-gras-loophole-food-policy-ingredients-maha/827441/"
+    },
+    {
+      "metric": "Kraft Heinz 2026 incremental turnaround spend",
+      "value": "Nearly $100 million additional investment",
+      "change": "Marketing to represent at least 6% of net sales in 2026; Q2 net sales declined 1.4%",
+      "source_url": "https://www.fooddive.com/news/kraft-heinz-zeroes-in-on-marketing-as-it-pours-another-100m-into-turnaroun/827216/"
+    },
+    {
+      "metric": "Tostitos Chunky Guacamole national launch",
+      "value": "Kroger and Walmart nationwide beginning Aug. 15",
+      "change": "First Tostitos move into the refrigerated aisle; 8-ounce, 15-ounce and six-count 2-ounce formats",
+      "source_url": "https://progressivegrocer.com/tostitos-chunky-guacamole"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "FDA lays out plan to close ingredients ‘loophole’ targeted by RFK Jr",
+      "source_url": "https://www.fooddive.com/news/fda-gras-loophole-food-policy-ingredients-maha/827441/"
+    },
+    {
+      "headline": "Kraft Heinz pours nearly $100M more into innovation to drive turnaround",
+      "source_url": "https://www.fooddive.com/news/kraft-heinz-zeroes-in-on-marketing-as-it-pours-another-100m-into-turnaroun/827216/"
+    },
+    {
+      "headline": "Tostitos Chunky Guacamole",
+      "source_url": "https://progressivegrocer.com/tostitos-chunky-guacamole"
+    }
+  ]
+}
