@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-12",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kroger",
+      "action": "Grocery Dive reported Kroger named former Walmart e-commerce executive and Jet.com co-founder Nate Faust as executive vice president and chief e-commerce officer, effective Sept. 1. Kroger is adding the role after online sales grew 19% year over year in its most recent quarter and e-commerce turned profitable for the first time.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/kroger-names-executive-vice-president-chief-ecommerce-officer-csuite-appointment/827610/",
+      "first_reported": "2026-08-12",
+      "status": "new"
+    },
+    {
+      "name": "Wegmans",
+      "action": "Grocery Dive reported Wegmans launched Wegmans for Athletics, a food, nutrition and hydration program for collegiate, youth and professional sports organizations. The program uses Meals 2Go catering, large-order fulfillment, Wegmans brand snacks, hydration and supplements, and nutrition education to extend the grocer's prepared-food and wellness services beyond conventional catering.",
+      "category": "campaign",
+      "relevance_score": 6,
+      "source_url": "https://www.grocerydive.com/news/wegmans-athletes-health-catering-meals/827513/",
+      "first_reported": "2026-08-12",
+      "status": "new"
+    },
+    {
+      "name": "U.S. grocery retail",
+      "action": "Supermarket News launched its monthly Grocery Gauge and scored the industry at 48 for July, citing soft earnings, moderate inflation pressure and mixed store opening/closing data despite stronger store traffic. The gauge noted Albertsons lowered its full-year outlook and projected identical sales could decline as much as 1.5%, while Ahold Delhaize USA warned SNAP cuts will pressure results.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/sn-grocery-gauge-industry-is-in-distress",
+      "first_reported": "2026-08-12",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Large grocers prioritizing digital execution and retail media economics",
+      "direction": "up",
+      "magnitude": "Kroger reported 19% online sales growth and first-time e-commerce profitability in its most recent quarter",
+      "context": "Retailer conversations are likely to put more weight on digital readiness, delivery economics and store-based fulfillment. Real Dough should keep product data, retailer content and online assortment assets accurate for major accounts.",
+      "source_url": "https://www.grocerydive.com/news/kroger-names-executive-vice-president-chief-ecommerce-officer-csuite-appointment/827610/"
+    },
+    {
+      "topic": "Grocers extending prepared food into targeted nutrition services",
+      "direction": "up",
+      "magnitude": "Wegmans is packaging Meals 2Go, large-order fulfillment, branded snacks, hydration and nutrition education into an athletics program",
+      "context": "Prepared-food and wellness programs are becoming account-specific service platforms, not just in-store departments. Real Dough can watch for partnership and catering-adjacent openings where premium pizza fits team meals, events or community programs.",
+      "source_url": "https://www.grocerydive.com/news/wegmans-athletes-health-catering-meals/827513/"
+    },
+    {
+      "topic": "Retailer operating pressure remains high despite traffic gains",
+      "direction": "stable",
+      "magnitude": "Supermarket News' July Grocery Gauge scored the industry at 48; Placer.ai data showed grocery visits up across formats while earnings stayed soft",
+      "context": "Buyers may stay cautious on new branded assortment unless products show clear velocity, margin support and differentiation. Premium frozen brands should assume tighter scrutiny on price points and promotional support.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/sn-grocery-gauge-industry-is-in-distress"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Kroger e-commerce growth",
+      "value": "19% year-over-year online sales growth in the most recent quarter",
+      "change": "E-commerce turned profitable for the first time; Kroger hired a dedicated chief e-commerce officer effective Sept. 1",
+      "source_url": "https://www.grocerydive.com/news/kroger-names-executive-vice-president-chief-ecommerce-officer-csuite-appointment/827610/"
+    },
+    {
+      "metric": "Wegmans for Athletics scope",
+      "value": "Program for collegiate athletic programs, youth sports and professional organizations",
+      "change": "Extends Meals 2Go, large-order fulfillment, Wegmans brand snacks, hydration, supplements and nutrition education into a sports-focused service model",
+      "source_url": "https://www.grocerydive.com/news/wegmans-athletes-health-catering-meals/827513/"
+    },
+    {
+      "metric": "Supermarket News July Grocery Gauge",
+      "value": "48 overall score",
+      "change": "Store visits scored 80, store closings/openings 66, grocery inflation 64 and grocery store earnings 40",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/sn-grocery-gauge-industry-is-in-distress"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Kroger names former Walmart executive as e-commerce chief",
+      "source_url": "https://www.grocerydive.com/news/kroger-names-executive-vice-president-chief-ecommerce-officer-csuite-appointment/827610/"
+    },
+    {
+      "headline": "Wegmans looks to score big with new program for athletes",
+      "source_url": "https://www.grocerydive.com/news/wegmans-athletes-health-catering-meals/827513/"
+    },
+    {
+      "headline": "SN Grocery Gauge: Industry is in distress",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/sn-grocery-gauge-industry-is-in-distress"
+    }
+  ]
+}
