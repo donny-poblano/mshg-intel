@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-13",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Frozen food category",
+      "action": "Supermarket News reported Circana/210 Analytics data showing total food and beverage unit sales fell 0.9% in the four weeks ending July 26, while frozen foods posted a 0.2% unit increase, the department's first gain in several months. Frozen snacks rose 3.2%, frozen baked goods rose 3.7%, and frozen meals declined 2.1%.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/frozen/unit-sales-drop-in-july-across-most-categories",
+      "first_reported": "2026-08-13",
+      "status": "new"
+    },
+    {
+      "name": "Giant Food / Ahold Delhaize USA",
+      "action": "Grocery Dive reported Giant Food launched in-store Savings Stations across all 162 stores. Shoppers can scan a loyalty card or enter a phone number to load weekly digital coupons and personalized offers, print customized savings lists, and enroll in the loyalty program.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/giant-food-savings-stations-value-ahold-delhaize/827671/",
+      "first_reported": "2026-08-13",
+      "status": "new"
+    },
+    {
+      "name": "Conversational grocery AI / Cooklist",
+      "action": "Grocery Dive published a Cooklist viewpoint arguing that conversational AI is shifting grocery discovery from keyword search to shopper-declared intent before purchase. The piece says grocers need machine-readable product metadata including ingredients, allergens, prep time, dietary fit, nutritional category, serving yields and recipe use cases to support AI-built baskets.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/shoppers-are-finally-telling-grocers-why-they-buy/826775/",
+      "first_reported": "2026-08-13",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pockets of growth inside a weaker grocery basket",
+      "direction": "up",
+      "magnitude": "Frozen foods +0.2% units while total food and beverage units fell 0.9% in the four weeks ending July 26",
+      "context": "The freezer aisle is holding up better than much of the store, but frozen meals remain pressured. Real Dough should treat frozen strength as category support while watching meal-price sensitivity and snack/baked-good momentum.",
+      "source_url": "https://www.supermarketnews.com/frozen/unit-sales-drop-in-july-across-most-categories"
+    },
+    {
+      "topic": "Retailers making digital discounts more accessible in-store",
+      "direction": "up",
+      "magnitude": "Giant Food rolled Savings Stations to all 162 stores",
+      "context": "Digital coupons are becoming an in-store value tool, not just an app feature. Premium frozen brands should expect more promotion visibility through loyalty platforms and buyer pressure for offers that shoppers can easily activate.",
+      "source_url": "https://www.grocerydive.com/news/giant-food-savings-stations-value-ahold-delhaize/827671/"
+    },
+    {
+      "topic": "AI grocery interfaces raising the bar for product data quality",
+      "direction": "up",
+      "magnitude": "Cooklist argues conversational shopping requires metadata beyond brand, price and category",
+      "context": "Products that can be matched to occasions, dietary constraints and recipes are more likely to surface in AI-assisted baskets. Real Dough should keep retailer data fields complete for sourdough, clean-label, prep, ingredient and meal-use attributes.",
+      "source_url": "https://www.grocerydive.com/news/shoppers-are-finally-telling-grocers-why-they-buy/826775/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "July frozen food unit performance",
+      "value": "+0.2% frozen food units",
+      "change": "Total food and beverage units fell 0.9%; frozen snacks +3.2%, frozen baked goods +3.7%, frozen meals -2.1%",
+      "source_url": "https://www.supermarketnews.com/frozen/unit-sales-drop-in-july-across-most-categories"
+    },
+    {
+      "metric": "Giant Food Savings Stations rollout",
+      "value": "162 stores",
+      "change": "Stations load weekly digital coupons and personalized offers to loyalty accounts and can print customized savings lists",
+      "source_url": "https://www.grocerydive.com/news/giant-food-savings-stations-value-ahold-delhaize/827671/"
+    },
+    {
+      "metric": "Conversational AI grocery metadata needs",
+      "value": "Ingredient, allergen, prep-time, nutrition, dietary-fit, serving-yield and recipe-use metadata",
+      "change": "Cooklist says AI shopping interfaces shift from inferred post-purchase intent to declared pre-purchase intent",
+      "source_url": "https://www.grocerydive.com/news/shoppers-are-finally-telling-grocers-why-they-buy/826775/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Unit sales drop in July across most categories",
+      "source_url": "https://www.supermarketnews.com/frozen/unit-sales-drop-in-july-across-most-categories"
+    },
+    {
+      "headline": "Giant Food introduces in-store Savings Stations",
+      "source_url": "https://www.grocerydive.com/news/giant-food-savings-stations-value-ahold-delhaize/827671/"
+    },
+    {
+      "headline": "Shoppers are finally telling grocers why they buy",
+      "source_url": "https://www.grocerydive.com/news/shoppers-are-finally-telling-grocers-why-they-buy/826775/"
+    }
+  ]
+}
