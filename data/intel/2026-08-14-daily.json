@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-14",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Food Lion",
+      "action": "Supermarket News reported Food Lion expanded its private-brand frozen lineup with four breakfast sandwich SKUs and seven frozen snack/appetizer SKUs, including Three Cheese Mini Pizza Bagels, Pepperoni Mini Pizza Bagels and Pepperoni Pizza Bites at value price points from $1.99 to $3.99.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/private-label/food-lion-launches-several-frozen-food-private-label-products",
+      "first_reported": "2026-08-14",
+      "status": "new"
+    },
+    {
+      "name": "Blount Fine Foods / Campbell's / refrigerated soup competitors",
+      "action": "Progressive Grocer reported the U.S. soup category is expected to reach about $18 billion in 2026, with growth shifting toward refrigerated, protein-forward and minimally processed meal solutions. Blount said its retail refrigerated soup business grew more than 9% nationally over the past 52 weeks, while Campbell's and others are adding protein or clean-label formats.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/soup-category-reach-18b-year-steady-growth-forecasted",
+      "first_reported": "2026-08-14",
+      "status": "new"
+    },
+    {
+      "name": "Sprouts Farmers Market",
+      "action": "Grocery Dive reported Sprouts has opened at least 30 stores annually since 2023, is on track for more than 40 openings this year, and is coordinating growth in the Midwest, New England and Texas with a self-distribution model built around stores within roughly 250 miles of distribution centers. The grocer has completed its meat-facility rollout and plans to bring select private-brand items into company-owned facilities.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/sprouts-farmers-market-distribution-store-growth/827442/",
+      "first_reported": "2026-08-14",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Private-label frozen snacks moving into pizza-adjacent value occasions",
+      "direction": "up",
+      "magnitude": "Food Lion added 11 frozen private-label items, including 3 pizza-adjacent snacks priced at $1.99-$3.99",
+      "context": "Store brands are attacking small-format frozen pizza occasions with low prices and familiar formats. Real Dough should watch value pressure from private-label pizza snacks even if its core product is premium whole-pie sourdough.",
+      "source_url": "https://www.supermarketnews.com/private-label/food-lion-launches-several-frozen-food-private-label-products"
+    },
+    {
+      "topic": "Protein-forward refrigerated meals gaining space as fresh-feeling alternatives",
+      "direction": "up",
+      "magnitude": "Refrigerated and frozen soup market projected at $3.1B in 2026 and $7.5B by 2036; refrigerated formats expected to hold about 58%",
+      "context": "The same shopper needs shaping frozen pizza—convenience, satiety, protein and less-processed cues—are showing up in adjacent prepared meal categories. Real Dough should keep premium crust and ingredient claims tied to practical meal value, not only artisan language.",
+      "source_url": "https://progressivegrocer.com/soup-category-reach-18b-year-steady-growth-forecasted"
+    },
+    {
+      "topic": "Specialty grocery expansion tied to tighter self-distribution",
+      "direction": "up",
+      "magnitude": "Sprouts is targeting more than 40 new stores this year and planning growth around a roughly 250-mile distribution-center radius",
+      "context": "Natural and specialty grocers are scaling with more controlled logistics and private-brand capacity. For premium frozen brands, channel opportunity may grow, but distribution reliability and retail-ready data will matter more as specialty chains professionalize their networks.",
+      "source_url": "https://www.grocerydive.com/news/sprouts-farmers-market-distribution-store-growth/827442/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Food Lion frozen private-label snack pricing",
+      "value": "$1.99 mini pizza bagels; $3.99 pepperoni pizza bites",
+      "change": "Part of 11 new frozen private-brand breakfast and snack/appetizer SKUs",
+      "source_url": "https://www.supermarketnews.com/private-label/food-lion-launches-several-frozen-food-private-label-products"
+    },
+    {
+      "metric": "U.S. soup category size and refrigerated/frozen outlook",
+      "value": "About $18B soup category in 2026; refrigerated/frozen soup projected from $3.1B in 2026 to $7.5B by 2036",
+      "change": "Refrigerated soup formats expected to hold about 58% of the refrigerated/frozen segment",
+      "source_url": "https://progressivegrocer.com/soup-category-reach-18b-year-steady-growth-forecasted"
+    },
+    {
+      "metric": "Sprouts store-growth and self-distribution model",
+      "value": "More than 40 planned openings this year; stores planned within about 250 miles of distribution centers",
+      "change": "Around 85% of stores now carry fresh meat flowing through Sprouts' own distribution centers",
+      "source_url": "https://www.grocerydive.com/news/sprouts-farmers-market-distribution-store-growth/827442/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Food Lion launches several frozen food private label products",
+      "source_url": "https://www.supermarketnews.com/private-label/food-lion-launches-several-frozen-food-private-label-products"
+    },
+    {
+      "headline": "Soup Category to Reach $18B This Year, With Steady Growth Forecasted",
+      "source_url": "https://progressivegrocer.com/soup-category-reach-18b-year-steady-growth-forecasted"
+    },
+    {
+      "headline": "How Sprouts balances self-distribution and store growth",
+      "source_url": "https://www.grocerydive.com/news/sprouts-farmers-market-distribution-store-growth/827442/"
+    }
+  ]
+}
