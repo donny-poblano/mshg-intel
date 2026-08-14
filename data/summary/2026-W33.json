@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-14",
+  "week": "2026-W33",
+  "headline": "Frozen is showing selective strength while pizza-adjacent pressure builds; Real Dough should tighten proof on value, clean ingredients and retailer-ready product data.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Market intel feed is current through 2026-08-14 with five daily reports for ISO week 33.",
+        "Frozen foods outperformed the broader grocery basket in the latest Circana/210 Analytics read: frozen food units were up 0.2% while total food and beverage units fell 0.9%; frozen snacks rose 3.2% and frozen baked goods rose 3.7%.",
+        "Real Dough's clean sourdough positioning fits the week's regulatory and shopper signals: FDA is moving toward mandatory notifications for self-affirmed GRAS ingredients, making simple-ingredient documentation more important.",
+        "Hospitality reputation signal remains healthy across the Merriment Social group: Google ratings in data/reviews.json are 4.4 Merriment Social, 4.5 Third Coast Provisions, 4.5 Flourchild Pizza and 4.7 The Loon Room."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Pizza-adjacent competition is widening beyond finished pies: JusRol added 2,900-plus U.S. placements, including Walmart pizza dough expansion to 2,106 Family Size Pizza Crust stores and 476 Snap Pizza Dough stores.",
+        "Private-label value pressure is active in frozen pizza-adjacent snacks: Food Lion added mini pizza bagels and pepperoni pizza bites at $1.99-$3.99 price points.",
+        "Retail buyers remain under margin and traffic pressure: Supermarket News scored July grocery at 48, with earnings at 40 despite stronger visit trends.",
+        "AI and e-commerce readiness moved up the retailer agenda: Kroger reported 19% online sales growth, while grocery AI commentary emphasized complete product metadata for ingredients, allergens, prep time, dietary fit and recipe use cases."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "Audit Real Dough retailer/PDP data for AI and e-commerce discovery: sourdough proof, Wisconsin origin, prep time, allergens, ingredient claims, serving occasions and recipe-use language should be complete and machine-readable.",
+        "Build a defensible value comparison versus lower-priced private-label pizza snacks and refrigerated pizza dough; do not rely on premium cues alone.",
+        "Prepare supplier and ingredient documentation for retailer quality reviews in case FDA GRAS scrutiny raises buyer questions on processing inputs.",
+        "Ask agency to focus next creative brief on clean sourdough proof plus practical meal value; there is no current analytics feed in this repo to claim which creative won this week."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The strongest defensible story this week is market fit, not campaign performance: frozen is holding up better than the total grocery basket, clean-ingredient scrutiny is rising, and retailers need products that are easy to find, explain and convert online.",
+    "what_didnt": "No current paid, organic social or content-performance analytics source is wired into this repo, so there is no defensible basis here to identify winning creative, channel efficiency or spend performance for the week.",
+    "recommendation": "Position Real Dough as premium frozen pizza with proof: real sourdough process, clean ingredients, clear prep convenience, Wisconsin origin and concrete meal value. Make the same claims consistent across retailer PDPs, agency copy and sales materials.",
+    "competitive_context": "JusRol is scaling pizza dough at Walmart and Wegmans, Food Lion is pushing low-price pizza-adjacent frozen snacks, Crafty Ramen is entering more than 4,000 U.S. shelves, and Sprouts continues expanding around tighter self-distribution. Retailers are still open to differentiated frozen products, but they will expect sharper value rationale and cleaner execution data."
+  },
+  "data_quality": {
+    "missing": [
+      "Current paid/social/content analytics source is not wired into this repo; no weekly campaign-performance claims were made.",
+      "No current Real Dough sales, velocity, distribution or promo-performance feed is available from the approved sources for this run."
+    ],
+    "stale": [],
+    "anomalies": []
+  },
+  "sources": [
+    "data/reviews.json",
+    "data/intel/2026-08-10-daily.json",
+    "data/intel/2026-08-11-daily.json",
+    "data/intel/2026-08-12-daily.json",
+    "data/intel/2026-08-13-daily.json",
+    "data/intel/2026-08-14-daily.json"
+  ]
+}
