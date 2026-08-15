@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-15",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "C&S Wholesale Grocers / Winn-Dixie",
+      "action": "Supermarket News reported C&S Wholesale Grocers agreed to acquire a majority stake in Winn-Dixie, with the transaction expected to close in early 2027. The move adds Winn-Dixie to a retail portfolio that already includes Family Fare, Martin's Super Markets, D&W Fresh Markets, VG's Markets, Piggly Wiggly and Grand Union, and C&S said it sees further retail-footprint opportunity especially in the Southeast.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/mergers-acquisitions/c-s-to-buy-majority-stake-in-winn-dixie",
+      "first_reported": "2026-08-15",
+      "status": "new"
+    },
+    {
+      "name": "Jerry's Enterprises / Cub Foods / UNFI",
+      "action": "Supermarket News reported Jerry's Enterprises agreed to buy three Twin Cities Cub Foods stores from UNFI. The stores will remain under the Cub banner, while UNFI's retail sales were down about 10% year over year in fiscal Q3 and same-store sales were down 4%.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/mergers-acquisitions/jerry-s-buys-three-cub-foods-locations",
+      "first_reported": "2026-08-15",
+      "status": "new"
+    },
+    {
+      "name": "Kroger",
+      "action": "Supermarket News reported Kroger's July foot traffic fell 0.22%, ranking 13th among 16 grocery retailers in a Jefferies analysis, and declined 0.66% over the prior three months. Kroger is also testing price reductions on thousands of items before broader rollout.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/kroger-s-traffic-has-been-declining",
+      "first_reported": "2026-08-15",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Regional grocery consolidation tied to supply-chain scale",
+      "direction": "up",
+      "magnitude": "C&S is moving from minority investor to majority owner of Winn-Dixie and supplies regional grocers from a 1 million-square-foot Miami warehouse",
+      "context": "Supplier-retailer consolidation can change route-to-market expectations for emerging frozen brands, especially around scale, cost discipline and regional category priorities.",
+      "source_url": "https://www.supermarketnews.com/mergers-acquisitions/c-s-to-buy-majority-stake-in-winn-dixie"
+    },
+    {
+      "topic": "Upper Midwest banners shifting stores to stronger local operators",
+      "direction": "up",
+      "magnitude": "Jerry's is buying three Twin Cities Cub stores while UNFI retail comps were down 4%",
+      "context": "Regional banners near Real Dough's home market are still being rationalized. Operator changes can affect reset timing, local assortment decisions and willingness to support premium regional frozen products.",
+      "source_url": "https://www.supermarketnews.com/mergers-acquisitions/jerry-s-buys-three-cub-foods-locations"
+    },
+    {
+      "topic": "Traditional grocers using price cuts to defend traffic",
+      "direction": "up",
+      "magnitude": "Kroger traffic -0.22% in July and -0.66% over three months; traditional grocery traffic was nearly flat at +0.01%",
+      "context": "Traffic pressure at mainstream grocers reinforces buyer focus on value and promotion performance. Premium frozen brands should expect closer scrutiny of price gaps and repeat velocity.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/kroger-s-traffic-has-been-declining"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "C&S / Winn-Dixie retail footprint signal",
+      "value": "About 170 Winn-Dixie locations remained after Aldi retained about 220 stores for conversion; transaction expected to close early 2027",
+      "change": "C&S would become majority owner after previously acquiring a minority stake through a private-investor consortium",
+      "source_url": "https://www.supermarketnews.com/mergers-acquisitions/c-s-to-buy-majority-stake-in-winn-dixie"
+    },
+    {
+      "metric": "UNFI retail performance and Cub store transfer",
+      "value": "Three Twin Cities Cub Foods stores moving to Jerry's Enterprises",
+      "change": "UNFI retail sales down about 10% year over year in fiscal Q3; same-store sales down 4%",
+      "source_url": "https://www.supermarketnews.com/mergers-acquisitions/jerry-s-buys-three-cub-foods-locations"
+    },
+    {
+      "metric": "Kroger traffic trend",
+      "value": "-0.22% July traffic; -0.66% over three months",
+      "change": "Traditional grocery traffic was nearly flat at +0.01%; Kroger ranked 13th among 16 retailers in the Jefferies analysis",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/kroger-s-traffic-has-been-declining"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "C&S to buy majority stake in Winn-Dixie",
+      "source_url": "https://www.supermarketnews.com/mergers-acquisitions/c-s-to-buy-majority-stake-in-winn-dixie"
+    },
+    {
+      "headline": "Jerry's buys three Cub Foods locations",
+      "source_url": "https://www.supermarketnews.com/mergers-acquisitions/jerry-s-buys-three-cub-foods-locations"
+    },
+    {
+      "headline": "Kroger's traffic has been declining",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/kroger-s-traffic-has-been-declining"
+    }
+  ]
+}
