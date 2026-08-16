@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-16",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Aldi / Mama Cozzi's",
+      "action": "Snack Food & Wholesale Bakery reported Aldi's August Finds include multiple limited-time Mama Cozzi's frozen pizza SKUs: Cheesy Garlic French Bread Pizza; Thin Crust Jalapeno Popper and Spinach & Artichoke; Thin Crust Bacon Lovers and Chicken Pesto; and Thick Crust Roasted Vegetable and Buffalo Cauliflower. Aldi also added Mama Cozzi's Pepperoni Deep Dish Pizza Singles to permanent rotation.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.snackandbakery.com/articles/116100-aldi-tuns-up-the-summer-snacking-heat-with-august-finds",
+      "first_reported": "2026-08-16",
+      "status": "new"
+    },
+    {
+      "name": "Target / Instacart / Amazon Grocery",
+      "action": "Progressive Grocer reported back-to-school grocery promotions built around protein-forward, clean-label and value meal items. Target added 1,600-plus summer items and is promoting healthy snacks; Instacart's Aug. 10-16 Deal Week includes a free Hot Pockets Italian Style Seasoned Crust Pepperoni Pizza Frozen Sandwich with qualifying orders; and Amazon is merchandising Bagel Bites pizza snacks, frozen entrees and lunchbox staples in back-to-school storefronts.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/target-amazon-and-instacart-launch-massive-back-school-deals",
+      "first_reported": "2026-08-16",
+      "status": "new"
+    },
+    {
+      "name": "FDA / Congress",
+      "action": "Grocery Dive reported the FDA delayed release of its anticipated ultraprocessed-food definition, while Congress is advancing competing label bills and HHS is encouraging legislation. The debate could affect packaged-food claims because proposed definitions may focus on industrial ingredients, additives, added sugars, sodium or saturated fat rather than only nutrition quality.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/ultraprocessed-foods-definition-fda-congress-states/827919/",
+      "first_reported": "2026-08-16",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Value retailers rotating frozen-pizza novelty",
+      "direction": "up",
+      "magnitude": "Aldi listed six limited-time Mama Cozzi's pizza varieties for August plus one permanent deep-dish pizza single.",
+      "context": "Discount banners are using frequent flavor rotations and single-serve formats to keep frozen pizza fresh without moving away from value cues.",
+      "source_url": "https://www.snackandbakery.com/articles/116100-aldi-tuns-up-the-summer-snacking-heat-with-august-finds"
+    },
+    {
+      "topic": "Back-to-school grocery promotions leaning into protein, clean-label and easy frozen meals",
+      "direction": "up",
+      "magnitude": "Target added 1,600-plus summer items; Instacart ran daily free lunchbox giveaways Aug. 10-16; Amazon promoted lunchbox staples from $1, snacks from $2 and college meals from $2.",
+      "context": "Frozen and pizza-adjacent items are being merchandised inside broader family value and convenience occasions rather than only as dinner replacements.",
+      "source_url": "https://progressivegrocer.com/target-amazon-and-instacart-launch-massive-back-school-deals"
+    },
+    {
+      "topic": "Ultraprocessed-food scrutiny moving from certification to possible regulation",
+      "direction": "up",
+      "magnitude": "FDA delayed its definition while two Senate proposals and state-level definitions continue to advance.",
+      "context": "Premium frozen brands with simple ingredient stories may gain shelf and messaging advantage if shoppers and regulators focus more closely on additives and processing level.",
+      "source_url": "https://www.grocerydive.com/news/ultraprocessed-foods-definition-fda-congress-states/827919/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Aldi August Mama Cozzi's frozen pizza activity",
+      "value": "Six limited-time pizza varieties plus Pepperoni Deep Dish Pizza Singles added to permanent rotation",
+      "change": null,
+      "source_url": "https://www.snackandbakery.com/articles/116100-aldi-tuns-up-the-summer-snacking-heat-with-august-finds"
+    },
+    {
+      "metric": "Back-to-school grocery value merchandising",
+      "value": "Target 1,600+ summer items; Instacart daily free items Aug. 10-16 with $10+ orders; Amazon lunchbox staples from $1 and college meals from $2",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/target-amazon-and-instacart-launch-massive-back-school-deals"
+    },
+    {
+      "metric": "Ultraprocessed-food policy status",
+      "value": "FDA definition delayed; Congressional label proposals and state definitions moving ahead",
+      "change": null,
+      "source_url": "https://www.grocerydive.com/news/ultraprocessed-foods-definition-fda-congress-states/827919/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Aldi turns up the summer snacking heat with August Finds",
+      "source_url": "https://www.snackandbakery.com/articles/116100-aldi-tuns-up-the-summer-snacking-heat-with-august-finds"
+    },
+    {
+      "headline": "Target, Amazon and Instacart Launch Massive Back-to-School Deals",
+      "source_url": "https://progressivegrocer.com/target-amazon-and-instacart-launch-massive-back-school-deals"
+    },
+    {
+      "headline": "Will Congress be left to define ultraprocessed foods?",
+      "source_url": "https://www.grocerydive.com/news/ultraprocessed-foods-definition-fda-congress-states/827919/"
+    }
+  ]
+}
