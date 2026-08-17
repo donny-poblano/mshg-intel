@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-17",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "CPG brands and grocery retailers",
+      "action": "Supermarket News reported an Omnisend survey of 1,075 U.S. consumers found 85% believe brands and retailers often use inflation as an excuse to raise prices more than necessary. The same survey found 67% say higher prices have changed how they feel about brands they once liked, and 56% have stopped buying from them.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/most-shoppers-think-cpg-companies-use-inflation-as-an-excuse-report",
+      "first_reported": "2026-08-17",
+      "status": "new"
+    },
+    {
+      "name": "Grocery retailers",
+      "action": "Supermarket News reported Placer.ai data showing 2026 grocery traffic growth is being driven by lower- and middle-income shoppers, more frequent smaller trips and short in-store visits. Visits under 15 minutes accounted for more than 40% of grocery visits in 2025, up from 37.9% in 2022.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/grocery-operations/grocery-growth-in-2026-driven-by-lower-and-middle-income-shoppers-and-shorter-trips",
+      "first_reported": "2026-08-17",
+      "status": "new"
+    },
+    {
+      "name": "Private-label grocery brands",
+      "action": "Supermarket News reported PLMA/Circana data projecting store-brand sales at about $277 billion in 2025, above the 2024 record of $271 billion. Private-label dollar sales were up 4.4% in the first half of 2025 versus 1.1% for national brands, while frozen private-label dollar sales rose 3.8% and units rose 2.1% for the 52 weeks ending June 15.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/private-label/private-label-sales-projected-to-reach-277b-in-2025",
+      "first_reported": "2026-08-17",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "CPG trust pressure from price and shrinkflation",
+      "direction": "up",
+      "magnitude": "85% of surveyed consumers said brands and retailers often use inflation to raise prices more than necessary; 65% said groceries are where shrinkflation is most obvious.",
+      "context": "Premium frozen brands need transparent price/value cues because shoppers are actively reassessing brand trust when prices rise or pack sizes change.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/most-shoppers-think-cpg-companies-use-inflation-as-an-excuse-report"
+    },
+    {
+      "topic": "Smaller, more frequent grocery trips",
+      "direction": "up",
+      "magnitude": "Visits under 15 minutes accounted for more than 40% of grocery visits in 2025, up from 37.9% in 2022.",
+      "context": "Quick-trip behavior makes clear freezer signage, simple claims and fast meal-solution positioning more important for premium frozen pizza discovery.",
+      "source_url": "https://www.supermarketnews.com/grocery-operations/grocery-growth-in-2026-driven-by-lower-and-middle-income-shoppers-and-shorter-trips"
+    },
+    {
+      "topic": "Private label gaining share in frozen and total grocery",
+      "direction": "up",
+      "magnitude": "Private-label dollar sales rose 4.4% in the first half of 2025 versus 1.1% for national brands; frozen private-label dollar sales rose 3.8% for the 52 weeks ending June 15.",
+      "context": "Retailer-owned brands are becoming stronger frozen-aisle competitors as shoppers prioritize value but continue to reward perceived quality and innovation.",
+      "source_url": "https://www.supermarketnews.com/private-label/private-label-sales-projected-to-reach-277b-in-2025"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Consumer skepticism toward CPG pricing",
+      "value": "85% say brands and retailers often use inflation as an excuse to raise prices more than necessary",
+      "change": null,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/most-shoppers-think-cpg-companies-use-inflation-as-an-excuse-report"
+    },
+    {
+      "metric": "Short grocery trip share",
+      "value": "More than 40% of grocery visits lasted under 15 minutes in 2025",
+      "change": "Up from 37.9% in 2022",
+      "source_url": "https://www.supermarketnews.com/grocery-operations/grocery-growth-in-2026-driven-by-lower-and-middle-income-shoppers-and-shorter-trips"
+    },
+    {
+      "metric": "Projected 2025 private-label sales",
+      "value": "$277B",
+      "change": "Up from the 2024 record of $271B; frozen private-label dollar sales up 3.8% for the 52 weeks ending June 15",
+      "source_url": "https://www.supermarketnews.com/private-label/private-label-sales-projected-to-reach-277b-in-2025"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Most shoppers think CPG companies use inflation as an excuse: report",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/most-shoppers-think-cpg-companies-use-inflation-as-an-excuse-report"
+    },
+    {
+      "headline": "Grocery growth in 2026 driven by lower- and middle-income shoppers and shorter trips",
+      "source_url": "https://www.supermarketnews.com/grocery-operations/grocery-growth-in-2026-driven-by-lower-and-middle-income-shoppers-and-shorter-trips"
+    },
+    {
+      "headline": "Private-label sales projected to reach $277B in 2025",
+      "source_url": "https://www.supermarketnews.com/private-label/private-label-sales-projected-to-reach-277b-in-2025"
+    }
+  ]
+}
