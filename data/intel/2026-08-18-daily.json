@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-18",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Grocery retailers / AI and store technology",
+      "action": "Progressive Grocer's 2026 Grocery Tech Trends Study found that nearly all surveyed grocery retailers expect technology investment to increase or stay flat this year, with nearly two-thirds planning to spend more than last year. The study is based on 70 retailers surveyed in March and April and highlights AI moving from experimentation toward implementation.",
+      "category": "technology",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/2026-grocery-tech-trends-study",
+      "first_reported": "2026-08-18",
+      "status": "new"
+    },
+    {
+      "name": "Schnuck Markets",
+      "action": "Schnucks added two customer-facing digital tools: an AI shopping assistant on its app and website and a revamped interactive weekly ad. The assistant can build shopping lists, suggest meal ideas from ingredients customers have, and provide personalized nutrition guidance; the weekly ad lets shoppers clip coupons, add items to lists or carts, and view product details.",
+      "category": "technology",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/schnucks-new-digital-tools-shoppers-artificial-intelligence/827758/",
+      "first_reported": "2026-08-18",
+      "status": "new"
+    },
+    {
+      "name": "Ferrero Group / Purely Elizabeth",
+      "action": "Ferrero Group signed an agreement to acquire Purely Elizabeth, a Boulder-based better-for-you breakfast brand with granola, oatmeal, cereal and protein products. Ferrero said it will support continued innovation, operations and expanded distribution while Purely Elizabeth remains a stand-alone brand led by founder and CEO Elizabeth Stein.",
+      "category": "acquisition",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/ferrero-group-acquiring-purely-elizabeth",
+      "first_reported": "2026-08-18",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Grocery AI moving into shopper-facing execution",
+      "direction": "up",
+      "magnitude": "Nearly two-thirds of surveyed retailers plan higher tech spending in 2026",
+      "context": "Retailers are shifting AI from pilots toward digital shelf, shopping-list, promotion and nutrition use cases. Real Dough should keep product attributes, prep guidance, diet flags and promotion data complete for retailer systems.",
+      "source_url": "https://progressivegrocer.com/2026-grocery-tech-trends-study"
+    },
+    {
+      "topic": "Midwest grocers tying promotions to AI-assisted meal planning",
+      "direction": "up",
+      "magnitude": "Schnucks: 112 stores across Missouri, Illinois and Indiana",
+      "context": "Schnucks' AI assistant and interactive ad connect weekly deals, product details, shopping lists and carts. Premium frozen pizza discovery will increasingly depend on being readable as a meal solution inside retailer apps and ads.",
+      "source_url": "https://www.grocerydive.com/news/schnucks-new-digital-tools-shoppers-artificial-intelligence/827758/"
+    },
+    {
+      "topic": "Strategic buyers consolidating better-for-you pantry brands",
+      "direction": "up",
+      "magnitude": "Ferrero follows WK Kellogg deal with Purely Elizabeth acquisition agreement",
+      "context": "Scaled CPG companies continue buying premium wellness brands rather than only building them internally. This can raise distribution expectations and competitive support levels in natural and premium grocery sets.",
+      "source_url": "https://progressivegrocer.com/ferrero-group-acquiring-purely-elizabeth"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Grocery retailers planning higher technology spend in 2026",
+      "value": "Nearly two-thirds of Progressive Grocer's 70 surveyed retailers",
+      "change": "up vs. last year",
+      "source_url": "https://progressivegrocer.com/2026-grocery-tech-trends-study"
+    },
+    {
+      "metric": "Schnucks regional footprint for new digital tools",
+      "value": "112 stores across Missouri, Illinois and Indiana",
+      "change": null,
+      "source_url": "https://www.grocerydive.com/news/schnucks-new-digital-tools-shoppers-artificial-intelligence/827758/"
+    },
+    {
+      "metric": "Purely Elizabeth operating plan after Ferrero deal",
+      "value": "Stand-alone brand within Ferrero Group; founder/CEO Elizabeth Stein remains in role",
+      "change": "pending acquisition expected to close in the next few months",
+      "source_url": "https://progressivegrocer.com/ferrero-group-acquiring-purely-elizabeth"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The 2026 Grocery Tech Trends Study",
+      "summary": "Progressive Grocer reports broad retailer tech-spend resilience and AI moving toward implementation.",
+      "source_url": "https://progressivegrocer.com/2026-grocery-tech-trends-study"
+    },
+    {
+      "headline": "Schnucks beefs up its digital tools for shoppers",
+      "summary": "Grocery Dive reports Schnucks launched an AI shopping assistant and interactive weekly ad with coupon and cart functions.",
+      "source_url": "https://www.grocerydive.com/news/schnucks-new-digital-tools-shoppers-artificial-intelligence/827758/"
+    },
+    {
+      "headline": "Ferrero Group Acquiring Purely Elizabeth",
+      "summary": "Progressive Grocer reports Ferrero signed an agreement to acquire the better-for-you breakfast brand.",
+      "source_url": "https://progressivegrocer.com/ferrero-group-acquiring-purely-elizabeth"
+    }
+  ]
+}
