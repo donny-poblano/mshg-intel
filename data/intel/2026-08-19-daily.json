@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-19",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Hy-Vee / Prodx",
+      "action": "Progressive Grocer reported Hy-Vee is using Prodx to structure and enrich nearly 265,000 products across its online shopping platform, standardizing an average of seven attributes per SKU across more than 1,200 attribute types and 5,800 active categories. The product data supports buy-again, substitutions, personalization, recommendations and digital merchandising.",
+      "category": "technology",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/how-hy-vee-making-online-shopping-decisions-easier-and-faster",
+      "first_reported": "2026-08-19",
+      "status": "new"
+    },
+    {
+      "name": "AppCard / independent grocers",
+      "action": "Supermarket News reported AppCard launched a Digital Circular that uses its Pinky AI to convert static weekly ads into clickable circulars. Sale-item clicks can trigger recipes from a library of more than 6,500 recipes and add required ingredients to a shopping list, while offsite ads can be targeted using spend patterns, ZIP code and POS data.",
+      "category": "technology",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/grocery-technology/appcard-gives-independent-grocers-another-tool",
+      "first_reported": "2026-08-19",
+      "status": "new"
+    },
+    {
+      "name": "Specialty Food Association / Summer Fancy Food Show brands",
+      "action": "The Specialty Food Association's Trendspotter Panel said specialty food innovation is applying global flavors to familiar comfort formats, citing butter chicken frozen pizza and beef shawarma pizza as examples. The panel also called out bite-sized premium formats, ingredient-forward positioning and craft aesthetics as emerging specialty food signals.",
+      "category": "trend_report",
+      "relevance_score": 8,
+      "source_url": "https://www.prnewswire.com/news-releases/farm-fresh-bite-sized-inside-out-specialty-food-associations-trendspotter-panel-shares-top-trends-from-the-2026-summer-fancy-food-show-302854140.html",
+      "first_reported": "2026-08-19",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Retailer product-data infrastructure",
+      "direction": "up",
+      "magnitude": "Hy-Vee/Prodx structured nearly 265,000 products across 1,200+ attribute types and 5,800 active categories",
+      "context": "Regional grocers are making digital product attributes a merchandising asset. Real Dough should keep frozen pizza data complete for retailer search, substitutions, diet flags, prep guidance and recommendation engines.",
+      "source_url": "https://progressivegrocer.com/how-hy-vee-making-online-shopping-decisions-easier-and-faster"
+    },
+    {
+      "topic": "AI-powered circulars and recipe-to-basket promotions",
+      "direction": "up",
+      "magnitude": "AppCard's new circular links sale items to 6,500+ recipes and shopping-list adds",
+      "context": "Weekly ads are becoming shoppable meal-planning surfaces. Premium frozen pizza promotions may need to work inside recipe, basket-building and offsite retail-media contexts, not only freezer-door signage.",
+      "source_url": "https://www.supermarketnews.com/grocery-technology/appcard-gives-independent-grocers-another-tool"
+    },
+    {
+      "topic": "Global comfort-food premiumization in specialty frozen",
+      "direction": "up",
+      "magnitude": "SFA trendspotters cited butter chicken frozen pizza and beef shawarma pizza among globalized comfort examples",
+      "context": "Specialty buyers are looking for differentiated familiar formats. Real Dough can watch whether premium frozen pizza innovation shifts from crust/process claims alone toward globally inspired toppings and restaurant-style experiences.",
+      "source_url": "https://www.prnewswire.com/news-releases/farm-fresh-bite-sized-inside-out-specialty-food-associations-trendspotter-panel-shares-top-trends-from-the-2026-summer-fancy-food-show-302854140.html"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Hy-Vee product-data enrichment scale",
+      "value": "Nearly 265,000 products structured; average seven attributes per SKU; 1,200+ attribute types; 5,800 active categories",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/how-hy-vee-making-online-shopping-decisions-easier-and-faster"
+    },
+    {
+      "metric": "AppCard recipe library for shoppable circulars",
+      "value": "More than 6,500 kitchen-tested recipes",
+      "change": null,
+      "source_url": "https://www.supermarketnews.com/grocery-technology/appcard-gives-independent-grocers-another-tool"
+    },
+    {
+      "metric": "2026 Summer Fancy Food Show trendspotting scope",
+      "value": "More than 345,000 square feet of exhibitor space reviewed by SFA Trendspotter Panel",
+      "change": null,
+      "source_url": "https://www.prnewswire.com/news-releases/farm-fresh-bite-sized-inside-out-specialty-food-associations-trendspotter-panel-shares-top-trends-from-the-2026-summer-fancy-food-show-302854140.html"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "How Hy-Vee Is Making Online Shopping Decisions Easier and Faster",
+      "summary": "Hy-Vee is using Prodx product-data infrastructure to improve search, personalization, substitutions and digital merchandising.",
+      "source_url": "https://progressivegrocer.com/how-hy-vee-making-online-shopping-decisions-easier-and-faster"
+    },
+    {
+      "headline": "AppCard gives independent grocers another tool",
+      "summary": "AppCard launched an AI-enabled Digital Circular that turns weekly ads into clickable, recipe-linked and offsite-targetable promotions.",
+      "source_url": "https://www.supermarketnews.com/grocery-technology/appcard-gives-independent-grocers-another-tool"
+    },
+    {
+      "headline": "Farm-Fresh, Bite-Sized, Inside-Out: Specialty Food Association's Trendspotter Panel Shares Top Trends from the 2026 Summer Fancy Food Show",
+      "summary": "SFA trendspotters highlighted global comfort classics, bite-sized formats, ingredient-forward positioning and craft aesthetics, including frozen pizza examples.",
+      "source_url": "https://www.prnewswire.com/news-releases/farm-fresh-bite-sized-inside-out-specialty-food-associations-trendspotter-panel-shares-top-trends-from-the-2026-summer-fancy-food-show-302854140.html"
+    }
+  ]
+}
