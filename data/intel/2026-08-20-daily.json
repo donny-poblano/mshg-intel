@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-20",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kraft Heinz",
+      "action": "Food Dive reported Kraft Heinz is extending core brands around unmet dietary needs, including lactose-free Philadelphia cream cheese, gluten-free Velveeta Shells & Cheese, plant-based Kraft Mac & Cheese, extra-protein Kraft Mac & Cheese, no-artificial-color Jell-O and clean-label Heinz Simply. Management said the strategy is to use trusted existing brands rather than build new brands for these need states.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.fooddive.com/news/kraft-heinz-focuses-innovation-to-address-unmet-consumer-diet-needs/825696/",
+      "first_reported": "2026-08-20",
+      "status": "new"
+    },
+    {
+      "name": "Mondelēz / Tate's Bake Shop",
+      "action": "Food Dive reported Mondelēz is using Tate's Bake Shop as a premium growth platform. Tate's has roughly 2% of the $11.2B sweet cookie market, grew 2.5x faster than the category in 2025, and may expand beyond cookies into bake-shop-style items such as brownies, cakes and muffins while preserving its simple-ingredient, small-town premium positioning.",
+      "category": "expansion",
+      "relevance_score": 6,
+      "source_url": "https://www.fooddive.com/news/Mondelez-premium-innovation-tates-chocolate-chip-cookie/821767/",
+      "first_reported": "2026-08-20",
+      "status": "new"
+    },
+    {
+      "name": "Traditional grocers / multicultural specialty competitors",
+      "action": "Grocery Dive reported multicultural grocery demand is rising as shoppers seek global flavors, transparency, sourcing and fresh offerings. Experts said private label can help traditional grocers move beyond generic ethnic aisles, while specialty chains such as H-Mart, T&T, 99 Ranch and Hispanic-focused formats are expanding or experimenting with formats.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/multicultural-grocery-international-food-specialty-expansion-private-label/810823/",
+      "first_reported": "2026-08-20",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Mainstream CPG adapting legacy brands for dietary need states",
+      "direction": "up",
+      "magnitude": "Kraft Heinz cited lactose-free, gluten-free, plant-based, extra-protein, clean-label and no-artificial-color extensions across major brands",
+      "context": "Large CPG players are treating dietary access and cleaner labels as a route back to growth. Real Dough should keep any premium/sourdough claims paired with clear diet, ingredient and processing information for retailer and shopper comparison.",
+      "source_url": "https://www.fooddive.com/news/kraft-heinz-focuses-innovation-to-address-unmet-consumer-diet-needs/825696/"
+    },
+    {
+      "topic": "Premium indulgence as affordable luxury",
+      "direction": "up",
+      "magnitude": "Tate's grew 2.5x faster than the sweet cookie category in 2025 while holding about 2% of an $11.2B market",
+      "context": "Simple-ingredient, bake-shop credibility is scaling inside major CPG portfolios. The signal is relevant to artisan frozen pizza: premium cues need to remain specific and credible as distribution grows.",
+      "source_url": "https://www.fooddive.com/news/Mondelez-premium-innovation-tates-chocolate-chip-cookie/821767/"
+    },
+    {
+      "topic": "Global flavors moving from specialty stores into mainstream assortment strategy",
+      "direction": "up",
+      "magnitude": "Grocery Dive cited expansion by H-Mart, T&T, 99 Ranch and Hispanic-focused formats, plus private-label opportunity for traditional grocers",
+      "context": "Retailers are looking for localized, authentic assortment rather than catch-all ethnic sections. Premium frozen pizza innovation may face more demand for credible global flavor formats and community-relevant assortments.",
+      "source_url": "https://www.grocerydive.com/news/multicultural-grocery-international-food-specialty-expansion-private-label/810823/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Kraft Heinz dietary-need innovation target",
+      "value": "$2B incremental net sales goal by 2027 through portfolio innovation",
+      "change": null,
+      "source_url": "https://www.fooddive.com/news/kraft-heinz-focuses-innovation-to-address-unmet-consumer-diet-needs/825696/"
+    },
+    {
+      "metric": "Tate's premium cookie position",
+      "value": "About 2% share of the $11.2B sweet cookie market; 2025 sales growth 2.5x faster than category",
+      "change": "mid-single-digit annual growth",
+      "source_url": "https://www.fooddive.com/news/Mondelez-premium-innovation-tates-chocolate-chip-cookie/821767/"
+    },
+    {
+      "metric": "Latino consumer share noted in multicultural grocery coverage",
+      "value": "Latino consumers make up about 20% of the U.S. population and overindex at specialty grocers cited by Grocery Dive",
+      "change": null,
+      "source_url": "https://www.grocerydive.com/news/multicultural-grocery-international-food-specialty-expansion-private-label/810823/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Kraft Heinz focuses innovation to address ‘unmet’ consumer diet needs",
+      "summary": "Kraft Heinz is using major legacy brands to enter lactose-free, gluten-free, plant-based, protein and clean-label need states.",
+      "source_url": "https://www.fooddive.com/news/kraft-heinz-focuses-innovation-to-address-unmet-consumer-diet-needs/825696/"
+    },
+    {
+      "headline": "Mondelēz takes big bite of premium cookie market with Tate’s",
+      "summary": "Mondelēz is positioning Tate's as a premium, simple-ingredient growth platform with potential to expand beyond cookies.",
+      "source_url": "https://www.fooddive.com/news/Mondelez-premium-innovation-tates-chocolate-chip-cookie/821767/"
+    },
+    {
+      "headline": "Multicultural grocery demand is rising. Here’s what grocers can do.",
+      "summary": "Grocery Dive reported rising demand for global flavors, localized assortments and private-label multicultural products.",
+      "source_url": "https://www.grocerydive.com/news/multicultural-grocery-international-food-specialty-expansion-private-label/810823/"
+    }
+  ]
+}
