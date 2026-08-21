@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-21",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Newman's Own",
+      "action": "Food Dive reported Newman's Own is refreshing its positioning for millennial shoppers, including pizza packaging that adds protein callouts and shifts from legacy charity language to 'Great Ingredients. Greater purpose' and '100% of profits help kids in need.' The brand is also using retail media at Walmart, Target, Amazon, Kroger and other accounts to support the updated message.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://www.fooddive.com/news/newmans-own-bets-on-its-purpose-driven-heritage-to-engage-millennials/828373/",
+      "first_reported": "2026-08-21",
+      "status": "new"
+    },
+    {
+      "name": "Food manufacturers / meal-solution brands",
+      "action": "Supermarket News summarized Circana's 41st annual Eating Patterns in America report: 86% of food occasions are still sourced from home; 48% of adults are seeking more protein, up 7 points from last year; and half of all meals now take less than five minutes to prepare. Frozen dinners and entrées account for close to 5% of in-home occasions, up from less than 1% in the 1980s.",
+      "category": "trend_report",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/protein-and-convenience-shape-meals-for-consumers",
+      "first_reported": "2026-08-21",
+      "status": "new"
+    },
+    {
+      "name": "B&G Foods / Green Giant / Nortera Foods",
+      "action": "Food Dive reported Canada's Competition Bureau is seeking to block B&G Foods' sale of its Canadian Green Giant and Le Sueur vegetable brands to Nortera Foods, saying Nortera already dominates certain canned and frozen vegetable categories through Del Monte and Arctic Gardens. The case signals regulatory scrutiny around consolidation in frozen and shelf-stable grocery categories.",
+      "category": "acquisition",
+      "relevance_score": 6,
+      "source_url": "https://www.fooddive.com/news/bg-foods-green-giant-sale-antitrust-concerns-canada/828368/",
+      "first_reported": "2026-08-21",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Purpose-led frozen pizza packaging is getting more functional",
+      "direction": "up",
+      "magnitude": "Newman's Own added protein callouts to refreshed pizza boxes while keeping its 100%-profits-to-charity claim visible",
+      "context": "A direct frozen-pizza competitor is combining ingredient, nutrition and purpose cues rather than relying on mission language alone. Real Dough should keep sourdough and ingredient claims specific enough to work on pack and in retailer search.",
+      "source_url": "https://www.fooddive.com/news/newmans-own-bets-on-its-purpose-driven-heritage-to-engage-millennials/828373/"
+    },
+    {
+      "topic": "At-home meals remain dominant while speed and protein shape choices",
+      "direction": "up",
+      "magnitude": "Circana: 86% of food occasions sourced from home; 48% of adults seeking more protein; half of meals prepared in under five minutes",
+      "context": "Frozen pizza competes inside a convenience-led home meal set, not just against delivery pizza. Protein, speed and clear meal utility are becoming stronger comparison points for shoppers and retailers.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/protein-and-convenience-shape-meals-for-consumers"
+    },
+    {
+      "topic": "Frozen-category consolidation is drawing antitrust attention",
+      "direction": "up",
+      "magnitude": "Canada's Competition Bureau says Nortera's proposed Green Giant/Le Sueur acquisition could combine Del Monte with its only major national brand competitor in certain vegetable categories",
+      "context": "Regulators are watching concentration in freezer and shelf-stable aisles. For emerging premium frozen brands, supplier concentration and retailer scrutiny can affect category resets and buyer appetite for differentiated alternatives.",
+      "source_url": "https://www.fooddive.com/news/bg-foods-green-giant-sale-antitrust-concerns-canada/828368/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Newman's Own lifetime charitable giving",
+      "value": "More than $600M given to charities; refreshed packaging emphasizes 100% of profits help kids in need",
+      "change": "Packaging refreshed for pizzas, dressings and beverages; remaining portfolio planned for Q4 or Q1",
+      "source_url": "https://www.fooddive.com/news/newmans-own-bets-on-its-purpose-driven-heritage-to-engage-millennials/828373/"
+    },
+    {
+      "metric": "Circana Eating Patterns in America protein and convenience indicators",
+      "value": "86% of food occasions sourced from home; 48% of adults seeking more protein; 8.5% of adults using GLP-1s; frozen dinners/entrées close to 5% of in-home occasions",
+      "change": "Protein seeking up 7 points year over year; GLP-1 use up from 4.8% last year",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/protein-and-convenience-shape-meals-for-consumers"
+    },
+    {
+      "metric": "B&G Foods Canadian Green Giant transaction status",
+      "value": "Canada's Competition Bureau asked the Competition Tribunal to block Nortera's proposed purchase of the Canadian Green Giant and Le Sueur brands",
+      "change": "B&G said it is evaluating legal, regulatory and operational alternatives after expecting a Q2 2026 close",
+      "source_url": "https://www.fooddive.com/news/bg-foods-green-giant-sale-antitrust-concerns-canada/828368/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Newman’s Own bets on its purpose-driven heritage to engage millennials",
+      "summary": "Food Dive reported Newman's Own is refreshing pizza packaging, retail media and social messaging around ingredients, protein callouts and child-focused charitable purpose.",
+      "source_url": "https://www.fooddive.com/news/newmans-own-bets-on-its-purpose-driven-heritage-to-engage-millennials/828373/"
+    },
+    {
+      "headline": "Protein and convenience shape meals for consumers",
+      "summary": "Supermarket News reported Circana data showing at-home occasions, protein seeking and sub-five-minute meal prep remain central to consumer eating patterns.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/protein-and-convenience-shape-meals-for-consumers"
+    },
+    {
+      "headline": "B&G Foods’ Green Giant sale runs into antitrust concerns in Canada",
+      "summary": "Food Dive reported Canadian regulators are seeking to block Nortera's proposed purchase of B&G's Canadian Green Giant and Le Sueur brands over frozen and canned vegetable concentration concerns.",
+      "source_url": "https://www.fooddive.com/news/bg-foods-green-giant-sale-antitrust-concerns-canada/828368/"
+    }
+  ]
+}
