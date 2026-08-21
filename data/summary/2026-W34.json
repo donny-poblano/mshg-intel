@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-21",
+  "week": "2026-W34",
+  "headline": "Retailer AI, private label value pressure and protein/convenience messaging all moved up this week; Real Dough needs cleaner product-data execution and sharper value proof.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Market intel feed is current through 2026-08-21 with seven daily reports for ISO week 34.",
+        "The at-home meal occasion remains large: Circana data cited this week says 86% of food occasions are sourced from home, with half of meals prepared in under five minutes.",
+        "Premium/simple-ingredient positioning still has room: Tate's grew 2.5x faster than the sweet cookie category in 2025, and Ferrero is acquiring better-for-you brand Purely Elizabeth as a stand-alone growth platform.",
+        "Hospitality reputation signal remains healthy across the Merriment Social group: Google ratings in data/reviews.json are 4.4 Merriment Social, 4.5 Third Coast Provisions, 4.5 Flourchild Pizza and 4.7 The Loon Room."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Retailer AI and digital shelf execution is now practical, not theoretical: Schnucks launched an AI shopping assistant, AppCard tied digital circulars to 6,500-plus recipes, and Hy-Vee structured nearly 265,000 products for search, substitutions and recommendations.",
+        "Private label and value pressure are direct frozen-aisle issues: store-brand sales are projected at $277B in 2025, with frozen private-label dollar sales up 3.8% for the 52 weeks ending June 15.",
+        "Aldi is keeping frozen pizza fresh with six limited-time Mama Cozzi's pizza varieties plus permanent Pepperoni Deep Dish Pizza Singles, reinforcing price-led novelty competition.",
+        "Shoppers are skeptical of price moves: an Omnisend survey cited by Supermarket News found 85% think brands and retailers often use inflation to raise prices more than necessary."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "Audit Real Dough retailer product data this week: ingredients, allergens, sourdough proof, protein or nutrition facts, prep time, serving occasion, images and substitution tags need to be complete for retailer AI/search systems.",
+        "Build a value-proof sheet for buyers that compares Real Dough against private-label frozen pizza and Aldi-style limited-time novelty without pretending premium alone is enough.",
+        "Pressure-test pack and PDP copy for the themes competitors are using now: protein, convenience, clean ingredients, purpose/origin and five-minute meal utility.",
+        "Ask agency for creative that makes sourdough process and at-home convenience obvious in the first frame; no current analytics feed is wired into this repo to claim which creative won this week."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The strongest defensible story is product-market fit: consumers are still eating at home, retailers are investing in AI-enabled meal planning, and simple premium brands continue to attract strategic support.",
+    "what_didnt": "There is no current paid, organic social or content-performance analytics source wired into this repo, so campaign efficiency, creative winners and channel performance cannot be claimed from available data.",
+    "recommendation": "Make Real Dough easier to find, understand and justify: real sourdough process, clean ingredients, Wisconsin origin, simple prep, clear meal occasion and a concrete value argument versus private label and limited-time freezer novelty.",
+    "competitive_context": "Newman's Own is refreshing pizza packaging with ingredient, protein and purpose cues; Kraft Heinz is extending legacy brands into dietary need states; Aldi is rotating Mama Cozzi's frozen pizza formats; and retailer systems from Schnucks, Hy-Vee and AppCard are turning product attributes into shopper-facing discovery and conversion tools."
+  },
+  "data_quality": {
+    "missing": [
+      "Current paid/social/content analytics source is not wired into this repo; no weekly campaign-performance claims were made.",
+      "No current Real Dough sales, velocity, distribution or promo-performance feed is available from the approved current sources for this run."
+    ],
+    "stale": [],
+    "anomalies": []
+  },
+  "sources": [
+    "data/reviews.json",
+    "data/intel/2026-08-15-daily.json",
+    "data/intel/2026-08-16-daily.json",
+    "data/intel/2026-08-17-daily.json",
+    "data/intel/2026-08-18-daily.json",
+    "data/intel/2026-08-19-daily.json",
+    "data/intel/2026-08-20-daily.json",
+    "data/intel/2026-08-21-daily.json"
+  ]
+}
