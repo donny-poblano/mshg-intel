@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-22",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Walmart",
+      "action": "Progressive Grocer reported Numerator data showing Gen Z shoppers added 77 million Walmart trips worth $3.4 billion over the 12 months ended July 31, including nearly $1.2 billion in beverages, snacks, candy and frozen foods. The same report said Boomer in-store CPG spending fell $6.2 billion while lower-income shoppers shifted $7.8 billion of spend away from stores and $7.3 billion online.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/boomers-and-lower-income-households-pull-back-walmart-report",
+      "first_reported": "2026-08-22",
+      "status": "new"
+    },
+    {
+      "name": "Target",
+      "action": "Grocery Dive reported Target's Q2 2026 food and beverage sales grew 7.2% year over year to just under $6 billion. Target also reset almost half of its center-store grocery assortment, added fresh produce space, and expanded high-growth areas such as international foods, snacks, protein bars, meat sticks and better-for-you snacks.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/target-second-quarter-2026-earnings-grocery-food-beverage/828268/",
+      "first_reported": "2026-08-22",
+      "status": "new"
+    },
+    {
+      "name": "Kroger / Ukrop's Homestyle Foods",
+      "action": "Supermarket News reported Kroger is expanding branded Ukrop's prepared-foods sections in Mid-Atlantic stores, including grab-and-go baked goods, salads and prepared meals. A new Midlothian, Virginia, Kroger opening in early September will replace an in-store Starbucks with a Ukrop's department.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/deli/kroger-expands-ukrop-s-prepared-foods-sections",
+      "first_reported": "2026-08-22",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Gen Z and higher-income shoppers driving Walmart frozen-adjacent CPG growth",
+      "direction": "up",
+      "magnitude": "Gen Z added nearly $1.2B in Walmart beverage, snack, candy and frozen-food spend over 12 months; higher-income shoppers added $3.6B in the same categories.",
+      "context": "Frozen and snack-adjacent growth is shifting toward younger and higher-income Walmart shoppers even as legacy Boomer and lower-income in-store traffic weakens. Premium frozen brands should watch Walmart as both a value channel and a discovery channel for younger households.",
+      "source_url": "https://progressivegrocer.com/boomers-and-lower-income-households-pull-back-walmart-report"
+    },
+    {
+      "topic": "Target repositioning grocery as a discovery-led traffic engine",
+      "direction": "up",
+      "magnitude": "Food and beverage sales rose 7.2% year over year in Q2 2026 after less than 1% growth in the year-earlier period.",
+      "context": "Target is using center-store resets and space shifts toward international foods, snacks and fresh produce to strengthen grocery trips. Frozen pizza competitors selling through Target will be judged against broader discovery, better-for-you and meal-solution expectations.",
+      "source_url": "https://www.grocerydive.com/news/target-second-quarter-2026-earnings-grocery-food-beverage/828268/"
+    },
+    {
+      "topic": "Prepared foods expanding as restaurant trade-down competition",
+      "direction": "up",
+      "magnitude": "38% of retailers in SN's 2026 Retailer Expectations Survey planned to expand deli/prepared foods; 66% planned more grab-and-go or prepacked foods.",
+      "context": "Kroger's branded Ukrop's departments show supermarkets leaning harder into prepared meal occasions. Frozen pizza needs a clear at-home value and quality role as shoppers compare freezer options with increasingly prominent store-prepared meals.",
+      "source_url": "https://www.supermarketnews.com/deli/kroger-expands-ukrop-s-prepared-foods-sections"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Walmart Gen Z CPG trip growth",
+      "value": "77M added trips worth $3.4B across stores and online over the 12 months ended July 31",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/boomers-and-lower-income-households-pull-back-walmart-report"
+    },
+    {
+      "metric": "Target Q2 2026 food and beverage sales",
+      "value": "Just under $6B",
+      "change": "+7.2% YoY",
+      "source_url": "https://www.grocerydive.com/news/target-second-quarter-2026-earnings-grocery-food-beverage/828268/"
+    },
+    {
+      "metric": "Retailer prepared-food expansion intent",
+      "value": "38% planned to expand deli/prepared foods; 66% planned more grab-and-go or prepacked foods",
+      "change": null,
+      "source_url": "https://www.supermarketnews.com/deli/kroger-expands-ukrop-s-prepared-foods-sections"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Boomers and Lower-Income Households Pull Back From Walmart: Report",
+      "source_url": "https://progressivegrocer.com/boomers-and-lower-income-households-pull-back-walmart-report",
+      "impact": "Walmart's frozen-adjacent CPG gains are increasingly concentrated in Gen Z and higher-income shoppers, while legacy value shoppers shift channel behavior."
+    },
+    {
+      "headline": "Target’s turnaround gains steam as grocery sales power ahead",
+      "source_url": "https://www.grocerydive.com/news/target-second-quarter-2026-earnings-grocery-food-beverage/828268/",
+      "impact": "Target's grocery reset and strong food/beverage growth raise the merchandising bar for premium frozen and better-for-you meal products."
+    },
+    {
+      "headline": "Kroger expands Ukrop’s prepared-foods sections",
+      "source_url": "https://www.supermarketnews.com/deli/kroger-expands-ukrop-s-prepared-foods-sections",
+      "impact": "Regional branded prepared-food departments are becoming stronger competition for frozen meal and pizza occasions."
+    }
+  ]
+}
