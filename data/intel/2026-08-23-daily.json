@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-23",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Amazon / Whole Foods Market",
+      "action": "Progressive Grocer reported Amazon-owned Whole Foods will open a 45,400-square-foot downtown San Diego store on Sept. 23 with more than 1,500 California-supplied local items. The article also says Whole Foods has about 550 stores, 100 more planned over the next few years, 11 U.S. openings so far this year, and new Daily Shop markets planned for Boston, Chicago and Philadelphia after Amazon closed its Amazon Fresh grocery stores.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/amazon-continues-pivot-heavily-toward-whole-foods-market-banner",
+      "first_reported": "2026-08-23",
+      "status": "new"
+    },
+    {
+      "name": "Gopuff",
+      "action": "Food Dive reported Gopuff expanded its private-label assortment with its first limited-time seasonal lineup across Crave Shoppe and Basically. Additions include pumpkin cake, pumpkin donut holes, mini apple fritters, bourbon salted caramel fudge, apple cider, cakes, coffee pods, cookie thins and snack mixes, available exclusively through Gopuff's app.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.fooddive.com/news/gopuff-expands-private-label-debuts-first-seasonal-product-lineup/828495/",
+      "first_reported": "2026-08-23",
+      "status": "new"
+    },
+    {
+      "name": "Grocery retailers using personalized pricing",
+      "action": "Grocery Dive reported the FTC is seeking public comment on personalized or surveillance pricing, where prices change based on consumer data and inferred willingness to pay. The agency said businesses that fail to disclose how data is used to set prices may violate Section 5 of the FTC Act, while Maryland and Connecticut have already acted on surveillance-pricing limits and more than 40 bills have been introduced across over two dozen states.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/ftc-personalized-surveillance-pricing-customers/828490/",
+      "first_reported": "2026-08-23",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium natural grocery expansion",
+      "direction": "up",
+      "magnitude": "Whole Foods: ~550 stores with 100 more planned",
+      "context": "Amazon is concentrating grocery growth behind Whole Foods and smaller Daily Shop formats, increasing premium and local-assortment competition in urban grocery markets.",
+      "source_url": "https://progressivegrocer.com/amazon-continues-pivot-heavily-toward-whole-foods-market-banner"
+    },
+    {
+      "topic": "Data-led seasonal private label",
+      "direction": "up",
+      "magnitude": "Gopuff private-label portfolio up 20% year to date; private label appears in nearly 1 in 5 orders",
+      "context": "Gopuff is using app ordering and search data to build seasonal private-label assortments, showing how fast-turn retail channels can create private-label snack and bakery launches around demand signals.",
+      "source_url": "https://www.fooddive.com/news/gopuff-expands-private-label-debuts-first-seasonal-product-lineup/828495/"
+    },
+    {
+      "topic": "Personalized grocery pricing scrutiny",
+      "direction": "up",
+      "magnitude": "40-plus state bills introduced across more than two dozen states",
+      "context": "Retailers and delivery platforms face rising trust and compliance risk around shopper-specific prices and data-driven offers.",
+      "source_url": "https://www.grocerydive.com/news/ftc-personalized-surveillance-pricing-customers/828490/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Whole Foods growth pipeline",
+      "value": "~550 current stores; 100 planned over the next few years; 11 U.S. openings so far this year",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/amazon-continues-pivot-heavily-toward-whole-foods-market-banner"
+    },
+    {
+      "metric": "Gopuff private-label penetration",
+      "value": "Private-label portfolio up 20% year to date; private-label products in nearly 1 in 5 orders",
+      "change": "+20% YTD portfolio growth",
+      "source_url": "https://www.fooddive.com/news/gopuff-expands-private-label-debuts-first-seasonal-product-lineup/828495/"
+    },
+    {
+      "metric": "Surveillance-pricing policy activity",
+      "value": "FTC public-comment process underway; Maryland limits and Connecticut bans cited; 40-plus state bills introduced across over two dozen states",
+      "change": null,
+      "source_url": "https://www.grocerydive.com/news/ftc-personalized-surveillance-pricing-customers/828490/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Amazon Continues to Pivot Heavily Toward Whole Foods Market Banner",
+      "source_url": "https://progressivegrocer.com/amazon-continues-pivot-heavily-toward-whole-foods-market-banner"
+    },
+    {
+      "headline": "Gopuff expands private label, debuts first-ever seasonal product lineup",
+      "source_url": "https://www.fooddive.com/news/gopuff-expands-private-label-debuts-first-seasonal-product-lineup/828495/"
+    },
+    {
+      "headline": "The FTC is turning its sights on personalized pricing. What does it mean for customers?",
+      "source_url": "https://www.grocerydive.com/news/ftc-personalized-surveillance-pricing-customers/828490/"
+    }
+  ]
+}
