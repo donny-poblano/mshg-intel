@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-24",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "CAULIPOWER",
+      "action": "Progressive Grocer reported CAULIPOWER debuted High Protein Supreme Pizza, using a Greek yogurt and cauliflower gluten-free crust with 42 grams of protein and 6 grams of fiber. The pizza is launching nationwide at Walmart in August at an $8.26 suggested retail price, with additional retailers planned; CAULIPOWER is also adding a Whole Foods-exclusive limited-time Sweater Weather pizza from Sept. 2 to Nov. 3.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://progressivegrocer.com/caulipower-high-protein-supreme-pizza",
+      "first_reported": "2026-08-24",
+      "status": "new"
+    },
+    {
+      "name": "PORTA",
+      "action": "Foodbevy reported PORTA launched handmade Roman-style frozen pizzas at Target stores nationwide and online, increasing its U.S. retail footprint to 4,500 doors. The rollout includes Pepperoni, Margherita, Mushroom & Fontina, and Sweet & Spicy Soppressata pizzas at $11.99, made with 100% Italian flour and 24-hour slow-fermented dough.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.foodbevy.com/this-week-in-cpg-08-17-2026/",
+      "first_reported": "2026-08-24",
+      "status": "new"
+    },
+    {
+      "name": "TAST!EZ / McCain Foods USA",
+      "action": "Progressive Grocer reported McCain Foods USA's TAST!EZ brand launched Flavor-Fulls, frozen snacks with cheese- and sauce-filled centers. Varieties include Mini Marinara Mozzarella Sticks, Mini Creamy Garlic Mozzarella Sticks, and Cheddar & Bacon Potato Bites, now available at select retailers nationwide including Walmart and Wakefern stores at $4.99 per 11-ounce box.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/tastez-flavor-fulls",
+      "first_reported": "2026-08-24",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Protein-forward frozen pizza",
+      "direction": "up",
+      "magnitude": "CAULIPOWER High Protein Supreme: 42g protein and 6g fiber per pizza",
+      "context": "A direct frozen-pizza competitor is pairing gluten-free crust cues with a high-protein claim and Walmart distribution, raising the functional-nutrition bar in frozen pizza.",
+      "source_url": "https://progressivegrocer.com/caulipower-high-protein-supreme-pizza"
+    },
+    {
+      "topic": "Premium artisan frozen pizza scaling through mass retail",
+      "direction": "up",
+      "magnitude": "PORTA: 4,500 U.S. retail doors after Target nationwide rollout",
+      "context": "Roman-style, slow-fermented, imported-ingredient pizza is moving from specialty/natural credibility into national Target access at a premium $11.99 price point.",
+      "source_url": "https://www.foodbevy.com/this-week-in-cpg-08-17-2026/"
+    },
+    {
+      "topic": "Sauce-built-in frozen snacks",
+      "direction": "up",
+      "magnitude": "TAST!EZ Flavor-Fulls in Walmart and Wakefern stores at $4.99 per 11-ounce box",
+      "context": "Frozen snack brands are reducing prep friction by embedding sauces and targeting air-fryer/oven convenience, adjacent to frozen pizza's quick-meal and snack occasions.",
+      "source_url": "https://progressivegrocer.com/tastez-flavor-fulls"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "CAULIPOWER High Protein Supreme launch specs",
+      "value": "42g protein; 6g fiber; $8.26 SRP; 11.85-ounce box; nationwide Walmart launch in August",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/caulipower-high-protein-supreme-pizza"
+    },
+    {
+      "metric": "PORTA Target rollout",
+      "value": "Target stores nationwide and online; U.S. footprint reaches 4,500 doors; four varieties at $11.99",
+      "change": "Expansion from earlier specialty/natural-channel distribution into Target nationwide",
+      "source_url": "https://www.foodbevy.com/this-week-in-cpg-08-17-2026/"
+    },
+    {
+      "metric": "TAST!EZ Flavor-Fulls launch distribution and price",
+      "value": "Available at select retailers nationwide including Walmart and Wakefern; $4.99 SRP per 11-ounce box",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/tastez-flavor-fulls"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "CAULIPOWER High Protein Supreme Pizza",
+      "source_url": "https://progressivegrocer.com/caulipower-high-protein-supreme-pizza"
+    },
+    {
+      "headline": "PORTA Lands Roman-Style Pizza at Target Nationwide",
+      "source_url": "https://www.foodbevy.com/this-week-in-cpg-08-17-2026/"
+    },
+    {
+      "headline": "TAST!EZ Flavor-Fulls",
+      "source_url": "https://progressivegrocer.com/tastez-flavor-fulls"
+    }
+  ]
+}
