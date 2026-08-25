@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-25",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "The Raley's Companies",
+      "action": "Grocery Dive reported Raley's plans to close three Raley's stores and one Nob Hill Foods location, following three closures earlier in 2026. The company cited local market conditions and long-term financial sustainability while still planning a 40,000-square-foot Raley's O-N-E Market opening in Madera, California, in March 2027.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/the-raleys-companies-to-close-more-stores/828547/",
+      "first_reported": "2026-08-25",
+      "status": "new"
+    },
+    {
+      "name": "Traditional grocers / young-parent shoppers",
+      "action": "Grocery Dive reported AlixPartners findings that younger parents are more likely to split grocery spend across channels, buy online weekly, and purchase prepared foods. AlixPartners warned retailers could lose 15% of loyal customers in five years if they do not adapt to Gen Z families' channel and meal-solution behavior.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/younger-parent-shoppers-loyalty-promotions-grocery/828546/",
+      "first_reported": "2026-08-25",
+      "status": "new"
+    },
+    {
+      "name": "Grocery retailers facing fuel-cost pressure",
+      "action": "Grocery Dive published Upside analysis showing fuel spikes reduce grocery visits and basket value. Across three years and more than 1,000 stores, every 1% increase in gas prices corresponded with a 0.51% drop in grocery visits and a 0.59% drop in grocery revenue, with shoppers cutting extras and switching to store brands.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/fuel-price-impact-grocery-spending-upside/828338/",
+      "first_reported": "2026-08-25",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Regional supermarket footprint discipline",
+      "direction": "up",
+      "magnitude": "Raley's has seven closures scheduled or completed across 2026 and early 2027 while still investing selectively in one new store.",
+      "context": "Regional grocers are pruning weaker locations instead of broad expansion. For Real Dough, account health and store-level velocity matter more when buyers are under pressure to justify freezer space.",
+      "source_url": "https://www.grocerydive.com/news/the-raleys-companies-to-close-more-stores/828547/"
+    },
+    {
+      "topic": "Young families fragmenting grocery trips",
+      "direction": "up",
+      "magnitude": "Almost three-quarters of young parents used at least three channels for groceries in 2025; more than 60% bought groceries online at least weekly.",
+      "context": "Premium frozen pizza needs to work across store, digital, prepared-food and convenience-led shopping contexts. Young-family demand is less tied to one traditional grocer and more tied to fast meal solutions.",
+      "source_url": "https://www.grocerydive.com/news/younger-parent-shoppers-loyalty-promotions-grocery/828546/"
+    },
+    {
+      "topic": "Fuel prices tightening grocery baskets",
+      "direction": "up",
+      "magnitude": "Every 1% gas-price increase aligned with a 0.51% visit decline and 0.59% grocery-revenue decline in Upside's analysis.",
+      "context": "When outside household costs rise, shoppers trim extras and specialty items first. Real Dough's premium positioning needs clear meal value and retailer promo fit during fuel-driven budget pressure.",
+      "source_url": "https://www.grocerydive.com/news/fuel-price-impact-grocery-spending-upside/828338/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Raley's planned and completed closures",
+      "value": "Four additional stores scheduled to close after three earlier 2026 closures; Madera Raley's O-N-E Market planned for March 2027",
+      "change": null,
+      "source_url": "https://www.grocerydive.com/news/the-raleys-companies-to-close-more-stores/828547/"
+    },
+    {
+      "metric": "Young-parent grocery channel fragmentation",
+      "value": "Nearly 75% used at least three grocery channels in 2025; more than 60% bought groceries online weekly; nearly half bought prepared foods weekly",
+      "change": "Retailers risk losing 15% of loyal customers within five years if behavior is not addressed, per AlixPartners",
+      "source_url": "https://www.grocerydive.com/news/younger-parent-shoppers-loyalty-promotions-grocery/828546/"
+    },
+    {
+      "metric": "Gas-price effect on grocery trips and revenue",
+      "value": "Each 1% gas-price increase corresponded with a 0.51% drop in visits and 0.59% drop in grocery revenue across three years and 1,000+ stores",
+      "change": null,
+      "source_url": "https://www.grocerydive.com/news/fuel-price-impact-grocery-spending-upside/828338/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The Raley's Companies to close more stores",
+      "impact": "Regional supermarket closures reinforce tighter store-level scrutiny for premium frozen products.",
+      "source_url": "https://www.grocerydive.com/news/the-raleys-companies-to-close-more-stores/828547/"
+    },
+    {
+      "headline": "Grocers need to pivot as Gen Z families enter the mainstream, report finds",
+      "impact": "Young families' online, multi-channel and prepared-food behavior raises the bar for frozen pizza as a fast meal solution.",
+      "source_url": "https://www.grocerydive.com/news/younger-parent-shoppers-loyalty-promotions-grocery/828546/"
+    },
+    {
+      "headline": "What a fuel price spike really does to the grocery basket",
+      "impact": "Fuel-cost shocks can reduce visits and premium add-ons, making value communication and promo planning more important.",
+      "source_url": "https://www.grocerydive.com/news/fuel-price-impact-grocery-spending-upside/828338/"
+    }
+  ]
+}
