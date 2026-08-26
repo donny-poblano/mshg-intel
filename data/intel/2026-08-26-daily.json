@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-26",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Private label vs. national CPG brands",
+      "action": "Progressive Grocer reported NielsenIQ and World Data Lab findings that 58% of consumers buy what they need without caring whether the product is national brand or private label. The same report said 68% view private label as a good alternative to national brands and 69% see private label as good value for money.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/consumer-loyalty-shifts-away-national-brands-vs-private-labels-report",
+      "first_reported": "2026-08-26",
+      "status": "new"
+    },
+    {
+      "name": "Kroger / frozen new-product finalists",
+      "action": "Supermarket News opened voting for its first Retailer Choice Best New Products Contest and named four frozen finalists: Kroger Private Selection Butter Chicken, Mrs. T's Snack Pierogies, Juicy Lucy and Tem Toa Chicken Pad Thai. The frozen slate is meal-led and global-flavor-heavy rather than pizza-led.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/grocery-categories/supermarket-news-names-finalists-for-first-ever-best-new-products-contest",
+      "first_reported": "2026-08-26",
+      "status": "new"
+    },
+    {
+      "name": "Regional grocers / value execution",
+      "action": "Supermarket News reported the 2026 Grocery Value Study from Intouch Insight, Informa Connect and NexChapter. Regional chains scored 84.3% on in-store execution versus 79.6% for national chains, while product availability was the weakest category at 72.2%.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-operations/industry-first-grocery-value-study-debuts-at-grocerynext",
+      "first_reported": "2026-08-26",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Private-label acceptance broadening beyond value tier",
+      "direction": "up",
+      "magnitude": "58% of consumers said brand type does not matter if the product meets the need; 67% of Gen Z said private label is just as good as national brands.",
+      "context": "Premium frozen pizza cannot rely on national-brand familiarity alone. Quality, relevance and value cues need to be obvious enough to compete with retailer-owned alternatives.",
+      "source_url": "https://progressivegrocer.com/consumer-loyalty-shifts-away-national-brands-vs-private-labels-report"
+    },
+    {
+      "topic": "Frozen innovation judged through meal solutions and global flavors",
+      "direction": "up",
+      "magnitude": "All four Supermarket News frozen finalists are meal or snack solutions; Kroger's finalist is Private Selection Butter Chicken.",
+      "context": "Retailer-facing innovation is rewarding differentiated freezer meals and globally familiar comfort formats. Real Dough should keep crust and ingredient quality tied to a clear meal occasion.",
+      "source_url": "https://www.supermarketnews.com/grocery-categories/supermarket-news-names-finalists-for-first-ever-best-new-products-contest"
+    },
+    {
+      "topic": "Retail value defined by execution, not only price",
+      "direction": "up",
+      "magnitude": "2026 Grocery Value Study: 82.4% overall in-store execution score; product availability lowest at 72.2%; 43% of consumers go first to a retailer site or app for product details.",
+      "context": "For premium frozen products, buyer confidence depends on in-stock reliability, clean digital product data and value claims that survive the full shopping path.",
+      "source_url": "https://www.supermarketnews.com/grocery-operations/industry-first-grocery-value-study-debuts-at-grocerynext"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Private label share of U.S. CPG market",
+      "value": "$330B in U.S. private-label sales; 24% unit share and 23% dollar share of total CPG market, per Circana data cited by Progressive Grocer",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/consumer-loyalty-shifts-away-national-brands-vs-private-labels-report"
+    },
+    {
+      "metric": "Supermarket News frozen product finalists",
+      "value": "Kroger Private Selection Butter Chicken; Mrs. T's Snack Pierogies; Juicy Lucy; Tem Toa Chicken Pad Thai",
+      "change": "Retailer voting open through Sept. 7, with winners expected in late September",
+      "source_url": "https://www.supermarketnews.com/grocery-categories/supermarket-news-names-finalists-for-first-ever-best-new-products-contest"
+    },
+    {
+      "metric": "2026 Grocery Value Study execution scores",
+      "value": "Regional chains 84.3% vs. national chains 79.6%; product availability 72.2%; price and savings 95.7%",
+      "change": null,
+      "source_url": "https://www.supermarketnews.com/grocery-operations/industry-first-grocery-value-study-debuts-at-grocerynext"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Consumer Loyalty Shifts Away From National Brands vs. Private Labels: Report",
+      "impact": "Private-label parity is becoming a direct shelf-positioning challenge for premium frozen brands.",
+      "source_url": "https://progressivegrocer.com/consumer-loyalty-shifts-away-national-brands-vs-private-labels-report"
+    },
+    {
+      "headline": "Supermarket News names finalists for first-ever Best New Products Contest",
+      "impact": "Frozen-category recognition is favoring meal solutions and global comfort formats, including a Kroger private-label finalist.",
+      "source_url": "https://www.supermarketnews.com/grocery-categories/supermarket-news-names-finalists-for-first-ever-best-new-products-contest"
+    },
+    {
+      "headline": "Industry-first Grocery Value Study debuts at GroceryNEXT",
+      "impact": "Availability and digital product clarity remain operational pressure points for brands asking retailers for freezer space.",
+      "source_url": "https://www.supermarketnews.com/grocery-operations/industry-first-grocery-value-study-debuts-at-grocerynext"
+    }
+  ]
+}
