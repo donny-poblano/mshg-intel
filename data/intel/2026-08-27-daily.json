@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-27",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Frozen pizza category / scaled incumbents",
+      "action": "Snack Food & Wholesale Bakery reported Circana data for the 52 weeks ended June 14 showing U.S. frozen pizza sales down 2.4% to $7.3 billion, while Palermo Villa grew 10% to $244 million and Champion Foods grew 17% to $216.8 million. The same report said frozen pizza crusts/dough sales fell 7.2% to $39.9 million.",
+      "category": "pricing",
+      "relevance_score": 9,
+      "source_url": "https://www.snackandbakery.com/articles/116190-pizza-category-encourages-eating-occasions-at-home",
+      "first_reported": "2026-08-27",
+      "status": "new"
+    },
+    {
+      "name": "Redner's Markets",
+      "action": "Grocery Dive reported Redner's will open its ninth Fresh Market concept in Wilmington, Delaware, in October with a larger 'fresh market 2.0' restaurant-style format. The store adds sit-down consumer eateries, on-site meal production and differentiated prepared-food concepts while Redner's continues using centralized commissary and produce-prep operations across its 36 grocery stores, eight fresh markets and 13 convenience stores.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/redners-market-fresh-format-restaurant-in-store-experience-prepared-meals/828822/",
+      "first_reported": "2026-08-27",
+      "status": "new"
+    },
+    {
+      "name": "Simply Good Foods / Owyn",
+      "action": "Food Dive reported investors sued Simply Good Foods over its $280 million Owyn acquisition, alleging a pea-protein supplier change hurt taste, texture and shelf life, leading to negative reviews, sales pressure and distribution losses. Simply Good said the issue is execution-driven rather than category-driven and expects distribution losses over the next six to 12 months while resetting the brand.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.fooddive.com/news/investors-sue-owyn-protein-shake-owner-after-reformulation-led-to-sales-dip/828835/",
+      "first_reported": "2026-08-27",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen pizza dollar growth is concentrating in select scaled challengers",
+      "direction": "mixed",
+      "magnitude": "Category dollars down 2.4%, while Palermo Villa was up 10% and Champion Foods up 17% in Circana's latest 52-week read.",
+      "context": "The category is not broadly expanding, but operators with distinctive platforms, distribution and execution are still gaining share. Real Dough should treat growth as share capture, not category tide.",
+      "source_url": "https://www.snackandbakery.com/articles/116190-pizza-category-encourages-eating-occasions-at-home"
+    },
+    {
+      "topic": "Regional grocers are turning prepared foods into restaurant competition",
+      "direction": "up",
+      "magnitude": "Redner's is expanding from eight Fresh Market stores to a ninth location and adding sit-down eateries plus on-site prepared-food production.",
+      "context": "Fresh prepared meals are competing for the same at-home and trade-down occasions as premium frozen pizza. Retailer foodservice can also shape buyer expectations for freshness and local relevance.",
+      "source_url": "https://www.grocerydive.com/news/redners-market-fresh-format-restaurant-in-store-experience-prepared-meals/828822/"
+    },
+    {
+      "topic": "Protein and clean-label positioning remain execution-sensitive",
+      "direction": "stable",
+      "magnitude": "Owyn owner Simply Good Foods disclosed expected distribution losses over the next six to 12 months after an alleged reformulation and supplier issue.",
+      "context": "Better-for-you claims only help if the product holds up operationally. Ingredient changes that affect taste, texture or shelf life can erase retailer trust quickly.",
+      "source_url": "https://www.fooddive.com/news/investors-sue-owyn-protein-shake-owner-after-reformulation-led-to-sales-dip/828835/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "U.S. frozen pizza sales, latest 52 weeks ended June 14",
+      "value": "$7.3B category sales; Nestlé $2.2B; Schwan's $1.9B; private label $1.1B; Palermo Villa $244M; Champion Foods $216.8M",
+      "change": "Category -2.4%; Palermo Villa +10%; Champion Foods +17%; frozen pizza crusts/dough -7.2% to $39.9M",
+      "source_url": "https://www.snackandbakery.com/articles/116190-pizza-category-encourages-eating-occasions-at-home"
+    },
+    {
+      "metric": "Redner's fresh-format footprint",
+      "value": "36 traditional grocery stores, eight Fresh Markets, 13 Quick Stops; ninth Fresh Market planned for Wilmington, Delaware, in October",
+      "change": "Fresh Market 2.0 adds on-site eateries and restaurant-style prepared meals",
+      "source_url": "https://www.grocerydive.com/news/redners-market-fresh-format-restaurant-in-store-experience-prepared-meals/828822/"
+    },
+    {
+      "metric": "Owyn acquisition and reset exposure",
+      "value": "$280M acquisition; $200M cumulative impairment on brand assets alleged in investor lawsuit; distribution losses expected over the next six to 12 months",
+      "change": "Simply Good Foods stock price alleged to have fallen 70% since the Owyn purchase",
+      "source_url": "https://www.fooddive.com/news/investors-sue-owyn-protein-shake-owner-after-reformulation-led-to-sales-dip/828835/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Pizza category encourages eating occasions at home",
+      "impact": "Frozen pizza is down overall, but Palermo Villa and Champion Foods are still gaining, making share capture and execution more important than category growth assumptions.",
+      "source_url": "https://www.snackandbakery.com/articles/116190-pizza-category-encourages-eating-occasions-at-home"
+    },
+    {
+      "headline": "How Redner's Markets continues to push the envelope with its fresh format",
+      "impact": "Regional grocery prepared foods are becoming stronger competition for premium at-home pizza occasions.",
+      "source_url": "https://www.grocerydive.com/news/redners-market-fresh-format-restaurant-in-store-experience-prepared-meals/828822/"
+    },
+    {
+      "headline": "Investors sue Owyn protein shake owner after reformulation led to sales dip",
+      "impact": "Protein and clean-label growth stories remain vulnerable when supplier changes affect core eating experience or distribution reliability.",
+      "source_url": "https://www.fooddive.com/news/investors-sue-owyn-protein-shake-owner-after-reformulation-led-to-sales-dip/828835/"
+    }
+  ]
+}
