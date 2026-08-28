@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-28",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "General Mills / Target",
+      "action": "Supermarket News reported General Mills has removed certified colors from all U.S. cereals, reaching 90% completion across its U.S. retail portfolio and staying on track to remove certified colors from the full U.S. retail portfolio by the end of 2027. The article also noted Target's move to convert its cereal aisle to products made without certified synthetic colors.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/center-store/general-mills-u-s-cereals-now-without-certified-colors",
+      "first_reported": "2026-08-28",
+      "status": "new"
+    },
+    {
+      "name": "Uncle Giuseppe's Marketplace",
+      "action": "Grocery Dive reported Uncle Giuseppe's will enter Pennsylvania with a King of Prussia store planned for late 2027 and add a Moorestown, New Jersey, store around the same time. Both locations will emphasize house-made mozzarella, pasta, prepared foods, Italian deli, specialty cheeses and imported Italian items.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/uncle-giuseppes-expansion-pennsylvania-southern-new-jersey-grocery/828779/",
+      "first_reported": "2026-08-28",
+      "status": "new"
+    },
+    {
+      "name": "Dollar Tree",
+      "action": "Supermarket News reported Dollar Tree's Q2 net sales rose 7% to $4.9 billion, comparable sales increased 3.7%, and the retailer converted or added about 710 stores to its multi-price format during the quarter, bringing the format to approximately 6,600 stores. The company plans about 400 store openings in fiscal 2026.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/finance/dollar-tree-pops-in-q2",
+      "first_reported": "2026-08-28",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Mainstream clean-label requirements are moving from niche claim to aisle standard",
+      "direction": "up",
+      "magnitude": "General Mills says 90% of its U.S. retail portfolio has completed the certified-color transition; full U.S. retail portfolio target is year-end 2027.",
+      "context": "For dough- and grain-based premium products, cleaner ingredient language is becoming a baseline buyer and shopper expectation rather than a standalone differentiator.",
+      "source_url": "https://www.supermarketnews.com/center-store/general-mills-u-s-cereals-now-without-certified-colors"
+    },
+    {
+      "topic": "Italian specialty grocers are scaling prepared-food and fresh-made credentials",
+      "direction": "up",
+      "magnitude": "Uncle Giuseppe's plans two new Philadelphia-area stores in late 2027 while continuing New York-region expansion.",
+      "context": "Specialty retailers built around fresh Italian food, prepared meals and imported items can shape shopper expectations for authenticity and quality in pizza-adjacent categories.",
+      "source_url": "https://www.grocerydive.com/news/uncle-giuseppes-expansion-pennsylvania-southern-new-jersey-grocery/828779/"
+    },
+    {
+      "topic": "Discount formats are expanding value competition through broader price architecture",
+      "direction": "up",
+      "magnitude": "Dollar Tree ended Q2 with approximately 6,600 multi-price stores and expects fiscal 2026 sales of $20.5B to $20.7B.",
+      "context": "Value-focused retailers are widening assortment flexibility. Premium frozen brands need clear value framing even when they are not competing directly on lowest price.",
+      "source_url": "https://www.supermarketnews.com/finance/dollar-tree-pops-in-q2"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "General Mills certified-color transition",
+      "value": "All U.S. cereals now without certified colors; 90% of U.S. retail portfolio transitioned",
+      "change": "Full U.S. retail portfolio transition targeted by end of 2027",
+      "source_url": "https://www.supermarketnews.com/center-store/general-mills-u-s-cereals-now-without-certified-colors"
+    },
+    {
+      "metric": "Uncle Giuseppe's announced expansion footprint",
+      "value": "King of Prussia, Pennsylvania, and Moorestown, New Jersey, stores planned for late 2027",
+      "change": "Pennsylvania entry plus southern New Jersey expansion; chain to reach 14 stores after Levittown, New York, opens in Q4 2026",
+      "source_url": "https://www.grocerydive.com/news/uncle-giuseppes-expansion-pennsylvania-southern-new-jersey-grocery/828779/"
+    },
+    {
+      "metric": "Dollar Tree Q2 and multi-price expansion",
+      "value": "$4.9B Q2 net sales; +3.7% comparable sales; about 6,600 multi-price stores",
+      "change": "About 710 stores converted or added to multi-price format in Q2; fiscal 2026 sales outlook raised to $20.5B-$20.7B",
+      "source_url": "https://www.supermarketnews.com/finance/dollar-tree-pops-in-q2"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "General Mills' U.S. cereals now without certified colors",
+      "impact": "Clean-label reformulation is becoming mainstream enough to influence retailer assortment standards, not just brand-level positioning.",
+      "source_url": "https://www.supermarketnews.com/center-store/general-mills-u-s-cereals-now-without-certified-colors"
+    },
+    {
+      "headline": "Uncle Giuseppe's Marketplace moves into Pennsylvania",
+      "impact": "Italian specialty grocery and prepared foods are expanding into new regional markets, raising expectations around authenticity, fresh-made cues and meal solutions.",
+      "source_url": "https://www.grocerydive.com/news/uncle-giuseppes-expansion-pennsylvania-southern-new-jersey-grocery/828779/"
+    },
+    {
+      "headline": "Dollar Tree pops in Q2",
+      "impact": "Discount and multi-price formats are strengthening value competition for grocery trips while gaining more assortment flexibility.",
+      "source_url": "https://www.supermarketnews.com/finance/dollar-tree-pops-in-q2"
+    }
+  ]
+}
