@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-28",
+  "week": "2026-W35",
+  "headline": "Frozen pizza competition intensified at Walmart and Target while category dollars declined; Real Dough needs sharper value proof, retailer-ready product data and a defendable sourdough quality story.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Market intel feed is current through 2026-08-28 with five daily reports for ISO week 35.",
+        "Premium artisan pizza can still scale: PORTA expanded handmade Roman-style frozen pizzas to Target nationwide and online, reaching 4,500 U.S. retail doors at an $11.99 price point.",
+        "Target food and beverage momentum is real: Q2 2026 sales grew 7.2% YoY to just under $6B after a broad grocery reset.",
+        "Hospitality reputation signal remains healthy across the Merriment Social group: Google ratings in data/reviews.json are 4.4 Merriment Social, 4.5 Third Coast Provisions, 4.5 Flourchild Pizza and 4.7 The Loon Room."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Frozen pizza is a share-capture fight, not a category tailwind: Circana data cited this week shows U.S. frozen pizza sales down 2.4% to $7.3B, while Palermo Villa grew 10% and Champion Foods grew 17%.",
+        "Functional and better-for-you claims are moving into direct pizza competition: CAULIPOWER launched a High Protein Supreme Pizza at Walmart with 42g protein, 6g fiber and an $8.26 SRP.",
+        "Private-label acceptance is broad: 58% of consumers say brand type does not matter if the product meets the need; 68% view private label as a good alternative to national brands.",
+        "Prepared foods keep encroaching on the same meal occasion: Kroger is expanding Ukrop's prepared-food sections, Redner's is adding restaurant-style Fresh Market formats, and young parents are buying prepared foods weekly."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "Build buyer-facing value proof against private label and prepared-food alternatives: price per meal, ingredient quality, sourdough differentiation, convenience and family-occasion fit.",
+        "Audit every retailer PDP and sell sheet for clean-label, nutrition, protein, fiber, prep-time, serving-size, origin and sourdough-process claims; missing attributes now weaken search, substitution and buyer confidence.",
+        "Pressure-test Real Dough's Walmart/Target story against CAULIPOWER's functional $8.26 pizza and PORTA's $11.99 Target rollout; decide where Real Dough wins and where claims need tightening.",
+        "Ask agency for first-frame creative that makes the at-home meal value obvious: real sourdough, premium ingredients, fast prep and better-than-takeout positioning. Do not claim creative performance until the current analytics source is wired into this repo."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The defensible story this week is premium pizza with proof. PORTA shows a slow-fermented, artisan pizza can earn national Target distribution at a premium price, and Target's grocery growth shows discovery-led retail still has room for strong frozen brands.",
+    "what_didnt": "Generic premium positioning is not enough. Category dollars are down, private label is accepted as a practical substitute, and competitors are using explicit functional claims, price architecture and prepared-meal convenience to win the same occasion.",
+    "recommendation": "Make Real Dough easier to justify at shelf and online: lead with real sourdough process, Wisconsin origin, clean ingredient proof, fast at-home meal utility and a clear value argument versus private label, prepared foods and functional frozen pizza competitors.",
+    "competitive_context": "CAULIPOWER is bringing a 42g-protein gluten-free pizza to Walmart at $8.26; PORTA is scaling Roman-style, 24-hour slow-fermented pizza through Target at $11.99; frozen pizza dollars are down 2.4% while selected challengers gain share; and grocery retailers are pushing private label, prepared foods and digital product execution harder."
+  },
+  "data_quality": {
+    "missing": [
+      "Current paid/social/content analytics source is not wired into this repo; no weekly campaign-performance or creative-winner claims were made.",
+      "No current Real Dough sales, velocity, distribution, promo-performance or retailer PDP-completeness feed is available from the approved current sources for this run."
+    ],
+    "stale": [],
+    "anomalies": []
+  },
+  "sources": [
+    "data/reviews.json",
+    "data/intel/2026-08-24-daily.json",
+    "data/intel/2026-08-25-daily.json",
+    "data/intel/2026-08-26-daily.json",
+    "data/intel/2026-08-27-daily.json",
+    "data/intel/2026-08-28-daily.json"
+  ]
+}
