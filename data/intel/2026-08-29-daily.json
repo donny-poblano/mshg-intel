@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-29",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "ALDI",
+      "action": "Progressive Grocer reported ALDI is using Instagram and Facebook voting to let shoppers choose two future private-label Barissimo Coffee Creamer flavors. ALDI said clean-label creamer sales are up 35% year over year, voting closed Aug. 27, and the winning flavors are planned for shelves early next year.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/aldi-takes-store-strategy-instagram-facebook",
+      "first_reported": "2026-08-29",
+      "status": "new"
+    },
+    {
+      "name": "The Giant Company",
+      "action": "Grocery Dive reported The Giant Company cut hot-bar pricing 10% to $8.99 per pound and added items including cilantro lime rice, Korean BBQ chicken and creamed corn with bacon. The bars operate in 188 of the chain's nearly 200 stores across Pennsylvania, Maryland, Virginia and West Virginia.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/the-giant-company-reduces-hot-bar-price-grocery-supermarkets/828898/",
+      "first_reported": "2026-08-29",
+      "status": "new"
+    },
+    {
+      "name": "Dollar General",
+      "action": "Supermarket News reported Dollar General's Q2 net sales rose 5.2% to about $11.3 billion, same-store sales rose 3.5%, and net income increased 33.8% to about $550.3 million. The retailer reinvested tariff refunds into targeted promotions and lower everyday prices, rolled Value Valley $1 sections to more than 9,000 stores, and is testing/expanding frozen-food 'dollar door' sections.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/finance/dollar-general-gets-q2-boost-from-tariff-refunds-delivery",
+      "first_reported": "2026-08-29",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Private-label development is becoming more participatory and faster-cycle",
+      "direction": "up",
+      "magnitude": "ALDI is letting shoppers select two future Barissimo flavors; clean-label creamer sales are up 35% YoY, per ALDI data cited by Progressive Grocer.",
+      "context": "Retailer-owned brands are using social channels to test demand before committing shelf space. Premium frozen brands need clear shopper proof and fast feedback loops when competing with private-label innovation.",
+      "source_url": "https://progressivegrocer.com/aldi-takes-store-strategy-instagram-facebook"
+    },
+    {
+      "topic": "Prepared-food value competition is intensifying",
+      "direction": "up",
+      "magnitude": "The Giant Company lowered hot-bar pricing by 10% to $8.99 per pound across 188 stores with expanded globally inspired options.",
+      "context": "Lower-priced hot bars compete directly with premium frozen pizza for busy-family dinner and restaurant-replacement occasions.",
+      "source_url": "https://www.grocerydive.com/news/the-giant-company-reduces-hot-bar-price-grocery-supermarkets/828898/"
+    },
+    {
+      "topic": "Dollar-channel food value is moving deeper into frozen",
+      "direction": "up",
+      "magnitude": "Dollar General rolled Value Valley to more than 9,000 stores and said customer response to frozen-food dollar doors has been very strong.",
+      "context": "Dollar formats are using food, snacks and frozen price points to capture trade-down trips, increasing pressure on premium brands to justify price gaps and promotion strategy.",
+      "source_url": "https://www.supermarketnews.com/finance/dollar-general-gets-q2-boost-from-tariff-refunds-delivery"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "ALDI clean-label creamer momentum",
+      "value": "Clean-label creamer sales up 35% year over year",
+      "change": "Two shopper-voted Barissimo flavors planned to hit shelves early next year",
+      "source_url": "https://progressivegrocer.com/aldi-takes-store-strategy-instagram-facebook"
+    },
+    {
+      "metric": "The Giant Company hot-bar reset",
+      "value": "$8.99 per pound after a 10% price reduction; hot bars in 188 stores",
+      "change": "Added options including cilantro lime rice, Korean BBQ chicken and creamed corn with bacon",
+      "source_url": "https://www.grocerydive.com/news/the-giant-company-reduces-hot-bar-price-grocery-supermarkets/828898/"
+    },
+    {
+      "metric": "Dollar General Q2 food-value indicators",
+      "value": "$11.3B net sales; +3.5% same-store sales; about $550.3M net income",
+      "change": "Value Valley rolled to 9,000+ stores; delivery added about 40 basis points to comp sales; frozen dollar-door sections drawing strong response",
+      "source_url": "https://www.supermarketnews.com/finance/dollar-general-gets-q2-boost-from-tariff-refunds-delivery"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "ALDI Takes Store Strategy to Instagram, Facebook",
+      "impact": "ALDI is turning private-label product development into a visible shopper-feedback loop, reinforcing private-label speed and clean-label demand.",
+      "source_url": "https://progressivegrocer.com/aldi-takes-store-strategy-instagram-facebook"
+    },
+    {
+      "headline": "The Giant Company looks to make prepared foods more affordable",
+      "impact": "Grocery hot bars are being priced more aggressively against restaurant and at-home meal occasions, including premium frozen pizza.",
+      "source_url": "https://www.grocerydive.com/news/the-giant-company-reduces-hot-bar-price-grocery-supermarkets/828898/"
+    },
+    {
+      "headline": "Dollar General gets Q2 boost from tariff refunds, delivery",
+      "impact": "Dollar General is strengthening food-value merchandising, including frozen dollar doors, as trade-down and convenience trips remain active.",
+      "source_url": "https://www.supermarketnews.com/finance/dollar-general-gets-q2-boost-from-tariff-refunds-delivery"
+    }
+  ]
+}
