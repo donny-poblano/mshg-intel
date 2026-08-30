@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-30",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Specialty Food Association / Summer Fancy Food Show exhibitors",
+      "action": "Progressive Grocer reported SFA Trendspotters flagged global comfort food, ancient ingredients and artisanal packaging as top Summer Fancy Food Show signals, including butter chicken frozen pizza as an example of differentiating a mature category through familiar formats.",
+      "category": "trend",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/trade-news-tuesday-sfa-trendspotters-unveil-top-specialty-food-trends-driving-industry-forward",
+      "first_reported": "2026-08-26",
+      "status": "new"
+    },
+    {
+      "name": "Northgate González Market",
+      "action": "Grocery Dive reported Northgate González Market is converting its La Habra, California, store into a Mercado González format with nearly a dozen food stalls, including taquería, tamalería, aguas frescas, pastelería and tortillería concepts, with the revamp expected to finish this fall.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/northgate-gonzalez-market-mercado-store-la-habra-california/828661/",
+      "first_reported": "2026-08-25",
+      "status": "new"
+    },
+    {
+      "name": "Aldi / Walmart / Market Basket",
+      "action": "Supermarket News reported The Market Report found Aldi, Walmart and Market Basket were the lowest-price grocers in a Northeast basket study, with Aldi's 50-item basket at $246.13 versus a $353.14 regional average and Aldi's total down almost 11.5% since January.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/aldi-walmart-and-market-basket-are-the-cheapest-in-the-ne",
+      "first_reported": "2026-08-28",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Global comfort flavors in specialty frozen foods",
+      "direction": "up",
+      "magnitude": "SFA cited butter chicken frozen pizza among Summer Fancy Food Show standouts",
+      "context": "Frozen pizza innovation is leaning on globally familiar comfort formats rather than novelty alone, reinforcing the need for Real Dough to tie crust quality to a clear flavor and meal occasion.",
+      "source_url": "https://progressivegrocer.com/trade-news-tuesday-sfa-trendspotters-unveil-top-specialty-food-trends-driving-industry-forward"
+    },
+    {
+      "topic": "Foodservice-forward grocery formats",
+      "direction": "up",
+      "magnitude": "Northgate's second Mercado conversion adds nearly a dozen food stalls",
+      "context": "Regional grocers are using fresh, prepared and culturally specific foodservice to drive traffic and quality perception, raising the competitive bar for frozen meal occasions.",
+      "source_url": "https://www.grocerydive.com/news/northgate-gonzalez-market-mercado-store-la-habra-california/828661/"
+    },
+    {
+      "topic": "Grocery price dispersion and value pressure",
+      "direction": "up",
+      "magnitude": "Aldi basket $246.13 vs. $353.14 regional average in Northeast study",
+      "context": "Visible price gaps keep value retailers advantaged and make premium frozen items depend on strong meal-value framing, not just ingredient claims.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/aldi-walmart-and-market-basket-are-the-cheapest-in-the-ne"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Specialty food and beverage segment size and forecast",
+      "value": "More than $295B in 2025; projected to reach $510B by 2030",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/trade-news-tuesday-sfa-trendspotters-unveil-top-specialty-food-trends-driving-industry-forward"
+    },
+    {
+      "metric": "Northgate González Market footprint and Mercado conversion",
+      "value": "46 Southern California stores; La Habra Mercado revamp expected by fall 2026 with nearly a dozen food stalls",
+      "change": null,
+      "source_url": "https://www.grocerydive.com/news/northgate-gonzalez-market-mercado-store-la-habra-california/828661/"
+    },
+    {
+      "metric": "Northeast grocery basket pricing",
+      "value": "Average 50-item basket $353.14; Aldi $246.13, Walmart $265.85, Lidl $275.52, Market Basket $278.33",
+      "change": "+0.79% average basket price vs. January 2026; Aldi down almost 11.5% since January",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/aldi-walmart-and-market-basket-are-the-cheapest-in-the-ne"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "SFA Trendspotters Spotlight Top Trends from Summer Fancy Food Show",
+      "summary": "Global comfort food, transparent ingredients and muted/artisanal packaging were highlighted, with butter chicken frozen pizza called out as a mature-category differentiator.",
+      "source_url": "https://progressivegrocer.com/trade-news-tuesday-sfa-trendspotters-unveil-top-specialty-food-trends-driving-industry-forward"
+    },
+    {
+      "headline": "Northgate González Market readies to open another Mercado store",
+      "summary": "The La Habra conversion expands Northgate's immersive, foodservice-led Mercado format with nearly a dozen food stalls and artisan/marketplace elements.",
+      "source_url": "https://www.grocerydive.com/news/northgate-gonzalez-market-mercado-store-la-habra-california/828661/"
+    },
+    {
+      "headline": "Aldi, Walmart and Market Basket are the cheapest in the NE",
+      "summary": "A 35-store Northeast study found Aldi, Walmart, Lidl and Market Basket leading on basket price while average prices rose modestly since January.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/aldi-walmart-and-market-basket-are-the-cheapest-in-the-ne"
+    }
+  ]
+}
