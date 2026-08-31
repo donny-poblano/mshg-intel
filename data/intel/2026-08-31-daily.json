@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-31",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Instacart",
+      "action": "Progressive Grocer reported Instacart data showing protein and fiber searches and purchases gaining share in grocery trips. Searches containing 'protein' rose 12.7% in the first half of 2026, 'fiber' searches rose 26.4%, and protein is moving into center-store and frozen-adjacent items including Eggo Protein Waffles and Protein Pints ice cream.",
+      "category": "market_data",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/protein-fiber-gain-bigger-share-todays-grocery-shopping-trips-instacart-report-finds",
+      "first_reported": "2026-08-31",
+      "status": "new"
+    },
+    {
+      "name": "Maya Kaimal",
+      "action": "Maya Kaimal launched a widely available Chinese Indian cuisine line in the United States, including ready-to-eat fried rice and noodle items at Whole Foods Market and Sprouts nationwide plus stir-fry sauces at Sprouts. The products are positioned as clean-label, Non-GMO and free from preservatives and artificial flavors.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/maya-kaimal-chinese-indian-cuisine-line",
+      "first_reported": "2026-08-31",
+      "status": "new"
+    },
+    {
+      "name": "PepsiCo Siete Foods, Kraft Heinz Primal Kitchen, Chosen Foods",
+      "action": "Food Dive reported Texas subpoenaed better-for-you brands as part of an investigation into avocado-oil claims after a UC Davis study found many processed foods labeled as made with avocado oil contained other oils. The probe increases scrutiny on premium ingredient and seed-oil-free positioning.",
+      "category": "regulatory",
+      "relevance_score": 8,
+      "source_url": "https://www.fooddive.com/news/texas-avocado-oil-investigation-pepsico-siete-kraft-heinz-primal-kitchen/828978/",
+      "first_reported": "2026-08-31",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Protein and fiber claims expanding across grocery",
+      "direction": "up",
+      "magnitude": "Protein searches +12.7%; fiber searches +26.4% in H1 2026 on Instacart",
+      "context": "Functional nutrition claims are spreading beyond sports nutrition into center-store and frozen-adjacent products, reinforcing pressure for clear protein, fiber and ingredient communication.",
+      "source_url": "https://progressivegrocer.com/protein-fiber-gain-bigger-share-todays-grocery-shopping-trips-instacart-report-finds"
+    },
+    {
+      "topic": "Mainstream global flavor launches",
+      "direction": "up",
+      "magnitude": "Nationwide Whole Foods and Sprouts rollout",
+      "context": "Retailers are giving shelf space to more specific global cuisines, including Indo-Chinese flavors, rather than broad international-food positioning.",
+      "source_url": "https://progressivegrocer.com/maya-kaimal-chinese-indian-cuisine-line"
+    },
+    {
+      "topic": "Ingredient-authenticity scrutiny",
+      "direction": "up",
+      "magnitude": "Texas subpoenas following UC Davis adulteration findings",
+      "context": "Premium oils and seed-oil-free claims are attracting regulatory and scientific scrutiny, raising proof requirements for better-for-you brands.",
+      "source_url": "https://www.fooddive.com/news/texas-avocado-oil-investigation-pepsico-siete-kraft-heinz-primal-kitchen/828978/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Instacart protein and fiber search growth",
+      "value": "Protein +12.7%; fiber +26.4% in H1 2026 vs. year earlier",
+      "change": "up",
+      "source_url": "https://progressivegrocer.com/protein-fiber-gain-bigger-share-todays-grocery-shopping-trips-instacart-report-finds"
+    },
+    {
+      "metric": "Maya Kaimal Chinese Indian cuisine rollout",
+      "value": "Rice and noodle items at Whole Foods Market and Sprouts nationwide; sauces at Sprouts",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/maya-kaimal-chinese-indian-cuisine-line"
+    },
+    {
+      "metric": "UC Davis avocado-oil authenticity finding cited by Food Dive",
+      "value": "89% of processed foods claiming avocado oil contained other oils",
+      "change": null,
+      "source_url": "https://www.fooddive.com/news/texas-avocado-oil-investigation-pepsico-siete-kraft-heinz-primal-kitchen/828978/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Protein, Fiber Gain Bigger Share of Today's Grocery Shopping Trips, Instacart Report Finds",
+      "source_url": "https://progressivegrocer.com/protein-fiber-gain-bigger-share-todays-grocery-shopping-trips-instacart-report-finds"
+    },
+    {
+      "headline": "Maya Kaimal Chinese Indian Cuisine Line",
+      "source_url": "https://progressivegrocer.com/maya-kaimal-chinese-indian-cuisine-line"
+    },
+    {
+      "headline": "PepsiCo, Kraft Heinz under investigation in Texas over avocado oil claims",
+      "source_url": "https://www.fooddive.com/news/texas-avocado-oil-investigation-pepsico-siete-kraft-heinz-primal-kitchen/828978/"
+    }
+  ]
+}
