@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-01",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kroger",
+      "action": "Grocery Dive reported Kroger will run wellness-focused in-store activations every Friday and Saturday in September and host larger community mini-fests in the Houston, Phoenix, Salt Lake City and Nashville areas. Events include better-for-you product sampling, OptUP Picks, pharmacist and dietitian access, cooking demonstrations, coupons and wellness workshops.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/kroger-wellness-tour-store-events-festivals/829161/",
+      "first_reported": "2026-09-01",
+      "status": "new"
+    },
+    {
+      "name": "Amazon Grocery",
+      "action": "Progressive Grocer reported Amazon Grocery launched a Spend Less on Your Groceries campaign with actress Kathryn Hahn. Amazon is positioning grocery as a value-and-convenience service with fresh and household essentials in the same cart, free same-day delivery over $25 for Prime members, and more than 1,000 Amazon Grocery private-label products mostly priced under $5.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/amazon-grocery-launches-campaign-actress-kathryn-hahn",
+      "first_reported": "2026-09-01",
+      "status": "new"
+    },
+    {
+      "name": "Dollar General / RELEX Solutions",
+      "action": "Progressive Grocer reported Dollar General is deploying RELEX Solutions' AI-driven forecasting, replenishment and allocation platform across North American operations. The system will manage store replenishment, ordering schedules, lead times, supplier coordination and fulfillment methods for a retailer with more than 21,000 stores, 34 distribution centers and about 18,000 SKUs.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/news-briefs/2026-08-28?article=dollar-general-taps-relex-solutions-ai-based-forecasting-replenishment",
+      "first_reported": "2026-09-01",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Health and wellness moving into in-store grocery activation",
+      "direction": "up",
+      "magnitude": "Kroger plans weekly September activations plus four metro-area mini-fests.",
+      "context": "Better-for-you frozen and prepared products will increasingly be merchandised through sampling, dietitian/pharmacy adjacency and retailer health platforms, not only through package claims.",
+      "source_url": "https://www.grocerydive.com/news/kroger-wellness-tour-store-events-festivals/829161/"
+    },
+    {
+      "topic": "E-grocery value messaging tightening around private label and low delivery thresholds",
+      "direction": "up",
+      "magnitude": "Amazon Grocery cited more than 1,000 private-label products, most under $5, and free same-day delivery over $25 for Prime members.",
+      "context": "Premium CPG brands need a clear reason to win search and basket placement when e-grocery platforms lead with private-label affordability and convenience.",
+      "source_url": "https://progressivegrocer.com/amazon-grocery-launches-campaign-actress-kathryn-hahn"
+    },
+    {
+      "topic": "AI replenishment expectations spreading into value retail",
+      "direction": "up",
+      "magnitude": "Dollar General is adding AI planning across more than 21,000 stores, 34 distribution centers and roughly 18,000 SKUs.",
+      "context": "Retail buyers are moving toward more data-driven ordering and allocation; frozen brands need dependable item data, availability and supply coordination to stay competitive.",
+      "source_url": "https://progressivegrocer.com/news-briefs/2026-08-28?article=dollar-general-taps-relex-solutions-ai-based-forecasting-replenishment"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Kroger September wellness activations",
+      "value": "Friday/Saturday in-store activations plus mini-fests in four metro areas",
+      "change": null,
+      "source_url": "https://www.grocerydive.com/news/kroger-wellness-tour-store-events-festivals/829161/"
+    },
+    {
+      "metric": "Amazon Grocery private-label value claim",
+      "value": "1,000+ Amazon Grocery private-label products, most under $5",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/amazon-grocery-launches-campaign-actress-kathryn-hahn"
+    },
+    {
+      "metric": "Dollar General AI replenishment deployment scale",
+      "value": "21,148 stores, 34 distribution centers and approximately 18,000 SKUs",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/news-briefs/2026-08-28?article=dollar-general-taps-relex-solutions-ai-based-forecasting-replenishment"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Kroger amplifies wellness focus with in-store events and ‘mini-fests’",
+      "source_url": "https://www.grocerydive.com/news/kroger-wellness-tour-store-events-festivals/829161/"
+    },
+    {
+      "headline": "Amazon Grocery Launches Campaign With Actress Kathryn Hahn",
+      "source_url": "https://progressivegrocer.com/amazon-grocery-launches-campaign-actress-kathryn-hahn"
+    },
+    {
+      "headline": "Dollar General Taps RELEX Solutions for AI-Based Forecasting, Replenishment",
+      "source_url": "https://progressivegrocer.com/news-briefs/2026-08-28?article=dollar-general-taps-relex-solutions-ai-based-forecasting-replenishment"
+    }
+  ]
+}
