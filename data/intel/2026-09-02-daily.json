@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-02",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Store brands / private label",
+      "action": "Grocery Dive reported Spins findings that Gen Z and millennials accounted for 81% of year-over-year gains in private-label spending for the 52 weeks ending June 14. Spins called out pizza as a category with high young-shopper penetration and low private-label share, making it a target for store-brand innovation.",
+      "category": "market_data",
+      "relevance_score": 9,
+      "source_url": "https://www.grocerydive.com/news/younger-shoppers-private-brand-spins/829224/",
+      "first_reported": "2026-09-02",
+      "status": "new"
+    },
+    {
+      "name": "Sprouts Farmers Market",
+      "action": "Sprouts announced that president and COO Nick Konat will become CEO and join the board on Jan. 4, 2027, while Jack Sinclair becomes executive chairman. Progressive Grocer reported Sprouts expects 42 net new stores this year, with at least 15 openings in Q3, and organic items now represent more than 30% of total sales.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/sprouts-farmers-market-gets-ready-next-gen-ceo",
+      "first_reported": "2026-09-02",
+      "status": "new"
+    },
+    {
+      "name": "Bay Food Brokerage",
+      "action": "Progressive Grocer reported Bay Food Brokerage launched a formal retail division with 28 full-time retail representatives serving stores in eight Southeastern states. The division supports manufacturers with secondary display execution, inventory management, price and promotion verification, planogram integrity and real-time in-store visibility through its BEACON portal.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/bay-food-brokerage-launches-retail-division",
+      "first_reported": "2026-09-02",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Younger shoppers accelerating private-label competition in pizza",
+      "direction": "up",
+      "magnitude": "Gen Z and millennials drove 81% of private-label spending gains; Spins identified pizza as a target category.",
+      "context": "Retailers have a data-backed reason to add or upgrade store-brand pizza, increasing pressure on branded frozen pizza to defend differentiation beyond price.",
+      "source_url": "https://www.grocerydive.com/news/younger-shoppers-private-brand-spins/829224/"
+    },
+    {
+      "topic": "Natural and organic specialty retail expansion",
+      "direction": "up",
+      "magnitude": "Sprouts expects 42 net new stores in 2026, including at least 15 openings in Q3.",
+      "context": "Expansion at a natural/organic retailer increases potential premium grocery doors, but new leadership will likely keep pressure on velocity, innovation and fit with health-oriented shoppers.",
+      "source_url": "https://progressivegrocer.com/sprouts-farmers-market-gets-ready-next-gen-ceo"
+    },
+    {
+      "topic": "CPG in-store execution services becoming more data-enabled",
+      "direction": "up",
+      "magnitude": "Bay Food Brokerage reports 28 full-time retail reps and roughly 30% more store visits by its retail team.",
+      "context": "For emerging frozen and refrigerated brands, sell-in is increasingly paired with proof of shelf execution, promotion compliance and store-level issue detection.",
+      "source_url": "https://progressivegrocer.com/bay-food-brokerage-launches-retail-division"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Private-label spending growth contribution by younger shoppers",
+      "value": "Gen Z 43%, millennials 38%, Gen X 19% of year-over-year private-brand dollar gains",
+      "change": "up",
+      "source_url": "https://www.grocerydive.com/news/younger-shoppers-private-brand-spins/829224/"
+    },
+    {
+      "metric": "Sprouts 2026 store-opening plan",
+      "value": "42 net new stores expected in 2026; at least 15 planned for Q3",
+      "change": "up",
+      "source_url": "https://progressivegrocer.com/sprouts-farmers-market-gets-ready-next-gen-ceo"
+    },
+    {
+      "metric": "Bay Food Brokerage retail execution footprint",
+      "value": "28 full-time retail representatives across eight Southeastern states; store visits up about 30%",
+      "change": "up",
+      "source_url": "https://progressivegrocer.com/bay-food-brokerage-launches-retail-division"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Younger shoppers are driving private label adoption, report finds",
+      "source_url": "https://www.grocerydive.com/news/younger-shoppers-private-brand-spins/829224/"
+    },
+    {
+      "headline": "Sprouts Farmers Market Gets Ready for Next-Gen CEO",
+      "source_url": "https://progressivegrocer.com/sprouts-farmers-market-gets-ready-next-gen-ceo"
+    },
+    {
+      "headline": "Bay Food Brokerage Launches Retail Division",
+      "source_url": "https://progressivegrocer.com/bay-food-brokerage-launches-retail-division"
+    }
+  ]
+}
