@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-03",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kroger",
+      "action": "Grocery Dive reported Kroger named Mark Ibbotson executive vice president and chief store operations officer, effective Sept. 14. Ibbotson is a former Walmart operations and e-commerce executive, and Kroger framed the hire around simplifying store operations, improving frontline execution and building stronger digital and physical capabilities under CEO Greg Foran.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/kroger-mark-ibbotson-chief-store-operations/829501/",
+      "first_reported": "2026-09-03",
+      "status": "new"
+    },
+    {
+      "name": "Chobani",
+      "action": "Progressive Grocer reported Chobani will acquire Keurig Dr Pepper's Allentown, Pennsylvania manufacturing facility and warehouse and invest about $1.2 billion over five years in the 1.5-million-square-foot campus. The site is planned for up to 10 production lines, more than 900 jobs, and new dairy platforms including higher-protein, lower-sugar milk and shakes.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/look-chobanis-growth-strategy-pennsylvania",
+      "first_reported": "2026-09-03",
+      "status": "new"
+    },
+    {
+      "name": "DoorDash / Circana",
+      "action": "Progressive Grocer reported DoorDash added Circana as an independent third-party validator for select Sponsored Products and Sponsored Brands advertisers. The partnership is designed to connect DoorDash media exposure with real purchase behavior and measure incremental demand and new buyers for CPG brands using the platform.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/doordash-teams-circana-bring-independent-validation-ad-measurement",
+      "first_reported": "2026-09-03",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Large grocers tightening store execution",
+      "direction": "up",
+      "magnitude": "Kroger restored a chief store operations role and hired a former Walmart operations and e-commerce executive.",
+      "context": "National grocery accounts are putting more weight on operational consistency, value communication and omnichannel execution, which affects how emerging frozen brands need to support sell-in and in-store follow-through.",
+      "source_url": "https://www.grocerydive.com/news/kroger-mark-ibbotson-chief-store-operations/829501/"
+    },
+    {
+      "topic": "High-protein dairy capacity buildout",
+      "direction": "up",
+      "magnitude": "Chobani plans a $1.2B Allentown investment, up to 10 production lines and more than 3B pounds of Pennsylvania milk sourced annually at full capacity.",
+      "context": "Protein-forward CPG is drawing large manufacturing bets, reinforcing that protein claims and real-ingredient positioning remain important across refrigerated, frozen and meal-adjacent categories.",
+      "source_url": "https://progressivegrocer.com/look-chobanis-growth-strategy-pennsylvania"
+    },
+    {
+      "topic": "Retail media moving toward independently validated incrementality",
+      "direction": "up",
+      "magnitude": "DoorDash cited Circana analysis showing 56% of buyers who purchased on DoorDash during an eight-week campaign did so exclusively on DoorDash.",
+      "context": "CPG marketing spend is being judged more by measurable incremental demand and new-buyer reach, raising the bar for smaller brands considering digital retail media buys.",
+      "source_url": "https://progressivegrocer.com/doordash-teams-circana-bring-independent-validation-ad-measurement"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Kroger store-operations leadership change",
+      "value": "Mark Ibbotson starts as EVP and chief store operations officer on Sept. 14; first Kroger chief store operations officer since 2021.",
+      "change": "new appointment",
+      "source_url": "https://www.grocerydive.com/news/kroger-mark-ibbotson-chief-store-operations/829501/"
+    },
+    {
+      "metric": "Chobani Allentown manufacturing investment",
+      "value": "$1.2B over five years; 1.5M-square-foot campus; more than 900 jobs expected; more than 3B pounds of Pennsylvania milk annually at full capacity.",
+      "change": "capacity expansion",
+      "source_url": "https://progressivegrocer.com/look-chobanis-growth-strategy-pennsylvania"
+    },
+    {
+      "metric": "DoorDash retail-media incrementality signal",
+      "value": "During an eight-week campaign, Circana found 76% of buyers purchased in store only, 13% on DoorDash only, 10% through both, and 56% of DoorDash buyers purchased exclusively on DoorDash.",
+      "change": "new measurement partnership",
+      "source_url": "https://progressivegrocer.com/doordash-teams-circana-bring-independent-validation-ad-measurement"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Kroger taps Walmart tech veteran as store operations chief",
+      "source_url": "https://www.grocerydive.com/news/kroger-mark-ibbotson-chief-store-operations/829501/"
+    },
+    {
+      "headline": "A Look at Chobani’s Growth Strategy in Pennsylvania",
+      "source_url": "https://progressivegrocer.com/look-chobanis-growth-strategy-pennsylvania"
+    },
+    {
+      "headline": "DoorDash Teams With Circana to Bring Independent Validation to Ad Measurement",
+      "source_url": "https://progressivegrocer.com/doordash-teams-circana-bring-independent-validation-ad-measurement"
+    }
+  ]
+}
