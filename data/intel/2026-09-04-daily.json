@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-04",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Dollar General",
+      "action": "Progressive Grocer reported Dollar General's Q2 fiscal 2026 net sales rose 5.2% to $11.3 billion, with same-store sales up 3.5%. Management said customer response to its Dollar Door frozen-food set has been very strong and that the retailer is looking to rapidly expand the set while Project Renovate adds or replaces coolers in mature stores.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://progressivegrocer.com/dollar-generals-sales-grew-52-q2-amid-focus-frozen-food",
+      "first_reported": "2026-09-04",
+      "status": "new"
+    },
+    {
+      "name": "Natural Grocers / DoorDash",
+      "action": "Progressive Grocer reported Natural Grocers added on-demand DoorDash delivery across all 174 stores in 22 states. Nearly all in-store products are available, in-store pricing carries over, and the retailer integrated its free {N}power rewards program into the DoorDash shopping flow.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/natural-grocers-partners-doordash-demand-delivery",
+      "first_reported": "2026-09-04",
+      "status": "new"
+    },
+    {
+      "name": "Hannaford",
+      "action": "Grocery Dive reported Hannaford brought seasonal in-store farm stands back to its stores, sourcing fresh fruits and vegetables from more than 125 local farmers and growers. The Ahold Delhaize USA banner operates 188 supermarkets across Maine, Massachusetts, Vermont, New York and New Hampshire and is using local sourcing as a fresh-department differentiator.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/hannaford-farm-stands-grocery-supermarkets/829534/",
+      "first_reported": "2026-09-04",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Value retailers expanding frozen-food merchandising",
+      "direction": "up",
+      "magnitude": "Dollar General reported Q2 net sales up 5.2%, same-store sales up 3.5%, and strong response to $1 frozen-food coolers.",
+      "context": "Frozen sets are becoming a traffic and value tool in discount retail, increasing pressure on premium frozen brands to justify shelf price and channel fit.",
+      "source_url": "https://progressivegrocer.com/dollar-generals-sales-grew-52-q2-amid-focus-frozen-food"
+    },
+    {
+      "topic": "Natural and organic grocery moving deeper into third-party delivery",
+      "direction": "up",
+      "magnitude": "Natural Grocers added DoorDash delivery at all 174 stores with in-store pricing and loyalty integration.",
+      "context": "Premium and better-for-you CPG items increasingly need digital shelf readiness beyond Instacart, including marketplace availability, item content and loyalty-linked promotion support.",
+      "source_url": "https://progressivegrocer.com/natural-grocers-partners-doordash-demand-delivery"
+    },
+    {
+      "topic": "Local sourcing as supermarket differentiation",
+      "direction": "up",
+      "magnitude": "Hannaford is working with more than 125 local farmers and growers for seasonal in-store farm stands.",
+      "context": "Retailers are building visible local-food programs to support trust and fresh appeal; artisan food brands can benefit when local provenance is easy to merchandise and verify.",
+      "source_url": "https://www.grocerydive.com/news/hannaford-farm-stands-grocery-supermarkets/829534/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Dollar General Q2 fiscal 2026 sales",
+      "value": "$11.3B net sales; +5.2% year over year; +3.5% same-store sales; consumables +5%",
+      "change": "up",
+      "source_url": "https://progressivegrocer.com/dollar-generals-sales-grew-52-q2-amid-focus-frozen-food"
+    },
+    {
+      "metric": "Natural Grocers DoorDash rollout",
+      "value": "174 stores in 22 states; nearly all in-store products available for on-demand or scheduled delivery",
+      "change": "new partnership",
+      "source_url": "https://progressivegrocer.com/natural-grocers-partners-doordash-demand-delivery"
+    },
+    {
+      "metric": "Hannaford local farm-stand sourcing",
+      "value": "More than 125 local farmers and growers supplying seasonal in-store produce stands across a 188-store banner",
+      "change": "seasonal program return",
+      "source_url": "https://www.grocerydive.com/news/hannaford-farm-stands-grocery-supermarkets/829534/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Dollar General's Sales Grew 5.2% in Q2 Amid a Focus on Frozen Food",
+      "source_url": "https://progressivegrocer.com/dollar-generals-sales-grew-52-q2-amid-focus-frozen-food"
+    },
+    {
+      "headline": "Natural Grocers Partners With DoorDash for On-Demand Delivery",
+      "source_url": "https://progressivegrocer.com/natural-grocers-partners-doordash-demand-delivery"
+    },
+    {
+      "headline": "Hannaford brings back seasonal in-store farm stands",
+      "source_url": "https://www.grocerydive.com/news/hannaford-farm-stands-grocery-supermarkets/829534/"
+    }
+  ]
+}
