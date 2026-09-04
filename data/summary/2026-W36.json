@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-04",
+  "week": "2026-W36",
+  "headline": "Retail pressure moved toward value frozen sets, private label and measurable digital grocery; Real Dough needs buyer-ready proof on sourdough differentiation, price justification and digital shelf readiness.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Market intel feed is current through 2026-09-04 with five daily reports for ISO week 36.",
+        "Frozen food is getting incremental retailer attention: Dollar General reported Q2 net sales up 5.2% to $11.3B, same-store sales up 3.5%, and strong response to its Dollar Door frozen-food set.",
+        "Natural and organic channels keep expanding access: Sprouts expects 42 net new stores in 2026, and Natural Grocers added DoorDash delivery across all 174 stores in 22 states.",
+        "Hospitality reputation signal remains healthy across the Merriment Social group: Google ratings in data/reviews.json are 4.4 Merriment Social, 4.5 Third Coast Provisions, 4.5 Flourchild Pizza and 4.7 The Loon Room."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Private label is a direct pizza threat: Spins data cited this week says Gen Z and millennials drove 81% of private-label spending gains, and pizza was called out as a category with high young-shopper penetration and low private-label share.",
+        "Value grocery is tightening the frozen occasion: Amazon Grocery is advertising 1,000+ private-label products mostly under $5, while Dollar General is expanding value-priced frozen merchandising.",
+        "Retailers are raising execution expectations: Kroger added a former Walmart operations/e-commerce executive as chief store operations officer, Dollar General is deploying AI replenishment, and brokers are selling store-level execution visibility.",
+        "Ingredient claims need evidence: avocado-oil subpoenas following UC Davis adulteration findings show premium ingredient and seed-oil-free claims are getting more scrutiny."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "Build a one-page buyer defense against private label: why Real Dough is worth the shelf price, how sourdough changes quality, and which shopper/occasion it wins.",
+        "Audit retailer PDPs and sell sheets for digital grocery readiness: product images, sourdough process, ingredient proof, nutrition, prep time, serving count, UPC/item data and frozen-handling details.",
+        "Use agency creative to make the first-frame value obvious: Wisconsin sourdough, premium ingredients, fast at-home meal, better-than-takeout result. Do not claim creative performance until the current analytics source is wired into this repo.",
+        "Prepare a concise claim-substantiation file for any clean-label, seed-oil, protein, fiber, origin or sourdough-process claims used in packaging, PDPs, ads and buyer decks."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The defensible story is retail-ready differentiation. Frozen doors and delivery access are expanding, but the brands that win will make quality, value and item data easy for buyers, search algorithms and shoppers to understand.",
+    "what_didnt": "Generic premium positioning is not enough. Private label is gaining with younger shoppers, value retailers are leaning into frozen, and e-grocery platforms are training consumers to compare against low-priced private-label alternatives.",
+    "recommendation": "Tighten Real Dough around proof: real sourdough process, Wisconsin origin, clean ingredient substantiation, stronger value-per-meal logic, and complete digital shelf content. Make every claim buyer-defensible and shopper-obvious.",
+    "competitive_context": "This week’s intel points to three pressures: private-label pizza opportunity, value-priced frozen expansion at Dollar General and Amazon Grocery, and higher execution standards across Kroger, DoorDash/Circana, Natural Grocers and retail-broker services."
+  },
+  "data_quality": {
+    "missing": [
+      "Current paid/social/content analytics source is not wired into this repo; no weekly campaign-performance or creative-winner claims were made.",
+      "No current Real Dough sales, velocity, distribution, promo-performance, inventory or retailer PDP-completeness feed is available from the approved current sources for this run."
+    ],
+    "stale": [],
+    "anomalies": []
+  },
+  "sources": [
+    "data/reviews.json",
+    "data/intel/2026-08-31-daily.json",
+    "data/intel/2026-09-01-daily.json",
+    "data/intel/2026-09-02-daily.json",
+    "data/intel/2026-09-03-daily.json",
+    "data/intel/2026-09-04-daily.json"
+  ]
+}
