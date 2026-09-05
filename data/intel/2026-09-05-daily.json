@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-05",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Amazon Grocery",
+      "action": "Progressive Grocer reported Amazon has retrofitted Same-Day facilities with ambient, cooled and frozen zones for perishable grocery delivery, with more retrofits planned. Amazon said monthly active perishables customers are up more than 50% since the start of the year, perishable Same-Day orders average more than 3x the units of nonperishable Same-Day orders, and frozen pizza is one example of items picked from the frozen zone.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://progressivegrocer.com/exclusive-amazons-embrace-perishables",
+      "first_reported": "2026-09-05",
+      "status": "new"
+    },
+    {
+      "name": "Barilla Group / GOODLES",
+      "action": "Progressive Grocer reported Barilla Group will acquire better-for-you mac and cheese brand GOODLES, which will remain a standalone brand with its Santa Cruz headquarters, recipes, ingredients, suppliers and marketing unchanged. GOODLES said it added about 2 million new customers in the last 90 days while more than 90% of U.S. consumers have not yet tried its products.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/barilla-group-acquire-better-you-mac-cheese-brand-goodles",
+      "first_reported": "2026-09-05",
+      "status": "new"
+    },
+    {
+      "name": "In-store bakery retailers",
+      "action": "Supermarket News reported in-store bakery merchandising is becoming more complex as retailers balance product mix, displays, packaging and pricing. FMI's bakery report framed value as a combination of price, quality, convenience, relevance and experience, while merchandising advisors warned that over-assortment, plastic glare and clearance-heavy displays can reduce shopper appeal.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/bakery/variables-add-complexity-to-in-store-bakery-merchandising",
+      "first_reported": "2026-09-05",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Same-day grocery is moving deeper into frozen and perishable execution",
+      "direction": "up",
+      "magnitude": "Amazon said monthly active perishables customers grew more than 50% since the start of the year and perishable Same-Day orders average over 3x more units than nonperishable Same-Day orders.",
+      "context": "Frozen pizza brands need marketplace-ready item data, cold-chain reliability and assortment logic as same-day grocery platforms become a more credible route for frozen and fresh baskets.",
+      "source_url": "https://progressivegrocer.com/exclusive-amazons-embrace-perishables"
+    },
+    {
+      "topic": "Scaled CPGs acquiring better-for-you challenger brands",
+      "direction": "up",
+      "magnitude": "GOODLES reported about 2 million new customers in the last 90 days ahead of Barilla's planned acquisition.",
+      "context": "Large food companies continue using acquisitions to add younger, better-for-you brands rather than relying only on internal renovation.",
+      "source_url": "https://progressivegrocer.com/barilla-group-acquire-better-you-mac-cheese-brand-goodles"
+    },
+    {
+      "topic": "Bakery value is being defined beyond price",
+      "direction": "stable",
+      "magnitude": "FMI framed in-store bakery value as price plus quality, convenience, relevance and experience.",
+      "context": "Artisan and sourdough-positioned products still need clear visual merchandising and value cues; premium alone is not enough if displays create friction or blur.",
+      "source_url": "https://www.supermarketnews.com/bakery/variables-add-complexity-to-in-store-bakery-merchandising"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Amazon perishable Same-Day customer growth",
+      "value": "Monthly active perishables customers up more than 50% since the start of the year; perishable Same-Day orders average over 3x more units than nonperishable Same-Day orders",
+      "change": "up",
+      "source_url": "https://progressivegrocer.com/exclusive-amazons-embrace-perishables"
+    },
+    {
+      "metric": "GOODLES customer penetration signal",
+      "value": "About 2 million new customers in the last 90 days; more than 90% of U.S. consumers have not tried the brand",
+      "change": "new acquisition target",
+      "source_url": "https://progressivegrocer.com/barilla-group-acquire-better-you-mac-cheese-brand-goodles"
+    },
+    {
+      "metric": "In-store bakery value drivers",
+      "value": "FMI bakery report cited price, quality, convenience, relevance and experience as components of shopper value",
+      "change": "merchandising focus",
+      "source_url": "https://www.supermarketnews.com/bakery/variables-add-complexity-to-in-store-bakery-merchandising"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "EXCLUSIVE: Amazon’s Embrace of Perishables",
+      "source_url": "https://progressivegrocer.com/exclusive-amazons-embrace-perishables"
+    },
+    {
+      "headline": "Barilla Group to Acquire Better-For-You Mac & Cheese Brand GOODLES",
+      "source_url": "https://progressivegrocer.com/barilla-group-acquire-better-you-mac-cheese-brand-goodles"
+    },
+    {
+      "headline": "Variables add complexity to in-store bakery merchandising",
+      "source_url": "https://www.supermarketnews.com/bakery/variables-add-complexity-to-in-store-bakery-merchandising"
+    }
+  ]
+}
