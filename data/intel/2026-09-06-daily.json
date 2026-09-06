@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-06",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Meijer",
+      "action": "Progressive Grocer reported Meijer is running six weeks of discounts on a rotating set of more than 1,000 grocery staples through Sept. 8, with price cuts visible on shelf, Meijer.com and the Meijer app. The retailer said a year-long calendar of Meijer-brand essential-item discounts has already saved customers $2.5 million in 2026, with more deep discounts planned for holiday essentials.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/meijer-launches-6-weeks-discounts-1000-grocery-staples",
+      "first_reported": "2026-09-06",
+      "status": "new"
+    },
+    {
+      "name": "Houchens Food Group / Food Saver",
+      "action": "Progressive Grocer reported Houchens Food Group launched Food Saver, a new price-impact grocery banner focused on fresh meat, produce and affordable groceries. Houchens has opened three Food Saver stores over the past two months in Celina, Tenn.; Fort Oglethorpe, Ga.; and Decherd, Tenn., adding a discount format to a 400-plus-store retail portfolio.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/houchens-food-group-launches-price-impact-format-grocery-banner",
+      "first_reported": "2026-09-06",
+      "status": "new"
+    },
+    {
+      "name": "Grocery loyalty programs",
+      "action": "Grocery Dive reported grocers are revamping loyalty programs with digital coupons, customized pricing, member events, tiered programs and automatic rewards redemption as shoppers become more willing to switch stores for value. The article cited recent loyalty activity across formats, including Lidl Plus in the U.S., Sprouts' rewards program and Natural Grocers' {N}power program.",
+      "category": "campaign",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/pardon-the-disruption-grocery-loyalty-program-revolution/829460/",
+      "first_reported": "2026-09-06",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Midwest grocery value pressure",
+      "direction": "up",
+      "magnitude": "Meijer is discounting more than 1,000 staples through Sept. 8 and says Meijer-brand essential discounts have saved customers $2.5 million in 2026.",
+      "context": "Regional retailers are keeping visible price activity high, which raises pressure on premium frozen and artisan items to show clear value beyond ingredient quality.",
+      "source_url": "https://progressivegrocer.com/meijer-launches-6-weeks-discounts-1000-grocery-staples"
+    },
+    {
+      "topic": "Discount formats emphasizing fresh departments",
+      "direction": "up",
+      "magnitude": "Houchens opened three Food Saver stores over two months and describes the banner as a price-impact format centered on fresh meat and produce.",
+      "context": "Value formats are not only competing on center-store price; they are pairing affordability with fresh credibility, narrowing the premium story for specialty food brands.",
+      "source_url": "https://progressivegrocer.com/houchens-food-group-launches-price-impact-format-grocery-banner"
+    },
+    {
+      "topic": "Loyalty programs as value infrastructure",
+      "direction": "up",
+      "magnitude": "Grocery Dive reported broader adoption of digital coupons, customized pricing, member events, tiered programs and automatic rewards redemption.",
+      "context": "Frozen and artisan CPG brands may need retailer-specific loyalty and digital-offer support as grocers use loyalty programs to defend trips and personalize value messaging.",
+      "source_url": "https://www.grocerydive.com/news/pardon-the-disruption-grocery-loyalty-program-revolution/829460/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Meijer staple-discount campaign",
+      "value": "More than 1,000 grocery items discounted on a rotating basis through Sept. 8; selected Meijer-brand essential discounts saved customers $2.5 million in 2026",
+      "change": "active value campaign",
+      "source_url": "https://progressivegrocer.com/meijer-launches-6-weeks-discounts-1000-grocery-staples"
+    },
+    {
+      "metric": "Food Saver launch footprint",
+      "value": "Three new price-impact stores opened in Celina, Tenn.; Fort Oglethorpe, Ga.; and Decherd, Tenn.; Houchens operates 400-plus retail grocery, convenience, hardware and QSR locations across 15 states",
+      "change": "new banner",
+      "source_url": "https://progressivegrocer.com/houchens-food-group-launches-price-impact-format-grocery-banner"
+    },
+    {
+      "metric": "Loyalty program feature set",
+      "value": "Digital coupons, customized pricing, member events, tiered programs and automatic rewards redemption are becoming more common across grocery formats",
+      "change": "broader adoption",
+      "source_url": "https://www.grocerydive.com/news/pardon-the-disruption-grocery-loyalty-program-revolution/829460/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Meijer Launches 6 Weeks of Discounts on 1,000+ Grocery Staples",
+      "source_url": "https://progressivegrocer.com/meijer-launches-6-weeks-discounts-1000-grocery-staples"
+    },
+    {
+      "headline": "Houchens Food Group Launches 'Price Impact Format' Grocery Banner",
+      "source_url": "https://progressivegrocer.com/houchens-food-group-launches-price-impact-format-grocery-banner"
+    },
+    {
+      "headline": "Pardon the Disruption: Is grocery's loyalty boom swaying price-sensitive shoppers?",
+      "source_url": "https://www.grocerydive.com/news/pardon-the-disruption-grocery-loyalty-program-revolution/829460/"
+    }
+  ]
+}
