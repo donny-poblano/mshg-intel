@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-08",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Red Baron / CJ Schwan's",
+      "action": "Food Business News reported CJ Schwan's launched Red Baron Crunchtime, a 10-inch multi-serve frozen pizza designed to cook in a microwave in 5 minutes. The line is available nationally in Pepperoni, Meat Trio and Four Cheese at a $5.99 suggested retail price.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://www.foodbusinessnews.net/articles/30962-schwans-launches-red-baron-crunchtime-pizza",
+      "first_reported": "2026-09-08",
+      "status": "new"
+    },
+    {
+      "name": "The Rustik Oven / Bimbo Bakeries USA",
+      "action": "Progressive Grocer reported The Rustik Oven launched an artisan-style sourdough bagel line nationally at Kroger, Walmart and other major retailers. The products use a 12-hour fermentation and slow-baking process and retail at a $6.19 suggested price for a 4-pack.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/rustik-oven-sourdough-bagels",
+      "first_reported": "2026-09-08",
+      "status": "new"
+    },
+    {
+      "name": "Albertsons Cos.",
+      "action": "Progressive Grocer reported Albertsons opened applications for its 2026 Innovation Launchpad Competition, targeting emerging food, beverage and pet brands with functional beverages, low-sugar or low-carb items, protein solutions, fiber-enhanced foods, global flavors and healthy snacks. Sixty finalists will pitch at Expo West, and three winners will split more than $400,000 in prize packages plus placement consideration across Albertsons banners.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/albertsons-opens-applications-2026-innovation-launchpad-competition",
+      "first_reported": "2026-09-08",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Microwaveable full-size frozen pizza",
+      "direction": "up",
+      "magnitude": "Red Baron is taking a 10-inch, multi-serve microwave pizza national at $5.99 in three SKUs.",
+      "context": "A leading frozen pizza brand is attacking the speed/convenience occasion directly, raising expectations that freezer pizza can compete with fast meal solutions without oven prep.",
+      "source_url": "https://www.foodbusinessnews.net/articles/30962-schwans-launches-red-baron-crunchtime-pizza"
+    },
+    {
+      "topic": "Mainstream retail sourdough claims",
+      "direction": "up",
+      "magnitude": "The Rustik Oven is putting 12-hour fermentation sourdough bagels into Kroger, Walmart and other major retailers nationwide.",
+      "context": "Fermentation and artisan-style bread cues continue moving into mass grocery, making sourdough more familiar to shoppers but also less differentiating unless the process story is specific and credible.",
+      "source_url": "https://progressivegrocer.com/rustik-oven-sourdough-bagels"
+    },
+    {
+      "topic": "Retailer sourcing filters for emerging CPG",
+      "direction": "up",
+      "magnitude": "Albertsons' 2026 Launchpad calls out low-sugar/low-carb, protein, fiber, global flavors, DTC strength and influencer engagement as target attributes.",
+      "context": "Large grocers are spelling out the product and demand-generation signals they want from emerging brands, which can inform how premium frozen and artisan CPG brands prepare buyer materials.",
+      "source_url": "https://progressivegrocer.com/albertsons-opens-applications-2026-innovation-launchpad-competition"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Red Baron Crunchtime launch specs",
+      "value": "10-inch multi-serve microwave frozen pizza; 5-minute cook time; Pepperoni, Meat Trio and Four Cheese; $5.99 SRP; national major retailer and grocer availability",
+      "change": "new national launch",
+      "source_url": "https://www.foodbusinessnews.net/articles/30962-schwans-launches-red-baron-crunchtime-pizza"
+    },
+    {
+      "metric": "The Rustik Oven sourdough bagel launch specs",
+      "value": "Three varieties; 12-hour fermentation; 4-pack, 1-lb 0.8-oz package; $6.19 SRP; Kroger, Walmart and other major retailers nationwide",
+      "change": "national sourdough line launch",
+      "source_url": "https://progressivegrocer.com/rustik-oven-sourdough-bagels"
+    },
+    {
+      "metric": "Albertsons 2026 Innovation Launchpad scope",
+      "value": "60 finalists pitch at Expo West; three winners split more than $400,000 in prizes and placement consideration across Albertsons banners; applications open through Jan. 18",
+      "change": "applications opened",
+      "source_url": "https://progressivegrocer.com/albertsons-opens-applications-2026-innovation-launchpad-competition"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Schwan's launches Red Baron Crunchtime pizza",
+      "source_url": "https://www.foodbusinessnews.net/articles/30962-schwans-launches-red-baron-crunchtime-pizza"
+    },
+    {
+      "headline": "The Rustik Oven Sourdough Bagels",
+      "source_url": "https://progressivegrocer.com/rustik-oven-sourdough-bagels"
+    },
+    {
+      "headline": "Albertsons Opens Applications for 2026 Innovation Launchpad Competition",
+      "source_url": "https://progressivegrocer.com/albertsons-opens-applications-2026-innovation-launchpad-competition"
+    }
+  ]
+}
