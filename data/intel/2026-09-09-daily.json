@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-09",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Farm Rich",
+      "action": "Progressive Grocer reported Farm Rich introduced Pepperoni Pizza Roll-Ups, a frozen snack made with tortillas, marinara dipping sauce, 100% real mozzarella and whole pepperoni slices. The line is available in grocery stores nationwide starting this month at a $4.95 SRP for a 15.25-ounce carton.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/spotlight-farm-rich-pepperoni-pizza-roll-ups",
+      "first_reported": "2026-09-09",
+      "status": "new"
+    },
+    {
+      "name": "Beyond Meat",
+      "action": "Progressive Grocer reported Beyond Meat launched Phytosphere, an online portfolio of powders, savory protein bars, beverages and center-of-plate items built around plant protein, fiber, phytonutrients, adaptogens and other functional claims. The launch includes Beyond Starcut, the company's first savory plant-based jerky bar, and Beyond Veggie burgers with 12g protein and 6g fiber.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/beyond-meat-enters-phytosphere",
+      "first_reported": "2026-09-09",
+      "status": "new"
+    },
+    {
+      "name": "Sprouts Farmers Market",
+      "action": "Progressive Grocer reported Sprouts opened two stores on Sept. 4, in Hartsdale, New York, and Tracy, California, bringing the specialty natural and organic grocer to about 490 stores across 25 states. The Hartsdale unit is Sprouts' second New York store.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/sprouts-farmers-market-debuts-new-stores-new-york-california",
+      "first_reported": "2026-09-09",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Pizza-adjacent frozen snacks",
+      "direction": "up",
+      "magnitude": "Farm Rich is taking Pepperoni Pizza Roll-Ups national at $4.95 for a 15.25-ounce carton.",
+      "context": "Frozen pizza occasions continue fragmenting into handheld and snackable formats, raising competition for quick meal and after-school freezer trips adjacent to full pies.",
+      "source_url": "https://progressivegrocer.com/spotlight-farm-rich-pepperoni-pizza-roll-ups"
+    },
+    {
+      "topic": "Functional plant-based CPG repositioning",
+      "direction": "up",
+      "magnitude": "Beyond Meat's Phytosphere spans protein powder, savory bars, sparkling protein beverages and veggie-forward burgers.",
+      "context": "Better-for-you brands are pairing protein and fiber with broader functional claims; premium frozen pizza will keep facing shopper comparisons around nutrition density, ingredient quality and convenience.",
+      "source_url": "https://progressivegrocer.com/beyond-meat-enters-phytosphere"
+    },
+    {
+      "topic": "Natural and organic grocery footprint expansion",
+      "direction": "up",
+      "magnitude": "Sprouts added Hartsdale, NY and Tracy, CA stores, reaching approximately 490 stores in 25 states.",
+      "context": "Specialty grocers continue opening new doors where premium, natural and regional food brands can build distribution, but those retailers also expect strong product fit and launch support.",
+      "source_url": "https://progressivegrocer.com/sprouts-farmers-market-debuts-new-stores-new-york-california"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Farm Rich Pepperoni Pizza Roll-Ups launch specs",
+      "value": "Nationwide grocery availability; $4.95 SRP; 15.25-ounce carton; marinara dipping sauce included",
+      "change": "new national frozen snack launch",
+      "source_url": "https://progressivegrocer.com/spotlight-farm-rich-pepperoni-pizza-roll-ups"
+    },
+    {
+      "metric": "Beyond Phytosphere portfolio scope",
+      "value": "Protein powder, savory jerky-style bars, veggie-forward burgers and sparkling protein beverages; online availability",
+      "change": "new functional CPG platform launch",
+      "source_url": "https://progressivegrocer.com/beyond-meat-enters-phytosphere"
+    },
+    {
+      "metric": "Sprouts store footprint",
+      "value": "Approximately 490 stores across 25 states after Sept. 4 openings in Hartsdale, NY and Tracy, CA",
+      "change": "two-store expansion; second New York location",
+      "source_url": "https://progressivegrocer.com/sprouts-farmers-market-debuts-new-stores-new-york-california"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "In the Spotlight: Farm Rich Pepperoni Pizza Roll-Ups",
+      "source_url": "https://progressivegrocer.com/spotlight-farm-rich-pepperoni-pizza-roll-ups"
+    },
+    {
+      "headline": "Beyond Meat Enters the Phytosphere",
+      "source_url": "https://progressivegrocer.com/beyond-meat-enters-phytosphere"
+    },
+    {
+      "headline": "Sprouts Farmers Market Debuts New Stores in New York, California",
+      "source_url": "https://progressivegrocer.com/sprouts-farmers-market-debuts-new-stores-new-york-california"
+    }
+  ]
+}
