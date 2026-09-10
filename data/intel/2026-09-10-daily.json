@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-10",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Factor / HelloFresh Group",
+      "action": "Progressive Grocer reported Factor expanded from a 70-plus-store Midwest Target pilot to more than 800 Target stores in 47 states. The refrigerated ready-made meal line added a fifth retail recipe after pilot demand, and Factor said its Target pilot meals became top sellers in the refrigerated meal category.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/factor-grows-nationwide-retail-footprint-target",
+      "first_reported": "2026-09-10",
+      "status": "new"
+    },
+    {
+      "name": "PepsiCo",
+      "action": "Grocery Dive reported PepsiCo is increasing investment in fresh perimeter foods as shoppers move away from processed snacks. Recent activity includes Tostitos refrigerated guacamole and bringing Alvalle gazpacho to the U.S.; PepsiCo cited a $271 billion annual store-perimeter opportunity and said trips to the perimeter grew 15% faster than center-store visits in 2025.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/Pepsico-fresh-food-innovation-strategy-processed/829706/",
+      "first_reported": "2026-09-10",
+      "status": "new"
+    },
+    {
+      "name": "Big Y",
+      "action": "Progressive Grocer reported Big Y's new Saugus, Massachusetts store held its official grand opening on Sept. 10, the chain's second Massachusetts opening this year. The store features local and specialty items including artisan baked breads, fresh mozzarella cups, Prince Pizzeria Take & Bake pizzas, hand-tossed pizza by the slice or whole pie, sushi, subs and paninis.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/big-y-opens-2nd-massachusetts-store-year",
+      "first_reported": "2026-09-10",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Refrigerated ready-made meals entering mass retail",
+      "direction": "up",
+      "magnitude": "Factor expanded to 800-plus Target stores in 47 states after a 70-plus-store pilot.",
+      "context": "Fresh, heat-and-eat meals are gaining national retail shelf space as a fast meal solution, increasing competition for freezer-door dinner occasions on convenience and perceived freshness.",
+      "source_url": "https://progressivegrocer.com/factor-grows-nationwide-retail-footprint-target"
+    },
+    {
+      "topic": "Large CPG shift toward fresh perimeter occasions",
+      "direction": "up",
+      "magnitude": "PepsiCo cited a $271 billion annual store-perimeter opportunity and 2025 perimeter trips growing 15% faster than center-store visits.",
+      "context": "Major center-store brands are reallocating innovation toward refrigerated and fresh-adjacent categories, reinforcing shopper demand for freshness cues and less-processed positioning.",
+      "source_url": "https://www.grocerydive.com/news/Pepsico-fresh-food-innovation-strategy-processed/829706/"
+    },
+    {
+      "topic": "Regional grocers using local prepared foods as differentiation",
+      "direction": "up",
+      "magnitude": "Big Y's Saugus store lists multiple local specialty suppliers plus take-and-bake pizzas and in-store pizza service.",
+      "context": "New-store merchandising is leaning on local, artisan and prepared-food assortments to differentiate supermarkets from discount and mass channels.",
+      "source_url": "https://progressivegrocer.com/big-y-opens-2nd-massachusetts-store-year"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Factor Target retail footprint",
+      "value": "More than 800 Target stores in 47 states; expanded from 70-plus Midwest pilot stores; five refrigerated meal recipes",
+      "change": "national expansion",
+      "source_url": "https://progressivegrocer.com/factor-grows-nationwide-retail-footprint-target"
+    },
+    {
+      "metric": "PepsiCo fresh perimeter opportunity",
+      "value": "$271 billion annual store-perimeter sales; 61% of consumers consider freshness in purchasing; 7 in 10 see perimeter food as higher quality and worth paying more for",
+      "change": "strategic fresh-food investment",
+      "source_url": "https://www.grocerydive.com/news/Pepsico-fresh-food-innovation-strategy-processed/829706/"
+    },
+    {
+      "metric": "Big Y 2026 Massachusetts openings",
+      "value": "Saugus is Big Y's second Massachusetts store opening of 2026; additional Massachusetts stores planned for Fairhaven, North Dartmouth and Norton",
+      "change": "regional supermarket expansion",
+      "source_url": "https://progressivegrocer.com/big-y-opens-2nd-massachusetts-store-year"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Factor Grows Nationwide Retail Footprint at Target",
+      "source_url": "https://progressivegrocer.com/factor-grows-nationwide-retail-footprint-target"
+    },
+    {
+      "headline": "PepsiCo puts fresh foods in focus as consumers move away from processed snacks",
+      "source_url": "https://www.grocerydive.com/news/Pepsico-fresh-food-innovation-strategy-processed/829706/"
+    },
+    {
+      "headline": "Big Y Opens 2nd Massachusetts Store of the Year",
+      "source_url": "https://progressivegrocer.com/big-y-opens-2nd-massachusetts-store-year"
+    }
+  ]
+}
