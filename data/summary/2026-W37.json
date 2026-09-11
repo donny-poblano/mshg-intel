@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-11",
+  "week": "2026-W37",
+  "headline": "Convenience pressure intensified: Red Baron launched a 5-minute microwave pizza, Factor moved into 800+ Target stores, and mainstream retailers are scaling sourdough, fresh-perimeter and prepared-food cues.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Market intel is current through 2026-09-11 with four available daily reports for ISO week 37.",
+        "Sourdough is getting mainstream validation: The Rustik Oven launched 12-hour fermentation sourdough bagels nationally at Kroger, Walmart and other major retailers.",
+        "Premium/natural channels still have momentum: Sprouts reached about 490 stores in 25 states, and UNFI reported fiscal 2026 natural sales up 7% while conventional sales declined more than 11%.",
+        "Hospitality reputation baseline remains strong in data/reviews.json: Google ratings are 4.4 Merriment Social, 4.5 Third Coast Provisions, 4.5 Flourchild Pizza and 4.7 The Loon Room."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Speed is now a direct frozen-pizza battleground: Red Baron Crunchtime is a 10-inch multi-serve pizza with a 5-minute microwave cook time and $5.99 SRP.",
+        "Fresh/refrigerated meals are taking national retail space: Factor expanded from a 70+ store Target pilot to more than 800 Target stores in 47 states.",
+        "Large CPG is moving toward the perimeter: PepsiCo cited a $271B annual store-perimeter opportunity and said perimeter trips grew 15% faster than center-store visits in 2025.",
+        "Frozen pizza occasions are fragmenting into snackable formats: Farm Rich launched Pepperoni Pizza Roll-Ups nationally at $4.95 SRP."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "Pressure-test Real Dough packaging, PDPs and ads against the new speed benchmark: make prep time, crust quality and why-it-is-worth-the-wait explicit.",
+        "Build a buyer slide on defensible sourdough: Wisconsin origin, fermentation/process proof, texture outcome and how Real Dough differs from mass sourdough claims.",
+        "Brief agency to frame creative around three shopper jobs: fast weeknight dinner, better-than-takeout quality and credible sourdough craft. Do not claim paid/social winners until the current analytics source is wired into this repo.",
+        "Track Target, Kroger, Walmart, Sprouts and Albertsons as priority retail context; this week's intel shows each is relevant to frozen, fresh, natural or emerging-brand placement."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The strongest defensible territory is credible sourdough craft tied to a clear meal occasion. Retailers and shoppers are responding to freshness, fermentation, natural-channel differentiation and convenient prepared-food formats.",
+    "what_didnt": "Generic premium language is weaker this week. Competitors are making specific claims around speed, price, national availability, fermentation time, protein/fiber and refrigerated freshness.",
+    "recommendation": "Make Real Dough's sourdough proof and usage case impossible to miss: lead with Wisconsin sourdough, premium frozen convenience, prep expectations and sensory payoff. Separate brand craft from commodity sourdough now that mass retail is using the claim.",
+    "competitive_context": "Red Baron is attacking speed with 5-minute microwave pizza; Factor is attacking convenience from refrigerated Target doors; Farm Rich is attacking snack occasions; The Rustik Oven is mainstreaming sourdough claims; PepsiCo, Sprouts, UNFI, Big Y and Redner's all point to fresh, natural and prepared-food positioning gaining retail energy."
+  },
+  "data_quality": {
+    "missing": [
+      "No data/intel daily file is available for 2026-09-07, so the ISO week 37 market-intel window is partial.",
+      "Current paid/social/content analytics source is not wired into this repo; no campaign-performance, CPC, reach, follower-growth or creative-winner claims were made.",
+      "No current Real Dough sales, velocity, distribution, promo-performance, inventory or retailer PDP-completeness feed is available from the approved current sources for this run."
+    ],
+    "stale": [
+      "data/reviews.json fetchedAt is 2026-07-27T17:00:04.632Z; use it as a reputation baseline only, not a current-week review feed."
+    ],
+    "anomalies": [
+      "Review relativeTime strings in data/reviews.json are not current as of 2026-09-11 because the file was last fetched on 2026-07-27."
+    ]
+  },
+  "sources": [
+    "data/reviews.json",
+    "data/intel/2026-09-08-daily.json",
+    "data/intel/2026-09-09-daily.json",
+    "data/intel/2026-09-10-daily.json",
+    "data/intel/2026-09-11-daily.json"
+  ]
+}
