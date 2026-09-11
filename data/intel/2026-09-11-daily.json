@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-11",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Redner's Markets",
+      "action": "Progressive Grocer reported Redner's Markets will open its first Wilmington, Delaware-area store on Oct. 8 and use the location to debut its Fresh Market 2.0 concept. The 52,000-square-foot store emphasizes in-store eateries and retail islands, including smash burgers, hot doughnuts, seafood meals, artisan breads, store-made fresh mozzarella, prepared foods, frozen foods and organic/gluten-free products.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/redners-markets-open-1st-store-wilmington-market",
+      "first_reported": "2026-09-11",
+      "status": "new"
+    },
+    {
+      "name": "Market 32 / Price Chopper",
+      "action": "Progressive Grocer reported Market 32 and Price Chopper introduced an upgraded bagel assortment and Market 32 gourmet cream cheeses across Capital District stores in New York. The bagels are crafted daily and available individually or in six-packs, while the cream cheese line includes six flavors.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/market-32-and-price-chopper-serve-bagels-and-cream-cheese",
+      "first_reported": "2026-09-11",
+      "status": "new"
+    },
+    {
+      "name": "UNFI",
+      "action": "Grocery Dive reported UNFI's natural segment sales rose more than 6% in fiscal Q4 while conventional sales fell more than 8%. For fiscal 2026, UNFI natural sales increased 7%, conventional sales declined more than 11%, and the distributor added more than 130 private label products over the past year.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/unfi-earnings-fourth-quarter-2026-grocery-wholesale-retail/829758/",
+      "first_reported": "2026-09-11",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Fresh-market supermarket formats with foodservice",
+      "direction": "up",
+      "magnitude": "Redner's Fresh Market 2.0 store adds multiple dedicated eateries plus artisan breads, prepared foods, frozen foods and specialty retail islands.",
+      "context": "Regional grocers are using restaurant-style prepared foods and artisan bakery cues to differentiate stores, increasing competition for premium meal occasions beyond the frozen aisle.",
+      "source_url": "https://progressivegrocer.com/redners-markets-open-1st-store-wilmington-market"
+    },
+    {
+      "topic": "Retailer-owned bakery and dairy pairings",
+      "direction": "up",
+      "magnitude": "Market 32 and Price Chopper added 12 bagel varieties and six gourmet cream cheese flavors across New York Capital District stores.",
+      "context": "Grocers are refreshing bakery-led private label or store-brand assortments around freshness and daily craft cues, which can shape shopper expectations for artisan food claims.",
+      "source_url": "https://progressivegrocer.com/market-32-and-price-chopper-serve-bagels-and-cream-cheese"
+    },
+    {
+      "topic": "Natural and differentiated grocery distribution",
+      "direction": "up",
+      "magnitude": "UNFI natural sales rose more than 6% in Q4 and 7% for fiscal 2026 while conventional sales declined.",
+      "context": "Distributor growth is concentrating around natural, organic, independent and differentiated retailers, suggesting continued buyer interest in products with clear specialty positioning.",
+      "source_url": "https://www.grocerydive.com/news/unfi-earnings-fourth-quarter-2026-grocery-wholesale-retail/829758/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Redner's Fresh Market 2.0 Wilmington store scope",
+      "value": "52,000-square-foot store opening Oct. 8 with in-store eateries, artisan breads, prepared foods, frozen foods, organic/gluten-free products and retail islands",
+      "change": "new market entry and format debut",
+      "source_url": "https://progressivegrocer.com/redners-markets-open-1st-store-wilmington-market"
+    },
+    {
+      "metric": "Market 32 / Price Chopper bagel and cream cheese rollout",
+      "value": "12 bagel varieties; six Market 32 gourmet cream cheese flavors; available across Albany, Fulton, Montgomery, Rensselaer, Saratoga, Schenectady, Schoharie, Warren and Washington counties",
+      "change": "regional bakery/private label refresh",
+      "source_url": "https://progressivegrocer.com/market-32-and-price-chopper-serve-bagels-and-cream-cheese"
+    },
+    {
+      "metric": "UNFI fiscal 2026 natural vs. conventional sales",
+      "value": "Q4 natural sales up more than 6%; Q4 conventional sales down more than 8%; fiscal 2026 natural sales up 7%; fiscal 2026 conventional sales down more than 11%; 130-plus private label products added over the past year",
+      "change": "natural segment outperforming conventional",
+      "source_url": "https://www.grocerydive.com/news/unfi-earnings-fourth-quarter-2026-grocery-wholesale-retail/829758/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Redner's Markets to Open 1st Store in Wilmington Market",
+      "source_url": "https://progressivegrocer.com/redners-markets-open-1st-store-wilmington-market"
+    },
+    {
+      "headline": "Market 32 and Price Chopper Serve Up Bagels and Cream Cheese",
+      "source_url": "https://progressivegrocer.com/market-32-and-price-chopper-serve-bagels-and-cream-cheese"
+    },
+    {
+      "headline": "UNFI's natural sales rise as conventional segment declines",
+      "source_url": "https://www.grocerydive.com/news/unfi-earnings-fourth-quarter-2026-grocery-wholesale-retail/829758/"
+    }
+  ]
+}
