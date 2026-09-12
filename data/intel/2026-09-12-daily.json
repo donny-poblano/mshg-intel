@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-12",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Walmart / Papa Johns",
+      "action": "Progressive Grocer reported Walmart will add Papa Johns ordering to walmart.com and its app under the restaurants tab, with 30-minute-or-less delivery launching at select locations in the coming weeks and expanding to thousands of U.S. locations. Orders can be placed separately or added to an online grocery cart as part of Walmart Express Delivery, with Spark contractors handling delivery.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://progressivegrocer.com/walmart-expands-pizza-delivery-papa-johns",
+      "first_reported": "2026-09-12",
+      "status": "new"
+    },
+    {
+      "name": "Fresh Thyme Market",
+      "action": "Progressive Grocer reported Fresh Thyme's inaugural Pitch Thyme competition will put four Michigan local brands on shelves in late September: Bingo Roasters, Mimidae Beverage Company, Red Truck Orchards and Gnarly Sauce Co. The natural grocer plans in-store sampling and intends to expand the Pitch Thyme model to other Midwest markets.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/fresh-thyme-market-adds-local-brands-michigan-store-shelves",
+      "first_reported": "2026-09-12",
+      "status": "new"
+    },
+    {
+      "name": "Kroger",
+      "action": "Progressive Grocer reported Kroger's Q2 adjusted e-commerce sales rose 20% and retail media grew 24%, while private-label sales grew more than 14%. Kroger said Our Brand sales outpaced national brands, penetration rose about 50 basis points, and recent private-label growth was driven by new products including expanded ready-to-heat and ready-to-eat meals.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/kroger-forges-ahead-investments-shoppers-prices-after-e-commerce-boosted-q2-results",
+      "first_reported": "2026-09-12",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Restaurant delivery moving inside grocery carts",
+      "direction": "up",
+      "magnitude": "Walmart plans Papa Johns delivery through its app and website at thousands of U.S. locations after a fall pilot.",
+      "context": "Mass retailers are positioning hot restaurant pizza as an add-on to grocery delivery, increasing competition for quick dinner occasions that overlap with frozen pizza.",
+      "source_url": "https://progressivegrocer.com/walmart-expands-pizza-delivery-papa-johns"
+    },
+    {
+      "topic": "Midwest natural grocers sourcing local emerging brands",
+      "direction": "up",
+      "magnitude": "Fresh Thyme will add four Michigan local brands from Pitch Thyme and plans to expand the event to other Midwest markets.",
+      "context": "Regional natural retailers are formalizing local-vendor pipelines and sampling support, creating potential entry paths but also higher competition for artisan and specialty food brands.",
+      "source_url": "https://progressivegrocer.com/fresh-thyme-market-adds-local-brands-michigan-store-shelves"
+    },
+    {
+      "topic": "Private-label ready meals gaining retailer investment",
+      "direction": "up",
+      "magnitude": "Kroger private-label sales grew more than 14% in Q2, with penetration up about 50 basis points and expanded ready-to-heat and ready-to-eat meals cited as growth drivers.",
+      "context": "Large grocers are using own-brand meal solutions to capture value-seeking shoppers, tightening competition for premium frozen and prepared meal occasions.",
+      "source_url": "https://progressivegrocer.com/kroger-forges-ahead-investments-shoppers-prices-after-e-commerce-boosted-q2-results"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Walmart Papa Johns delivery rollout",
+      "value": "Select-location launch in coming weeks, with thousands of U.S. locations planned; orders available through walmart.com and Walmart app under restaurants tab; can be added to Express Delivery grocery carts",
+      "change": "new restaurant-delivery expansion beyond Walmart's in-store restaurant footprint",
+      "source_url": "https://progressivegrocer.com/walmart-expands-pizza-delivery-papa-johns"
+    },
+    {
+      "metric": "Fresh Thyme Pitch Thyme local brand shelf additions",
+      "value": "Four Michigan brands slated for late-September shelves: Bingo Roasters, Mimidae Beverage Company, Red Truck Orchards and Gnarly Sauce Co.; Fresh Thyme operates about 70 stores in 10 Midwest states",
+      "change": "new local-vendor pipeline and planned Midwest expansion",
+      "source_url": "https://progressivegrocer.com/fresh-thyme-market-adds-local-brands-michigan-store-shelves"
+    },
+    {
+      "metric": "Kroger Q2 2026 digital and private-label performance",
+      "value": "Adjusted e-commerce sales up 20%; retail media up 24%; private-label sales up more than 14%; Our Brand penetration up about 50 basis points",
+      "change": "private-label and omnichannel growth amid low identical-sales growth",
+      "source_url": "https://progressivegrocer.com/kroger-forges-ahead-investments-shoppers-prices-after-e-commerce-boosted-q2-results"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Walmart Expands Into Pizza Delivery With Papa Johns",
+      "source_url": "https://progressivegrocer.com/walmart-expands-pizza-delivery-papa-johns"
+    },
+    {
+      "headline": "Fresh Thyme Market Adds Local Brands to Michigan Store Shelves",
+      "source_url": "https://progressivegrocer.com/fresh-thyme-market-adds-local-brands-michigan-store-shelves"
+    },
+    {
+      "headline": "Kroger Forges Ahead With Investments in Shoppers, Prices After E-Commerce Boosted Q2 Results",
+      "source_url": "https://progressivegrocer.com/kroger-forges-ahead-investments-shoppers-prices-after-e-commerce-boosted-q2-results"
+    }
+  ]
+}
