@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-13",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Instacart / Shipt",
+      "action": "Grocery Dive reported Instacart and Shipt launched AI-powered shopping assistants that can build grocery carts from a customer conversation or uploaded photo. Instacart's Clementine can generate recipes, suggest savings and reorder items using store inventory and shopper preferences; Ask Shipt can identify dish ingredients from photos, plan meals under budget constraints and surface promotions.",
+      "category": "campaign",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/instacart-shipt-launch-ai-powered-shopping-assistants/829859/",
+      "first_reported": "2026-09-13",
+      "status": "new"
+    },
+    {
+      "name": "Kroger",
+      "action": "Supermarket News reported Numerator data showing Kroger customers shifted more than $12 billion in CPG spending to Amazon, Walmart and Costco over the past year, with Kroger directly losing more than $1 billion from those shifts. Kroger and Ralphs banners lost $715 million and $516 million in CPG spending, while Kroger-owned fresh private label gained $420 million across produce, meat, deli/prepared foods, seafood and in-store bakery.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/kroger-has-lost-12b-in-cpg-spending",
+      "first_reported": "2026-09-13",
+      "status": "new"
+    },
+    {
+      "name": "Whole Foods Market / Amazon",
+      "action": "Progressive Grocer reported Amazon will invest more than $230 million in Whole Foods team members, raising average store team member wages above $21 per hour and expanding benefits for more than 100,000 workers. The report also noted Whole Foods has more than 100 stores in development, reinforcing Amazon's continued investment behind the premium grocery banner.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/amazon-investing-230m-whole-foods-workforce",
+      "first_reported": "2026-09-13",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "AI-assisted grocery cart building",
+      "direction": "up",
+      "magnitude": "Instacart and Shipt both launched consumer-facing assistants that can turn conversations, images, preferences and inventory into carts.",
+      "context": "Meal planning and product discovery are moving closer to algorithmic recommendation, which could influence which frozen meals, premium pizza and specialty items enter shoppers' baskets online.",
+      "source_url": "https://www.grocerydive.com/news/instacart-shipt-launch-ai-powered-shopping-assistants/829859/"
+    },
+    {
+      "topic": "CPG spending shifting from supermarkets to mass, club and Amazon",
+      "direction": "up",
+      "magnitude": "Kroger customers shifted more than $12B in CPG spending to Amazon, Walmart and Costco over the past year, according to Numerator data cited by Supermarket News.",
+      "context": "Large grocery chains are under traffic and value pressure, while retailer-owned fresh/private-label categories remain a growth pocket that can compete for premium prepared-food occasions.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/kroger-has-lost-12b-in-cpg-spending"
+    },
+    {
+      "topic": "Premium natural grocery labor and store investment",
+      "direction": "up",
+      "magnitude": "Amazon plans $230M-plus in Whole Foods wage and benefit investments while Whole Foods has more than 100 stores in development.",
+      "context": "Whole Foods' continued expansion and labor investment support a higher-service premium grocery model that remains relevant for artisan and specialty food brands seeking premium retail channels.",
+      "source_url": "https://progressivegrocer.com/amazon-investing-230m-whole-foods-workforce"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "AI grocery assistant rollout",
+      "value": "Instacart Clementine and Shipt Ask Shipt can build grocery carts from conversations or uploaded photos; Instacart also added Cart Assistant retailer partners including Food Bazaar, Heritage Grocers Group and Woodman's Markets, with Aldi U.S., Save Mart and Stew Leonard's to follow.",
+      "change": "new consumer-facing online grocery discovery tools",
+      "source_url": "https://www.grocerydive.com/news/instacart-shipt-launch-ai-powered-shopping-assistants/829859/"
+    },
+    {
+      "metric": "Kroger CPG spending shift",
+      "value": "More than $12B in CPG spending shifted from Kroger customers to Amazon, Walmart and Costco; Kroger directly lost more than $1B; Kroger fresh private label grew by $420M.",
+      "change": "competitive share pressure with fresh private-label offset",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/kroger-has-lost-12b-in-cpg-spending"
+    },
+    {
+      "metric": "Whole Foods workforce and expansion investment",
+      "value": "$230M-plus investment; average store team member wage above $21/hour; expanded benefits for more than 100,000 workers; more than 100 Whole Foods stores in development.",
+      "change": "premium grocery banner investment",
+      "source_url": "https://progressivegrocer.com/amazon-investing-230m-whole-foods-workforce"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Instacart, Shipt launch AI-powered shopping assistants",
+      "source_url": "https://www.grocerydive.com/news/instacart-shipt-launch-ai-powered-shopping-assistants/829859/"
+    },
+    {
+      "headline": "Kroger has lost $12B in CPG spending",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/kroger-has-lost-12b-in-cpg-spending"
+    },
+    {
+      "headline": "Amazon Investing $230M+ in Whole Foods Workforce",
+      "source_url": "https://progressivegrocer.com/amazon-investing-230m-whole-foods-workforce"
+    }
+  ]
+}
