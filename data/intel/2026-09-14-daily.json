@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-14",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Rosina Food Products",
+      "action": "Progressive Grocer reported Rosina added five frozen meatball varieties, including Mini Meatballs, Bang-Bang Chicken Meatballs, High Protein Meatballs, Gluten-Free Restaurant Style Meatballs and Reduced Sodium Meatballs. The line targets convenience, protein, global flavor, gluten-free and reduced-sodium needs, with suggested retail prices of $7.99-$9.99.",
+      "category": "new_product",
+      "relevance_score": 6,
+      "source_url": "https://progressivegrocer.com/rosina-frozen-meatball-innovations",
+      "first_reported": "2026-09-14",
+      "status": "new"
+    },
+    {
+      "name": "Bertolli / Deoleo",
+      "action": "Progressive Grocer reported Bertolli launched Bertolli Canola + Olive Oil, an 85% canola oil and 15% Bertolli olive oil blend now available at Kroger nationwide and on Amazon, with broader retail rollout planned. Suggested prices are $6.99 for 25.36 fluid ounces and $9.99 for 50.72 fluid ounces.",
+      "category": "new_product",
+      "relevance_score": 5,
+      "source_url": "https://progressivegrocer.com/bertolli-canola-olive-oil",
+      "first_reported": "2026-09-14",
+      "status": "new"
+    },
+    {
+      "name": "Kroger",
+      "action": "Grocery Dive reported Kroger's Q2 identical sales excluding fuel rose 0.2% as a cyclospora-related pullback in produce spending weighed on comps. Kroger lowered full-year identical-sales guidance to 0.2%-0.8%, while total Q2 sales rose 2% to $34.6 billion and operating profit rose more than 12% to $971 million.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/kroger-earnings-second-quarter-2026-grocery-supermarkets/830070/",
+      "first_reported": "2026-09-14",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen protein and dietary-need innovation",
+      "direction": "up",
+      "magnitude": "5 new Rosina frozen meatball SKUs",
+      "context": "Frozen meal-adjacent brands are using protein, gluten-free, reduced-sodium and global-flavor claims to stay relevant beyond basic convenience. Premium pizza brands may face the same expectation that indulgent products also communicate functional or dietary benefits.",
+      "source_url": "https://progressivegrocer.com/rosina-frozen-meatball-innovations"
+    },
+    {
+      "topic": "Value-oriented olive oil blending",
+      "direction": "up",
+      "magnitude": "85% canola / 15% olive oil blend at Kroger nationwide",
+      "context": "A major olive oil brand is using a lower-cost blended format to broaden household usage. For frozen pizza, this points to continued shopper and manufacturer sensitivity around premium Mediterranean ingredients and cost-managed formulation claims.",
+      "source_url": "https://progressivegrocer.com/bertolli-canola-olive-oil"
+    },
+    {
+      "topic": "Large-grocer comp sales pressure",
+      "direction": "down",
+      "magnitude": "Kroger full-year identical-sales guidance cut to 0.2%-0.8%",
+      "context": "Even with digital and retail media growth, Kroger is managing weak comp sales and cautious fresh-food spending. Premium frozen and artisan CPG brands should expect tighter buyer scrutiny around velocity, trade support and value communication.",
+      "source_url": "https://www.grocerydive.com/news/kroger-earnings-second-quarter-2026-grocery-supermarkets/830070/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Rosina frozen meatball innovation launch",
+      "value": "5 new varieties; $7.99-$9.99 suggested retail price range",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/rosina-frozen-meatball-innovations"
+    },
+    {
+      "metric": "Bertolli Canola + Olive Oil launch pricing",
+      "value": "$6.99 for 25.36 fl oz; $9.99 for 50.72 fl oz",
+      "change": "Available at Kroger nationwide and Amazon; more retailers planned",
+      "source_url": "https://progressivegrocer.com/bertolli-canola-olive-oil"
+    },
+    {
+      "metric": "Kroger Q2 2026 sales performance",
+      "value": "$34.6B total sales; $971M operating profit; 0.2% identical sales ex-fuel growth",
+      "change": "Full-year identical-sales guidance reduced from 1%-2% to 0.2%-0.8%",
+      "source_url": "https://www.grocerydive.com/news/kroger-earnings-second-quarter-2026-grocery-supermarkets/830070/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Rosina Frozen Meatball Innovations",
+      "summary": "Rosina added five frozen meatball varieties built around convenience, protein, gluten-free, reduced-sodium and global-flavor positioning.",
+      "source_url": "https://progressivegrocer.com/rosina-frozen-meatball-innovations"
+    },
+    {
+      "headline": "Bertolli Canola + Olive Oil",
+      "summary": "Bertolli launched a canola-and-olive-oil blend at Kroger nationwide and Amazon, with additional retail rollout planned.",
+      "source_url": "https://progressivegrocer.com/bertolli-canola-olive-oil"
+    },
+    {
+      "headline": "Kroger’s comps slide to near zero as cyclospora outbreak eats into produce sales",
+      "summary": "Kroger lowered full-year identical-sales guidance after Q2 comps rose only 0.2% excluding fuel amid fresh-produce demand pressure.",
+      "source_url": "https://www.grocerydive.com/news/kroger-earnings-second-quarter-2026-grocery-supermarkets/830070/"
+    }
+  ]
+}
