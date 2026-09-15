@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-15",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Banquet / Conagra Brands",
+      "action": "Progressive Grocer reported Banquet launched frozen MEGA Crispy Chicken Tenders in Original and Spicy varieties. The 22-ounce bags contain about 11 tenders, provide 16 grams of protein per serving, support air-fryer prep and carry a $7.49 suggested retail price.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/banquet-mega-chicken-tenders",
+      "first_reported": "2026-09-15",
+      "status": "new"
+    },
+    {
+      "name": "LesserEvil",
+      "action": "Progressive Grocer reported LesserEvil rolled out Cheezmos Puffs nationally at retailers including Whole Foods Market, Sprouts Farmers Market and Kroger. The USDA Organic, non-GMO, gluten-free puffed snack line uses organic cheddar, contains 130 calories per serving and retails at $5.99 for a 6.5-ounce bag.",
+      "category": "new_product",
+      "relevance_score": 6,
+      "source_url": "https://progressivegrocer.com/lesserevil-cheezmos-puffs",
+      "first_reported": "2026-09-15",
+      "status": "new"
+    },
+    {
+      "name": "Market 32 / Price Chopper",
+      "action": "Progressive Grocer reported Market 32 and Price Chopper launched a fall value campaign across all 128 stores, lowering prices on more than 1,000 grocery staples, adding bright-yellow lower-price tags, shifting AdvantEdge Rewards to 2% back through Nov. 7 and rolling out weekly deep deals.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/market-32-and-price-chopper-lower-prices-1000-grocery-must-haves",
+      "first_reported": "2026-09-15",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen protein convenience",
+      "direction": "up",
+      "magnitude": "16g protein per serving in a mainstream frozen meal component",
+      "context": "Frozen brands are pairing convenience with protein claims and air-fryer prep. Premium frozen pizza should expect more shopper comparison against protein-forward, customizable freezer items.",
+      "source_url": "https://progressivegrocer.com/banquet-mega-chicken-tenders"
+    },
+    {
+      "topic": "Better-for-you snack brands scaling in premium grocery channels",
+      "direction": "up",
+      "magnitude": "National rollout at Whole Foods, Sprouts and Kroger",
+      "context": "Clean-label and minimally processed cues are continuing to win broad retail distribution. This reinforces the need for clear ingredient and process claims in artisan frozen products.",
+      "source_url": "https://progressivegrocer.com/lesserevil-cheezmos-puffs"
+    },
+    {
+      "topic": "Visible grocery value campaigns",
+      "direction": "up",
+      "magnitude": "1,000-plus discounted staples across 128 stores",
+      "context": "Regional grocers are making price cuts and loyalty savings highly visible ahead of fall and holiday shopping. Premium frozen brands need value communication that can survive retailer-wide price messaging.",
+      "source_url": "https://progressivegrocer.com/market-32-and-price-chopper-lower-prices-1000-grocery-must-haves"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Banquet MEGA Crispy Chicken Tenders launch specs",
+      "value": "Original and Spicy varieties; 22-ounce bag; about 11 tenders; 16g protein per serving; $7.49 SRP",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/banquet-mega-chicken-tenders"
+    },
+    {
+      "metric": "LesserEvil Cheezmos Puffs rollout specs",
+      "value": "Cowgirl Cheddar and Jalapeño Cheddar; 130 calories per serving; $5.99 SRP for 6.5 ounces; national rollout including Whole Foods, Sprouts and Kroger",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/lesserevil-cheezmos-puffs"
+    },
+    {
+      "metric": "Market 32 / Price Chopper value campaign",
+      "value": "More than 1,000 grocery staples discounted across 128 stores; AdvantEdge Rewards offering 2% back through Nov. 7",
+      "change": null,
+      "source_url": "https://progressivegrocer.com/market-32-and-price-chopper-lower-prices-1000-grocery-must-haves"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Banquet MEGA Chicken Tenders",
+      "source_url": "https://progressivegrocer.com/banquet-mega-chicken-tenders"
+    },
+    {
+      "headline": "LesserEvil Cheezmos Puffs",
+      "source_url": "https://progressivegrocer.com/lesserevil-cheezmos-puffs"
+    },
+    {
+      "headline": "Market 32 and Price Chopper Lower Prices on 1,000 Grocery Must-Haves",
+      "source_url": "https://progressivegrocer.com/market-32-and-price-chopper-lower-prices-1000-grocery-must-haves"
+    }
+  ]
+}
