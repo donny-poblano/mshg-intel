@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-16",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Schnucks / Culinaria Italian Table",
+      "action": "Progressive Grocer reported Schnucks launched Culinaria Italian Table, a private-label line of more than 40 Italian-made shelf-stable products including pastas, sauces, olive oils and vinegars. Schnucks positioned the line as a lower-priced alternative to specialty imports and is discounting the full collection by at least 25% through Oct. 13.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/schnucks-new-culinaria-italian-table-line-hits-shelves",
+      "first_reported": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "name": "Aldi / Walmart value-retail competition",
+      "action": "Supermarket News reported Big Chalk Analytics data showing 18% of Walmart shoppers are visiting Aldi more often, rising to 24% among Walmart trade-off consumers. Nearly half of Walmart trade-off consumers already shop Aldi, and 49% of Aldi trade-off consumers said they switched to less expensive or private-label coffee.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/aldi-is-a-growing-threat-to-walmart-analysis",
+      "first_reported": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "name": "Grocery BNPL shoppers",
+      "action": "Retail Brew reported Federal Reserve survey findings that 43% of consumers who used buy-now-pay-later for groceries or food delivery incurred a late-payment, overdraft or insufficient-funds fee, compared with 21% of BNPL users overall. Among BNPL users earning under $50,000, 29% used BNPL for food purchases versus 9% of those earning more than $100,000.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.retailbrew.com/stories/more-than-4-in-10-who-used-bnpl-for-groceries-incurred-late-payment-or-overdraft-fees",
+      "first_reported": "2026-09-16",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Retailer private-label premiumization",
+      "direction": "up",
+      "magnitude": "40-plus imported Italian private-label SKUs at Schnucks with a 25%-plus launch discount",
+      "context": "Regional grocers are using owned brands to offer specialty-food cues at sharper prices. Premium frozen and artisan brands will need clear differentiation against retailer-owned imported and meal-building platforms.",
+      "source_url": "https://progressivegrocer.com/schnucks-new-culinaria-italian-table-line-hits-shelves"
+    },
+    {
+      "topic": "Discount grocers capturing trade-down behavior",
+      "direction": "up",
+      "magnitude": "24% of Walmart trade-off consumers say they are increasing Aldi visits",
+      "context": "Value-led shoppers are reallocating trips and switching brands or pack choices. Premium frozen pizza needs a value explanation that holds up when shoppers compare it with Aldi-style private-label alternatives.",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/aldi-is-a-growing-threat-to-walmart-analysis"
+    },
+    {
+      "topic": "Household stress showing up in grocery payment behavior",
+      "direction": "up",
+      "magnitude": "43% of grocery or food-delivery BNPL users incurred late, overdraft or insufficient-funds fees",
+      "context": "Some shoppers are financing food purchases despite elevated fee risk. This reinforces near-term sensitivity to price, promotions and perceived meal value in premium CPG categories.",
+      "source_url": "https://www.retailbrew.com/stories/more-than-4-in-10-who-used-bnpl-for-groceries-incurred-late-payment-or-overdraft-fees"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Schnucks Culinaria Italian Table launch",
+      "value": "More than 40 Italian-made products; 25% or more discount through Oct. 13; Schnucks operates 112 stores in Missouri, Illinois and Indiana",
+      "change": "new private-label imported Italian platform",
+      "source_url": "https://progressivegrocer.com/schnucks-new-culinaria-italian-table-line-hits-shelves"
+    },
+    {
+      "metric": "Aldi pull on Walmart shoppers",
+      "value": "18% of Walmart shoppers and 24% of Walmart trade-off consumers report visiting Aldi more frequently; 48% of Walmart trade-off consumers already shop Aldi",
+      "change": "discount-channel pressure on value-sensitive Walmart shoppers",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/aldi-is-a-growing-threat-to-walmart-analysis"
+    },
+    {
+      "metric": "BNPL grocery stress signal",
+      "value": "43% fee incidence among grocery or food-delivery BNPL users; 29% of sub-$50K BNPL users used BNPL for food purchases versus 9% of $100K-plus BNPL users",
+      "change": "food purchases over-index among lower-income BNPL users",
+      "source_url": "https://www.retailbrew.com/stories/more-than-4-in-10-who-used-bnpl-for-groceries-incurred-late-payment-or-overdraft-fees"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Schnucks’ New Culinaria Italian Table Line Hits Shelves",
+      "source_url": "https://progressivegrocer.com/schnucks-new-culinaria-italian-table-line-hits-shelves"
+    },
+    {
+      "headline": "Aldi is a growing threat to Walmart: analysis",
+      "source_url": "https://www.supermarketnews.com/grocery-trends-data/aldi-is-a-growing-threat-to-walmart-analysis"
+    },
+    {
+      "headline": "More than 4 in 10 who used BNPL for groceries incurred late-payment or overdraft fees",
+      "source_url": "https://www.retailbrew.com/stories/more-than-4-in-10-who-used-bnpl-for-groceries-incurred-late-payment-or-overdraft-fees"
+    }
+  ]
+}
