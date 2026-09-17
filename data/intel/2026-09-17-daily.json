@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-17",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Frozen food category / Circana",
+      "action": "Supermarket News reported total food and beverage units fell 2.1% in the five weeks ended Aug. 30, while frozen foods rose 0.2% for a second straight month of modest unit growth. Frozen baked goods volume increased 7.3%, including a 9.3% gain for frozen bread and dough; frozen meals declined 0.5%, but frozen pasta units rose 7.1%.",
+      "category": "category_data",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/grocery-categories/grocery-unit-sales-slide-in-august-but-frozen-foods-and-shelf-stable-seafood-buck-trend",
+      "first_reported": "2026-09-17",
+      "status": "new"
+    },
+    {
+      "name": "Kroger",
+      "action": "Supermarket News reported Kroger CEO Greg Foran is emphasizing lower prices and may end supplier relationships where pricing does not support Kroger's value agenda. The article said Kroger plans to lean on private-label products to keep consumer prices down and is testing price reductions before wider rollout.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/company-news/kroger-appears-ready-to-lose-suppliers-over-price",
+      "first_reported": "2026-09-17",
+      "status": "new"
+    },
+    {
+      "name": "Target",
+      "action": "Grocery Dive reported Target will open eight stores on Oct. 11, completing 30 planned openings for the year and staying on track for more than 300 new stores by 2035. Seven of the eight October stores exceed 125,000 square feet; Target's recent Fuquay-Varina store included a food and beverage department 30% larger than average.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/target-opens-eight-stores-fall-2026/830522/",
+      "first_reported": "2026-09-17",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen resilience amid lower grocery units",
+      "direction": "up",
+      "magnitude": "Frozen foods +0.2% units while total food and beverage units fell 2.1%",
+      "context": "Frozen is holding unit volume better than the broader store, but performance is uneven by subcategory. Frozen pizza needs a clear velocity and differentiation story as retailers compare frozen set productivity.",
+      "source_url": "https://www.supermarketnews.com/grocery-categories/grocery-unit-sales-slide-in-august-but-frozen-foods-and-shelf-stable-seafood-buck-trend"
+    },
+    {
+      "topic": "Retailer pressure on supplier pricing",
+      "direction": "up",
+      "magnitude": "Kroger is testing broader price reductions and leaning on private label",
+      "context": "Large grocers are signaling tougher negotiations with branded suppliers and a greater willingness to use private label as the value lever. Premium brands should expect sharper proof requirements on margin, velocity and price gaps.",
+      "source_url": "https://www.supermarketnews.com/company-news/kroger-appears-ready-to-lose-suppliers-over-price"
+    },
+    {
+      "topic": "Mass-retail grocery capacity expansion",
+      "direction": "up",
+      "magnitude": "Eight October Target openings; 300-plus new stores targeted by 2035",
+      "context": "Target continues to add large-format stores while elevating food and beverage in recent prototypes. Challenger frozen brands with Target-compatible price, packaging and supply capability may see more shelf opportunities, but competition for reset space will rise.",
+      "source_url": "https://www.grocerydive.com/news/target-opens-eight-stores-fall-2026/830522/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "August grocery unit performance",
+      "value": "Total food and beverage units -2.1%; frozen foods +0.2%; frozen baked goods +7.3%; frozen bread and dough +9.3%; frozen meals -0.5%; frozen pasta +7.1%",
+      "change": "Five weeks ended Aug. 30 versus year-ago period",
+      "source_url": "https://www.supermarketnews.com/grocery-categories/grocery-unit-sales-slide-in-august-but-frozen-foods-and-shelf-stable-seafood-buck-trend"
+    },
+    {
+      "metric": "Kroger supplier/value stance",
+      "value": "Kroger is testing price reductions, importing more directly, using technology to lower costs and leaning on private label to hold down prices",
+      "change": null,
+      "source_url": "https://www.supermarketnews.com/company-news/kroger-appears-ready-to-lose-suppliers-over-price"
+    },
+    {
+      "metric": "Target store expansion",
+      "value": "Eight stores opening Oct. 11; 30 planned 2026 openings completed; over 300 new stores planned by 2035; seven October stores above 125,000 square feet",
+      "change": null,
+      "source_url": "https://www.grocerydive.com/news/target-opens-eight-stores-fall-2026/830522/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Grocery unit sales slide in August, but frozen foods and shelf-stable seafood buck trend",
+      "source_url": "https://www.supermarketnews.com/grocery-categories/grocery-unit-sales-slide-in-august-but-frozen-foods-and-shelf-stable-seafood-buck-trend"
+    },
+    {
+      "headline": "Kroger appears ready to lose suppliers over price",
+      "source_url": "https://www.supermarketnews.com/company-news/kroger-appears-ready-to-lose-suppliers-over-price"
+    },
+    {
+      "headline": "Target to open 8 stores in October",
+      "source_url": "https://www.grocerydive.com/news/target-opens-eight-stores-fall-2026/830522/"
+    }
+  ]
+}
