@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-18",
+  "week": "2026-W38",
+  "headline": "Frozen is holding up while grocery units soften, but retailer value pressure, private label and pizza delivery inside grocery apps are tightening the case Real Dough has to make.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Market intel is current through 2026-09-18 with five approved daily reports available for ISO week 38.",
+        "Frozen has a category tailwind: Circana data cited by Supermarket News shows total food and beverage units down 2.1% while frozen foods rose 0.2%, frozen baked goods rose 7.3% and frozen bread/dough rose 9.3% in the five weeks ended Aug. 30.",
+        "Retailers are still building premium and natural paths: Whole Foods has 100+ stores in development, Fresh Thyme is adding local Michigan brands with sampling support, and Target is continuing large-format store growth.",
+        "Hospitality reputation baseline remains solid in data/reviews.json: Merriment Social 4.4, Third Coast Provisions 4.5, Flourchild Pizza 4.5 and The Loon Room 4.7. No review-file parse errors were found."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Value pressure is no longer background noise: Kroger cut identical-sales guidance to 0.2%-0.8%, is testing price reductions, and may end supplier relationships that do not support its value agenda.",
+        "Private label is moving directly into premium meal territory: Kroger private-label sales grew more than 14% with ready-to-heat and ready-to-eat meals cited, while Schnucks launched a 40+ SKU imported Italian private-label platform at 25%+ launch discount.",
+        "Pizza occasions are getting pulled into grocery delivery: Walmart is adding Papa Johns ordering to walmart.com and its app, with rollout planned to thousands of U.S. locations.",
+        "Discovery is shifting online: Instacart and Shipt launched AI shopping assistants that can build carts from conversations, photos, preferences, inventory and promotions. Product data quality will matter more."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "Build a buyer-facing value proof block: price per meal, premium sourdough differentiation, velocity evidence when available, margin story and why Real Dough earns freezer space versus private label.",
+        "Audit retailer PDP and product-feed language for AI-assisted shopping: sourdough, Wisconsin, frozen pizza, meal occasion, cook method, ingredients and differentiators should be explicit and machine-readable.",
+        "Brief agency to avoid unsupported performance claims until current analytics are wired into this repo; focus creative on credible sourdough craft, better-than-delivery quality and clear weeknight-use cases.",
+        "Track Kroger, Walmart, Target, Whole Foods, Fresh Thyme, Food Lion and Harris Teeter as near-term retail context; this week's intel shows each is investing in value, fresh/prepared food, expansion or grocery delivery behavior."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The strongest defensible territory this week is premium frozen that can prove both craft and value. Frozen is outperforming the broader grocery unit trend, and frozen baked goods/bread/dough posted clear unit growth in the cited Circana window.",
+    "what_didnt": "Generic premium claims are exposed. Retailers are leaning into private label, launch discounts, price cuts, prepared meals and AI-guided discovery. If Real Dough does not make its sourdough proof and meal value obvious, the shelf comparison will default to price and convenience.",
+    "recommendation": "Lead with a tight proof stack: Wisconsin sourdough, real crust/process cues, freezer convenience, better-than-delivery outcome and value per meal. Make PDPs and ad copy specific enough for both shoppers and AI cart builders to understand why Real Dough is different.",
+    "competitive_context": "Walmart is bringing Papa Johns into grocery ordering, Kroger is pushing value and private label, Schnucks is premiumizing imported Italian private label, Target and regional grocers are expanding store capacity, and Instacart/Shipt are turning meal planning into algorithmic cart building."
+  },
+  "data_quality": {
+    "missing": [
+      "Current paid/social/content analytics source is not wired into this repo; no campaign-performance, CPC, reach, follower-growth or creative-winner claims were made.",
+      "No current Real Dough sales, velocity, distribution, promo-performance, inventory or retailer PDP-completeness feed is available from the approved current sources for this run."
+    ],
+    "stale": [],
+    "anomalies": []
+  },
+  "sources": [
+    "data/reviews.json",
+    "data/intel/2026-09-14-daily.json",
+    "data/intel/2026-09-15-daily.json",
+    "data/intel/2026-09-16-daily.json",
+    "data/intel/2026-09-17-daily.json",
+    "data/intel/2026-09-18-daily.json"
+  ]
+}
