@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-18",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Food Lion",
+      "action": "Grocery Dive reported Food Lion will open six additional stores across North Carolina, South Carolina and Georgia before year-end, bringing 2026 openings to 10 after adding only one net new store in each of fiscal 2024 and 2025. The new stores will include ready-to-eat, ready-to-cook and ready-to-heat meals, Local Goodness regional items, pickup and delivery, and will be supported by Ahold Delhaize's planned Burlington, N.C., distribution center intended to expand fresh and frozen distribution.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/food-lion-grows-store-footprint-carolinas-georgia-grocery/830604/",
+      "first_reported": "2026-09-18",
+      "status": "new"
+    },
+    {
+      "name": "Natural Grocers",
+      "action": "Grocery Dive reported Natural Grocers' board approved reincorporating from Delaware to Texas, citing its roughly two dozen Texas stores and plans to keep expanding its footprint, workforce and customer base in the state. The specialty grocer is also targeting 4% to 5% annual new-store growth for the foreseeable future.",
+      "category": "expansion",
+      "relevance_score": 6,
+      "source_url": "https://www.grocerydive.com/news/natural-grocers-texas-reincorporation-delaware/830634/",
+      "first_reported": "2026-09-18",
+      "status": "new"
+    },
+    {
+      "name": "Harris Teeter",
+      "action": "Grocery Dive reported Kroger-owned Harris Teeter plans to spend about $253 million over three years to upgrade Charlotte-area stores and develop three new locations in the Carolinas. Store changes may include layout and fixture upgrades, improved pickup and delivery, updated signage, and broader fresh, prepared-food and bakery assortments.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/harris-teeter-store-upgrades-expansion-charlotte-north-carolina/830504/",
+      "first_reported": "2026-09-18",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Regional grocers adding fresh, prepared and frozen capacity",
+      "direction": "up",
+      "magnitude": "Food Lion is opening 10 stores in 2026 and tying growth to fresh/frozen distribution; Harris Teeter is investing $253M in upgrades and three new stores.",
+      "context": "Regional banners are putting capital behind store experience, prepared meal options and cold-chain capacity. Premium frozen pizza needs to fit into both freezer productivity and retailer meal-solution strategies.",
+      "source_url": "https://www.grocerydive.com/news/food-lion-grows-store-footprint-carolinas-georgia-grocery/830604/"
+    },
+    {
+      "topic": "Specialty grocery expansion focus",
+      "direction": "up",
+      "magnitude": "Natural Grocers is positioning Texas as a long-term growth market and targeting 4% to 5% annual new-store growth.",
+      "context": "Specialty grocery remains an expansion lane for natural and better-for-you products, but retailer growth is concentrated in markets where banners already have operational density.",
+      "source_url": "https://www.grocerydive.com/news/natural-grocers-texas-reincorporation-delaware/830634/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Food Lion 2026 new-store openings",
+      "value": "10 total planned openings in 2026, including six additional stores before year-end across the Carolinas and Georgia",
+      "change": "Up from one net new store in each of fiscal 2024 and fiscal 2025",
+      "source_url": "https://www.grocerydive.com/news/food-lion-grows-store-footprint-carolinas-georgia-grocery/830604/"
+    },
+    {
+      "metric": "Natural Grocers Texas footprint",
+      "value": "Roughly two dozen Texas stores; Texas is the company's second-largest state by store count after Colorado",
+      "change": "Company expects Texas footprint, workforce and customer base to continue expanding",
+      "source_url": "https://www.grocerydive.com/news/natural-grocers-texas-reincorporation-delaware/830634/"
+    },
+    {
+      "metric": "Harris Teeter Charlotte-area capital plan",
+      "value": "$253 million over three years for store upgrades plus three new Carolinas locations",
+      "change": "Project includes broader fresh, prepared-food and bakery assortments at selected stores",
+      "source_url": "https://www.grocerydive.com/news/harris-teeter-store-upgrades-expansion-charlotte-north-carolina/830504/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Food Lion accelerates store fleet expansion",
+      "source_url": "https://www.grocerydive.com/news/food-lion-grows-store-footprint-carolinas-georgia-grocery/830604/"
+    },
+    {
+      "headline": "Natural Grocers eyes Texas for long-term growth",
+      "source_url": "https://www.grocerydive.com/news/natural-grocers-texas-reincorporation-delaware/830634/"
+    },
+    {
+      "headline": "Harris Teeter to spend $253M to upgrade, expand Charlotte-area stores",
+      "source_url": "https://www.grocerydive.com/news/harris-teeter-store-upgrades-expansion-charlotte-north-carolina/830504/"
+    }
+  ]
+}
