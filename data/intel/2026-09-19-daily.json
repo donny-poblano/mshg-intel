@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-19",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Kroger",
+      "action": "Grocery Dive reported Kroger has stopped selling Red Bull products at some banners while saying it is working with suppliers to keep prices affordable. The report ties the move to CEO Greg Foran's stated focus on holding down prices and setting a high bar for vendors seeking increases.",
+      "category": "pricing",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/the-friday-checkout-kroger-red-bull-pricing/830708/",
+      "first_reported": "2026-09-19",
+      "status": "new"
+    },
+    {
+      "name": "Kroger / Giant Eagle",
+      "action": "Grocery Dive reported RetailStat data showing Kroger and Giant Eagle would have more than 64% combined grocery share in the Columbus, Ohio, area if their deal is approved. RetailStat identified 17 Giant Eagle or Market District stores within five miles of a Kroger location, making Columbus a likely focus for FTC review and possible divestitures.",
+      "category": "expansion",
+      "relevance_score": 6,
+      "source_url": "https://www.grocerydive.com/news/kroger-giant-eagle-merger-retailstat-columbus-ohio/830461/",
+      "first_reported": "2026-09-19",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen alternatives gaining as fresh grocery volumes soften",
+      "direction": "up",
+      "magnitude": "Frozen fruit and vegetable unit sales rose 5.6% year over year in August while produce units fell 6.7%.",
+      "context": "Grocery Dive reported broad August unit declines in produce, meat, seafood and bakery, while frozen fruit and vegetables gained. The signal for Real Dough is that frozen can benefit when shoppers seek less perishable alternatives, but premium freezer items still need a clear value and usage case as overall units remain pressured.",
+      "source_url": "https://www.grocerydive.com/news/august-tough-month-grocery-unit-sales-perishables/830644/"
+    },
+    {
+      "topic": "Major grocers taking harder supplier-pricing positions",
+      "direction": "up",
+      "magnitude": "Kroger pulled Red Bull from some banners and publicly framed the gap as a supplier-affordability issue.",
+      "context": "Large retailers are using assortment decisions to reinforce value positioning. Emerging premium CPG brands should expect tighter review of price pack architecture, trade spend and velocity support.",
+      "source_url": "https://www.grocerydive.com/news/the-friday-checkout-kroger-red-bull-pricing/830708/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "August grocery unit sales pressure",
+      "value": "Produce units -6.7%; fresh fruit -6.1%; fresh vegetables -4.2%; meat department volume -2.3%; bakery units -4.3% year over year",
+      "change": "Frozen fruit and vegetables were an exception, up 5.6% year over year in unit sales",
+      "source_url": "https://www.grocerydive.com/news/august-tough-month-grocery-unit-sales-perishables/830644/"
+    },
+    {
+      "metric": "Kroger-Giant Eagle Columbus market concentration",
+      "value": "More than 64% combined grocery share in the Columbus, Ohio, area if approved; Kroger just over 52% and Giant Eagle about 12.5%",
+      "change": "RetailStat says Columbus is likely to draw the most regulatory scrutiny and may require multiple store divestitures",
+      "source_url": "https://www.grocerydive.com/news/kroger-giant-eagle-merger-retailstat-columbus-ohio/830461/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "The Friday Checkout: Kroger looks to energize its low-price image",
+      "source_url": "https://www.grocerydive.com/news/the-friday-checkout-kroger-red-bull-pricing/830708/"
+    },
+    {
+      "headline": "August was ‘a very tough month’ for grocery unit sales",
+      "source_url": "https://www.grocerydive.com/news/august-tough-month-grocery-unit-sales-perishables/830644/"
+    },
+    {
+      "headline": "Inside the market where Kroger and Giant Eagle will likely be under the antitrust microscope",
+      "source_url": "https://www.grocerydive.com/news/kroger-giant-eagle-merger-retailstat-columbus-ohio/830461/"
+    }
+  ]
+}
