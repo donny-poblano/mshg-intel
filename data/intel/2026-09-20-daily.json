@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-20",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "The Campbell's Company",
+      "action": "Food Dive reported Campbell's cut 13% of its salaried workforce, will close two snack plants and reduced its quarterly dividend as part of a plan to cut $500 million in costs by fiscal 2030. Fourth-quarter sales fell 8% to $2.14 billion, with snacks down 12% and meals and beverages down 4%.",
+      "category": "strategy",
+      "relevance_score": 7,
+      "source_url": "https://www.fooddive.com/news/campbells-spending-cuts-workforce-reduction-snacking/829547/",
+      "first_reported": "2026-09-20",
+      "status": "new"
+    },
+    {
+      "name": "Sprouts Farmers Market",
+      "action": "Progressive Grocer reported Sprouts surpassed 500 stores with a Sept. 12 opening in Spring, Texas, added another store in Sewell, New Jersey, and planned two more Sept. 18 openings in Carson, California, and Mesa, Arizona. The chain now operates more than 500 stores across 25 states and is preparing for a CEO transition in January 2027.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/sprouts-farmers-market-surpasses-500th-store-milestone",
+      "first_reported": "2026-09-20",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Non-ultraprocessed certification moving from private labels to state policy",
+      "direction": "up",
+      "magnitude": "California lawmakers approved a voluntary statewide non-ultraprocessed certification seal; the bill still needs the governor's approval.",
+      "context": "Food Dive reported the measure would create a voluntary label for foods outside California's ultra-processed definition and require large grocers to display cleaner-label options more prominently. Clean ingredient and process proof is becoming more visible at shelf, which is directly relevant to sourdough and artisan frozen positioning.",
+      "source_url": "https://www.fooddive.com/news/california-non-upf-label-food/829797/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Campbell's fiscal 2026 restructuring target",
+      "value": "$500 million in cost cuts by fiscal 2030; 13% salaried workforce reduction; two snack plants closing",
+      "change": "Q4 sales down 8%; snacks down 12%; meals and beverages down 4%",
+      "source_url": "https://www.fooddive.com/news/campbells-spending-cuts-workforce-reduction-snacking/829547/"
+    },
+    {
+      "metric": "Sprouts specialty grocery footprint",
+      "value": "More than 500 stores across 25 states; approximately 36,000 associates",
+      "change": "500th store opened Sept. 12 in Spring, Texas, with additional September openings in New Jersey, California and Arizona",
+      "source_url": "https://progressivegrocer.com/sprouts-farmers-market-surpasses-500th-store-milestone"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Campbell’s slashes 13% of salaried workforce as part of $500M cost-cutting plan",
+      "source_url": "https://www.fooddive.com/news/campbells-spending-cuts-workforce-reduction-snacking/829547/"
+    },
+    {
+      "headline": "California approves first statewide non-ultraprocessed food label",
+      "source_url": "https://www.fooddive.com/news/california-non-upf-label-food/829797/"
+    },
+    {
+      "headline": "Sprouts Farmers Market Surpasses 500th Store Milestone",
+      "source_url": "https://progressivegrocer.com/sprouts-farmers-market-surpasses-500th-store-milestone"
+    }
+  ]
+}
