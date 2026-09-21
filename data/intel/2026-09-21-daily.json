@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-21",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "High-protein frozen dessert brands ('ndulge, FØRTE)",
+      "action": "Progressive Grocer reported that high-protein and cleaner-label cues are driving frozen dessert innovation. 'ndulge has reached 6,500-plus retailers and is rolling out to Super Target, while FØRTE protein bars are expanding from Costco Texas to Costco Midwest, Sprouts Farmers Market and Whole Foods Market.",
+      "category": "new_product",
+      "relevance_score": 7,
+      "source_url": "https://progressivegrocer.com/protein-innovations-and-clean-labels-are-driving-grocery-dessert-sales",
+      "first_reported": "2026-09-21",
+      "status": "new"
+    },
+    {
+      "name": "DiGiorno / Hot Pockets / Stouffer's",
+      "action": "Food Dive reported Morning Consult data showing frozen foods were one of the categories where at least half of brands gained purchase consideration in 2026. Stouffer's was among the top overall food/bev gainers (+3), Hot Pockets rose with Gen Z adults (+8), and DiGiorno Pizza rose with millennials (+8).",
+      "category": "market_data",
+      "relevance_score": 8,
+      "source_url": "https://www.fooddive.com/news/fastest-growing-food-beverage-brands-morning-consult/830023/",
+      "first_reported": "2026-09-21",
+      "status": "new"
+    },
+    {
+      "name": "McCain Foods",
+      "action": "Food Dive reported McCain Foods hired former PepsiCo supply-chain executive Victoriano Perez Mies as chief manufacturing and operations officer. His role covers global manufacturing, supply chain, engineering, EHS, quality, procurement and operations for the frozen food producer.",
+      "category": "strategy",
+      "relevance_score": 6,
+      "source_url": "https://www.fooddive.com/news/mccain-foods-taps-pepsico-exec-as-chief-manufacturing-and-operations-office/830771/",
+      "first_reported": "2026-09-21",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Protein claims expanding across the frozen aisle",
+      "direction": "up",
+      "magnitude": "High-protein frozen novelty launches now include national retail distribution and club/natural-channel expansion.",
+      "context": "The same protein-and-clean-label pressure showing up in frozen desserts is relevant to frozen pizza: indulgent freezer items are increasingly expected to carry functional benefits without artificial sweeteners or long ingredient lists.",
+      "source_url": "https://progressivegrocer.com/protein-innovations-and-clean-labels-are-driving-grocery-dessert-sales"
+    },
+    {
+      "topic": "Legacy frozen brands gaining purchase consideration",
+      "direction": "up",
+      "magnitude": "Hot Pockets +8 with Gen Z adults; DiGiorno Pizza +8 with millennials; Stouffer's +3 overall in Morning Consult purchase consideration data.",
+      "context": "Consumers under price pressure appear to be leaning into familiar staples and treats, with frozen food brands still able to gain consideration. Real Dough's challenge is to combine premium differentiation with enough familiarity and value clarity to compete against entrenched frozen brands.",
+      "source_url": "https://www.fooddive.com/news/fastest-growing-food-beverage-brands-morning-consult/830023/"
+    },
+    {
+      "topic": "Frozen food operators strengthening supply-chain leadership",
+      "direction": "up",
+      "magnitude": "McCain added a former PepsiCo executive to lead global manufacturing and operations.",
+      "context": "Large frozen-food manufacturers are putting senior talent behind supply continuity and operational scale. For emerging frozen pizza brands, buyer confidence will increasingly depend on credible production, procurement and service-level proof, not just product quality.",
+      "source_url": "https://www.fooddive.com/news/mccain-foods-taps-pepsico-exec-as-chief-manufacturing-and-operations-office/830771/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Frozen dessert category July performance",
+      "value": "Frozen novelty sales reached $909 million in July, up 2.7% in dollars; ice cream reached $738 million in monthly sales with gains in dollars, units and pounds.",
+      "change": "Renewed July growth after May-June softness",
+      "source_url": "https://progressivegrocer.com/protein-innovations-and-clean-labels-are-driving-grocery-dessert-sales"
+    },
+    {
+      "metric": "Morning Consult 2026 food/bev purchase consideration",
+      "value": "Only 14% of brands across surveyed industries saw purchase-consideration growth; frozen foods were among categories where at least half of brands gained.",
+      "change": "DiGiorno Pizza +8 among millennials; Hot Pockets +8 among Gen Z adults; Stouffer's +3 overall",
+      "source_url": "https://www.fooddive.com/news/fastest-growing-food-beverage-brands-morning-consult/830023/"
+    },
+    {
+      "metric": "McCain Foods operations leadership change",
+      "value": "Victoriano Perez Mies appointed chief manufacturing and operations officer after nearly two decades at PepsiCo.",
+      "change": "Role spans global manufacturing, supply chain, engineering, EHS, quality, procurement and operations",
+      "source_url": "https://www.fooddive.com/news/mccain-foods-taps-pepsico-exec-as-chief-manufacturing-and-operations-office/830771/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Protein Innovations and Clean Labels Are Driving Grocery Dessert Sales",
+      "source_url": "https://progressivegrocer.com/protein-innovations-and-clean-labels-are-driving-grocery-dessert-sales"
+    },
+    {
+      "headline": "The fastest-growing food and beverage brands of 2026",
+      "source_url": "https://www.fooddive.com/news/fastest-growing-food-beverage-brands-morning-consult/830023/"
+    },
+    {
+      "headline": "McCain Foods taps PepsiCo exec as chief manufacturing and operations officer",
+      "source_url": "https://www.fooddive.com/news/mccain-foods-taps-pepsico-exec-as-chief-manufacturing-and-operations-office/830771/"
+    }
+  ]
+}
