@@ -1,0 +1,84 @@
+{
+  "date": "2026-09-24",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "ALDI",
+      "action": "Grocery Dive reported ALDI temporarily cut prices nationwide on fresh foods and other selected items through at least Nov. 3, estimating $86 million in additional shopper savings. The grocer said nearly one-third of its everyday in-store assortment is now priced below 2025 levels.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/aldi-price-cuts-grocery-food-inflation/831099/",
+      "first_reported": "2026-09-24",
+      "status": "new"
+    },
+    {
+      "name": "Target",
+      "action": "Supermarket News reported Target has 50% more newness in food and beverage this year than last year and wants to become a leading launch destination for founder-led brands. The retailer is curating owned, national and emerging brands around trend relevance, differentiation and quality for the price.",
+      "category": "strategy",
+      "relevance_score": 9,
+      "source_url": "https://www.supermarketnews.com/grocery-operations/target-grocery-just-want-to-be-cool",
+      "first_reported": "2026-09-24",
+      "status": "new"
+    },
+    {
+      "name": "Fresh Thyme Market",
+      "action": "Progressive Grocer reported Fresh Thyme Market and SPINS named 'Frozen Passport' among the grocer's top trends for 2027, forecasting the freezer aisle as a destination for authentic, restaurant-quality global cuisine at a fraction of dine-out prices. The forecast also highlights nutrient density in smaller portions and elevated meal shortcuts.",
+      "category": "strategy",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/fresh-thyme-market-names-10-grocery-trends-set-define-2027",
+      "first_reported": "2026-09-24",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Retailers escalating temporary price investments",
+      "direction": "up",
+      "magnitude": "ALDI estimates $86 million in additional savings through at least Nov. 3 and says nearly one-third of its everyday assortment is below 2025 prices.",
+      "context": "The cuts center on fresh items rather than frozen pizza, but they lower shoppers' reference prices across the basket. Premium frozen brands need a clear value story as discounters intensify affordability messaging.",
+      "source_url": "https://www.grocerydive.com/news/aldi-price-cuts-grocery-food-inflation/831099/"
+    },
+    {
+      "topic": "Large retailers accelerating emerging-brand product discovery",
+      "direction": "up",
+      "magnitude": "Target says food-and-beverage newness is 50% higher this year than last year, while product-development timelines are compressing from two or three years to six to nine months.",
+      "context": "Target is explicitly seeking differentiated founder-led brands but expects products to be on-trend, affordable, approachable and fast to market. That creates an opening for Real Dough only if its differentiation and readiness are immediately legible.",
+      "source_url": "https://www.supermarketnews.com/grocery-operations/target-grocery-just-want-to-be-cool"
+    },
+    {
+      "topic": "Global restaurant flavors moving deeper into frozen",
+      "direction": "up",
+      "magnitude": "Fresh Thyme and SPINS elevated 'Frozen Passport' to one of 10 forecast grocery trends for 2027.",
+      "context": "The forecast positions frozen as a low-effort, lower-cost route to restaurant-quality global cuisine. Real Dough can use this as retailer-facing support for premium frozen meals built around distinctive flavor and convenience rather than competing only on price.",
+      "source_url": "https://progressivegrocer.com/fresh-thyme-market-names-10-grocery-trends-set-define-2027"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "ALDI fall 2026 price investment",
+      "value": "$86 million in estimated additional shopper savings; nearly one-third of everyday assortment priced below 2025 levels",
+      "change": "Temporary reductions began Sept. 23 and run through at least Nov. 3 nationwide",
+      "source_url": "https://www.grocerydive.com/news/aldi-price-cuts-grocery-food-inflation/831099/"
+    },
+    {
+      "metric": "Target food-and-beverage assortment newness",
+      "value": "50% more newness in 2026 than in 2025",
+      "change": "Product-development timelines increasingly compressed from two to three years to six to nine months",
+      "source_url": "https://www.supermarketnews.com/grocery-operations/target-grocery-just-want-to-be-cool"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Aldi temporarily shaves prices on selected products",
+      "source_url": "https://www.grocerydive.com/news/aldi-price-cuts-grocery-food-inflation/831099/"
+    },
+    {
+      "headline": "Target grocery just wants to be cool",
+      "source_url": "https://www.supermarketnews.com/grocery-operations/target-grocery-just-want-to-be-cool"
+    },
+    {
+      "headline": "Fresh Thyme Market Names 10 Grocery Trends Set to Define 2027",
+      "source_url": "https://progressivegrocer.com/fresh-thyme-market-names-10-grocery-trends-set-define-2027"
+    }
+  ]
+}
