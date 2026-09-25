@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-25",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Instacart / DoorDash",
+      "action": "Grocery Dive reported that Instacart and DoorDash are pressing retailers to reduce online grocery markups as price sensitivity constrains e-commerce adoption. Instacart CEO Chris Rogers said affordability is the top reason shoppers leave or avoid online grocery, and that retailers with price parity are growing online sales 10 percentage points faster than retailers that mark up products.",
+      "category": "pricing",
+      "relevance_score": 8,
+      "source_url": "https://www.grocerydive.com/news/instacart-doordash-tackle-online-grocery-affordability/831246/",
+      "first_reported": "2026-09-25",
+      "status": "new"
+    },
+    {
+      "name": "Sam's Club",
+      "action": "Grocery Dive reported Sam's Club uses a Member's Mark Community of more than 200,000 shoppers to test products, packaging, fulfillment preferences and potential item replacements. The retailer said member feedback has changed seasonal flavors and the composition of its holiday meal offer.",
+      "category": "strategy",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/sams-club-members-mark-community-private-label-differentiation/831220/",
+      "first_reported": "2026-09-25",
+      "status": "new"
+    },
+    {
+      "name": "Conagra Brands",
+      "action": "Supermarket News reported Conagra's Future of Snacking 2026 research identified bold flavors, functional fuel and permissible indulgence as leading demand themes. The analysis drew on more than 53 million transactions across 17,000 snack products and found products offering protein, energy, digestion or hydration benefits reached $19 billion in retail sales, up 12.7% versus the prior year.",
+      "category": "market_data",
+      "relevance_score": 7,
+      "source_url": "https://www.supermarketnews.com/cpg/conagra-identifies-3-major-trends-reshaping-america-s-198b-snack-industry",
+      "first_reported": "2026-09-25",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Online grocery platforms pushing toward in-store price parity",
+      "direction": "up",
+      "magnitude": "Instacart says retailers with price parity are growing online sales 10 percentage points faster than retailers that mark up products; 90% of U.S. consumers can access at least one no-markup retailer on its platform.",
+      "context": "Digital shelf competitiveness increasingly includes delivered price, promotions and loyalty integration. Premium frozen brands need to monitor whether online markups widen their price gap and weaken conversion relative to value brands.",
+      "source_url": "https://www.grocerydive.com/news/instacart-doordash-tackle-online-grocery-affordability/831246/"
+    },
+    {
+      "topic": "Club retailers using shopper communities to shape private-label assortments",
+      "direction": "up",
+      "magnitude": "Sam's Club's Member's Mark Community includes more than 200,000 shoppers who can evaluate product ideas, packaging, fulfillment and replacement choices.",
+      "context": "Sam's Club is building direct member validation into merchandising decisions rather than relying only on market analogs. Brands pitching the club channel should arrive with evidence about flavor preference, substitution behavior and pack-format fit.",
+      "source_url": "https://www.grocerydive.com/news/sams-club-members-mark-community-private-label-differentiation/831220/"
+    },
+    {
+      "topic": "Functional benefits and bold flavors gaining in snacking",
+      "direction": "up",
+      "magnitude": "Products carrying protein, energy, digestion or hydration benefits generated $19 billion in retail sales, up 12.7% versus the prior year, according to Conagra's multi-channel research.",
+      "context": "The data is snack-category evidence rather than frozen-pizza measurement, but it reinforces that flavor alone is not enough: convenience foods increasingly compete on a combined taste, function, ingredient and trust proposition.",
+      "source_url": "https://www.supermarketnews.com/cpg/conagra-identifies-3-major-trends-reshaping-america-s-198b-snack-industry"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Online grocery price-parity performance",
+      "value": "Retailers with price parity are growing online sales 10 percentage points faster than retailers that mark up products, according to Instacart.",
+      "change": "Instacart says 90% of U.S. consumers now have access to no-markup retailers on its platform.",
+      "source_url": "https://www.grocerydive.com/news/instacart-doordash-tackle-online-grocery-affordability/831246/"
+    },
+    {
+      "metric": "Sam's Club private-label feedback community",
+      "value": "More than 200,000 shoppers",
+      "change": "Member feedback is being used to alter product flavors, packaging, fulfillment choices and seasonal meal assortments.",
+      "source_url": "https://www.grocerydive.com/news/sams-club-members-mark-community-private-label-differentiation/831220/"
+    },
+    {
+      "metric": "Functional snack retail sales",
+      "value": "$19 billion for products offering protein, energy, digestion or hydration benefits",
+      "change": "+12.7% versus the prior year",
+      "source_url": "https://www.supermarketnews.com/cpg/conagra-identifies-3-major-trends-reshaping-america-s-198b-snack-industry"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Instacart and DoorDash wrestle with online grocery's growing affordability problem",
+      "source_url": "https://www.grocerydive.com/news/instacart-doordash-tackle-online-grocery-affordability/831246/"
+    },
+    {
+      "headline": "How Sam's Club gives shoppers a say in what it sells",
+      "source_url": "https://www.grocerydive.com/news/sams-club-members-mark-community-private-label-differentiation/831220/"
+    },
+    {
+      "headline": "Conagra identifies 3 major trends reshaping America's $198B snack industry",
+      "source_url": "https://www.supermarketnews.com/cpg/conagra-identifies-3-major-trends-reshaping-america-s-198b-snack-industry"
+    }
+  ]
+}
