@@ -1,0 +1,64 @@
+{
+  "date": "2026-09-26",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Costco Wholesale",
+      "action": "Supermarket News reported Costco's adjusted comparable-store sales rose 6.7% in fiscal Q4, including 7.2% growth in the U.S. Food and sundries comparable sales increased in the low- to mid-single digits, led by packaged foods, sundries and frozen foods, while Costco said it continued to win with both value-focused and indulgence-oriented members.",
+      "category": "market_data",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/finance/costco-delivers-another-strong-quarter",
+      "first_reported": "2026-09-26",
+      "status": "new"
+    },
+    {
+      "name": "Fontanini Foods",
+      "action": "USDA FSIS announced that Fontanini Foods is recalling approximately 2,320 pounds of raw, frozen pork sausage links after two customer complaints involving clear, hard plastic. The 10-pound foodservice cases were shipped to distributors in California, Florida, Michigan and Nevada; no injuries were confirmed as of the Sept. 25 notice.",
+      "category": "recall",
+      "relevance_score": 6,
+      "source_url": "https://www.fsis.usda.gov/recalls-alerts/fontanini-foods-llc-recalls-raw-frozen-pork-sausage-products-due-possible-foreign",
+      "first_reported": "2026-09-26",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Club-channel grocery growth is extending into frozen foods",
+      "direction": "up",
+      "magnitude": "Costco's adjusted Q4 comparable sales rose 6.7% overall and 7.2% in the U.S.; frozen foods were among the categories leading low- to mid-single-digit food-and-sundries comparable growth.",
+      "context": "This is Costco-wide performance rather than frozen-pizza-specific velocity, but it is a strong channel signal: the club format is gaining units and dollars while supporting both value and indulgence. Real Dough should treat club-ready pack architecture and a clear value-per-serving case as increasingly important buyer proof.",
+      "source_url": "https://www.supermarketnews.com/finance/costco-delivers-another-strong-quarter"
+    },
+    {
+      "topic": "Foreign-material risk remains active in frozen foodservice supply chains",
+      "direction": "up",
+      "magnitude": "Fontanini recalled approximately 2,320 pounds of frozen pork sausage after two customer complaints; distribution reached four states.",
+      "context": "The affected product is foodservice breakfast sausage, not pizza, and the recall is limited in scale. The practical implication is still relevant for frozen manufacturers: complaint traceability and rapid freezer-inventory notification remain critical because affected cases can sit in distributor and restaurant freezers.",
+      "source_url": "https://www.fsis.usda.gov/recalls-alerts/fontanini-foods-llc-recalls-raw-frozen-pork-sausage-products-due-possible-foreign"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Costco fiscal Q4 comparable-sales performance",
+      "value": "Adjusted comparable sales +6.7% overall and +7.2% in the U.S.; food and sundries up low- to mid-single digits, led in part by frozen foods",
+      "change": "Q4 net income increased 14.8% year over year to nearly $3 billion; comparable digital sales increased 19.8%",
+      "source_url": "https://www.supermarketnews.com/finance/costco-delivers-another-strong-quarter"
+    },
+    {
+      "metric": "Fontanini frozen pork sausage recall",
+      "value": "Approximately 2,320 pounds of 10-pound cases produced June 23, 2026",
+      "change": "Active Class I recall announced Sept. 25 after two complaints; shipped to distributors in California, Florida, Michigan and Nevada",
+      "source_url": "https://www.fsis.usda.gov/recalls-alerts/fontanini-foods-llc-recalls-raw-frozen-pork-sausage-products-due-possible-foreign"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Costco delivers another strong quarter",
+      "source_url": "https://www.supermarketnews.com/finance/costco-delivers-another-strong-quarter"
+    },
+    {
+      "headline": "Fontanini Foods LLC recalls raw, frozen pork sausage products due to possible foreign matter contamination",
+      "source_url": "https://www.fsis.usda.gov/recalls-alerts/fontanini-foods-llc-recalls-raw-frozen-pork-sausage-products-due-possible-foreign"
+    }
+  ]
+}
