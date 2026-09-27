@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-27",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Publix / GreenWise",
+      "action": "Supermarket News reported that Publix and distributor Quirch Foods face a wrongful-death and personal-injury lawsuit alleging that recalled GreenWise Organic frozen blueberries caused one consumer's death and another consumer's hospitalization. The underlying E. coli O145:H28 outbreak is over, according to the CDC; health departments reported 17 confirmed illnesses and six hospitalizations, while the CDC said it received no attributable deaths among confirmed cases.",
+      "category": "recall",
+      "relevance_score": 8,
+      "source_url": "https://www.supermarketnews.com/recalls/publix-sued-over-alleged-e-coli-death",
+      "first_reported": "2026-07-08",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen private-label recalls escalating into retailer and distributor liability claims",
+      "direction": "up",
+      "magnitude": "The GreenWise frozen-fruit incident progressed from a July recall to a September lawsuit naming both Publix and Quirch Foods; the CDC's final count was 17 confirmed illnesses and six hospitalizations.",
+      "context": "The alleged death has not been attributed to the outbreak by public-health agencies, so the lawsuit remains a claim rather than a confirmed causal finding. Even so, the escalation shows that frozen suppliers, distributors and retailer-owned brands can remain exposed after an outbreak closes, strengthening the case for lot-level traceability, documented quality controls and rapid recall execution.",
+      "source_url": "https://www.supermarketnews.com/recalls/publix-sued-over-alleged-e-coli-death"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "GreenWise frozen-blueberry outbreak and litigation update",
+      "value": "17 confirmed illnesses and six hospitalizations across two states; CDC declared the outbreak over Sept. 21",
+      "change": "Wrongful-death and personal-injury lawsuit filed against Publix and Quirch Foods; CDC reported no attributable deaths among confirmed outbreak cases",
+      "source_url": "https://www.supermarketnews.com/recalls/publix-sued-over-alleged-e-coli-death"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Publix sued over alleged E. coli death",
+      "source_url": "https://www.supermarketnews.com/recalls/publix-sued-over-alleged-e-coli-death"
+    }
+  ]
+}
