@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-28",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Brand Finance / Nestlé / Conagra Brands",
+      "action": "Grocery Dive reported Brand Finance's estimate that wider GLP-1 adoption puts $73 billion, or roughly one-quarter, of the combined value of the world's 100 most valuable food brands at risk. The article cited frozen-category responses already under way: Nestlé's Vital Pursuit line targets weight-management consumers, while Conagra has added a \"GLP-1 friendly\" designation to some Healthy Choice frozen meals.",
+      "category": "market_data",
+      "relevance_score": 7,
+      "source_url": "https://www.grocerydive.com/news/glp-1-drugs-snacking-pepsico-reeses-kellogg-cheetos-doritos/830964/",
+      "first_reported": "2026-09-22",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Large food brands adapting portfolios for GLP-1-driven consumption shifts",
+      "direction": "up",
+      "magnitude": "$73 billion of food-brand value identified as exposed; GLP-1 use for weight loss reached 11% of U.S. adults, up from 3% in 2024, according to data cited by Grocery Dive.",
+      "context": "The $73 billion figure is a brand-valuation scenario rather than a frozen-category sales forecast, and the frozen product examples predate this report. The new risk estimate nevertheless reinforces the competitive direction: frozen brands are using protein, portioning and weight-management cues to defend relevance as households buy fewer calories. Real Dough should expect buyers to ask how premium pizza fits smaller, more intentional eating occasions.",
+      "source_url": "https://www.grocerydive.com/news/glp-1-drugs-snacking-pepsico-reeses-kellogg-cheetos-doritos/830964/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Food-brand value exposed to GLP-1 adoption",
+      "value": "$73 billion across the world's 100 most valuable food brands, roughly one-quarter of their combined $278 billion value",
+      "change": "Weight-loss GLP-1 use among U.S. adults reached 11% in September 2026 versus 3% in 2024; households with at least one user spent 6% less on groceries, according to research cited by Grocery Dive",
+      "source_url": "https://www.grocerydive.com/news/glp-1-drugs-snacking-pepsico-reeses-kellogg-cheetos-doritos/830964/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "GLP-1 drugs put $73B in global food value at risk, report finds",
+      "source_url": "https://www.grocerydive.com/news/glp-1-drugs-snacking-pepsico-reeses-kellogg-cheetos-doritos/830964/"
+    }
+  ]
+}
