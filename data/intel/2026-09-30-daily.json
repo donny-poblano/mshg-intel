@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-30",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "The Marzetti Company / New York Bakery",
+      "action": "The Marzetti Company announced three New York Bakery frozen product platforms: Baked Bites, Cheesy Focaccia and Garlic Bread loaves. Baked Bites move the frozen-bread brand into the frozen snacks and appetizers aisle for the first time, with Garlic & Cheese and Jalapeño Cheddar Cheese varieties that can be prepared in an air fryer and provide up to 8 grams of protein per serving.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.marzetticompany.com/news/the-marzetti-company-expands-new-york-bakery-portfolio-with-new-baked-bites-cheesy-focaccia-and-garlic-bread-loaves/",
+      "first_reported": "2026-09-29",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen-bread brands expanding into pizza-adjacent snacking and shareable meal occasions",
+      "direction": "up",
+      "magnitude": "New York Bakery introduced three frozen platforms spanning two filled-snack flavors, two shareable focaccia varieties and two garlic-bread loaves; Baked Bites are the brand's first products in the frozen snacks aisle.",
+      "context": "This is a manufacturer announcement, and retailer availability varies. The portfolio move is nevertheless operationally relevant: a leading frozen-bread brand is using air-fryer preparation, protein and shareable formats to compete across snack, entertaining and family-meal occasions adjacent to premium frozen pizza. Real Dough should expect more freezer-aisle competition from brands stretching beyond their legacy category rather than only from pizza labels.",
+      "source_url": "https://www.marzetticompany.com/news/the-marzetti-company-expands-new-york-bakery-portfolio-with-new-baked-bites-cheesy-focaccia-and-garlic-bread-loaves/"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "The Marzetti Company Expands New York Bakery Portfolio with New Baked Bites, Cheesy Focaccia, and Garlic Bread Loaves",
+      "source_url": "https://www.marzetticompany.com/news/the-marzetti-company-expands-new-york-bakery-portfolio-with-new-baked-bites-cheesy-focaccia-and-garlic-bread-loaves/"
+    }
+  ]
+}
