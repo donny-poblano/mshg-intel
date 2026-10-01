@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-01",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Conagra Brands / Celeste",
+      "action": "Conagra Brands said it is exiting the Celeste frozen pizza business as an early step in a company-wide SKU-complexity review. The exit reduced first-quarter net sales by approximately 15 basis points, but Conagra expects it to improve margins and free resources for brands and categories where it has greater scale and growth potential.",
+      "category": "strategy",
+      "relevance_score": 10,
+      "source_url": "https://www.conagrabrands.com/files/events/2026-09-30/Q1FY27-Earnings-Transcript",
+      "first_reported": "2026-09-30",
+      "status": "new"
+    },
+    {
+      "name": "J.M. Smucker / Uncrustables and frozen handheld competitors",
+      "action": "Food Business News reported that non-breakfast frozen handheld entrees were the only frozen-entree subcategory to grow during the 52 weeks ended Aug. 9, increasing 2.6% to $4.6 billion while total frozen dinners and entrees declined in dollars and units. Uncrustables reached $1 billion in fiscal 2026 and added more than 3 million households, while Welch's, Jams and Rudi's are competing with larger, high-protein or dietary-positioned frozen sandwiches.",
+      "category": "market_data",
+      "relevance_score": 8,
+      "source_url": "https://www.foodbusinessnews.net/articles/31104-frozen-sandwich-competition-heats-up",
+      "first_reported": "2026-09-30",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Large frozen portfolios pruning low-scale legacy pizza SKUs",
+      "direction": "up",
+      "magnitude": "Conagra's Celeste exit created an approximately 15-basis-point first-quarter sales headwind; the company expects the decision to be margin-accretive and says most benefits from its broader SKU review should build over the next 12 to 18 months.",
+      "context": "This is a direct frozen-pizza portfolio exit, not merely a weak quarterly result. It signals reduced tolerance for legacy brands that add manufacturing and reset complexity without sufficient scale or growth. Real Dough's buyer case should therefore lead with a distinct consumer job, repeat ordering, margin contribution and a disciplined SKU architecture rather than assortment breadth alone.",
+      "source_url": "https://www.conagrabrands.com/files/events/2026-09-30/Q1FY27-Earnings-Transcript"
+    },
+    {
+      "topic": "Portable frozen handhelds outperforming full frozen meals",
+      "direction": "up",
+      "magnitude": "Non-breakfast frozen handheld-entree sales increased 2.6% to $4.6 billion in the 52 weeks ended Aug. 9, while total frozen dinners and entrees fell 0.3% in dollars to $13.8 billion and 1.1% in units.",
+      "context": "The figures cover the broader frozen-entree market rather than pizza specifically, but the divergence is operationally useful: shoppers are rewarding portable, portioned formats with convenience, protein or dietary cues while full-meal units soften. Real Dough should frame premium pizza's convenience and portion value explicitly and watch whether handheld formats take more freezer space during resets.",
+      "source_url": "https://www.foodbusinessnews.net/articles/31104-frozen-sandwich-competition-heats-up"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Conagra frozen portfolio and Celeste exit",
+      "value": "Refrigerated & Frozen organic net sales declined 1.6% in fiscal Q1; company frozen dollar consumption declined 0.7% and volume declined 0.5%",
+      "change": "Celeste exit represented an approximately 15-basis-point Q1 net-sales headwind and is expected to be accretive to margins",
+      "source_url": "https://www.conagrabrands.com/files/events/2026-09-30/Q1FY27-Earnings-Transcript"
+    },
+    {
+      "metric": "Frozen handheld versus frozen dinner and entree performance",
+      "value": "$4.6 billion in non-breakfast frozen handheld-entree sales, up 2.6%, for the 52 weeks ended Aug. 9, 2026",
+      "change": "Total frozen dinner and entree sales fell 0.3% to $13.8 billion, with units down 1.1%, according to Circana data reported by Food Business News",
+      "source_url": "https://www.foodbusinessnews.net/articles/31104-frozen-sandwich-competition-heats-up"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Conagra Brands Q1 FY27 earnings remarks: company exits Celeste frozen pizza",
+      "source_url": "https://www.conagrabrands.com/files/events/2026-09-30/Q1FY27-Earnings-Transcript"
+    },
+    {
+      "headline": "Frozen sandwich competition heats up",
+      "source_url": "https://www.foodbusinessnews.net/articles/31104-frozen-sandwich-competition-heats-up"
+    }
+  ]
+}
