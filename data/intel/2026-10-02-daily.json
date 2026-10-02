@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-02",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Sargento / La Terra Fina",
+      "action": "Sargento completed its acquisition of La Terra Fina, moving the July agreement from pending to closed. The Plymouth, Wisconsin-based company created a dedicated Deli Business Unit to integrate La Terra Fina's dips, spreads and quiches, appointed Erin Price as its general manager, and said the deal expands Sargento into grocery and club deli departments.",
+      "category": "expansion",
+      "relevance_score": 7,
+      "source_url": "https://www.sargentofoods.com/our-stories/news-media/sargento-acquires-la-terra-fina-a-category-leader-in-premium-dips-spreads-and-quiches/",
+      "first_reported": "2026-07-31",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Wisconsin CPG manufacturers expanding into adjacent refrigerated retail departments through acquisition",
+      "direction": "up",
+      "magnitude": "Sargento added approximately 250 La Terra Fina employees and established a third operating unit focused on grocery and club deli departments.",
+      "context": "The acquisition is outside frozen pizza, but the completed integration structure is relevant to Real Dough's channel strategy: a scaled Wisconsin food manufacturer is treating adjacent department access and retailer relationships as a distinct growth engine. The immediate implication is to keep deli and club merchandising partnerships on the adjacency map rather than viewing the frozen aisle as the only route to premium meal occasions.",
+      "source_url": "https://www.sargentofoods.com/our-stories/news-media/sargento-acquires-la-terra-fina-a-category-leader-in-premium-dips-spreads-and-quiches/"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Sargento operating expansion after La Terra Fina acquisition",
+      "value": "New Deli Business Unit serving grocery and club deli departments; approximately 250 La Terra Fina employees joining Sargento",
+      "change": "Acquisition completed and integration leadership appointed after the transaction was first announced in July 2026",
+      "source_url": "https://www.sargentofoods.com/our-stories/news-media/sargento-acquires-la-terra-fina-a-category-leader-in-premium-dips-spreads-and-quiches/"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Sargento Acquires La Terra Fina, Creating New Deli Business Unit",
+      "source_url": "https://www.sargentofoods.com/our-stories/news-media/sargento-acquires-la-terra-fina-a-category-leader-in-premium-dips-spreads-and-quiches/"
+    }
+  ]
+}
