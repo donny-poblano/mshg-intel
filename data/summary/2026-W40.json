@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-02",
+  "week": "2026-W40",
+  "headline": "Real Dough reached 9,979 units in week 39, up 31% week over week, while Celeste's exit and air-fryer-led frozen demand sharpen the case for disciplined SKUs, preparation clarity and retailer-level follow-through.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Real Dough sold 9,979 units in week 39 (2026-09-20 through 2026-09-26), up 31% from 7,591 in week 38 and 22% above the eight-week average; selling stores rose from 503 to 521.",
+        "Week 39 velocity reached 4.31 units per store per week, up 20% from 3.60 in week 38 and 7% above the 13-week average of 4.02.",
+        "Festival Foods led the four-week account gains at 3,661 units, up 165% from the prior four weeks; Dierberg's rose 43% and Cub Foods rose 38%.",
+        "Oleson's Foods entered with 48 units across two stores, and six new-store records were present in the current sales pulse."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "The sales pulse flags 126 quiet stores. The largest groups are Piggly Wiggly (20), Hy-Vee (17), Schnucks (15) and unlisted independents (15); these are source-defined quiet-store records, not confirmed delistings.",
+        "Four-week units fell 77% at Kroger Michigan, 59% at Super One and 48% at Kroger Mariano's versus the prior four weeks; Coborns Marketplace fell 95% on a small base of 264 to 14 units.",
+        "Conagra is exiting Celeste frozen pizza as part of a SKU-complexity review, signaling that buyer and manufacturer tolerance for low-scale assortment is tightening.",
+        "Air fryers are in 71% of American homes and more than half of owners report buying more frozen food because of the appliance, yet only 33% of shoppers say most products they buy include air-fryer directions, according to NFRA."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "Review week 39 drivers with Festival Foods, Dierberg's and Cub Foods, then isolate whether distribution, promotion or repeat velocity explains the gains before using them in buyer materials.",
+        "Prioritize store-level follow-up on the 126 quiet stores, starting with Piggly Wiggly, Hy-Vee, Schnucks and the Kroger divisions showing four-week declines; confirm distribution and inventory before treating the records as demand weakness.",
+        "Run formal cook-quality and food-safety testing for air-fryer preparation; if validated, add clear instructions to packaging and retailer product pages rather than making an unsupported convenience claim.",
+        "Keep the buyer story disciplined around distinct consumer job, repeatable velocity, margin contribution and a tight five-SKU architecture; Celeste's exit makes assortment productivity more salient."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The defensible business proof this week is sales momentum: week 39 units, velocity and selling-store count all improved, with especially strong four-week movement at Festival Foods, Dierberg's and Cub Foods.",
+    "what_didnt": "No current paid, social or content-performance feed is available, so no creative format, campaign or channel can be called a winner. At retail, Kroger Michigan, Super One, Kroger Mariano's and Coborns Marketplace require diagnosis before more spend or broad success claims.",
+    "recommendation": "Build near-term messaging around validated preparation ease, premium sourdough quality and specific meal occasions. Treat air-fryer language as a testable product claim, and support buyer-facing creative with the actual week 39 sales proof rather than generic premium language.",
+    "competitive_context": "Conagra's Celeste exit raises the bar for SKU productivity; New York Bakery is entering frozen snacks with air-fryer-ready, protein-positioned products; frozen handhelds are growing while total frozen dinners and entrees soften; and Sargento's completed La Terra Fina acquisition shows a Wisconsin CPG peer building a dedicated route into grocery and club deli departments."
+  },
+  "data_quality": {
+    "missing": [
+      "Hospitality review fetch-status is unavailable because /Users/poblano/.hermes/state/sentinel_reviews/fetch-status.json is missing; Merriment hospitality reputation is therefore unavailable for current-week reporting.",
+      "Current paid/social/content analytics are not present in the approved inputs; no campaign-performance, CPC, reach, follower-growth or creative-winner claims were made.",
+      "The current sales pulse reports unit movement but does not establish the causes of account gains, declines or quiet-store status; distribution, inventory and promotion checks are still required."
+    ],
+    "stale": [
+      "All four locations in /Users/poblano/.hermes/state/sentinel_reviews/reviews-current.json were fetched at 2026-08-28T11:00:10.366Z, well beyond the 48-hour freshness limit as of 2026-10-02 18:00 CDT; no hospitality rating or review content was used as current evidence."
+    ],
+    "anomalies": [
+      "Coborns Marketplace four-week units fell from 264 to 14 (-95%); the small base and magnitude warrant distribution/inventory verification before interpreting this as consumer-demand loss."
+    ]
+  },
+  "sources": [
+    "data/intel/2026-09-28-daily.json",
+    "data/intel/2026-09-29-daily.json",
+    "data/intel/2026-09-30-daily.json",
+    "data/intel/2026-10-01-daily.json",
+    "data/intel/2026-10-02-daily.json",
+    "/Users/poblano/GIT/rd-channel-map/src/data/sales/pulse.json",
+    "/Users/poblano/.hermes/state/sentinel_reviews/reviews-current.json",
+    "/Users/poblano/.hermes/state/sentinel_reviews/fetch-status.json"
+  ]
+}
