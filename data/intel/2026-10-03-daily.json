@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-03",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Aldi / Mama Cozzi's / Great Kitchens",
+      "action": "Aldi is taking two Mama Cozzi's pizzas developed with supplier Great Kitchens for the 2026 Uber One Super Bowl kickoff event into a limited-time nationwide Aldi Finds rollout. The Big Dill Ham and Dill Pickle Pizza and Blackened Chicken Caesar Pizza are scheduled to reach stores Oct. 21 at $6.99 each after Aldi said the event versions generated enough enthusiasm to merit a larger audience.",
+      "category": "new_product",
+      "relevance_score": 10,
+      "source_url": "https://theshelbyreport.com/2026/10/01/aldi-packs-october-finds-aisle-big-bag-returns-viral-pizzas-holiday-debuts/",
+      "first_reported": "2026-10-01",
+      "status": "new"
+    },
+    {
+      "name": "Saint Francis Apizza",
+      "action": "Cincinnati restaurant brand Saint Francis Apizza voluntarily recalled its pepperoni, plain cheese, supreme, and mushroom-and-onion frozen pizzas because soy, including soybean oil and soy lecithin, was omitted from the labels. The Ohio Department of Agriculture notice listed 11 retail locations plus direct online sales and said no illnesses had been reported.",
+      "category": "recall",
+      "relevance_score": 9,
+      "source_url": "https://agri.ohio.gov/divisions/food-safety/recalls/10-2-26-Saint-Francis-Apizza-LLC",
+      "first_reported": "2026-10-01",
+      "status": "new"
+    },
+    {
+      "name": "Frutas y Hortalizas del Sur / Walmart / Trader Joe's",
+      "action": "Frutas y Hortalizas del Sur expanded its frozen-organic-berry recall again, adding Great Value blueberry and triple-berry lots distributed through select Walmart stores in 30 states and Puerto Rico and one Trader Joe's mixed-berry lot distributed in 26 states and Washington, D.C. The action is tied to traceback from the E. coli O145:H28 outbreak behind the supplier's July and September recalls.",
+      "category": "recall",
+      "relevance_score": 8,
+      "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frutas-y-hortalizas-del-sur-sa-expands-recalls-include-additional-lots-great-value-frozen-organic",
+      "first_reported": "2026-07-08",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Private-label frozen pizza concepts moving from event tests to nationwide limited-time retail",
+      "direction": "up",
+      "magnitude": "Two event-tested Mama Cozzi's pizzas are scheduled for nationwide Aldi Finds distribution on Oct. 21 at $6.99 each.",
+      "context": "Aldi is converting social and event response into a time-boxed national freezer launch rather than adding permanent assortment. The supplier disclosure is strategically notable: Great Kitchens is helping Aldi translate pickle and chicken-Caesar food trends into fast private-label pizza tests, increasing pressure on branded pizza makers to show both concept speed and retailer-specific innovation.",
+      "source_url": "https://theshelbyreport.com/2026/10/01/aldi-packs-october-finds-aisle-big-bag-returns-viral-pizzas-holiday-debuts/"
+    },
+    {
+      "topic": "Restaurant-born frozen pizza programs encountering allergen-control risk during wholesale expansion",
+      "direction": "up",
+      "magnitude": "Four Saint Francis Apizza varieties sold through 11 listed retail locations and direct online sales were recalled for undeclared soy.",
+      "context": "The recall is regional and no illnesses were reported, but its cause is directly relevant to emerging restaurant brands entering retail: omitted subingredients in one production input can create an undeclared allergen across every frozen SKU. Real Dough should keep ingredient statements, allergen reviews and supplier-change controls aligned with every production input, not only core recipe ingredients.",
+      "source_url": "https://agri.ohio.gov/divisions/food-safety/recalls/10-2-26-Saint-Francis-Apizza-LLC"
+    },
+    {
+      "topic": "Frozen private-label recalls widening across retailers after initial outbreak containment",
+      "direction": "up",
+      "magnitude": "The latest expansion added five Great Value lots and one Trader Joe's lot, with Wisconsin included in both retailers' distribution footprints.",
+      "context": "This is a material expansion of a previously reported frozen-blueberry outbreak rather than a new outbreak; CDC has declared the outbreak over. The operational signal is that traceback can broaden the retail and lot footprint months after the first action, so frozen suppliers need records capable of rapid retailer-specific lot identification even after public-health case counts stop rising.",
+      "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frutas-y-hortalizas-del-sur-sa-expands-recalls-include-additional-lots-great-value-frozen-organic"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Aldi nationwide limited-time frozen pizza launch",
+      "value": "Two Mama Cozzi's varieties priced at $6.99 each",
+      "change": "Concepts developed with Great Kitchens for a Super Bowl kickoff event move to nationwide Aldi Finds distribution Oct. 21",
+      "source_url": "https://theshelbyreport.com/2026/10/01/aldi-packs-october-finds-aisle-big-bag-returns-viral-pizzas-holiday-debuts/"
+    },
+    {
+      "metric": "Saint Francis Apizza frozen pizza allergen recall footprint",
+      "value": "Four varieties sold through 11 listed retail locations and direct online sales",
+      "change": "Voluntary recall announced after soybean oil and soy lecithin were omitted from labels; no illnesses reported",
+      "source_url": "https://agri.ohio.gov/divisions/food-safety/recalls/10-2-26-Saint-Francis-Apizza-LLC"
+    },
+    {
+      "metric": "October frozen organic berry recall expansion",
+      "value": "Five Great Value lots and one Trader Joe's lot added",
+      "change": "Great Value distribution reached select Walmart stores in 30 states and Puerto Rico; the Trader Joe's lot reached 26 states and Washington, D.C.",
+      "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frutas-y-hortalizas-del-sur-sa-expands-recalls-include-additional-lots-great-value-frozen-organic"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Aldi Packs October Finds Aisle: Big Bag Returns, Viral Pizzas, Holiday Debuts",
+      "source_url": "https://theshelbyreport.com/2026/10/01/aldi-packs-october-finds-aisle-big-bag-returns-viral-pizzas-holiday-debuts/"
+    },
+    {
+      "headline": "Saint Francis Apizza Frozen Pizza Recall",
+      "source_url": "https://agri.ohio.gov/divisions/food-safety/recalls/10-2-26-Saint-Francis-Apizza-LLC"
+    },
+    {
+      "headline": "Frutas y Hortalizas del Sur S.A. Expands Recalls to Include Additional Lots of Great Value and Trader Joe's Frozen Organic Berries",
+      "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frutas-y-hortalizas-del-sur-sa-expands-recalls-include-additional-lots-great-value-frozen-organic"
+    }
+  ]
+}
