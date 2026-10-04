@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Oggi Foods",
+      "action": "Oggi Foods president and cofounder Stefano Cataldo told Grocery Business that the gluten-free frozen-pizza company is developing high-protein pizza crusts using multiple clean protein sources and plans to launch high-protein pizzas across North America in 2027. The article also said Oggi sees stronger U.S. and European placement when specialty and conventional frozen pizzas share one category rather than separating gluten-free products into a health-and-wellness section.",
+      "category": "new_product",
+      "relevance_score": 9,
+      "source_url": "https://www.grocerybusiness-digitalmagazine.com/grocerybusiness/september_october_2026/MobilePagedArticle.action?app=false&cmsId=4362107",
+      "first_reported": "2026-10-01",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Specialty frozen-pizza brands combining high-protein positioning with mainstream aisle placement",
+      "direction": "up",
+      "magnitude": "Oggi Foods plans a North American high-protein pizza launch in 2027 and is developing crusts with multiple clean protein sources.",
+      "context": "The launch is planned rather than on shelf, and the trade article focuses heavily on Canada. It is still a direct product-development signal for the North American frozen-pizza set: gluten-free specialists are adding protein while arguing for placement beside conventional pizza, which could increase premium and functional competition in the main aisle. Real Dough should be ready to explain its own nutritional role and why its crust story merits mainstream premium placement without relying on a single functional claim.",
+      "source_url": "https://www.grocerybusiness-digitalmagazine.com/grocerybusiness/september_october_2026/MobilePagedArticle.action?app=false&cmsId=4362107"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Pizza: The Next Slice of Growth",
+      "source_url": "https://www.grocerybusiness-digitalmagazine.com/grocerybusiness/september_october_2026/MobilePagedArticle.action?app=false&cmsId=4362107"
+    }
+  ]
+}
