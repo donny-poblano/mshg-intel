@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-08",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Incredifulls / Kroger",
+      "action": "Incredifulls, the frozen-handheld brand formerly centered on The Pizza Cupcake, launched two PAW Patrol PB&J Cups nationwide across the Kroger family of stores. The strawberry-jam and grape-jelly varieties use the brand's sourdough-brioche cup format, carry a suggested retail price of $5.99 to $6.99, and are positioned for thawed or oven/air-fryer preparation.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.prnewswire.com/news-releases/incredifulls-paw-patrol-pbj-cups-launch-nationwide-at-kroger-302901612.html",
+      "first_reported": "2026-10-07",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Pizza-born frozen brands expanding into licensed, portable sourdough handhelds",
+      "direction": "up",
+      "magnitude": "Two PB&J varieties launched across Kroger banners nationwide at a suggested $5.99 to $6.99; Kroger's live product page listed the strawberry variety at $5.99 when checked Oct. 8.",
+      "context": "This is a brand announcement, and local availability can vary, but Kroger's live listing corroborates the product and shelf price. The strategic signal is direct: a brand built around a pizza-format innovation is using the same sourdough-brioche platform, licensed characters and multiple preparation modes to win lunch, snack and on-the-go occasions beyond pizza. Real Dough should treat portable sourdough formats as freezer-space competition and as evidence that its crust equity could support disciplined adjacencies.",
+      "source_url": "https://www.prnewswire.com/news-releases/incredifulls-paw-patrol-pbj-cups-launch-nationwide-at-kroger-302901612.html"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Incredifulls PAW Patrol PB&J frozen-handheld rollout",
+      "value": "Two four-count varieties across the Kroger family of stores nationwide; suggested retail price $5.99 to $6.99",
+      "change": "Incredifulls expanded its sourdough-brioche platform beyond Pizza Cupcakes into licensed PB&J handhelds at Kroger banners including Mariano's and Roundy's",
+      "source_url": "https://www.prnewswire.com/news-releases/incredifulls-paw-patrol-pbj-cups-launch-nationwide-at-kroger-302901612.html"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Incredifulls PAW Patrol PB&J Cups Launch Nationwide at Kroger",
+      "source_url": "https://www.prnewswire.com/news-releases/incredifulls-paw-patrol-pbj-cups-launch-nationwide-at-kroger-302901612.html"
+    }
+  ]
+}
