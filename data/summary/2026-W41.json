@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-09",
+  "week": "2026-W41",
+  "headline": "Real Dough week 40 units fell 49% to 5,042 as selling-store count and velocity both contracted, while Festival Foods and other accounts retained strong four-week momentum and Kroger added more kid-focused frozen handhelds.",
+  "highlights": [
+    {
+      "category": "wins",
+      "items": [
+        "Festival Foods led four-week account gains with 3,525 units, up 188% from the prior four weeks; Sendik's rose 84%, Piggly Wiggly 53% and Cub Foods 50%.",
+        "Heinen's entered the pulse with 24 units across three stores, and Ken's Foods entered with 16 units at one store.",
+        "The current pulse lists 19 new-store records, including ten Kroger Michigan stores, one Cub Foods store, one Walmart store, three Heinen's stores and one Ken's Foods store."
+      ]
+    },
+    {
+      "category": "attention",
+      "items": [
+        "Real Dough sold 5,042 units in week 40 (2026-09-27 through 2026-10-03), down 49% from 9,979 in week 39 and 40% below the eight-week average of 8,453; selling stores fell from 521 to 365.",
+        "Week 40 velocity was 3.32 units per store per week, down 23% from 4.31 in week 39 and 17% below the 13-week average of 4.01.",
+        "The sales pulse flags 142 quiet stores, led by Piggly Wiggly (22), Schnucks (20), unlisted independents (15) and Hy-Vee (10); these are source-defined quiet-store records, not confirmed delistings.",
+        "Four-week units fell 89% at Coborns Marketplace, 70% at Kroger Michigan, 69% at Super One, and 61% at both Kroger Mariano's and Kowalski's versus the prior four weeks.",
+        "Kroger's freezer assortment added two family-focused signals this week: nationwide Incredifulls PAW Patrol PB&J Cups using a sourdough-brioche format and two additional Red's kid-sized mini-burrito varieties."
+      ]
+    },
+    {
+      "category": "action_items",
+      "items": [
+        "Reconcile week 40's 49% unit decline and 156-store selling-count contraction against distribution, inventory, order timing and promotion records before treating it as a demand change.",
+        "Prioritize store-level follow-up on the 142 quiet stores and the five steepest four-week account declines, starting with Coborns, Kroger Michigan, Super One, Kroger Mariano's and Kowalski's.",
+        "Document the promotion and distribution drivers behind Festival Foods, Sendik's, Piggly Wiggly and Cub Foods before carrying those gains into buyer materials.",
+        "For Kroger selling, define the exact family meal occasion Real Dough wins and monitor whether portable, kid-focused frozen items are taking incremental or substitutive freezer space."
+      ]
+    }
+  ],
+  "agency_brief": {
+    "what_worked": "The defensible positive proof is four-week account momentum at Festival Foods, Sendik's, Piggly Wiggly and Cub Foods, plus initial sales at Heinen's and Ken's Foods.",
+    "what_didnt": "No current paid, social or content-performance feed is available, so no campaign or creative winner can be identified. Operationally, week 40 units, selling-store count and velocity all declined sharply.",
+    "recommendation": "Keep near-term communications anchored in a clearly defined family meal occasion and validated retailer proof. Do not use the week 40 decline or four-week account gains as demand conclusions until distribution, inventory, timing and promotion are reconciled.",
+    "competitive_context": "Kroger is expanding sharply occasion-led frozen handhelds: Incredifulls uses licensed characters, sourdough-brioche and multiple preparation modes, while Red's is extending established flavors into exclusive kid-sized formats. The shelf implication is that premium quality alone is not enough; format and use occasion need to be explicit."
+  },
+  "data_quality": {
+    "missing": [
+      "Hospitality review fetch-status is unavailable because /Users/poblano/.hermes/state/sentinel_reviews/fetch-status.json is missing; Merriment hospitality reputation is therefore unavailable for current-week reporting.",
+      "No source-backed daily intel files were present for 2026-10-05 through 2026-10-07; current-week market-intelligence coverage is limited to 2026-10-08 and 2026-10-09.",
+      "Current paid/social/content analytics are not present in the approved inputs; no campaign-performance, reach, follower-growth or creative-winner claims were made.",
+      "The sales pulse does not establish the causes of week-over-week movement, account changes or quiet-store status; distribution, inventory, order timing and promotion checks are required."
+    ],
+    "stale": [
+      "All four locations in /Users/poblano/.hermes/state/sentinel_reviews/reviews-current.json were fetched at 2026-08-28T11:00:10.366Z, beyond the 48-hour freshness limit as of 2026-10-09 18:00 CDT; no hospitality rating or review content was used as current evidence."
+    ],
+    "anomalies": [
+      "Week 40 units fell 49% while selling stores fell by 156 and velocity declined 23%; the simultaneous contraction warrants source reconciliation before interpretation.",
+      "Coborns Marketplace four-week units fell from 264 to 30 (-89%); the small base and magnitude warrant distribution and inventory verification."
+    ]
+  },
+  "sources": [
+    "data/intel/2026-10-08-daily.json",
+    "data/intel/2026-10-09-daily.json",
+    "/Users/poblano/GIT/rd-channel-map/src/data/sales/pulse.json",
+    "/Users/poblano/.hermes/state/sentinel_reviews/reviews-current.json",
+    "/Users/poblano/.hermes/state/sentinel_reviews/fetch-status.json"
+  ]
+}
