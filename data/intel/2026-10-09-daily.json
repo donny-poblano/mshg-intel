@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-09",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Red's All Natural / Kroger",
+      "action": "Red's All Natural expanded its Kroger-exclusive frozen Snackers line with two additional mini burritos: Grilled White Meat Chicken & Cheese and Bean & Cheese. The new varieties adapt flavors from Red's full-size burrito range into kid-sized formats positioned for lunchboxes, after-school hunger, pre-practice eating and quick weekend lunches.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.snackandbakery.com/articles/116466-reds-all-natural-releases-two-mini-burritos-at-kroger",
+      "first_reported": "2026-06-11",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Frozen brands extending full-size products into retailer-exclusive, kid-sized snack formats",
+      "direction": "up",
+      "magnitude": "Two additional mini burrito varieties joined Red's Kroger-exclusive Snackers line after its initial four-SKU launch in June 2026.",
+      "context": "This is an expansion of a previously reported Kroger-exclusive line, not a new brand launch. It is still a concrete shelf delta: Red's is using established burrito flavors and explicit family occasions to deepen its frozen-snacking assortment at one national retailer. Alongside Kroger's newly launched Incredifulls PB&J Cups, the move suggests the account is giving more freezer space to portable products with a sharply defined kid and family job. Real Dough should keep its own Kroger pitch equally explicit about the meal occasion it wins rather than relying on premium quality alone.",
+      "source_url": "https://www.snackandbakery.com/articles/116466-reds-all-natural-releases-two-mini-burritos-at-kroger"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Red's Snackers Kroger-exclusive assortment expansion",
+      "value": "Two additional mini frozen burrito varieties",
+      "change": "Grilled White Meat Chicken & Cheese and Bean & Cheese extend the four-SKU Snackers line first launched at Kroger in June 2026",
+      "source_url": "https://www.snackandbakery.com/articles/116466-reds-all-natural-releases-two-mini-burritos-at-kroger"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Red's All Natural Releases Two Mini Burritos at Kroger",
+      "source_url": "https://www.snackandbakery.com/articles/116466-reds-all-natural-releases-two-mini-burritos-at-kroger"
+    }
+  ]
+}
