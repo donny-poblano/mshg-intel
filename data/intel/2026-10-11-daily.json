@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-11",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Conagra Brands / Celeste",
+      "action": "Conagra Brands confirmed that it has already stopped producing Celeste frozen pizzas and will sell only the inventory already made; no Celeste products will remain after that stock sells through. This advances Conagra's previously reported decision to exit the business from a portfolio plan to an active shelf phaseout.",
+      "category": "strategy",
+      "relevance_score": 10,
+      "source_url": "https://www.usatoday.com/story/grocery/2026/10/09/popular-frozen-pizza-brand-celeste-discontinued/92169564007/",
+      "first_reported": "2026-10-01",
+      "status": "updated"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Large frozen portfolios pruning low-scale legacy pizza SKUs",
+      "direction": "up",
+      "magnitude": "Celeste production has ended; Conagra will sell through existing inventory and does not plan additional product once it is gone.",
+      "context": "The exit itself was reported Oct. 1, but Conagra's Oct. 9 confirmation supplies the operational delta: manufacturing has ceased and remaining retailer inventory is finite. That makes the shelf opening more immediate at retailers cited by USA Today, including Kroger, Harris Teeter and Walmart, while reinforcing that frozen-pizza SKUs need defensible velocity and margin contribution. Real Dough should watch those accounts for reset timing and avoid treating current Celeste listings as ongoing supply.",
+      "source_url": "https://www.usatoday.com/story/grocery/2026/10/09/popular-frozen-pizza-brand-celeste-discontinued/92169564007/"
+    }
+  ],
+  "market_data": [],
+  "breaking": [
+    {
+      "headline": "Once-beloved frozen pizza brand sold at Kroger, Walmart is discontinued",
+      "source_url": "https://www.usatoday.com/story/grocery/2026/10/09/popular-frozen-pizza-brand-celeste-discontinued/92169564007/"
+    }
+  ]
+}
