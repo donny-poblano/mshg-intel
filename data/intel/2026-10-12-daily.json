@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-12",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Target",
+      "action": "Target told Progressive Grocer that new food-and-beverage items generated $2 billion in sales last year and that the retailer has added roughly 5,000 food-and-beverage items in 2026. Target said emerging brands are an important source of new ideas, but merchants require genuine differentiation and repeat purchase rather than buzz alone; the retailer uses its Discovery Day open call and Innovation Collective to identify and develop assortment candidates.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://progressivegrocer.com/exclusive-how-target-adapting-its-food-beverage-assortment-todays-shoppers",
+      "first_reported": "2026-10-12",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Large retailers using product newness to drive food sales while screening emerging brands for repeatability",
+      "direction": "up",
+      "magnitude": "$2 billion in Target food sales from newness last year; roughly 5,000 food-and-beverage items added in 2026",
+      "context": "Progressive Grocer published the interview Oct. 12. Target did not break out frozen or pizza performance, so this is an account-level merchandising signal rather than category data. The relevant implication for Real Dough is that a differentiated product story can open the door, but Target's stated bar is repeat purchase: account reviews should pair sourdough and premium-positioning claims with velocity, repeat and incrementality evidence.",
+      "source_url": "https://progressivegrocer.com/exclusive-how-target-adapting-its-food-beverage-assortment-todays-shoppers"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Target food-and-beverage assortment newness",
+      "value": "$2 billion in food sales from newness last year",
+      "change": "Roughly 5,000 food-and-beverage items added so far in 2026",
+      "source_url": "https://progressivegrocer.com/exclusive-how-target-adapting-its-food-beverage-assortment-todays-shoppers"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "EXCLUSIVE: How Target Is Adapting Its Food & Beverage Assortment for Today's Shoppers",
+      "source_url": "https://progressivegrocer.com/exclusive-how-target-adapting-its-food-beverage-assortment-todays-shoppers"
+    }
+  ]
+}
