@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-14",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Red's All Natural",
+      "action": "Red's CEO Andy Reichgut said the frozen-food brand is shifting its focus toward household penetration and channel expansion while preserving its organic, clean-label positioning. He said Red's household penetration is in the single digits versus roughly 50% for the category, expects high-double-digit growth, and plans two additional frozen-burrito products later in 2026.",
+      "category": "expansion",
+      "relevance_score": 9,
+      "source_url": "https://www.foodbusinessnews.net/articles/31169-reds-all-natural-new-leadership-same-superior-frozen-portfolio",
+      "first_reported": "2026-10-14",
+      "status": "new"
+    },
+    {
+      "name": "California Pizza Kitchen / FiveStar Gourmet Foods",
+      "action": "California Pizza Kitchen named FiveStar Gourmet Foods as its manufacturing and execution partner for CPK-branded salad kits and single-serve salads. The first refrigerated products are expected to launch nationwide in 2027 under the CPK brand alongside 'Crafted by Simply Fresh,' with the partners also planning to explore prepared foods, dressings and other categories.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.businesswire.com/news/home/20261013563975/en/California-Pizza-Kitchen-and-FiveStar-Gourmet-Foods-Announce-Strategic-Partnership-Debuting-Premium-Salad-Lines-for-Retail-and-Foodservice-Channels",
+      "first_reported": "2026-10-14",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Premium frozen brands pursuing household penetration without abandoning price premiums",
+      "direction": "up",
+      "magnitude": "Red's says its household penetration is in the single digits, its products sell at a 20% to 40% premium to value burritos, and it expects high-double-digit growth.",
+      "context": "Food Business News published the interview Oct. 13. The penetration, relative-price, category-share and growth statements are management claims rather than independently audited figures, but they supply a useful competitive benchmark: Red's intends to fund broader awareness and channel expansion by improving efficiency rather than reducing product quality. For Real Dough, that sharpens the case for tracking household penetration, velocity and the cost of trial alongside premium-product storytelling.",
+      "source_url": "https://www.foodbusinessnews.net/articles/31169-reds-all-natural-new-leadership-same-superior-frozen-portfolio"
+    },
+    {
+      "topic": "Restaurant pizza brands building multi-category grocery platforms through specialist manufacturing partners",
+      "direction": "up",
+      "magnitude": "CPK expects its first fresh retail products to launch nationwide in 2027 and has named FiveStar as the producer; no retailer, SKU count, pricing or firm launch date was disclosed.",
+      "context": "The Oct. 13 announcement adds a concrete manufacturing partner and refrigerated launch platform to CPK's previously reported plan to expand beyond frozen pizza. Salads are adjacent rather than direct frozen-pizza competition, but the move shows how a recognized pizza brand can use separate category specialists to widen grocery distribution and shelf presence. Real Dough should treat cross-category licensing and co-manufacturing capability as part of the competitive set, while recognizing that this remains a pre-launch announcement.",
+      "source_url": "https://www.businesswire.com/news/home/20261013563975/en/California-Pizza-Kitchen-and-FiveStar-Gourmet-Foods-Announce-Strategic-Partnership-Debuting-Premium-Salad-Lines-for-Retail-and-Foodservice-Channels"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Red's All Natural household penetration and premium positioning",
+      "value": "Single-digit household penetration; products priced 20% to 40% above value frozen burritos",
+      "change": "Management expects continued high-double-digit growth and plans two additional products later in 2026",
+      "source_url": "https://www.foodbusinessnews.net/articles/31169-reds-all-natural-new-leadership-same-superior-frozen-portfolio"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Red's All Natural: New leadership, same 'superior' frozen portfolio",
+      "source_url": "https://www.foodbusinessnews.net/articles/31169-reds-all-natural-new-leadership-same-superior-frozen-portfolio"
+    },
+    {
+      "headline": "California Pizza Kitchen and FiveStar Gourmet Foods Announce Strategic Partnership, Debuting Premium Salad Lines for Retail and Foodservice Channels",
+      "source_url": "https://www.businesswire.com/news/home/20261013563975/en/California-Pizza-Kitchen-and-FiveStar-Gourmet-Foods-Announce-Strategic-Partnership-Debuting-Premium-Salad-Lines-for-Retail-and-Foodservice-Channels"
+    }
+  ]
+}
