@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-15",
+  "type": "daily",
+  "competitors": [
+    {
+      "name": "Truly Indian / Kroger",
+      "action": "Truly Indian, the U.S. retail brand of ADF Foods, launched three frozen Indian Street Wraps at Kroger stores across the Mid-Atlantic, Southwest and West: Paneer Tikka, Tandoori Aloo and Aloo Gobi. The vegetarian single-serve roti wraps are positioned as 90-second portable meals at a suggested retail price of $2.79 each.",
+      "category": "expansion",
+      "relevance_score": 8,
+      "source_url": "https://www.nosh.com/pr/2026/10/14/truly-indian-expands-retail-footprint-with-nationwide-launch-of-indian-street-wraps-at-kroger",
+      "first_reported": "2026-10-15",
+      "status": "new"
+    },
+    {
+      "name": "Saffron Road / Kroger",
+      "action": "Saffron Road began rolling out four new frozen chicken entrées at Kroger in October: Chicken Shawarma, Honey Harissa Chicken, Tomato Feta Chicken Penne and Chicken Birria. The launch is Saffron Road's first move into Mediterranean recipes; each entrée has at least 20 grams of protein and 4 grams of fiber, and the brand says additional retail partners will follow.",
+      "category": "new_product",
+      "relevance_score": 8,
+      "source_url": "https://www.saffronroad.com/blogs/media/saffron-road%C2%AE-adds-todays-most-craved-global-flavors-to-the-freezer-aisle",
+      "first_reported": "2026-10-15",
+      "status": "new"
+    }
+  ],
+  "trends": [
+    {
+      "topic": "Kroger adding globally flavored frozen meals across value and premium price tiers",
+      "direction": "up",
+      "magnitude": "Seven new frozen SKUs across two brands: three $2.79 single-serve vegetarian wraps from Truly Indian and four high-protein chicken entrées from Saffron Road; one live Kroger listing showed Honey Harissa Chicken at $5.99 when checked Oct. 15.",
+      "context": "The two Oct. 13-14 announcements point to a concrete Kroger assortment move rather than a generic flavor forecast: the retailer is taking both portable Indian street-food formats and premium Mediterranean/Mexican-inspired meals. Truly Indian's release calls its rollout nationwide but specifies Mid-Atlantic, Southwest and West regions, so the narrower named footprint is the defensible scope. For Real Dough, Kroger's freezer is rewarding distinctive global flavor, clear nutrition and sharply defined occasions at multiple price points; pizza pitches need equally explicit reasons to pay a premium.",
+      "source_url": "https://www.nosh.com/pr/2026/10/14/truly-indian-expands-retail-footprint-with-nationwide-launch-of-indian-street-wraps-at-kroger"
+    }
+  ],
+  "market_data": [
+    {
+      "metric": "Truly Indian Street Wrap Kroger launch",
+      "value": "Three vegetarian single-serve frozen wraps at a suggested $2.79 each",
+      "change": "New Kroger placement across the Mid-Atlantic, Southwest and West",
+      "source_url": "https://www.nosh.com/pr/2026/10/14/truly-indian-expands-retail-footprint-with-nationwide-launch-of-indian-street-wraps-at-kroger"
+    },
+    {
+      "metric": "Saffron Road Kroger frozen entrée launch",
+      "value": "Four 10-ounce chicken entrées, each with at least 20 grams of protein and 4 grams of fiber; Honey Harissa Chicken listed at $5.99 on Kroger's site when checked Oct. 15",
+      "change": "Saffron Road's first Mediterranean recipes began rolling out at Kroger in October, with additional retailers planned",
+      "source_url": "https://www.saffronroad.com/blogs/media/saffron-road%C2%AE-adds-todays-most-craved-global-flavors-to-the-freezer-aisle"
+    }
+  ],
+  "breaking": [
+    {
+      "headline": "Truly Indian Expands Retail Footprint with Nationwide Launch of Indian Street Wraps at Kroger",
+      "source_url": "https://www.nosh.com/pr/2026/10/14/truly-indian-expands-retail-footprint-with-nationwide-launch-of-indian-street-wraps-at-kroger"
+    },
+    {
+      "headline": "Saffron Road Adds Today's Most-Craved Global Flavors to the Freezer Aisle",
+      "source_url": "https://www.saffronroad.com/blogs/media/saffron-road%C2%AE-adds-todays-most-craved-global-flavors-to-the-freezer-aisle"
+    }
+  ]
+}
